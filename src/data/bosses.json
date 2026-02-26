@@ -249,8 +249,29 @@
     },
     "expert_drops": [
       {
-        "item_id": "3223",
-        "chance": "100% (Bolsa)"
+        "item_id": "3224",
+        "item_name": "Worm Scarf",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2111",
+        "item_name": "Eater of Worlds Mask",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "56",
+        "item_name": "Demonite Ore",
+        "chance": "100% (80-135)"
+      },
+      {
+        "item_id": "86",
+        "item_name": "Shadow Scale",
+        "chance": "100% (20-50)"
+      },
+      {
+        "item_id": "994",
+        "item_name": "Eaters Bone",
+        "chance": "5%"
       }
     ]
   },
@@ -312,12 +333,12 @@
       {
         "item_id": "880",
         "item_name": "Crimtane Ore",
-        "chance": "100% (80–135)"
+        "chance": "100% (80-135)"
       },
       {
         "item_id": "1329",
         "item_name": "Tissue Sample",
-        "chance": "100% (20–50)"
+        "chance": "100% (20-50)"
       },
       {
         "item_id": "3060",
@@ -495,7 +516,23 @@
     "expert_drops": [
       {
         "item_id": "3245",
-        "chance": "100% (Bolsa)"
+        "item_name": "Bone Glove",
+        "chance": "100%"
+      },
+      {
+        "item_id": "1281",
+        "item_name": "Skeletron Mask",
+        "chance": "33%"
+      },
+      {
+        "item_id": "1273",
+        "item_name": "Skeletron Hand",
+        "chance": "33%"
+      },
+      {
+        "item_id": "1313",
+        "item_name": "Book of Skulls",
+        "chance": "33%"
       }
     ]
   },
@@ -677,8 +714,59 @@
     },
     "expert_drops": [
       {
-        "item_id": "3333",
-        "chance": "100% (Bolsa)"
+        "item_id": "3335",
+        "item_name": "Demon Heart",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2105",
+        "item_name": "Wall of Flesh Mask",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "367",
+        "item_name": "Pwnhammer",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2998",
+        "item_name": "Summoner Emblem",
+        "chance": "25%"
+      },
+      {
+        "item_id": "489",
+        "item_name": "Sorcerer Emblem",
+        "chance": "25%"
+      },
+      {
+        "item_id": "490",
+        "item_name": "Warrior Emblem",
+        "chance": "25%"
+      },
+      {
+        "item_id": "491",
+        "item_name": "Ranger Emblem",
+        "chance": "25%"
+      },
+      {
+        "item_id": "514",
+        "item_name": "Laser Rifle",
+        "chance": "25%"
+      },
+      {
+        "item_id": "426",
+        "item_name": "Breaker Blade",
+        "chance": "25%"
+      },
+      {
+        "item_id": "434",
+        "item_name": "Clockwork Assault Rifle",
+        "chance": "25%"
+      },
+      {
+        "item_id": "4912",
+        "item_name": "Firecracker",
+        "chance": "25%"
       }
     ]
   },
@@ -826,7 +914,23 @@
     "expert_drops": [
       {
         "item_id": "3354",
-        "chance": "100% (Bolsa)"
+        "item_name": "Mechanical Wheel Piece",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2106",
+        "item_name": "Twin Mask",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "549",
+        "item_name": "Soul of Sight",
+        "chance": "100% (25-40)"
+      },
+      {
+        "item_id": "1225",
+        "item_name": "Hallowed Bar",
+        "chance": "100% (20-35)"
       }
     ]
   },
@@ -872,7 +976,23 @@
     "expert_drops": [
       {
         "item_id": "3355",
-        "chance": "100% (Bolsa)"
+        "item_name": "Mechanical Wagon Piece",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2113",
+        "item_name": "Destroyer Mask",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "548",
+        "item_name": "Soul of Might",
+        "chance": "100% (25-40)"
+      },
+      {
+        "item_id": "1225",
+        "item_name": "Hallowed Bar",
+        "chance": "100% (20-35)"
       }
     ]
   },
