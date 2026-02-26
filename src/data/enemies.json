@@ -4789,9 +4789,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Scourge of the Corruptor",
-        "item_id": "1571",
-        "chance": "Drops"
+        "item_id": "1327",
+        "chance": "0.4% (Clásico) / 0.8% (Experto)"
       }
     ]
   },
@@ -5098,19 +5097,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Paladin's Hammer",
-        "item_id": "1513",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "1563",
+        "chance": "2.5% (Clásico) / 5% (Experto)"
       }
     ]
   },
@@ -5129,19 +5117,12 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Piranha Gun",
-        "item_id": "1156",
-        "chance": "Drops"
+        "item_id": "1575",
+        "chance": "8.33% (Clásico) / 12.5% (Experto)"
       },
       {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "1302",
+        "chance": "8.33% (Clásico) / 12.5% (Experto)"
       }
     ]
   },
@@ -5160,19 +5141,12 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Piranha Gun",
-        "item_id": "1156",
-        "chance": "Drops"
+        "item_id": "1574",
+        "chance": "10% (Clásico) / 15% (Experto)"
       },
       {
-        "item_name": "SWAT Helmet",
         "item_id": "1514",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "chance": "10% (Clásico) / 15% (Experto)"
       }
     ]
   },
@@ -5545,9 +5519,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Shield of Cthulhu",
-        "item_id": "3097",
-        "chance": "Drops"
+        "item_id": "3098",
+        "chance": "2.5% (Clásico) / 5% (Experto)"
       }
     ]
   },
@@ -5608,9 +5581,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Meteorite Brick",
-        "item_id": "3100",
-        "chance": "Drops"
+        "item_id": "3106",
+        "chance": "2.5% (Clásico) / 5% (Experto)"
       }
     ]
   },
@@ -5629,9 +5601,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Meteorite Brick Wall",
-        "item_id": "3101",
-        "chance": "Drops"
+        "item_id": "3107",
+        "chance": "4% (Clásico) / 8% (Experto)"
       }
     ]
   },
