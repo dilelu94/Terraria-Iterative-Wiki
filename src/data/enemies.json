@@ -1579,14 +1579,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Harpoon",
-        "item_id": "160",
-        "chance": "Drops"
+        "item_id": "157",
+        "chance": "100% (1-12)"
       },
       {
-        "item_name": "Depth Meter",
-        "item_id": "18",
-        "chance": "Drops"
+        "item_id": "156",
+        "chance": "0.5%"
       }
     ]
   },
@@ -1605,14 +1603,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Harpoon",
-        "item_id": "160",
-        "chance": "Drops"
+        "item_id": "157",
+        "chance": "100% (1-12)"
       },
       {
-        "item_name": "Depth Meter",
-        "item_id": "18",
-        "chance": "Drops"
+        "item_id": "156",
+        "chance": "0.5%"
       }
     ]
   },
@@ -1631,14 +1627,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Harpoon",
-        "item_id": "160",
-        "chance": "Drops"
+        "item_id": "157",
+        "chance": "100% (1-12)"
       },
       {
-        "item_name": "Depth Meter",
-        "item_id": "18",
-        "chance": "Drops"
+        "item_id": "156",
+        "chance": "0.5%"
       }
     ]
   },
@@ -1657,14 +1651,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Harpoon",
-        "item_id": "160",
-        "chance": "Drops"
+        "item_id": "157",
+        "chance": "100% (1-12)"
       },
       {
-        "item_name": "Depth Meter",
-        "item_id": "18",
-        "chance": "Drops"
+        "item_id": "156",
+        "chance": "0.5%"
       }
     ]
   },
@@ -2415,9 +2407,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Spiky Ball",
-        "item_id": "161",
-        "chance": "Drops"
+        "item_id": "362",
+        "chance": "100% (1-2)"
       }
     ]
   },
@@ -2964,19 +2955,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Moon Charm",
         "item_id": "485",
-        "chance": "Drops"
+        "chance": "1% (Clásico) / 1.67% (Experto)"
       },
       {
-        "item_name": "Mummy Mask",
-        "item_id": "870",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "891",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -3082,14 +3066,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Harpoon",
-        "item_id": "160",
-        "chance": "Drops"
+        "item_id": "157",
+        "chance": "100% (1-12)"
       },
       {
-        "item_name": "Depth Meter",
-        "item_id": "18",
-        "chance": "Drops"
+        "item_id": "156",
+        "chance": "0.5%"
       }
     ]
   },
@@ -3768,7 +3750,16 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "900",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      },
+      {
+        "item_id": "1570",
+        "chance": "0.4% (Tras derrotar a los Jefes Mecánicos)"
+      }
+    ]
   },
   {
     "id": "161",
@@ -4301,19 +4292,20 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "1254",
+        "chance": "0.5% (Clásico) / 1% (Experto)"
       },
       {
-        "item_name": "Discount Card",
-        "item_id": "854",
-        "chance": "Drops"
+        "item_id": "903",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "904",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
+      },
+      {
+        "item_id": "905",
+        "chance": "0.0125% (Clásico) / 0.025% (Experto)"
       }
     ]
   },
@@ -4332,19 +4324,20 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "1254",
+        "chance": "0.5% (Clásico) / 1% (Experto)"
       },
       {
-        "item_name": "Discount Card",
-        "item_id": "854",
-        "chance": "Drops"
+        "item_id": "903",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "904",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
+      },
+      {
+        "item_id": "905",
+        "chance": "0.0125% (Clásico) / 0.025% (Experto)"
       }
     ]
   },
@@ -4363,19 +4356,20 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "1254",
+        "chance": "0.5% (Clásico) / 1% (Experto)"
       },
       {
-        "item_name": "Discount Card",
-        "item_id": "854",
-        "chance": "Drops"
+        "item_id": "903",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "904",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
+      },
+      {
+        "item_id": "905",
+        "chance": "0.0125% (Clásico) / 0.025% (Experto)"
       }
     ]
   },
@@ -4394,19 +4388,20 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "1254",
+        "chance": "0.5% (Clásico) / 1% (Experto)"
       },
       {
-        "item_name": "Discount Card",
-        "item_id": "854",
-        "chance": "Drops"
+        "item_id": "903",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "904",
+        "chance": "0.025% (Clásico) / 0.05% (Experto)"
+      },
+      {
+        "item_id": "905",
+        "chance": "0.0125% (Clásico) / 0.025% (Experto)"
       }
     ]
   },
@@ -4425,24 +4420,24 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "1254",
+        "chance": "2% (Clásico) / 4% (Experto)"
       },
       {
-        "item_name": "Discount Card",
-        "item_id": "854",
-        "chance": "Drops"
+        "item_id": "903",
+        "chance": "0.1% (Clásico) / 0.2% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "904",
+        "chance": "0.1% (Clásico) / 0.2% (Experto)"
       },
       {
-        "item_name": "Book of Skulls",
-        "item_id": "1313",
-        "chance": "Drops"
+        "item_id": "905",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_id": "2293",
+        "chance": "0.4% (Clásico) / 0.8% (Experto)"
       }
     ]
   },
@@ -4680,7 +4675,12 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "1311",
+        "chance": "6.67% (Clásico) / 10% (Experto)"
+      }
+    ]
   },
   {
     "id": "252",
@@ -5134,9 +5134,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Spooky Wood",
-        "item_id": "1729",
-        "chance": "Drops"
+        "item_id": "1725",
+        "chance": "100% (10-30)"
       }
     ]
   },
@@ -5174,13 +5173,7 @@
     "biome_en": "Luna Calabaza",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Spooky Wings",
-        "item_id": "1830",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "302",
@@ -5195,13 +5188,7 @@
     "biome_en": "Luna Calabaza",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Spooky Wings",
-        "item_id": "1830",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "379",
@@ -5239,9 +5226,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Martian Conduit Plating",
         "item_id": "2860",
-        "chance": "Drops"
+        "chance": "100% (5-10)"
       }
     ]
   },
@@ -5260,9 +5246,12 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Martian Conduit Plating",
         "item_id": "2860",
-        "chance": "Drops"
+        "chance": "100% (5-10)"
+      },
+      {
+        "item_id": "2861",
+        "chance": "1%"
       }
     ]
   },
@@ -5592,14 +5581,16 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Blood Thorn",
         "item_id": "4270",
-        "chance": "Drops"
+        "chance": "12.5%"
       },
       {
-        "item_name": "Drippler Crippler",
+        "item_id": "4271",
+        "chance": "12.5%"
+      },
+      {
         "item_id": "4272",
-        "chance": "Drops"
+        "chance": "12.5%"
       }
     ]
   },
