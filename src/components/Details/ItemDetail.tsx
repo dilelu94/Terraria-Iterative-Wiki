@@ -37,10 +37,13 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
   const hasChestOrigin = !!item.origin_info;
 
-  // Filtrar estaciones según la regla: No mostrar "A mano" si hay otras fuentes
+  // Filtrar estaciones según la regla: No mostrar "A mano" si no hay recetas o si hay otras fuentes
   const itemStations = item.station_ids 
     ? stations.filter(s => {
         if (s.id === 'hand') {
+          // Si no hay recetas propias, no tiene sentido decir "A mano"
+          if (normalRecipes.length === 0) return false;
+          
           const otherStations = item.station_ids!.filter(id => id !== 'hand');
           const hasOtherSources = hasDrops || hasChestOrigin || npcsByItem.length > 0;
           return otherStations.length === 0 && !hasOtherSources;
@@ -125,17 +128,22 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             <a href={item.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip" style={{ marginTop: '1rem' }}>
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
             </a>
-
-            {item.origin_info && (
-              <div className="origin-info-highlight">
-                <strong>{lang === 'es' ? 'Obtención:' : 'Obtaining:'}</strong> {item.origin_info}
-              </div>
-            )}
           </div>
         </div>
       </div>
 
       <div className="crafting-grid">
+        {/* 0. Información de Obtención (Prioridad alta para ítems que no se fabrican) */}
+        {item.origin_info && (
+          <div className="recipe-box origin-box">
+            <h3>{lang === 'es' ? '¿Cómo se consigue?' : 'How to get?'}</h3>
+            <div className="origin-info-highlight-v2">
+              <span className="origin-icon">📍</span>
+              <p>{item.origin_info}</p>
+            </div>
+          </div>
+        )}
+
         {/* 1. Ingredientes Directos */}
         {normalRecipes.length > 0 && (
           <div className="recipe-box">

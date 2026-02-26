@@ -768,26 +768,29 @@ body {
   gap: 8px;
 }
 
-.origin-info-highlight {
-  margin-top: 1rem;
-  padding: 10px 15px;
-  background: rgba(255, 215, 0, 0.1);
-  border-left: 4px solid #ffd700;
-  border-radius: 4px;
-  font-size: 1rem;
-  color: #eee;
-  display: inline-block;
-  width: 100%;
-  box-sizing: border-box;
+.origin-box {
+  background: rgba(255, 215, 0, 0.05);
+  border: 1px solid rgba(255, 215, 0, 0.2);
 }
 
-.origin-info-highlight strong {
-  color: #ffd700;
-  margin-right: 8px;
-  text-transform: uppercase;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
+.origin-info-highlight-v2 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px;
 }
+
+.origin-icon {
+  font-size: 1.5rem;
+}
+
+.origin-info-highlight-v2 p {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #fff;
+  line-height: 1.4;
+}
+
 
 
 
