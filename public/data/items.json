@@ -15333,11 +15333,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Shell.png",
     "station_ids": [
-      "hand",
-      "398",
-      "exploration"
+      "398"
     ],
-    "origin_info": "Taller de chapuzas (Tinkerer's Workshop)"
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "862",
@@ -16570,9 +16568,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Avenger_Emblem.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "936",
@@ -16592,9 +16590,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanical_Glove.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "937",
@@ -23308,9 +23306,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fire_Gauntlet.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "1344",
@@ -29875,7 +29873,6 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Stone.png",
     "station_ids": [
-      "hand",
       "398"
     ],
     "origin_info": "Taller de chapuzas"
@@ -63077,9 +63074,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Amphibian_Boots.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "3991",
@@ -63142,9 +63139,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fairy_Boots.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "3994",
@@ -63229,9 +63226,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Frozen_Shield.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "3998",
@@ -63251,9 +63248,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero_Shield.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "3999",
@@ -63317,9 +63314,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mana_Cloak.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "4002",
