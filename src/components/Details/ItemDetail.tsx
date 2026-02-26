@@ -33,6 +33,10 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const itemsUsingMaterial = findItemsUsingMaterial(item.name_en);
   const npcsByItem = findNPCsByItem(item.id);
   
+  // Separar recetas normales de Shimmer
+  const normalRecipes = item.recipes?.filter(r => !r.is_shimmer) || [];
+  const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
+
   const itemStations = item.station_ids 
     ? stations.filter(s => item.station_ids!.includes(s.id))
     : [];
@@ -114,12 +118,12 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* 1. Ingredientes Directos */}
-        <div className="recipe-box">
-          <h3>{lang === 'es' ? 'Ingredientes Directos' : 'Direct Ingredients'}</h3>
-          {item.recipes && item.recipes.length > 0 ? (
+        {/* 1. Ingredientes Directos (Solo Crafteo Normal) */}
+        {normalRecipes.length > 0 && (
+          <div className="recipe-box">
+            <h3>{lang === 'es' ? 'Ingredientes Directos' : 'Direct Ingredients'}</h3>
             <div className="ingredients-list">
-              {item.recipes.map((ing, idx) => {
+              {normalRecipes.map((ing, idx) => {
                 const details = findItemByName(ing.name_en);
                 return (
                   <div key={idx} className="ing-item" onClick={() => details && selectItem(details)}>
@@ -135,10 +139,39 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
                 );
               })}
             </div>
-          ) : (
+          </div>
+        )}
+
+        {/* 2. Transmutación del Fulgor (Sección Separada) */}
+        {shimmerRecipes.length > 0 && (
+          <div className="recipe-box shimmer-recipe-box">
+            <h3>{lang === 'es' ? 'Transmutación del Fulgor' : 'Shimmer Transmutation'}</h3>
+            <div className="ingredients-list">
+              {shimmerRecipes.map((ing, idx) => {
+                const details = findItemByName(ing.name_en);
+                return (
+                  <div key={idx} className="ing-item" onClick={() => details && selectItem(details)}>
+                    <span className="ing-count shimmer-count">✨</span>
+                    {details?.image_url ? (
+                      <img src={details.image_url} alt={ing.name_en} className="ing-icon" />
+                    ) : (
+                      <div className="item-icon-placeholder tiny">📦</div>
+                    )}
+                    <span className="ing-name">{details?.display_name || ing.name_en}</span>
+                    <span className="can-craft">↗</span>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
+        {/* Si no tiene recetas normales ni de shimmer, es material base o drop */}
+        {normalRecipes.length === 0 && shimmerRecipes.length === 0 && (
+          <div className="recipe-box">
             <div className="base-material-info">
               <p className="base-material">
-                {lang === 'es' ? 'Este es un material base. No tiene receta.' : 'This is a base material. It has no recipe.'}
+                {lang === 'es' ? 'Este es un material base. No tiene receta de fabricación.' : 'This is a base material. It has no crafting recipe.'}
               </p>
               
               {hasDrops && (
@@ -201,10 +234,10 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
                 </div>
               )}
             </div>
-          )}
-        </div>
+          </div>
+        )}
 
-        {/* 2. Se usa para fabricar */}
+        {/* 3. Se usa para fabricar */}
         <div className="recipe-box">
           <h3>{lang === 'es' ? 'Se usa para fabricar:' : 'Used to craft:'}</h3>
           {itemsUsingMaterial.length > 0 ? (
@@ -228,8 +261,8 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           )}
         </div>
 
-        {/* 3. Lista de Compras (Total Base) */}
-        {Object.keys(totalMaterials).length > 0 && item.recipes && (
+        {/* 4. Lista de Compras (Solo si tiene recetas normales) */}
+        {Object.keys(totalMaterials).length > 0 && normalRecipes.length > 0 && (
           <div className="raw-materials-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Lista de Compras (Total Base)' : 'Shopping List (Total Base)'}</h3>
             <div className="ingredients-list" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '0.5rem' }}>
@@ -244,7 +277,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* 4. Información de Armadura (Si aplica) */}
+        {/* 5. Información de Armadura (Si aplica) */}
         {item.is_armor && (
           <div className="recipe-box armor-info-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Información de Armadura' : 'Armor Information'}</h3>
@@ -276,7 +309,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* 5. Estación de Trabajo / Obtención */}
+        {/* 6. Estación de Trabajo / Obtención */}
         {itemStations.length > 0 && (
           <div className="recipe-box station-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal', 'exploration', 'quest', 'mining', 'farming'].includes(s.id)) 
