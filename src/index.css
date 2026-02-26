@@ -826,3 +826,6 @@ body {
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
   margin-left: 1rem;
 }
+
+.ing-info { display: flex; flex-direction: column; flex: 1; gap: 4px; }
+.ing-info .chance-pill { margin-left: 0; align-self: flex-start; }
