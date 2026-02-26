@@ -1,5 +1,6 @@
 import React from 'react';
 import { Mimic, Language, Item } from '../../types';
+import ShareButton from '../ShareButton';
 
 interface MimicDetailProps {
   mimic: Mimic;
@@ -46,7 +47,10 @@ const MimicDetail: React.FC<MimicDetailProps> = ({ mimic, lang, onBack, items, s
             <div className="item-icon-placeholder large">📦</div>
           )}
           <div className="hero-text">
-            <h2>{mimic.display_name}</h2>
+            <div className="detail-header-row">
+              <h2>{mimic.display_name}</h2>
+              <ShareButton lang={lang} />
+            </div>
             <p className="hero-subtitle">{lang === 'es' ? mimic.name_en : (mimic.name_es || "Terraria Mimic")}</p>
             <a href={mimic.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}

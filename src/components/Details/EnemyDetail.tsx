@@ -1,5 +1,6 @@
 import React from 'react';
 import { Enemy, Language, Item } from '../../types';
+import ShareButton from '../ShareButton';
 
 interface EnemyDetailProps {
   enemy: Enemy;
@@ -44,7 +45,10 @@ const EnemyDetail: React.FC<EnemyDetailProps> = ({ enemy, lang, onBack, items, s
             <div className="item-icon-placeholder large">💀</div>
           )}
           <div className="hero-text">
-            <h2>{enemy.display_name}</h2>
+            <div className="detail-header-row">
+              <h2>{enemy.display_name}</h2>
+              <ShareButton lang={lang} />
+            </div>
             <p className="hero-subtitle">{lang === 'es' ? enemy.name_en : enemy.name_es}</p>
             <div className="enemy-stats-row hero-stats">
               <div className="stat-pill" title="Health">

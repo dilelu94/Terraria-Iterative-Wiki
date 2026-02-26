@@ -1,5 +1,6 @@
 import React from 'react';
 import { Boss, Language, Item } from '../../types';
+import ShareButton from '../ShareButton';
 
 interface BossDetailProps {
   boss: Boss;
@@ -44,7 +45,10 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
             <div className="item-icon-placeholder large">👑</div>
           )}
           <div className="hero-text">
-            <h2>{boss.display_name}</h2>
+            <div className="detail-header-row">
+              <h2>{boss.display_name}</h2>
+              <ShareButton lang={lang} />
+            </div>
             <p className="hero-subtitle">{lang === 'es' ? boss.name_en : boss.name_es}</p>
             <div className="enemy-stats-row hero-stats">
               <div className="stat-pill">❤️ <StatWithIcons value={boss.health} /></div>

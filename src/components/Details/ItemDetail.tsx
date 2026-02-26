@@ -1,5 +1,6 @@
 import React from 'react';
 import { Item, Language, Enemy, Boss, NPC, Mimic, CraftingStation } from '../../types';
+import ShareButton from '../ShareButton';
 
 interface ItemDetailProps {
   item: Item;
@@ -97,7 +98,10 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             <div className="item-icon-placeholder large">📦</div>
           )}
           <div className="hero-text">
-            <h2>{item.display_name}</h2>
+            <div className="detail-header-row">
+              <h2>{item.display_name}</h2>
+              <ShareButton lang={lang} />
+            </div>
             <p className="hero-subtitle">{lang === 'es' ? item.name_en : (item.name_es || "Terraria Material")}</p>
             
             {item.is_armor && (

@@ -1,5 +1,6 @@
 import React from 'react';
 import { NPC, Language, Item } from '../../types';
+import ShareButton from '../ShareButton';
 
 interface NPCDetailProps {
   npc: NPC;
@@ -24,7 +25,10 @@ const NPCDetail: React.FC<NPCDetailProps> = ({ npc, lang, onBack, items, selectI
             <div className="item-icon-placeholder large">👤</div>
           )}
           <div className="hero-text">
-            <h2>{npc.display_name}</h2>
+            <div className="detail-header-row">
+              <h2>{npc.display_name}</h2>
+              <ShareButton lang={lang} />
+            </div>
             <p className="hero-subtitle">{lang === 'es' ? npc.name_en : npc.name_es}</p>
             <a href={npc.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
