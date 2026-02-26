@@ -16094,10 +16094,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lava_Charm.png",
     "station_ids": [
-      "shimmer",
-      "398"
+      "exploration",
+      "shimmer"
     ],
-    "origin_info": "Cofre de agua / Cajas de pesca"
+    "origin_info": "Cofre de oro (Cavernas) / Cajas de obsidiana (Pesca en lava) / Transmutación de Magma Stone"
   },
   {
     "id": "907",
@@ -16864,7 +16864,8 @@
     "recipes": [
       {
         "name_en": "Shadow Helmet",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Shadow_Helmet.png",
@@ -16875,8 +16876,10 @@
     "set_stats": "+15% Crítico cuerpo a cuerpo",
     "set_bonus": "+15% Velocidad de movimiento. Aceleración mejorada y rastro al moverse.",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "exploration",
+      "shimmer"
+    ],
+    "origin_info": "Botín: Devoramundos / Transmutación de Shadow Helmet"
   },
   {
     "id": "957",
@@ -16957,14 +16960,17 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Cobalt_Helmet",
     "recipes": [
       {
-        "name_en": "Jungle Hat",
-        "amount": 1
+        "name_en": "Cobalt Helmet",
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Cobalt_Helmet.png",
     "station_ids": [
-      "mythril_anvil"
-    ]
+      "exploration",
+      "shimmer"
+    ],
+    "origin_info": "Botín: Avispón (Selva) / Transmutación de Cobalt Helmet"
   },
   {
     "id": "961",
@@ -22963,11 +22969,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magma_Stone.png",
     "station_ids": [
-      "shimmer",
-      "loot",
-      "exploration"
+      "exploration",
+      "shimmer"
     ],
-    "origin_info": "Botín: Devoramundos"
+    "origin_info": "Botín: Murciélago de lava (Inframundo) / Transmutación de Lava Charm"
   },
   {
     "id": "1323",
@@ -48599,11 +48604,19 @@
     "name_en": "Enchanted Sundial",
     "name_es": "Reloj de sol encantado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Enchanted_Sundial",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Enchanted Moondial",
+        "amount": 1,
+        "is_shimmer": true
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Enchanted_Sundial.png",
     "station_ids": [
-      "loot"
-    ]
+      "exploration",
+      "shimmer"
+    ],
+    "origin_info": "Cajas de pesca (Raro) / Transmutación de Enchanted Moondial"
   },
   {
     "id": "3065",
@@ -84133,7 +84146,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Enchanted_Moondial.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Enchanted_Moondial.png",
+    "origin_info": "Transmutación: Enchanted Sundial al Fulgor"
   },
   {
     "id": "5382",
