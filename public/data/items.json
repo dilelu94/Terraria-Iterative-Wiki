@@ -8919,10 +8919,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Wings.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil",
-      "loot"
-    ]
+      "mythril_anvil"
+    ],
+    "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "493",
@@ -8946,9 +8945,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Angel_Wings.png",
     "station_ids": [
-      "hand",
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "494",
@@ -13747,9 +13746,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fairy_Wings.png",
     "station_ids": [
-      "hand",
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "762",
@@ -14084,9 +14083,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Harpy_Wings.png",
     "station_ids": [
-      "hand",
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "786",
@@ -14696,9 +14695,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flame_Wings.png",
     "station_ids": [
-      "hand",
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "822",
@@ -14718,9 +14717,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Frozen_Wings.png",
     "station_ids": [
-      "hand",
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "823",
@@ -15948,8 +15947,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lightning_Boots.png",
     "station_ids": [
-      "hand"
-    ]
+      "398"
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "899",
@@ -15989,8 +15989,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Armor_Bracing.png",
     "station_ids": [
-      "hand"
-    ]
+      "398"
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "902",
@@ -16010,8 +16011,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Medicated_Bandage.png",
     "station_ids": [
-      "hand"
-    ]
+      "398"
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "903",
@@ -16031,8 +16033,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Plan.png",
     "station_ids": [
-      "hand"
-    ]
+      "398"
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "904",
@@ -16052,9 +16055,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Countercurse_Mantra.png",
     "station_ids": [
-      "hand"
+      "398"
     ],
-    "origin_info": "Botín: Medusa (Hardmode)"
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "905",
@@ -20326,10 +20329,9 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leaf_Wings.png",
     "station_ids": [
-      "merchant_buy",
-      "mining"
+      "exploration"
     ],
-    "origin_info": "Botín: Duque Fishron"
+    "origin_info": "Compra: Médico brujo (Selva Noche)"
   },
   {
     "id": "1163",
@@ -22496,9 +22498,9 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Life_Fruit.png",
     "station_ids": [
-      "398"
+      "exploration"
     ],
-    "origin_info": "Botín: Enemigos en Navidad (Hardmode)"
+    "origin_info": "Encontrado: Selva Hardmode"
   },
   {
     "id": "1292",
@@ -26785,9 +26787,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ankh_Charm.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "1613",
@@ -26807,7 +26809,6 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ankh_Shield.png",
     "station_ids": [
-      "hand",
       "398"
     ],
     "origin_info": "Taller de chapuzas"
@@ -29806,9 +29807,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Frostspark_Boots.png",
     "station_ids": [
-      "hand"
+      "398"
     ],
-    "origin_info": "Taller de chapuzas (Botas de cohete + Hermes)"
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "1863",
@@ -44672,8 +44673,9 @@
     "set_stats": "+29% Daño melee / +26% Crítico melee / +15% Vel. Movimiento y Ataque",
     "set_bonus": "Genera escudos solares (hasta 3) que reducen 30% el daño. Doble toque para embestir.",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "330"
+    ],
+    "origin_info": "Manipulador antiguo"
   },
   {
     "id": "2764",
@@ -44699,8 +44701,9 @@
     "set_stats": "+29% Daño melee / +26% Crítico melee / +15% Vel. Movimiento y Ataque",
     "set_bonus": "Genera escudos solares (hasta 3) que reducen 30% el daño. Doble toque para embestir.",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "330"
+    ],
+    "origin_info": "Manipulador antiguo"
   },
   {
     "id": "2765",
@@ -44726,8 +44729,9 @@
     "set_stats": "+29% Daño melee / +26% Crítico melee / +15% Vel. Movimiento y Ataque",
     "set_bonus": "Genera escudos solares (hasta 3) que reducen 30% el daño. Doble toque para embestir.",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "330"
+    ],
+    "origin_info": "Manipulador antiguo"
   },
   {
     "id": "2766",
@@ -49335,9 +49339,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Shell.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "3111",
@@ -54837,10 +54841,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Mantle.png",
     "station_ids": [
-      "hand",
-      "heavy_workbench",
-      "ancient_manipulator"
-    ]
+      "330"
+    ],
+    "origin_info": "Manipulador antiguo"
   },
   {
     "id": "3471",
@@ -54860,10 +54863,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stardust_Wings.png",
     "station_ids": [
-      "hand",
-      "heavy_workbench",
-      "ancient_manipulator"
-    ]
+      "330"
+    ],
+    "origin_info": "Manipulador antiguo"
   },
   {
     "id": "3472",
@@ -57063,10 +57065,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Sigil.png",
     "station_ids": [
-      "hand",
-      "ancient_manipulator"
+      "330"
     ],
-    "origin_info": "Manipulador antiguo (Fragmentos lunares)"
+    "origin_info": "Manipulador antiguo"
   },
   {
     "id": "3602",
@@ -63117,9 +63118,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Berserker's_Glove.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "3993",
@@ -63336,9 +63337,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Molten_Quiver.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "4003",
@@ -63401,8 +63402,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Recon_Scope.png",
     "station_ids": [
-      "hand"
-    ]
+      "398"
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "4006",
@@ -78151,9 +78153,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraspark_Boots.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "5001",
