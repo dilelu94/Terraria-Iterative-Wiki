@@ -33,7 +33,7 @@ body {
 }
 
 /* --- Header & Navigation (CORRECT CLASSES) --- */
-.main-header {
+.main-header { border-radius: 16px;
   background: var(--t-header);
   border: 2px solid var(--t-border);
   padding: 2rem;
@@ -67,7 +67,7 @@ body {
   margin-bottom: 1rem;
 }
 
-.lang-btn {
+.lang-btn { border-radius: 8px;
   background: transparent;
   border: 1px solid var(--t-border);
   color: var(--t-text-dim);
@@ -90,7 +90,7 @@ body {
   flex-wrap: wrap;
 }
 
-.nav-link {
+.nav-link { border-radius: 12px;
   background: var(--t-wood);
   border: 2px solid #5d4037;
   color: white;
@@ -116,7 +116,7 @@ body {
 }
 
 /* --- Search & Filters --- */
-.filter-controls {
+.filter-controls { border-radius: 12px;
   display: flex;
   gap: 15px;
   margin-bottom: 2rem;
@@ -126,7 +126,7 @@ body {
   flex-wrap: wrap;
 }
 
-.search-bar {
+.search-bar { border-radius: 8px;
   flex: 1;
   min-width: 250px;
   background: #0f172a;
@@ -136,7 +136,7 @@ body {
   font-size: 1rem;
 }
 
-.category-select {
+.category-select { border-radius: 8px;
   background: #0f172a;
   color: white;
   border: 1px solid var(--t-border);
@@ -144,7 +144,7 @@ body {
   min-width: 180px;
 }
 
-.clear-btn {
+.clear-btn { border-radius: 8px;
   background: #ef4444;
   color: white;
   border: none;
