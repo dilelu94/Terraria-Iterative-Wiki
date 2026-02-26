@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Boss, Language, Item } from '../../types';
 import ShareButton from '../ShareButton';
 
@@ -31,6 +31,8 @@ const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
 };
 
 const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, selectItem }) => {
+  const [isExpertOpen, setIsExpertOpen] = useState(false);
+
   return (
     <div className="crafting-view animate-slide">
       <button className="back-btn" onClick={onBack}>
@@ -75,25 +77,13 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
           </div>
         </div>
 
-        {boss.treasure_bag && (
-          <div className="recipe-box shimmer-recipe-box">
-            <h3>{lang === 'es' ? 'Bolsa de Tesoro (Experto)' : 'Treasure Bag (Expert)'}</h3>
-            <div className="ingredients-list">
-              <div className="ing-item no-hover">
-                <img 
-                  src={`https://terraria.wiki.gg/wiki/Special:FilePath/${boss.treasure_bag.item_name.replace(/ /g, '_')}.png`} 
-                  alt={boss.treasure_bag.item_name} 
-                  className="ing-icon" 
-                />
-                <span className="ing-name" style={{ color: 'var(--accent)' }}>{boss.treasure_bag.item_name}</span>
-              </div>
-            </div>
-          </div>
-        )}
-
-        <div className="raw-materials-box" style={{ gridColumn: boss.treasure_bag ? '1 / -1' : 'auto' }}>
-          <h3>{lang === 'es' ? 'Botín (Normal)' : 'Drops (Normal)'}</h3>
-          <div className="ingredients-list">
+        {/* Caja de Botín Unificada */}
+        <div className="boss-loot-container">
+          <h3 className="loot-section-title">
+            🎁 {lang === 'es' ? 'Botín Completo' : 'Complete Loot'}
+          </h3>
+          
+          <div className="loot-grid" style={{ marginBottom: boss.treasure_bag ? '1.5rem' : '0' }}>
             {boss.drops.map((drop, idx) => {
               const itemDetails = drop.item_id ? items.find(i => i.id === drop.item_id) : null;
               return (
@@ -109,29 +99,45 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
               );
             })}
           </div>
-        </div>
 
-        {(boss as any).expert_drops && (
-          <div className="raw-materials-box" style={{ gridColumn: '1 / -1', borderTop: '1px solid rgba(255,215,0,0.3)' }}>
-            <h3 style={{ color: '#ffd700' }}>{lang === 'es' ? 'Botín de Modo Experto / Maestro' : 'Expert / Master Mode Drops'}</h3>
-            <div className="ingredients-list">
-              {(boss as any).expert_drops.map((drop: any, idx: number) => {
-                const itemDetails = items.find(i => i.id === drop.item_id);
-                return (
-                  <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
-                    {itemDetails?.image_url ? (
-                      <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
-                    ) : (
-                      <div className="item-icon-placeholder tiny">📦</div>
-                    )}
-                    <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
-                    {itemDetails && <span className="can-craft">↗</span>}
-                  </div>
-                );
-              })}
+          {boss.treasure_bag && (
+            <div className="treasure-bag-accordion">
+              <div 
+                className="accordion-header" 
+                onClick={() => setIsExpertOpen(!isExpertOpen)}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                  <img 
+                    src={`https://terraria.wiki.gg/wiki/Special:FilePath/${boss.treasure_bag.item_name.replace(/ /g, '_')}.png`} 
+                    alt={boss.treasure_bag.item_name} 
+                    style={{ width: '24px', height: '24px' }}
+                  />
+                  <strong>{lang === 'es' ? 'Bolsa de Tesoro (Botín Experto)' : 'Treasure Bag (Expert Drops)'}</strong>
+                </div>
+                <span className={`accordion-icon ${isExpertOpen ? 'open' : ''}`}>▼</span>
+              </div>
+              
+              <div className={`accordion-content ${isExpertOpen ? 'open' : ''}`}>
+                <div className="loot-grid">
+                  {boss.expert_drops && boss.expert_drops.map((drop, idx) => {
+                    const itemDetails = items.find(i => i.id === drop.item_id);
+                    return (
+                      <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
+                        {itemDetails?.image_url ? (
+                          <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
+                        ) : (
+                          <div className="item-icon-placeholder tiny">📦</div>
+                        )}
+                        <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                        {itemDetails && <span className="can-craft">↗</span>}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
-          </div>
-        )}
+          )}
+        </div>
       </div>
     </div>
   );

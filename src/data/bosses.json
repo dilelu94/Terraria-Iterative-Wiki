@@ -10,20 +10,40 @@
     "damage": "40/64/96",
     "drops": [
       {
-        "item_name": "Slime Hook",
-        "item_id": "2585"
-      },
-      {
-        "item_name": "Ninja Set",
-        "item_id": null
+        "item_name": "Solidifier",
+        "item_id": "997"
       },
       {
         "item_name": "Slimy Saddle",
         "item_id": "2430"
       },
       {
-        "item_name": "Royal Gel (Experto)",
-        "item_id": "23"
+        "item_name": "Ninja Hood",
+        "item_id": "256"
+      },
+      {
+        "item_name": "Ninja Shirt",
+        "item_id": "257"
+      },
+      {
+        "item_name": "Ninja Pants",
+        "item_id": "258"
+      },
+      {
+        "item_name": "Slime Gun",
+        "item_id": "530"
+      },
+      {
+        "item_name": "Slime Hook",
+        "item_id": "2585"
+      },
+      {
+        "item_name": "King Slime Mask",
+        "item_id": "2489"
+      },
+      {
+        "item_name": "King Slime Trophy",
+        "item_id": "2589"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.png",
@@ -38,20 +58,16 @@
     },
     "expert_drops": [
       {
-        "item_id": "24",
-        "item_name": "Wooden Sword"
+        "item_id": "3258",
+        "item_name": "Royal Gel"
       },
       {
-        "item_id": "25",
-        "item_name": "Wooden Door"
+        "item_id": "4912",
+        "item_name": "King Slime Relic"
       },
       {
-        "item_id": "26",
-        "item_name": "Stone Wall"
-      },
-      {
-        "item_id": "258",
-        "item_name": "Ninja Pants"
+        "item_id": "4957",
+        "item_name": "Royal Delight"
       },
       {
         "item_id": "256",
@@ -62,16 +78,28 @@
         "item_name": "Ninja Shirt"
       },
       {
-        "item_id": "4912",
-        "item_name": "Firecracker"
+        "item_id": "258",
+        "item_name": "Ninja Pants"
       },
       {
-        "item_id": "3258",
-        "item_name": "Slap Hand"
+        "item_id": "530",
+        "item_name": "Slime Gun"
       },
       {
-        "item_id": "982",
-        "item_name": "Mana Regeneration Band"
+        "item_id": "2585",
+        "item_name": "Slime Hook"
+      },
+      {
+        "item_id": "2430",
+        "item_name": "Slimy Saddle"
+      },
+      {
+        "item_id": "2489",
+        "item_name": "King Slime Mask"
+      },
+      {
+        "item_id": "997",
+        "item_name": "Solidifier"
       }
     ]
   },

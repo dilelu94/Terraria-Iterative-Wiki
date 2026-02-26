@@ -703,10 +703,69 @@ body {
   to { transform: translateY(0); opacity: 1; }
 }
 
-.detail-header-row {
+/* Acordeón de Botín de Jefes */
+.boss-loot-container {
+  grid-column: 1 / -1;
+  background: rgba(20, 20, 30, 0.4);
+  border: 1px solid rgba(255, 215, 0, 0.2);
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+.treasure-bag-accordion {
+  margin-top: 1rem;
+  border: 1px solid rgba(255, 215, 0, 0.3);
+  border-radius: 8px;
+  overflow: hidden;
+  background: rgba(255, 215, 0, 0.05);
+}
+
+.accordion-header {
+  padding: 12px 16px;
+  background: rgba(255, 215, 0, 0.1);
   display: flex;
   align-items: center;
-  gap: 10px;
-  flex-wrap: wrap;
+  justify-content: space-between;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.2s;
 }
+
+.accordion-header:hover {
+  background: rgba(255, 215, 0, 0.15);
+}
+
+.accordion-icon {
+  transition: transform 0.3s ease;
+}
+
+.accordion-icon.open {
+  transform: rotate(180deg);
+}
+
+.accordion-content {
+  padding: 16px;
+  border-top: 1px solid rgba(255, 215, 0, 0.2);
+  display: none;
+}
+
+.accordion-content.open {
+  display: block;
+}
+
+.loot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.loot-section-title {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: #ffd700;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 
