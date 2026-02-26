@@ -51024,11 +51024,26 @@
     "name_en": "Ice Mirror",
     "name_es": "Espejo de hielo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Mirror",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Glass",
+        "amount": 10
+      },
+      {
+        "name_en": "Any Gold Bar",
+        "amount": 8
+      },
+      {
+        "name_en": "Diamond",
+        "amount": 3
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Mirror.png",
     "station_ids": [
+      "33",
       "exploration"
-    ]
+    ],
+    "origin_info": "Cofre helado (Bioma de nieve) / Fabricado en Horno"
   },
   {
     "id": "3200",
