@@ -4460,9 +4460,8 @@
     "total_defense": "9",
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
-    "station_ids": [
-      "iron_anvil"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Rey Slime"
   },
   {
     "id": "257",
@@ -4478,9 +4477,8 @@
     "total_defense": "9",
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
-    "station_ids": [
-      "iron_anvil"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Rey Slime"
   },
   {
     "id": "258",
@@ -4496,11 +4494,8 @@
     "total_defense": "9",
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
-    "station_ids": [
-      "iron_anvil",
-      "exploration"
-    ],
-    "origin_info": "Water Chest (Océano)"
+    "station_ids": [],
+    "origin_info": "Botín: Rey Slime"
   },
   {
     "id": "259",
@@ -6457,7 +6452,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pwnhammer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pwnhammer.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Muro de carne"
   },
   {
     "id": "368",
@@ -7558,7 +7554,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Breaker_Blade",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Breaker_Blade.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Muro de carne"
   },
   {
     "id": "427",
@@ -7726,9 +7723,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Clockwork_Assault_Rifle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Clockwork_Assault_Rifle.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Muro de carne"
   },
   {
@@ -8764,9 +8759,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Rifle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Laser_Rifle.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Muro de Carne"
   },
   {
@@ -15085,9 +15078,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sun_Stone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sun_Stone.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Golem"
   },
   {
@@ -15190,9 +15181,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Coin_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Coin_Gun.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Invasión Pirata"
   },
   {
@@ -16603,9 +16592,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Extractinator",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Extractinator.png",
-    "station_ids": [
-      "exploration"
-    ],
+    "station_ids": [],
     "origin_info": "Cofres subterráneos"
   },
   {
@@ -18688,9 +18675,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bee_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bee_Gun.png",
-    "station_ids": [
-      "33"
-    ],
+    "station_ids": [],
     "origin_info": "Cofre de la selva (Mazmorra - Requiere llave)"
   },
   {
@@ -18729,9 +18714,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hive",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hive.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Reina abeja"
   },
   {
@@ -18807,7 +18790,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hive_Wand",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hive_Wand.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Reina abeja"
   },
   {
     "id": "1130",
@@ -18828,7 +18812,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Beenade.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Reina abeja (Experto)"
   },
   {
     "id": "1131",
@@ -18993,9 +18978,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Temple_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Temple_Key.png",
-    "station_ids": [
-      "iron_anvil"
-    ],
+    "station_ids": [],
     "origin_info": "Fabricado: Yunque (12 Cera de abeja)"
   },
   {
@@ -19188,9 +19171,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pygmy_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pygmy_Staff.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Plantera"
   },
   {
@@ -20762,9 +20743,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_the_Golem",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_the_Golem.png",
-    "station_ids": [
-      "mythril_anvil"
-    ],
+    "station_ids": [],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (Lente negra + 2 Lente + 20 Lingote de Hallow + 12 Alma de vista)"
   },
   {
@@ -20879,7 +20858,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Venus_Magnum",
     "recipes": [],
     "station_ids": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Venus_Magnum.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Venus_Magnum.png",
+    "origin_info": "Botín: Gólem"
   },
   {
     "id": "1256",
@@ -20916,10 +20896,9 @@
     "name_es": "Stynger",
     "wiki_url": "https://terraria.wiki.gg/wiki/Stynger",
     "recipes": [],
-    "station_ids": [
-      "loot"
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stynger.png"
+    "station_ids": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stynger.png",
+    "origin_info": "Botín: Plantera"
   },
   {
     "id": "1259",
@@ -20993,9 +20972,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flower_of_Frost",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flower_of_Frost.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Plantera"
   },
   {
@@ -21100,9 +21077,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Stained_Glass",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Stained_Glass.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Ojo de Cthulhu"
   },
   {
@@ -21150,7 +21125,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Hand",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Hand.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Esqueletrón"
   },
   {
     "id": "1274",
@@ -21220,7 +21196,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sailor_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sailor_Pants.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Esqueletrón"
   },
   {
     "id": "1281",
@@ -21230,7 +21207,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Mask.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Esqueletrón"
   },
   {
     "id": "1282",
@@ -21444,9 +21422,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Axe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Axe.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Plantera (0.5% - 2%)"
   },
   {
@@ -21457,9 +21433,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Picksaw",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Picksaw.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Golem"
   },
   {
@@ -21536,9 +21510,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Binoculars",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Binoculars.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Ojo de Cthulhu"
   },
   {
@@ -21843,11 +21815,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Quiver",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Quiver.png",
-    "station_ids": [
-      "398",
-      "loot",
-      "exploration"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Arquero esqueleto"
   },
   {
@@ -22387,7 +22355,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flask_of_Cursed_Flames.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Gólem"
   },
   {
     "id": "1354",
@@ -25110,9 +25079,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Scourge_of_the_Corruptor",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Scourge_of_the_Corruptor.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Cofre corrupto (Mazmorra)"
   },
   {
@@ -27049,7 +27016,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spooky_Wood.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Madera Lúgubre"
   },
   {
     "id": "1730",
@@ -27259,9 +27227,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Creeper_Shirt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Creeper_Shirt.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Rey calabaza (Pumpking)"
   },
   {
@@ -27272,9 +27238,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Creeper_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Creeper_Pants.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Árbol de luto (Mourning Wood)"
   },
   {
@@ -27285,7 +27249,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cat_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cat_Mask.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Rey Calabaza"
   },
   {
     "id": "1750",
@@ -27883,9 +27848,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bat_Scepter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bat_Scepter.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Rey calabaza (Pumpking)"
   },
   {
@@ -28191,9 +28154,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spooky_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spooky_Hook.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Rey calabaza (Pumpking)"
   },
   {
@@ -29086,9 +29047,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_and_Green_Lights",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yellow_and_Green_Lights.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Reina de hielo (Ice Queen)"
   },
   {
@@ -29160,9 +29119,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Elf_Melter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Elf_Melter.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Reina de hielo (Ice Queen)"
   },
   {
@@ -29264,7 +29221,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gingerbread_Cookie",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gingerbread_Cookie.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Gritoeterno (Experto)"
   },
   {
     "id": "1921",
@@ -29274,7 +29232,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hand_Warmer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hand_Warmer.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Gritoeterno (Experto)"
   },
   {
     "id": "1922",
@@ -29284,7 +29243,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Coal",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Coal.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Gritoeterno (Experto)"
   },
   {
     "id": "1923",
@@ -29294,7 +29254,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Toolbox",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Toolbox.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Gritoeterno (Experto)"
   },
   {
     "id": "1924",
@@ -29311,7 +29272,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pine_Door.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Papá Noel-NK1 (Experto)"
   },
   {
     "id": "1925",
@@ -29328,7 +29290,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pine_Chair.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Papá Noel-NK1 (Experto)"
   },
   {
     "id": "1926",
@@ -29345,7 +29308,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pine_Table.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Papá Noel-NK1 (Experto)"
   },
   {
     "id": "1927",
@@ -29355,7 +29319,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dog_Whistle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dog_Whistle.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Papá Noel-NK1 (Experto)"
   },
   {
     "id": "1928",
@@ -29365,7 +29330,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Christmas_Tree_Sword",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Christmas_Tree_Sword.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Papá Noel-NK1 (Experto)"
   },
   {
     "id": "1929",
@@ -32222,7 +32188,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spooky_Candelabra.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Esqueletrón Prime"
   },
   {
     "id": "2104",
@@ -32232,9 +32199,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Brain_of_Cthulhu_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Cthulhu_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Ojo de Cthulhu (14.29%)"
   },
   {
@@ -32245,9 +32210,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wall_of_Flesh_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wall_of_Flesh_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Cerebro de Cthulhu (14.29%)"
   },
   {
@@ -32258,7 +32221,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Twin_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Twin_Mask.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Esqueletrón Prime"
   },
   {
     "id": "2107",
@@ -32268,9 +32232,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Prime_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Prime_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Esqueletrón (14.29%)"
   },
   {
@@ -32281,9 +32243,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Bee_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Bee_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Muro de carne"
   },
   {
@@ -32294,9 +32254,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Plantera_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Plantera_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Esqueletrón Prime (14.29%)"
   },
   {
@@ -32307,9 +32265,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golem_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Los Gemelos (14.29%)"
   },
   {
@@ -32320,9 +32276,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater_of_Worlds_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Devoramundos (14.29%)"
   },
   {
@@ -32333,9 +32287,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_Cthulhu_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Muro de carne (14.29%)"
   },
   {
@@ -32346,9 +32298,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Destroyer_Mask.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "El Destructor (14.29%)"
   },
   {
@@ -32416,7 +32366,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Helmet_Rack.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "origin_info": "Botín: Cerebro de Cthulhu"
   },
   {
     "id": "2117",
@@ -37822,9 +37773,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slimy_Saddle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Slimy_Saddle.png",
-    "station_ids": [
-      "loot"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Rey Slime"
   },
   {
     "id": "2431",
@@ -38539,9 +38489,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tropical_Barracuda",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tropical_Barracuda.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Reina abeja"
   },
   {
@@ -38552,7 +38500,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/King_Slime_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime_Trophy.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Rey Slime"
   },
   {
     "id": "2490",
@@ -38607,7 +38556,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/King_Slime_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime_Mask.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Rey Slime"
   },
   {
     "id": "2494",
@@ -40878,9 +40828,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fishron_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fishron_Wings.png",
-    "station_ids": [
-      "steampunk_boiler"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Duque Fishron"
   },
   {
     "id": "2610",
@@ -40901,9 +40850,7 @@
     "name_es": "Tsunami",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flairoon",
     "recipes": [],
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flairoon.png",
     "origin_info": "Botín: Duque Fishron"
   },
@@ -41109,9 +41056,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tempest_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tempest_Staff.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Duque Fishron"
   },
   {
@@ -41122,7 +41067,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Razorblade_Typhoon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Razorblade_Typhoon.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Duque Fishron"
   },
   {
     "id": "2623",
@@ -41132,9 +41078,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bubble_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bubble_Gun.png",
-    "station_ids": [
-      "loot"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Duque Fishron"
   },
   {
     "id": "2624",
@@ -41143,9 +41088,7 @@
     "name_es": "Báculo de tempestad",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tsunami",
     "recipes": [],
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tsunami.png",
     "origin_info": "Botín: Duque Fishron"
   },
@@ -41167,7 +41110,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Starfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Starfish.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Duque Fishron"
   },
   {
     "id": "2627",
@@ -43980,7 +43924,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Electrosphere_Launcher",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Electrosphere_Launcher.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Platillo Marciano"
   },
   {
     "id": "2797",
@@ -43990,9 +43935,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Xenopopper",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Xenopopper.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Platillo marciano"
   },
   {
@@ -44003,9 +43946,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Drill",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Laser_Drill.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Platillo marciano"
   },
   {
@@ -44484,9 +44425,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wooden_Sink",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wooden_Sink.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Platillo marciano"
   },
   {
@@ -45039,7 +44978,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cactus_Sink.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Polillón"
   },
   {
     "id": "2855",
@@ -45360,9 +45300,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Influx_Waver",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Influx_Waver.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Platillo marciano"
   },
   {
@@ -47244,7 +47182,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shadowflame_Knife",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadowflame_Knife.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Reina abeja"
   },
   {
     "id": "3055",
@@ -47317,9 +47256,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Architect_Gizmo_Pack",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Architect_Gizmo_Pack.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Señor de la Luna"
   },
   {
@@ -47343,9 +47280,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Meowmere",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meowmere.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Plantera"
   },
   {
@@ -47376,9 +47311,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Wrath",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Wrath.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Señor de la Luna"
   },
   {
@@ -50354,9 +50287,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Glove",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bone_Glove.png",
-    "station_ids": [
-      "loot"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Esqueletrón (Experto)"
   },
   {
     "id": "3246",
@@ -51740,10 +51672,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hive_Pack",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hive_Pack.png",
-    "station_ids": [
-      "loot",
-      "exploration"
-    ],
+    "station_ids": [],
     "origin_info": "Bolsa del Tesoro (Muro de Carne)"
   },
   {
@@ -51767,10 +51696,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Demon_Heart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Heart.png",
-    "station_ids": [
-      "398",
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Bolsa del Tesoro (Plantera)"
   },
   {
@@ -51781,10 +51707,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spore_Sac",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spore_Sac.png",
-    "station_ids": [
-      "398",
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Bolsa del Tesoro (Golem)"
   },
   {
@@ -52118,9 +52041,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Living_Mahogany_Wand",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Living_Mahogany_Wand.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Polillrón (Mothron)"
   },
   {
@@ -52235,9 +52156,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shrimpy_Truffle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shrimpy_Truffle.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Duque Fishron (Modo Experto)"
   },
   {
@@ -52293,7 +52212,8 @@
     "station_ids": [
       "hand",
       "ancient_manipulator"
-    ]
+    ],
+    "origin_info": "Botín: Cultista lunático"
   },
   {
     "id": "3371",
@@ -52312,7 +52232,8 @@
       "hand",
       "ancient_manipulator",
       "recording"
-    ]
+    ],
+    "origin_info": "Botín: Cultista lunático"
   },
   {
     "id": "3372",
@@ -52330,7 +52251,8 @@
     "station_ids": [
       "hand",
       "ancient_manipulator"
-    ]
+    ],
+    "origin_info": "Botín: Señor de la Luna"
   },
   {
     "id": "3373",
@@ -52348,7 +52270,8 @@
     "station_ids": [
       "hand",
       "ancient_manipulator"
-    ]
+    ],
+    "origin_info": "Botín: Señor de la Luna"
   },
   {
     "id": "3374",
@@ -52646,9 +52569,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Terrarian",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terrarian.png",
-    "station_ids": [
-      "loot"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Señor de la Luna"
   },
   {
     "id": "3390",
@@ -53594,9 +53516,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Beater",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Beater.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Señor de la Luna"
   },
   {
@@ -53607,9 +53527,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nebula_Arcanum",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Arcanum.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Señor de la Luna"
   },
   {
@@ -59188,9 +59106,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ale_Tosser",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ale_Tosser.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Betsy"
   },
   {
@@ -59543,7 +59459,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sky_Dragon's_Fury",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sky_Dragon's_Fury.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Mago Oscuro (Experto)"
   },
   {
     "id": "3859",
@@ -59553,7 +59470,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Aerial_Bane",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aerial_Bane.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Mago Oscuro (Experto)"
   },
   {
     "id": "3860",
@@ -59647,7 +59565,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Betsy's_Wrath",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Betsy's_Wrath.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Mago Oscuro (Experto)"
   },
   {
     "id": "3871",
@@ -59801,9 +59720,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Betsy's_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Betsy's_Wings.png",
-    "station_ids": [
-      "exploration"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Betsy"
   },
   {
@@ -72168,9 +72085,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Superhero_Tights",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Superhero_Tights.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Muro de carne"
   },
   {
@@ -72181,9 +72096,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pink_Fairy_Jar",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pink_Fairy_Jar.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Emperatriz de la Luz"
   },
   {
@@ -73071,9 +72984,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sandstone_Column",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstone_Column.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Emperatriz de la Luz"
   },
   {
@@ -73091,7 +73002,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mushroom_Beam.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Emperatriz de la luz"
   },
   {
     "id": "4723",
@@ -73768,7 +73680,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Empress_of_Light_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light_Trophy.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Emperatriz de la luz"
   },
   {
     "id": "4784",
@@ -73778,7 +73691,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Empress_of_Light_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light_Mask.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Emperatriz de la luz"
   },
   {
     "id": "4785",
@@ -75766,7 +75680,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Relic",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Relic.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Mago Oscuro (Experto)"
   },
   {
     "id": "4928",
@@ -76007,9 +75922,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Black_Spot",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Black_Spot.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Holandés Volante (Maestro)"
   },
   {
@@ -76020,9 +75933,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Celebration_Mk2",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celebration_Mk2.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Señor de la Luna"
   },
   {
@@ -76046,9 +75957,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Starboard",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Starboard.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Señor de la Luna (Experto)"
   },
   {
@@ -76126,9 +76035,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Terraprisma",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraprisma.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Botín: Emperatriz de la Luz (100% de daño de día)"
   },
   {
@@ -76406,7 +76313,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hook_of_Dissonance",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hook_of_Dissonance.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Reina slime"
   },
   {
     "id": "4981",
@@ -76416,9 +76324,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gelatinous_Pillion",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gelatinous_Pillion.png",
-    "station_ids": [
-      "loot"
-    ],
+    "station_ids": [],
     "origin_info": "Bolsa del Tesoro (Reina Slime)"
   },
   {
@@ -76429,9 +76335,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Assassin_Hood",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Assassin_Hood.png",
-    "station_ids": [
-      "iron_anvil"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Reina slime"
   },
   {
     "id": "4983",
@@ -76441,9 +76346,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Assassin_Shirt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Assassin_Shirt.png",
-    "station_ids": [
-      "iron_anvil"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Reina slime"
   },
   {
     "id": "4984",
@@ -76453,9 +76357,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Assassin_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Assassin_Pants.png",
-    "station_ids": [
-      "iron_anvil"
-    ]
+    "station_ids": [],
+    "origin_info": "Botín: Reina slime"
   },
   {
     "id": "4985",
@@ -76475,7 +76378,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sparkle_Slime_Balloon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sparkle_Slime_Balloon.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Reina slime (Experto)"
   },
   {
     "id": "4987",
@@ -76485,7 +76389,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Volatile_Gelatin",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Volatile_Gelatin.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Reina slime"
   },
   {
     "id": "4988",
@@ -76495,10 +76400,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gelatin_Crystal",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gelatin_Crystal.png",
-    "station_ids": [
-      "loot",
-      "exploration"
-    ],
+    "station_ids": [],
     "origin_info": "Altar demoníaco / carmesí (Pelaje de Flinx + Lente)"
   },
   {
@@ -76509,7 +76411,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Soaring_Insignia",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soaring_Insignia.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Emperatriz de la luz (Experto)"
   },
   {
     "id": "4990",
@@ -77938,7 +77841,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lucy_the_Axe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lucy_the_Axe.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5096",
@@ -77968,7 +77872,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_Bone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_Bone.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5099",
@@ -78031,7 +77936,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eyebrella",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eyebrella.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5102",
@@ -78184,7 +78090,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Deerclops)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Deerclops).png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope (Experto)"
   },
   {
     "id": "5113",
@@ -78207,7 +78114,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Abigail's_Flower",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Abigail's_Flower.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5115",
@@ -78224,7 +78132,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Firestarter's_Sweater.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5116",
@@ -78251,7 +78160,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pew-matic_Horn",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pew-matic_Horn.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5118",
@@ -78261,7 +78171,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Weather_Pain",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Weather_Pain.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5119",
@@ -78271,7 +78182,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Houndius_Shootius",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Houndius_Shootius.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Ciervíclope"
   },
   {
     "id": "5120",
