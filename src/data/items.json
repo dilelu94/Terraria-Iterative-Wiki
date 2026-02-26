@@ -15451,19 +15451,13 @@
     "name_en": "Lava Charm",
     "name_es": "Flotador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lava_Charm",
-    "recipes": [
-      {
-        "name_en": "Magma Stone",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lava_Charm.png",
     "station_ids": [
       "exploration",
       "shimmer"
     ],
-    "origin_info": "Cofre de oro (Cavernas) / Cajas de obsidiana (Pesca en lava) / Transmutación de Magma Stone"
+    "origin_info": "Cofres de oro en la capa de lava o Cajas de obsidiana (Pesca)"
   },
   {
     "id": "907",
@@ -19523,7 +19517,7 @@
       "exploration",
       "merchant_buy"
     ],
-    "origin_info": "Witch Doctor"
+    "origin_info": "Comprado al Médico Brujo (20 Oro) de noche"
   },
   {
     "id": "1159",
@@ -19682,7 +19676,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hercules_Beetle.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Comprado al Médico Brujo en la Selva (si tienes el Báculo de pigmeo)"
   },
   {
     "id": "1168",
@@ -28852,7 +28847,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Necromantic_Scroll",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necromantic_Scroll.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Soltado por Wood Mourning (Luna de Calabaza)"
   },
   {
     "id": "1846",
@@ -29128,8 +29124,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Papyrus_Scarab.png",
     "station_ids": [
       "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapucero (Piedra celestial + Caparazón de luna)"
+    ]
   },
   {
     "id": "1865",
@@ -37368,18 +37363,13 @@
     "name_en": "High Test Fishing Line",
     "name_es": "Sedal de gran prueba",
     "wiki_url": "https://terraria.wiki.gg/wiki/High_Test_Fishing_Line",
-    "recipes": [
-      {
-        "name_en": "Tackle Box",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/High_Test_Fishing_Line.png",
     "station_ids": [
       "shimmer",
       "quest"
-    ]
+    ],
+    "origin_info": "Recompensa de misiones del Pescador"
   },
   {
     "id": "2374",
@@ -37387,18 +37377,13 @@
     "name_en": "Angler Earring",
     "name_es": "Pendiente abisal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Angler_Earring",
-    "recipes": [
-      {
-        "name_en": "High Test Fishing Line",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Angler_Earring.png",
     "station_ids": [
       "shimmer",
       "quest"
-    ]
+    ],
+    "origin_info": "Recompensa de misiones del Pescador"
   },
   {
     "id": "2375",
@@ -37406,18 +37391,13 @@
     "name_en": "Tackle Box",
     "name_es": "Caja de aparejos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tackle_Box",
-    "recipes": [
-      {
-        "name_en": "Angler Earring",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tackle_Box.png",
     "station_ids": [
       "shimmer",
       "quest"
-    ]
+    ],
+    "origin_info": "Recompensa de misiones del Pescador"
   },
   {
     "id": "2376",
@@ -58318,11 +58298,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Angler_Tackle_Bag",
     "recipes": [
       {
-        "name_en": "Angler Earring",
+        "name_en": "High Test Fishing Line",
         "amount": 1
       },
       {
-        "name_en": "High Test Fishing Line",
+        "name_en": "Angler Earring",
         "amount": 1
       },
       {
@@ -58332,10 +58312,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Angler_Tackle_Bag.png",
     "station_ids": [
-      "hand",
-      "loot"
-    ],
-    "origin_info": "Medusa"
+      "398"
+    ]
   },
   {
     "id": "3722",
@@ -74818,7 +74796,7 @@
   },
   {
     "id": "4821",
-    "category": "Tools",
+    "category": "Accessories",
     "name_en": "Lavaproof Bug Net",
     "name_es": "Red para insectos a prueba de lava",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lavaproof_Bug_Net",
@@ -74834,7 +74812,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lavaproof_Bug_Net.png",
     "station_ids": [
-      "hand"
+      "35"
     ]
   },
   {
@@ -78269,10 +78247,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lavaproof_Tackle_Bag.png",
     "station_ids": [
-      "hand",
-      null
-    ],
-    "origin_info": "Pesca: Luna de sangre"
+      "398"
+    ]
   },
   {
     "id": "5065",
