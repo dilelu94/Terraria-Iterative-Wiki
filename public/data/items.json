@@ -898,7 +898,9 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Band_of_Regeneration.png?4fd3c7",
     "station_ids": [
-      "36"
+      "36",
+      "heavy_workbench",
+      "exploration"
     ]
   },
   {
@@ -924,7 +926,9 @@
     "image_url": "https://terraria.wiki.gg/es/images/Magic_Mirror.png?535741",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "heavy_workbench",
+      "exploration"
     ]
   },
   {
@@ -1041,7 +1045,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Corrupt_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Corrupt_Seeds.png?ca23f8",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "60",
@@ -7637,7 +7643,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Green_Torch.png?225227",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "exploration"
     ]
   },
   {
@@ -7732,7 +7739,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Clockwork_Assault_Rifle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Clockwork_Assault_Rifle.png?1c80e5",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "435",
@@ -7748,7 +7757,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cobalt_Repeater.png?c7f170",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -7765,7 +7775,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mythril_Repeater.png?85e098",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -7776,7 +7787,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dual_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dual_Hook.png?50ca81",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "438",
@@ -7786,7 +7799,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Star_Statue.png?1e0a75",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "439",
@@ -7806,7 +7821,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slime_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Statue.png?f8acc4",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "441",
@@ -7836,7 +7853,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bat_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bat_Statue.png?8ab278",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "444",
@@ -7856,7 +7875,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fish_Statue.png?b55e01",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -19163,7 +19183,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bottled_Honey.png?d450a0",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -26347,7 +26368,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mummy_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mummy_Banner.png?e25856",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1672",
@@ -26357,7 +26380,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mushi_Ladybug_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mushi_Ladybug_Banner.png?41ab02",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1673",
@@ -26367,7 +26392,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Parrot_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Parrot_Banner.png?9a1157",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1674",
@@ -26377,7 +26404,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pigron_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pigron_Banner.png?5b599f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1675",
@@ -26387,7 +26416,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Piranha_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Piranha_Banner.png?bc3043",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1676",
@@ -26417,7 +26448,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Raincoat_Zombie_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Raincoat_Zombie_Banner.png?198d4d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1679",
@@ -26477,7 +26510,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Snow_Flinx_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Snow_Flinx_Banner.png?f1cac3",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1685",
@@ -26537,7 +26572,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Umbrella_Slime_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Umbrella_Slime_Banner.png?99dc3c",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1691",
@@ -26577,7 +26614,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nymph_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Nymph_Banner.png?2f345e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1695",
@@ -26701,7 +26740,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Toilet",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Toilet.png?d08c1e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1706",
@@ -26874,7 +26915,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Table",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Table.png?57fcbd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1717",
@@ -26890,7 +26933,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Honey_Table.png?7586c9",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -26907,7 +26951,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Steampunk_Table.png?c0590d",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -26959,7 +27004,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Honey_Bed.png?14d158",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -26980,7 +27026,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Steampunk_Bed.png?629734",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -26997,7 +27044,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Wood_Wall.png?e9673e",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -32700,7 +32748,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Bookcase",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Bookcase.png?5b98f2",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "2138",
@@ -45213,7 +45263,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sticky_Dynamite.png?309a34",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -52030,7 +52081,8 @@
     "set_stats": "+5 Capacidad súbditos / +66% Daño súbditos / +30% Daño látigos",
     "set_bonus": "Invoca al Guardián de Polvo Estelar que ataca automáticamente o protege un área.",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -52057,7 +52109,8 @@
     "set_stats": "+5 Capacidad súbditos / +66% Daño súbditos / +30% Daño látigos",
     "set_bonus": "Invoca al Guardián de Polvo Estelar que ataca automáticamente o protege un área.",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -52084,7 +52137,8 @@
     "set_stats": "+5 Capacidad súbditos / +66% Daño súbditos / +30% Daño látigos",
     "set_bonus": "Invoca al Guardián de Polvo Estelar que ataca automáticamente o protege un área.",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -52095,7 +52149,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Portal_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Portal_Gun.png?8fd08d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3385",
@@ -52105,7 +52161,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Strange_Plant_(Purple)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Strange_Plant_%28Purple%29.png?1c7cc4",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3386",
@@ -52115,7 +52173,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Strange_Plant_(Orange)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Strange_Plant_%28Orange%29.png?a450cd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3387",
@@ -52125,7 +52185,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Strange_Plant_(Green)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Strange_Plant_%28Green%29.png?494621",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3388",
@@ -52135,7 +52197,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Strange_Plant_(Red)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Strange_Plant_%28Red%29.png?dc9567",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3389",
@@ -52145,7 +52209,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Terrarian",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Terrarian.png?183ae2",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3390",
