@@ -268,3 +268,56 @@ h1, h2, h3, h4 {
   .header h1 { font-size: 1.8rem; }
   .crafting-grid { grid-template-columns: 1fr; }
 }
+
+/* Custom Cursor */
+body {
+  cursor: url('https://terraria.wiki.gg/images/4/4d/Cursor_0.png'), auto;
+}
+a, button, .ing-item, .item-card, .breadcrumb-item {
+  cursor: url('https://terraria.wiki.gg/images/c/c8/Cursor_11.png'), pointer !important;
+}
+
+/* Enhanced Wood Texture */
+.tab-btn, .wiki-chip {
+  background-image: linear-gradient(rgba(255,255,255,0.1), rgba(0,0,0,0.2));
+  text-shadow: 1px 1px 2px #000;
+  border-radius: 2px;
+}
+
+/* Terraria Stone Panel Style */
+.recipe-box, .item-hero, .search-box {
+  background: linear-gradient(135deg, #2c2c35 0%, #1a1a20 100%);
+  border: 3px solid #4a4a5a;
+  box-shadow: 
+    inset 2px 2px 0px rgba(255,255,255,0.05),
+    inset -2px -2px 0px rgba(0,0,0,0.3),
+    0 8px 24px rgba(0,0,0,0.5);
+}
+
+.recipe-box h3 {
+  background: rgba(0,0,0,0.3);
+  margin: -1.5rem -1.5rem 1rem -1.5rem;
+  padding: 0.8rem 1.5rem;
+  border-bottom: 2px solid #4a4a5a;
+  color: var(--t-gold);
+}
+
+/* Stat Pill Polish */
+.stat-pill {
+  background: #16161c;
+  border: 2px solid #3a3a4a;
+  box-shadow: inset 0 0 8px rgba(0,0,0,0.5);
+}
+
+/* Item Name Rarity Colors */
+.rarity-rare { color: #ffd700; }
+.rarity-epic { color: #a335ee; }
+.rarity-legendary { color: #ff8000; }
+
+/* Scrollbar Style */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #0f172a; }
+::-webkit-scrollbar-thumb { 
+  background: var(--t-wood); 
+  border: 2px solid #0f172a;
+}
