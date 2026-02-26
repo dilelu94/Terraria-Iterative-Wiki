@@ -48,5 +48,8 @@
   { "id": "keg", "name_en": "Keg", "name_es": "Barril", "image": "https://terraria.wiki.gg/images/Keg.png" },
   { "id": "teapot", "name_en": "Teapot", "name_es": "Tetera", "image": "https://terraria.wiki.gg/images/Teapot.png" },
   { "id": "woodcutting", "name_en": "Woodcutting", "name_es": "Talado de Árboles", "image": "https://terraria.wiki.gg/images/Iron_Axe.png" },
-  { "id": "death", "name_en": "Player Death", "name_es": "Muerte del Jugador", "image": "https://terraria.wiki.gg/images/Tombstone.png" }
+  { "id": "death", "name_en": "Player Death", "name_es": "Muerte del Jugador", "image": "https://terraria.wiki.gg/images/Tombstone.png" },
+  { "id": "dye_vat", "name_en": "Dye Vat", "name_es": "Vat de tintes", "image": "https://terraria.wiki.gg/images/Dye_Vat.png" },
+  { "id": "extractinator", "name_en": "Extractinator", "name_es": "Extractinador", "image": "https://terraria.wiki.gg/images/Extractinator.png" },
+  { "id": "demon_anvil", "name_en": "Demon/Crimson Anvil", "name_es": "Yunque demoníaco/carmesí", "image": "https://terraria.wiki.gg/images/Demon_Anvil.png" }
 ]

@@ -645,7 +645,8 @@
     "station_ids": [
       "hand",
       "iron_anvil",
-      "36"
+      "36",
+      "345"
     ]
   },
   {
@@ -1574,7 +1575,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Piggy_Bank",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Piggy_Bank.png?6cbea8",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "88",
@@ -2180,7 +2183,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shadow_Orb",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shadow_Orb_%28light_pet%29.png?ae52e3",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "116",
@@ -2232,7 +2237,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Hook.png?11c249",
     "station_ids": [
       "shimmer",
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -2257,7 +2263,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flamarang.png?615f9d",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -2279,7 +2286,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Molten_Fury.png?682784",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -2384,7 +2392,8 @@
     "set_stats": "+27% Daño mágico",
     "set_bonus": "Las armas 'Space Gun' y 'Zapinator' no consumen Maná.",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "33"
     ]
   },
   {
@@ -2401,7 +2410,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bottled_Water.png?7d5a62",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ],
     "origin_info": "Cerca de Agua"
   },
@@ -2419,7 +2429,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Space_Gun.png?e6c464",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2430,7 +2441,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Rocket_Boots",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rocket_Boots.png?7ecaaa",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "129",
@@ -2446,7 +2459,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gray_Brick.png?973e5c",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2463,7 +2477,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gray_Brick_Wall.png?b8f453",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2548,7 +2563,8 @@
     "station_ids": [
       "hand",
       "merchant_buy",
-      "iron_anvil"
+      "iron_anvil",
+      "33"
     ]
   },
   {
@@ -2561,7 +2577,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Chain_Lantern.png?d14c3c",
     "station_ids": [
       "merchant_buy",
-      "iron_anvil"
+      "iron_anvil",
+      "33"
     ]
   },
   {
@@ -2579,7 +2596,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Green_Brick.png?be65e9",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "33"
     ]
   },
   {
@@ -2597,7 +2615,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Green_Brick_Wall.png?c048e9",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "33"
     ]
   },
   {
@@ -2614,7 +2633,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Brick.png?bd1ec7",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -2904,7 +2924,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Bone.png?6eb4f7",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -3139,7 +3160,8 @@
     "station_ids": [
       "hand",
       "33",
-      "36"
+      "36",
+      "iron_anvil"
     ]
   },
   {
@@ -3168,7 +3190,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Obsidian.png",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -3185,7 +3208,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Hellstone.png",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -3206,7 +3230,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Hellstone_Bar.png",
     "station_ids": [
-      "112"
+      "112",
+      "33"
     ]
   },
   {
@@ -5645,7 +5670,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gold_Chest",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Chest.png?b99d3e",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "307",
@@ -7242,7 +7269,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Tinkerer%27s_Workshop.png?2f2ff9",
     "station_ids": [
       "398",
-      "loot"
+      "loot",
+      "345"
     ]
   },
   {
@@ -7766,7 +7794,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Fairy_Bell.png?c48d78",
     "station_ids": [
       "hand",
-      "seasonal"
+      "seasonal",
+      "loot"
     ]
   },
   {
@@ -8010,7 +8039,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sword_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sword_Statue.png?ae28fe",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "440",
@@ -8279,7 +8310,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Chest_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Chest_Statue.png?de2160",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "464",
@@ -8320,7 +8353,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Corrupt_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Corrupt_Statue.png?f202de",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "467",
@@ -8330,7 +8365,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tree_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tree_Statue.png?52baf6",
-    "station_ids": []
+    "station_ids": [
+      "345"
+    ]
   },
   {
     "id": "468",
@@ -8390,7 +8427,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Heart_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Heart_Statue.png?72086a",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "474",
@@ -8580,7 +8619,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Ball",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Crystal_Ball.png?e71d1c",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "488",
@@ -8685,7 +8726,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Demon_Wings.png?f1d328",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "loot"
     ]
   },
   {
@@ -8964,7 +9006,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Wrench",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Wrench.png?c6a316",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "510",
@@ -8975,7 +9019,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wire_Cutter.png?4a6032",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -9040,7 +9085,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Laser_Rifle.png?84983f",
     "station_ids": [
-      "bookcase"
+      "bookcase",
+      "exploration"
     ]
   },
   {
@@ -9285,7 +9331,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Pressure_Plate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Pressure_Plate.png?af6745",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "530",
@@ -9307,7 +9355,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spell_Tome",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Spell_Tome.png?9b72e4",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "532",
@@ -9318,7 +9368,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Star_Cloak.png?58280d",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -10462,7 +10513,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Cabagge.png?a380a9",
     "station_ids": [
       "mythril_anvil",
-      "recording"
+      "recording",
+      "loot"
     ]
   },
   {
@@ -11801,7 +11853,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Red_Potion.png?95806c",
     "station_ids": [
       "31",
-      "mythril_anvil"
+      "mythril_anvil",
+      "exploration"
     ]
   },
   {
@@ -12995,7 +13048,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany_Breastplate.png?bf5fac",
     "station_ids": [
       "iron_anvil",
-      "36"
+      "36",
+      "merchant_buy"
     ]
   },
   {
@@ -14448,7 +14502,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Sunplate_Block.png?b53c88",
     "station_ids": [
       "hand",
-      "flesh_cloning_vat"
+      "flesh_cloning_vat",
+      "33"
     ]
   },
   {
@@ -17353,7 +17408,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chlorophyte_Greaves.png?18318c",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "33"
     ]
   },
   {
@@ -17388,7 +17444,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Dye.png?bffe5d",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17405,7 +17462,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Orange_Dye.png?d217da",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17422,7 +17480,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Dye.png?58cb2b",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17439,7 +17498,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lime_Dye.png?66fb29",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17456,7 +17516,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Dye.png?5ce6cf",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17473,7 +17534,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Teal_Dye.png?cfa50c",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17490,7 +17552,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cyan_Dye.png?97bf4b",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17507,7 +17570,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sky_Blue_Dye.png?6910d1",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17524,7 +17588,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Dye.png?dc5a67",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17541,7 +17606,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Purple_Dye.png?510000",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17558,7 +17624,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Violet_Dye.png?4f8be9",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17575,7 +17642,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Dye.png?b9acc0",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -17638,7 +17706,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_and_Black_Dye.png?6fd677",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -17659,7 +17728,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lime_and_Black_Dye.png?83faa5",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -17680,7 +17750,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_and_Black_Dye.png?d0de5f",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -17701,7 +17772,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Teal_and_Black_Dye.png?42c9a3",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -17722,7 +17794,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cyan_and_Black_Dye.png?c7c900",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -17743,7 +17816,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sky_Blue_and_Black_Dye.png?2c0d68",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -18246,7 +18320,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Black_Dye.png?c3b343",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -18267,7 +18342,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Red_and_Silver_Dye.png?9c8c0f",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -18288,7 +18364,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Orange_and_Silver_Dye.png?9d23a0",
     "station_ids": [
-      "hand"
+      "hand",
+      "dye_vat"
     ]
   },
   {
@@ -19098,7 +19175,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lihzahrd_Brick.png?db479c",
     "station_ids": [
-      "hand"
+      "hand",
+      "mining"
     ]
   },
   {
@@ -19205,7 +19283,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Teal_Mushroom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Teal_Mushroom.png?e5f14b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1108",
@@ -19215,7 +19295,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Mushroom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Mushroom.png?5fc7ca",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1109",
@@ -19424,7 +19506,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hive_Wall.png?5d35ee",
     "station_ids": [
-      "hand"
+      "hand",
+      "sky_mill"
     ]
   },
   {
@@ -19839,7 +19922,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Piranha_Gun.png?28c057",
     "station_ids": [
-      "loot"
+      "loot",
+      "exploration"
     ]
   },
   {
@@ -19921,7 +20005,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Leaf_Wings.png?408d7e",
     "station_ids": [
-      "merchant_buy"
+      "merchant_buy",
+      "mining"
     ],
     "origin_info": "Witch Doctor (Selva Hardmode)"
   },
@@ -20172,7 +20257,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Parrot_Cracker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Parrot_Cracker.png?d54672",
-    "station_ids": []
+    "station_ids": [
+      "extractinator"
+    ]
   },
   {
     "id": "1181",
@@ -20193,7 +20280,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Seedling.png?82f83d",
     "station_ids": [
-      "seasonal"
+      "seasonal",
+      "loot"
     ]
   },
   {
@@ -20246,7 +20334,8 @@
     "set_bonus": "Otorga el buff 'Sanación Rápida' al golpear enemigos",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "exploration"
     ]
   },
   {
@@ -20866,7 +20955,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Titanium_Helmet.png?6678b8",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -21214,7 +21304,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Amethyst_Hook.png?bd42c5",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -21304,7 +21395,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Diamond_Hook.png?aa33ea",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -21315,7 +21407,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Amber_Mosquito",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Amber_Mosquito.png?a6e638",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1243",
@@ -22284,7 +22378,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Staff.png?c16a3b",
     "station_ids": [
-      "loot"
+      "loot",
+      "extractinator"
     ]
   },
   {
@@ -22872,7 +22967,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Confetti",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Confetti.png?8b583d",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1346",
@@ -22882,7 +22979,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nanites",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Nanites.png?d8961d",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1347",
@@ -22892,7 +22991,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Explosive_Powder",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Explosive_Powder.png?9fc4b3",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1348",
@@ -23974,7 +24075,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Imbuing_Station",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Imbuing_Station.png?5298e0",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "1431",
@@ -25157,7 +25260,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Jungle_Chest.png?cb90f1",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -25528,7 +25632,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Autohammer.png?f35ad4",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "exploration"
     ]
   },
   {
@@ -26338,7 +26443,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Angler_Fish_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Angler_Fish_Banner.png?949f47",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1616",
@@ -26348,7 +26455,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Angry_Nimbus_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Angry_Nimbus_Banner.png?b70dc3",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1617",
@@ -26358,7 +26467,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Anomura_Fungus_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Anomura_Fungus_Banner.png?189fef",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1618",
@@ -26368,7 +26479,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Antlion_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Antlion_Banner.png?3c2006",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1619",
@@ -26378,7 +26491,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Arapaima_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Arapaima_Banner.png?6fe231",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1620",
@@ -26388,7 +26503,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Armored_Skeleton_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Armored_Skeleton_Banner.png",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1621",
@@ -26398,7 +26515,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cave_Bat_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cave_Bat_Banner.png?26dcde",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1622",
@@ -26408,7 +26527,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bird_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bird_Banner.png?753581",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1623",
@@ -26418,7 +26539,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Black_Recluse_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Black_Recluse_Banner.png?c97a1f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1624",
@@ -26888,7 +27011,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Moth_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Moth_Banner.png?93ef49",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1671",
@@ -26958,7 +27083,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pirate_Deckhand_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pirate_Deckhand_Banner.png?ebfabf",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1677",
@@ -26968,7 +27095,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pixie_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pixie_Banner.png?9fec6c",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1678",
@@ -28304,7 +28433,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sickle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sickle.png?1becaf",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1787",
@@ -28361,7 +28492,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cauldron",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cauldron.png?4331c9",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "1792",
@@ -28562,7 +28695,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Unlucky_Yarn.png?a542cf",
     "station_ids": [
-      "seasonal"
+      "seasonal",
+      "loot"
     ]
   },
   {
@@ -30420,7 +30554,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Team_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Team_Dye.png?e81238",
-    "station_ids": []
+    "station_ids": [
+      "dye_vat"
+    ]
   },
   {
     "id": "1970",
@@ -30720,7 +30856,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Womannequin.png?e05d1b",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -34101,7 +34238,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ammo_Box",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ammo_Box.png?82104d",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "2178",
@@ -34409,7 +34548,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Welder",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Welder.png?f06c3b",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "2193",
@@ -34429,7 +34570,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flesh_Cloning_Vat.png?fd92fe",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -34450,7 +34592,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Glass_Kiln.png?f0263b",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -34471,7 +34614,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Living_Loom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Loom.png?396f62",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2197",
@@ -34481,7 +34626,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sky_Mill",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sky_Mill.png?f39161",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "2198",
@@ -34492,7 +34639,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Machine.png?f1c373",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "345"
     ],
     "origin_info": "Living Wood Chest (Árbol Gigante)"
   },
@@ -34605,7 +34753,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Honey_Dispenser",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Honey_Dispenser.png?cd0722",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2205",
@@ -35654,7 +35804,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Dynasty_Shingles",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Dynasty_Shingles.png?983090",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2262",
@@ -35726,7 +35878,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sake.png?984627",
     "station_ids": [
-      "merchant_buy"
+      "merchant_buy",
+      "346"
     ]
   },
   {
@@ -35738,7 +35891,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pad_Thai.png?906b14",
     "station_ids": [
-      "merchant_buy"
+      "merchant_buy",
+      "346"
     ]
   },
   {
@@ -35750,7 +35904,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pho.png?274d6f",
     "station_ids": [
-      "merchant_buy"
+      "merchant_buy",
+      "346"
     ]
   },
   {
@@ -35761,7 +35916,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Revolver",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Revolver.png?911ca3",
-    "station_ids": []
+    "station_ids": [
+      "346"
+    ]
   },
   {
     "id": "2270",
@@ -35993,7 +36150,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Wood_Fishing_Pole.png?1bf437",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "36"
     ]
   },
   {
@@ -36022,7 +36180,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Reinforced_Fishing_Pole.png?dbc6cb",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -36033,7 +36192,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fiberglass_Fishing_Pole",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fiberglass_Fishing_Pole.png?80b9bb",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "2293",
@@ -36049,7 +36210,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fisher_of_Souls.png?7d7b3d",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -36061,7 +36223,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Fishing_Rod.png?655e99",
     "station_ids": [
-      "quest"
+      "quest",
+      "merchant_buy"
     ]
   },
   {
@@ -36073,7 +36236,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanic%27s_Rod.png?bd3152",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "quest"
     ],
     "origin_info": "Ivy Chest (Selva)"
   },
@@ -36572,7 +36736,8 @@
     "station_ids": [
       "31",
       "3001",
-      "iron_anvil"
+      "iron_anvil",
+      "fishing"
     ]
   },
   {
@@ -36602,7 +36767,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Swordfish.png?265581",
     "station_ids": [
       "31",
-      "3001"
+      "3001",
+      "fishing"
     ]
   },
   {
@@ -36628,7 +36794,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Swordfish.png?69d074",
     "station_ids": [
       "31",
-      "3001"
+      "3001",
+      "fishing"
     ]
   },
   {
@@ -36663,7 +36830,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Crate.png?2b9031",
     "station_ids": [
       "hand",
-      "fishing"
+      "fishing",
+      "exploration"
     ]
   },
   {
@@ -36911,7 +37079,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rage_Potion.png?99404b",
     "station_ids": [
-      "31"
+      "31",
+      "merchant_buy"
     ]
   },
   {
@@ -38204,7 +38373,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Zephyr_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Zephyr_Fish.png?7bd13e",
-    "station_ids": []
+    "station_ids": [
+      "quest",
+      "fishing"
+    ]
   },
   {
     "id": "2421",
@@ -38220,7 +38392,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fleshcatcher.png?dc79bc",
     "station_ids": [
-      "hand"
+      "hand",
+      "quest"
     ]
   },
   {
@@ -38244,7 +38417,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Frog_Leg.png?2653d0",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "quest"
     ]
   },
   {
@@ -38256,7 +38430,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Anchor.png?2de7cf",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "loot"
     ]
   },
   {
@@ -38274,7 +38449,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Cooked_Fish.png?a5fb1a",
     "station_ids": [
       "hand",
-      "exploration"
+      "exploration",
+      "quest"
     ]
   },
   {
@@ -38292,7 +38468,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Cooked_Shrimp.png?67bb88",
     "station_ids": [
       "hand",
-      "exploration"
+      "exploration",
+      "fishing"
     ]
   },
   {
@@ -38309,7 +38486,8 @@
     ],
     "station_ids": [
       "hand",
-      "exploration"
+      "exploration",
+      "loot"
     ]
   },
   {
@@ -39090,7 +39268,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hardy_Saddle.png?73b4bc",
     "station_ids": [
-      "fishing"
+      "fishing",
+      "loot"
     ]
   },
   {
@@ -44146,7 +44325,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Drill_Containment_Unit.png?323ef1",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -44157,7 +44337,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cosmic_Car_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cosmic_Car_Key.png?617abf",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2770",
@@ -44501,7 +44683,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Ruler",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Ruler.png?831f37",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2800",
@@ -44511,7 +44695,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Anti-Gravity_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Anti-Gravity_Hook.png?10456e",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2801",
@@ -45711,7 +45897,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Living_Flame_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Flame_Dye.png?2e66ff",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2870",
@@ -45721,7 +45909,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Living_Rainbow_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Rainbow_Dye.png?49c8b5",
-    "station_ids": []
+    "station_ids": [
+      "dye_vat"
+    ]
   },
   {
     "id": "2871",
@@ -46107,7 +46297,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Clinger_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Clinger_Banner.png?f3df8e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2906",
@@ -46117,7 +46309,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cochineal_Beetle_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cochineal_Beetle_Banner.png?b07a2d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2907",
@@ -46127,7 +46321,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Corrupt_Penguin_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Corrupt_Penguin_Banner.png?2e3423",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2908",
@@ -47842,7 +48038,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Rattle.png?c45699",
     "station_ids": [
-      "fishing"
+      "fishing",
+      "loot"
     ]
   },
   {
@@ -50326,7 +50523,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Mirror",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Mirror.png?5b9037",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "3200",
@@ -50385,7 +50584,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Corrupt_Crate.png?a2251c",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -50402,7 +50602,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Crimson_Crate.png?d919b4",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -50419,7 +50620,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dungeon_Crate.png?ad38a2",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -50436,7 +50638,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sky_Crate.png?6808f3",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -50453,7 +50656,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hallowed_Crate.png?452b69",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -50470,7 +50674,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Jungle_Crate.png?9da197",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -50521,7 +50726,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Money_Trough",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Money_Trough.png?bf17d5",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3214",
@@ -52562,7 +52769,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Stylish_Scissors",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Stylish_Scissors.png?f7ef58",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3353",
@@ -52573,7 +52782,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Cart.png?37f68f",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "loot"
     ]
   },
   {
@@ -52584,7 +52794,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Wheel_Piece",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pieza_de_rueda_mec%C3%A1nica.png?17b5ed",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ]
   },
   {
     "id": "3355",
@@ -53106,7 +53318,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Portal_Gun.png?8fd08d",
     "station_ids": [
-      "loot"
+      "loot",
+      "398"
     ]
   },
   {
@@ -53932,7 +54145,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Luminite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Luminite.png",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3461",
@@ -53952,7 +54167,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Luminite_Brick.png?878e2b",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -55392,7 +55608,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Last_Prism",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Last_Prism.png?dc3a98",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3542",
@@ -60260,7 +60478,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Betsy_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Betsy_Trophy.png?c9d8e9",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3867",
@@ -61241,7 +61461,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spider_Bathtub.png?1adf47",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -62746,7 +62967,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Bunny_Stew.png?e13bc3",
     "station_ids": [
       "hand",
-      "loot"
+      "loot",
+      "346"
     ]
   },
   {
@@ -62767,7 +62989,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Chicken_Nugget",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Chicken_Nugget.png?94c54c",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4017",
@@ -62818,7 +63042,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fried_Egg",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fried_Egg.png?cf0afd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4021",
@@ -62828,7 +63054,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fries",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fries.png?8e246e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4022",
@@ -62856,7 +63084,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Grapes",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Grapes.png?b1e242",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4024",
@@ -62883,7 +63113,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hotdog",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hotdog.png?f98946",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4026",
@@ -62893,7 +63125,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Cream",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Cream.png?71aabb",
-    "station_ids": []
+    "station_ids": [
+      "hand"
+    ]
   },
   {
     "id": "4027",
@@ -62921,7 +63155,9 @@
     "name_es": "Pizza",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pizza",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4030",
@@ -62931,7 +63167,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Potato_Chips",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Potato_Chips.png?c9290e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4031",
@@ -62964,7 +63202,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Roasted_Duck.png?f41a05",
     "station_ids": [
-      "hand"
+      "hand",
+      "346"
     ]
   },
   {
@@ -63009,7 +63248,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shrimp_Po'_Boy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shrimp_Po%27_Boy.png?52bb4d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4036",
@@ -63029,7 +63270,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Steak",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Steak.png?5f79cf",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4038",
@@ -63488,7 +63731,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Weather_Vane.png?aaeeee",
     "station_ids": [
-      "hand"
+      "hand",
+      "demon_anvil"
     ]
   },
   {
@@ -63513,7 +63757,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Void_Vault.png?9a5628",
     "station_ids": [
-      "hand"
+      "hand",
+      "demon_anvil"
     ]
   },
   {
@@ -66906,7 +67151,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golf_Chest",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golf_Chest.png?ff9dc2",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4266",
@@ -66947,7 +67194,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandstone_Chest.png?bcc71b",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -73541,7 +73789,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tattered_Wood_Sign.png?8da06a",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -73562,7 +73811,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gravedigger%27s_Shovel.png?36cda8",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -74016,7 +74266,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Safeman's_Pink_Leggings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Safeman%27s_Pink_Leggings.png?932beb",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4750",
@@ -74128,7 +74380,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Squirrel_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Squirrel_Hook.png?2a48d7",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4760",
@@ -74790,7 +75044,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flame_Waker_Boots",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Flame_Waker_Boots.png?79a40a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4823",
@@ -76634,7 +76890,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Universal_Pylon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Universal_Pylon.png?f31f12",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4952",
@@ -77743,7 +78001,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Journey's_End)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dragon_Snatcher_Banner.png?832c0a",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "5045",
