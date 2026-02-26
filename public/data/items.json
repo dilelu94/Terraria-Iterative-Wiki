@@ -41424,7 +41424,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Slime_Gun.png",
     "station_ids": [
       "steampunk_boiler"
-    ]
+    ],
+    "origin_info": "Soltado por el Rey Slime (33.33%)"
   },
   {
     "id": "2611",
@@ -82985,7 +82986,7 @@
     "category": "Item States",
     "name_en": "Shellphone",
     "name_es": "Telefonoconcha",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Home)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone",
     "recipes": [
       {
         "name_en": "Cell Phone",
@@ -83003,54 +83004,48 @@
     "station_ids": [
       "398"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Home).png",
-    "origin_info": "Fabricado: Taller de chapuzas (Teléfono móvil + Caracola mágica + Caracola de demonio)",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
+    "origin_info": "Fabricado: Taller de chapucero",
     "piece_effects": "Teletransporte a casa, el océano o el inframundo. Muestra toda la información."
   },
   {
     "id": "5359",
     "category": "Item States",
     "name_en": "Shellphone (Spawn)",
-    "name_es": "Conchófono (Océano)",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Spawn)",
+    "name_es": "Conchófono (Punto de aparición)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone",
     "recipes": [],
     "station_ids": [
       "hand"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Spawn).png",
-    "origin_info": "Alternar estado del Conchófono"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
+    "origin_info": "Alternar estado del Telefonoconcha"
   },
   {
     "id": "5360",
     "category": "Item States",
     "name_en": "Shellphone (Ocean)",
-    "name_es": "Conchófono (Inframundo)",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Ocean)",
+    "name_es": "Conchófono (Océano)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone",
     "recipes": [],
     "station_ids": [
       "hand"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Ocean).png",
-    "origin_info": "Alternar estado del Conchófono"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
+    "origin_info": "Alternar estado del Telefonoconcha"
   },
   {
     "id": "5361",
     "category": "Item States",
     "name_en": "Shellphone (Underworld)",
-    "name_es": "Conchófono (Spawn)",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Underworld)",
-    "recipes": [
-      {
-        "name_en": "Slime Gun",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "name_es": "Conchófono (Inframundo)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone",
+    "recipes": [],
     "station_ids": [
       "hand"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Underworld).png",
-    "origin_info": "Alternar estado del Conchófono"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
+    "origin_info": "Alternar estado del Telefonoconcha"
   },
   {
     "id": "5362",
