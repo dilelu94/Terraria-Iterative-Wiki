@@ -1122,7 +1122,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Starfury",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Starfury.png?3758ba",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "66",
@@ -2866,7 +2868,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Muramasa",
     "recipes": [],
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "exploration"
     ]
   },
   {
@@ -3392,7 +3395,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blade_of_Grass.png?142740",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -4811,7 +4815,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Night%27s_Edge.png?d79eb2",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "altar"
     ]
   },
   {
@@ -4923,7 +4928,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blowpipe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blowpipe.png?1c3297",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "282",
@@ -11487,7 +11494,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/True_Excalibur.png?9f0f4b",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -11516,7 +11524,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/True_Night%27s_Edge.png?a3304d",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -12501,7 +12510,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Beam_Sword.png?f837f2",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "exploration"
     ]
   },
   {
@@ -13110,7 +13120,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mushroom_Spear",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mushroom_Spear.png?fd50a3",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "757",
@@ -13134,7 +13146,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Terra_Blade.png?14104c",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -13692,7 +13705,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blood_Butcherer.png?79fcc2",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -19022,7 +19036,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bee_Keeper.png?d9bd15",
     "station_ids": [
-      "36"
+      "36",
+      "loot"
     ]
   },
   {
@@ -19488,7 +19503,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pygmy_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pygmy_Staff.png?b37d1f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1158",
@@ -21867,7 +21884,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slime_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Staff.png?c16a3b",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1310",
@@ -22191,7 +22210,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ichor",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ichor.png?63d16a",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1333",
@@ -28015,7 +28036,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bat_Scepter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bat_Scepter.png?f1ac2d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1802",
@@ -28285,7 +28308,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Horseman's_Blade",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Horseman%27s_Blade.png?7df23d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1827",
@@ -35939,7 +35964,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Purple_Clubberfish.png?1f7e9a",
     "station_ids": [
       "31",
-      "3001"
+      "3001",
+      "iron_anvil"
     ]
   },
   {
@@ -38526,7 +38552,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fish_Costume_Finskirt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fish_Costume_Finskirt.png?fb9ad5",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2501",
@@ -39207,7 +39235,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Optic_Staff.png?b61244",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -39527,7 +39556,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spider_Staff.png?97389b",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -40960,7 +40990,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bubble_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bubble_Gun.png?814a5a",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2624",
@@ -42975,7 +43007,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Xeno_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Xeno_Staff.png?2ccb57",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2750",
@@ -45164,7 +45198,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Influx_Waver",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Influx_Waver.png?d553ea",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2882",
@@ -46587,7 +46623,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Seedler",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Seedler.png?6d7503",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3019",
@@ -47189,7 +47227,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Meowmere",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Meowmere.png?d68b82",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3064",
@@ -47211,7 +47251,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Wrath",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Star_Wrath.png?c79256",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3066",
@@ -50168,7 +50210,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Deadly_Sphere_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Deadly_Sphere_Staff.png?c0f669",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3250",
@@ -53303,7 +53347,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Eruption.png?92d36f",
     "station_ids": [
       "hand",
-      "heavy_workbench"
+      "heavy_workbench",
+      "ancient_manipulator"
     ]
   },
   {
@@ -53320,7 +53365,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Stardust_Cell_Staff.png?5f789e",
     "station_ids": [
-      "hand"
+      "hand",
+      "ancient_manipulator"
     ]
   },
   {
@@ -66045,7 +66091,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vampire_Frog_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Vampire_Frog_Staff.png?b749bc",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "4274",
@@ -70989,7 +71037,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Chum_Bucket",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Chum_Bucket.png?8c6f13",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4609",
@@ -73051,7 +73101,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blade_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blade_Staff.png?c29f70",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4759",
@@ -75648,7 +75700,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Zenith.png?f9444d",
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "mythril_anvil"
     ]
   },
   {
@@ -76015,7 +76068,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gelatin_Crystal",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gelatin_Crystal.png?b21f5f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4989",
@@ -76233,7 +76288,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Terraprisma",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Titan_Mail.png?373204",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "5006",
@@ -77108,7 +77165,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Roman_candle.png?1eba33",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
