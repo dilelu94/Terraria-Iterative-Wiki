@@ -276,7 +276,39 @@
     "biome_en": "Locura Marciana",
     "biome_es": "Martian Madness",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "2795",
+        "item_name": "Laser Machinegun",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "2796",
+        "item_name": "Electrosphere Launcher",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "2797",
+        "item_name": "Xenopopper",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "2880",
+        "item_name": "Influx Waver",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "2882",
+        "item_name": "Charged Blaster Cannon",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "2771",
+        "item_name": "Brain Scrambler",
+        "chance": "1%"
+      }
+    ]
   },
   {
     "id": "564",
@@ -300,39 +332,14 @@
     },
     "expert_drops": [
       {
-        "item_id": "3821",
-        "item_name": "Ale Tosser",
-        "chance": "100%"
+        "item_id": "3855",
+        "item_name": "Gato Egg",
+        "chance": "16.67%"
       },
       {
-        "item_id": "3858",
-        "item_name": "Sky Dragon's Fury",
-        "chance": "100%"
-      },
-      {
-        "item_id": "3859",
-        "item_name": "Aerial Bane",
-        "chance": "100%"
-      },
-      {
-        "item_id": "3870",
-        "item_name": "Betsy's Wrath",
-        "chance": "100%"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask",
-        "chance": "100%"
-      },
-      {
-        "item_id": "4927",
-        "item_name": "Skeletron Relic",
-        "chance": "100%"
-      },
-      {
-        "item_id": "3883",
-        "item_name": "Betsy's Wings",
-        "chance": "100%"
+        "item_id": "3856",
+        "item_name": "Dragon Egg",
+        "chance": "16.67%"
       }
     ]
   },
@@ -352,7 +359,24 @@
     "biome_en": "Ejército del Antiguo",
     "biome_es": "Old One's Army",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "3835",
+        "item_name": "Sleepy Octopod",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "3836",
+        "item_name": "Ghastly Glaive",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "3854",
+        "item_name": "Phantom Phoenix",
+        "chance": "14.29%"
+      }
+    ]
   },
   {
     "id": "551",
@@ -371,7 +395,34 @@
     "biome_en": "Ejército del Antiguo",
     "biome_es": "Old One's Army",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "3860",
+        "item_name": "Treasure Bag (Betsy)",
+        "chance": "100%"
+      },
+      {
+        "item_id": "3859",
+        "item_name": "Aerial Bane",
+        "chance": "25%"
+      },
+      {
+        "item_id": "3827",
+        "item_name": "Flying Dragon",
+        "chance": "25%"
+      },
+      {
+        "item_id": "3858",
+        "item_name": "Sky Dragons Fury",
+        "chance": "25%"
+      },
+      {
+        "item_id": "3870",
+        "item_name": "Betsys Wrath",
+        "chance": "25%"
+      }
+    ]
   },
   {
     "id": "618",
