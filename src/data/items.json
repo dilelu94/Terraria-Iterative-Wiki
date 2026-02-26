@@ -1318,7 +1318,7 @@
     "recipes": [
       {
         "name_en": "Copper Bar",
-        "amount": 16
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Copper_Greaves.png",
@@ -1327,10 +1327,9 @@
     "armor_set_es": "Armadura de cobre",
     "total_defense": "6",
     "set_stats": "+Ninguno",
-    "set_bonus": "+2 Defensa extra.",
+    "set_bonus": "+2 Defensa",
     "station_ids": [
-      "iron_anvil",
-      "36"
+      "35"
     ],
     "piece_defense": "1",
     "piece_armor": "1"
@@ -1344,7 +1343,7 @@
     "recipes": [
       {
         "name_en": "Iron Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Greaves.png",
@@ -1353,10 +1352,9 @@
     "armor_set_es": "Armadura de hierro",
     "total_defense": "9",
     "set_stats": "+Ninguno",
-    "set_bonus": "+2 Defensa extra.",
+    "set_bonus": "+2 Defensa",
     "station_ids": [
-      "iron_anvil",
-      "36"
+      "35"
     ],
     "piece_defense": "2",
     "piece_armor": "2"
@@ -1370,7 +1368,7 @@
     "recipes": [
       {
         "name_en": "Silver Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Greaves.png",
@@ -1379,10 +1377,9 @@
     "armor_set_es": "Armadura de plata",
     "total_defense": "13",
     "set_stats": "+Ninguno",
-    "set_bonus": "+3 Defensa extra.",
+    "set_bonus": "+3 Defensa",
     "station_ids": [
-      "iron_anvil",
-      "36"
+      "35"
     ],
     "piece_defense": "3",
     "piece_armor": "3"
@@ -1396,7 +1393,7 @@
     "recipes": [
       {
         "name_en": "Gold Bar",
-        "amount": 25
+        "amount": 30
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Greaves.png",
@@ -1405,9 +1402,9 @@
     "armor_set_es": "Armadura de oro",
     "total_defense": "16",
     "set_stats": "+Ninguno",
-    "set_bonus": "+3 Defensa extra.",
+    "set_bonus": "+3 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "4",
     "piece_armor": "4"
@@ -1421,11 +1418,7 @@
     "recipes": [
       {
         "name_en": "Iron Bar",
-        "amount": 25
-      },
-      {
-        "name_en": "Copper Bar",
-        "amount": 1
+        "amount": 30
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Chainmail.png",
@@ -1434,9 +1427,9 @@
     "armor_set_es": "Armadura de hierro",
     "total_defense": "9",
     "set_stats": "+Ninguno",
-    "set_bonus": "+2 Defensa extra.",
+    "set_bonus": "+2 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "3",
     "piece_armor": "3"
@@ -1450,11 +1443,7 @@
     "recipes": [
       {
         "name_en": "Silver Bar",
-        "amount": 25
-      },
-      {
-        "name_en": "Copper Bar",
-        "amount": 1
+        "amount": 30
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Chainmail.png",
@@ -1463,9 +1452,9 @@
     "armor_set_es": "Armadura de plata",
     "total_defense": "13",
     "set_stats": "+Ninguno",
-    "set_bonus": "+3 Defensa extra.",
+    "set_bonus": "+3 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "4",
     "piece_armor": "4"
@@ -1479,11 +1468,7 @@
     "recipes": [
       {
         "name_en": "Gold Bar",
-        "amount": 30
-      },
-      {
-        "name_en": "Copper Bar",
-        "amount": 1
+        "amount": 35
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Chainmail.png",
@@ -1492,9 +1477,9 @@
     "armor_set_es": "Armadura de oro",
     "total_defense": "16",
     "set_stats": "+Ninguno",
-    "set_bonus": "+3 Defensa extra.",
+    "set_bonus": "+3 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "5",
     "piece_armor": "5"
@@ -1577,11 +1562,7 @@
     "recipes": [
       {
         "name_en": "Iron Bar",
-        "amount": 15
-      },
-      {
-        "name_en": "Silver Bar",
-        "amount": 1
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Helmet.png",
@@ -1590,9 +1571,9 @@
     "armor_set_es": "Armadura de hierro",
     "total_defense": "9",
     "set_stats": "+Ninguno",
-    "set_bonus": "+2 Defensa extra.",
+    "set_bonus": "+2 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "2",
     "piece_armor": "2"
@@ -1606,7 +1587,7 @@
     "recipes": [
       {
         "name_en": "Silver Bar",
-        "amount": 15
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Helmet.png",
@@ -1615,9 +1596,9 @@
     "armor_set_es": "Armadura de plata",
     "total_defense": "13",
     "set_stats": "+Ninguno",
-    "set_bonus": "+3 Defensa extra.",
+    "set_bonus": "+3 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "3",
     "piece_armor": "3"
@@ -1631,11 +1612,7 @@
     "recipes": [
       {
         "name_en": "Gold Bar",
-        "amount": 20
-      },
-      {
-        "name_en": "Silver Bar",
-        "amount": 1
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Helmet.png",
@@ -1644,9 +1621,9 @@
     "armor_set_es": "Armadura de oro",
     "total_defense": "16",
     "set_stats": "+Ninguno",
-    "set_bonus": "+3 Defensa extra.",
+    "set_bonus": "+3 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "4",
     "piece_armor": "4"
@@ -1778,15 +1755,11 @@
     "recipes": [
       {
         "name_en": "Demonite Bar",
-        "amount": 20
-      },
-      {
-        "name_en": "Shadow Scale",
         "amount": 15
       },
       {
-        "name_en": "Gold Bar",
-        "amount": 1
+        "name_en": "Shadow Scale",
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Greaves.png",
@@ -1795,9 +1768,9 @@
     "armor_set_es": "Armadura de las sombras",
     "total_defense": "19",
     "set_stats": "+15% Crítico cuerpo a cuerpo",
-    "set_bonus": "+15% Velocidad de movimiento. Aceleración mejorada y rastro al moverse.",
+    "set_bonus": "+15% Vel. Movimiento",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 12 Escamas de las sombras)",
     "piece_defense": "6",
@@ -1812,15 +1785,11 @@
     "recipes": [
       {
         "name_en": "Demonite Bar",
-        "amount": 25
+        "amount": 15
       },
       {
         "name_en": "Shadow Scale",
         "amount": 20
-      },
-      {
-        "name_en": "Gold Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Scalemail.png",
@@ -1829,9 +1798,9 @@
     "armor_set_es": "Armadura de las sombras",
     "total_defense": "19",
     "set_stats": "+15% Crítico cuerpo a cuerpo",
-    "set_bonus": "+15% Velocidad de movimiento. Aceleración mejorada y rastro al moverse.",
+    "set_bonus": "+15% Vel. Movimiento",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de endemoniado + 15 Escamas de las sombras)",
     "piece_defense": "7",
@@ -1850,11 +1819,7 @@
       },
       {
         "name_en": "Shadow Scale",
-        "amount": 10
-      },
-      {
-        "name_en": "Gold Bar",
-        "amount": 1
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Helmet.png",
@@ -1863,9 +1828,9 @@
     "armor_set_es": "Armadura de las sombras",
     "total_defense": "19",
     "set_stats": "+15% Crítico cuerpo a cuerpo",
-    "set_bonus": "+15% Velocidad de movimiento. Aceleración mejorada y rastro al moverse.",
+    "set_bonus": "+15% Vel. Movimiento",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 10 Escamas de las sombras)",
     "piece_defense": "6",
@@ -2309,7 +2274,7 @@
     "recipes": [
       {
         "name_en": "Meteorite Bar",
-        "amount": 10
+        "amount": 15
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteor_Helmet.png",
@@ -2318,9 +2283,9 @@
     "armor_set_es": "Armadura de meteorito",
     "total_defense": "16",
     "set_stats": "+27% Daño mágico",
-    "set_bonus": "Las armas 'Space Gun' y 'Zapinator' no consumen Maná.",
+    "set_bonus": "Pistola espacial no consume maná",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (10 Lingotes de meteorito)",
     "piece_defense": "5",
@@ -2335,7 +2300,7 @@
     "recipes": [
       {
         "name_en": "Meteorite Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteor_Suit.png",
@@ -2344,9 +2309,9 @@
     "armor_set_es": "Armadura de meteorito",
     "total_defense": "16",
     "set_stats": "+27% Daño mágico",
-    "set_bonus": "Las armas 'Space Gun' y 'Zapinator' no consumen Maná.",
+    "set_bonus": "Pistola espacial no consume maná",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)",
     "piece_defense": "6",
@@ -2361,7 +2326,7 @@
     "recipes": [
       {
         "name_en": "Meteorite Bar",
-        "amount": 15
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteor_Leggings.png",
@@ -2370,9 +2335,9 @@
     "armor_set_es": "Armadura de meteorito",
     "total_defense": "16",
     "set_stats": "+27% Daño mágico",
-    "set_bonus": "Las armas 'Space Gun' y 'Zapinator' no consumen Maná.",
+    "set_bonus": "Pistola espacial no consume maná",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de meteorito)",
     "piece_defense": "5",
@@ -2820,16 +2785,25 @@
     "name_en": "Necro Helmet",
     "name_es": "Muramasa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Necro_Helmet",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Bone",
+        "amount": 40
+      },
+      {
+        "name_en": "Cobweb",
+        "amount": 40
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necro_Helmet.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
     "armor_set_es": "Armadura necro",
     "total_defense": "19",
     "set_stats": "+15% Daño a distancia / +10% Crítico a distancia",
-    "set_bonus": "20% de probabilidad de no consumir munición.",
+    "set_bonus": "15% de probabilidad de no consumir munición",
     "station_ids": [
-      "exploration"
+      "36"
     ],
     "origin_info": "Cofre dorado (Mazmorra)",
     "piece_defense": "6",
@@ -2841,16 +2815,25 @@
     "name_en": "Necro Breastplate",
     "name_es": "Escudo de cobalto",
     "wiki_url": "https://terraria.wiki.gg/wiki/Necro_Breastplate",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Bone",
+        "amount": 40
+      },
+      {
+        "name_en": "Cobweb",
+        "amount": 40
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necro_Breastplate.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
     "armor_set_es": "Armadura necro",
     "total_defense": "19",
     "set_stats": "+15% Daño a distancia / +10% Crítico a distancia",
-    "set_bonus": "20% de probabilidad de no consumir munición.",
+    "set_bonus": "15% de probabilidad de no consumir munición",
     "station_ids": [
-      "exploration"
+      "36"
     ],
     "origin_info": "Cofre dorado (Mazmorra)",
     "piece_defense": "7",
@@ -2862,16 +2845,25 @@
     "name_en": "Necro Greaves",
     "name_es": "Cetro de agua",
     "wiki_url": "https://terraria.wiki.gg/wiki/Necro_Greaves",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Bone",
+        "amount": 40
+      },
+      {
+        "name_en": "Cobweb",
+        "amount": 40
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necro_Greaves.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
     "armor_set_es": "Armadura necro",
     "total_defense": "19",
     "set_stats": "+15% Daño a distancia / +10% Crítico a distancia",
-    "set_bonus": "20% de probabilidad de no consumir munición.",
+    "set_bonus": "15% de probabilidad de no consumir munición",
     "station_ids": [
-      "exploration"
+      "36"
     ],
     "origin_info": "Cofre dorado (Mazmorra)",
     "piece_defense": "6",
@@ -4108,9 +4100,9 @@
     "armor_set_es": "Armadura fundida",
     "total_defense": "25",
     "set_stats": "+17% Daño cuerpo a cuerpo / +7% Crítico cuerpo a cuerpo / +7% Velocidad de ataque",
-    "set_bonus": "Inmunidad al bloque de fuego (Piedra Infernal).",
+    "set_bonus": "No puedes ser incendiado + 10% Daño Melee",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)",
     "piece_defense": "8",
@@ -4134,9 +4126,9 @@
     "armor_set_es": "Armadura fundida",
     "total_defense": "25",
     "set_stats": "+17% Daño cuerpo a cuerpo / +7% Crítico cuerpo a cuerpo / +7% Velocidad de ataque",
-    "set_bonus": "Inmunidad al bloque de fuego (Piedra Infernal).",
+    "set_bonus": "No puedes ser incendiado + 10% Daño Melee",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "9",
     "piece_armor": "9"
@@ -4159,9 +4151,9 @@
     "armor_set_es": "Armadura fundida",
     "total_defense": "25",
     "set_stats": "+17% Daño cuerpo a cuerpo / +7% Crítico cuerpo a cuerpo / +7% Velocidad de ataque",
-    "set_bonus": "Inmunidad al bloque de fuego (Piedra Infernal).",
+    "set_bonus": "No puedes ser incendiado + 10% Daño Melee",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "8",
     "piece_armor": "8"
@@ -4532,9 +4524,9 @@
     "armor_set_es": "Armadura de ninja",
     "total_defense": "9",
     "set_stats": "+9% Probabilidad de Crítico",
-    "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
+    "set_bonus": "+20% Vel. Movimiento",
     "station_ids": [],
-    "origin_info": "Botín: Rey Slime",
+    "origin_info": "Soltado por el Rey Slime",
     "piece_defense": "2",
     "piece_armor": "2"
   },
@@ -4551,9 +4543,9 @@
     "armor_set_es": "Armadura de ninja",
     "total_defense": "9",
     "set_stats": "+9% Probabilidad de Crítico",
-    "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
+    "set_bonus": "+20% Vel. Movimiento",
     "station_ids": [],
-    "origin_info": "Botín: Rey Slime",
+    "origin_info": "Soltado por el Rey Slime",
     "piece_defense": "4",
     "piece_armor": "4"
   },
@@ -4570,9 +4562,9 @@
     "armor_set_es": "Armadura de ninja",
     "total_defense": "9",
     "set_stats": "+9% Probabilidad de Crítico",
-    "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
+    "set_bonus": "+20% Vel. Movimiento",
     "station_ids": [],
-    "origin_info": "Botín: Rey Slime",
+    "origin_info": "Soltado por el Rey Slime",
     "piece_defense": "3",
     "piece_armor": "3"
   },
@@ -6607,11 +6599,11 @@
     "piece_effects": "+40 Maná máximo | +10% daño mágico | +9% crítico mágico",
     "set_bonus": "-14% de coste de Maná",
     "station_ids": [
-      "mythril_anvil"
+      "35"
     ],
     "piece_armor": "2",
     "armor_set_es": "Armadura de cobalto",
-    "armor_set_en": "Armor of cobalto"
+    "armor_set_en": "Cobalt Armor"
   },
   {
     "id": "372",
@@ -6632,11 +6624,11 @@
     "piece_effects": "+15% vel. de ataque cuerpo a cuerpo",
     "set_bonus": "+15% vel. ataque cuerpo a cuerpo (Total: +27%)",
     "station_ids": [
-      "mythril_anvil"
+      "35"
     ],
     "piece_armor": "12",
     "armor_set_es": "Armadura de cobalto",
-    "armor_set_en": "Armor of cobalto"
+    "armor_set_en": "Cobalt Armor"
   },
   {
     "id": "373",
@@ -6657,11 +6649,11 @@
     "piece_effects": "+10% daño a distancia | +6% crítico a distancia",
     "set_bonus": "20% de probabilidad de no consumir munición",
     "station_ids": [
-      "mythril_anvil"
+      "35"
     ],
     "piece_armor": "4",
     "armor_set_es": "Armadura de cobalto",
-    "armor_set_en": "Armor of cobalto"
+    "armor_set_en": "Cobalt Armor"
   },
   {
     "id": "374",
@@ -6677,14 +6669,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cobalt_Breastplate.png",
     "station_ids": [
-      "mythril_anvil",
-      "330"
+      "35"
     ],
     "piece_defense": "8",
     "is_armor": true,
     "piece_armor": "8",
     "armor_set_es": "Armadura de cobalto",
-    "armor_set_en": "Armor of cobalto"
+    "armor_set_en": "Cobalt Armor"
   },
   {
     "id": "375",
@@ -6700,14 +6691,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cobalt_Leggings.png",
     "station_ids": [
-      "mythril_anvil",
-      "330"
+      "35"
     ],
     "piece_defense": "7",
     "is_armor": true,
     "piece_armor": "7",
     "armor_set_es": "Armadura de cobalto",
-    "armor_set_en": "Armor of cobalto"
+    "armor_set_en": "Cobalt Armor"
   },
   {
     "id": "376",
@@ -6719,21 +6709,17 @@
       {
         "name_en": "Mythril Bar",
         "amount": 10
-      },
-      {
-        "name_en": "Cobalt Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Hood.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_defense": "2",
     "is_armor": true,
     "piece_armor": "2",
     "armor_set_es": "Armadura de mithril",
-    "armor_set_en": "Armor of mithril"
+    "armor_set_en": "Mythril Armor"
   },
   {
     "id": "377",
@@ -6745,21 +6731,17 @@
       {
         "name_en": "Mythril Bar",
         "amount": 10
-      },
-      {
-        "name_en": "Cobalt Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Helmet.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_defense": "15",
     "is_armor": true,
     "piece_armor": "15",
     "armor_set_es": "Armadura de mithril",
-    "armor_set_en": "Armor of mithril"
+    "armor_set_en": "Mythril Armor"
   },
   {
     "id": "378",
@@ -6767,17 +6749,22 @@
     "name_en": "Mythril Hat",
     "name_es": "Escarabajo de Hércules",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mythril_Hat",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Mythril Bar",
+        "amount": 10
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Hat.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Compra: Médico brujo (Selva)",
     "piece_defense": "6",
     "is_armor": true,
     "piece_armor": "6",
     "armor_set_es": "Armadura de Hércules",
-    "armor_set_en": "Armor of Hércules"
+    "armor_set_en": "Mythril Armor"
   },
   {
     "id": "379",
@@ -6798,11 +6785,11 @@
     "piece_effects": "+60 Maná máximo | +15% daño mágico",
     "set_bonus": "-17% de coste de Maná",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_armor": "12",
     "armor_set_es": "Armadura de malla",
-    "armor_set_en": "Armor of malla"
+    "armor_set_en": "Mythril Armor"
   },
   {
     "id": "380",
@@ -6823,11 +6810,11 @@
     "piece_effects": "+10% daño cuerpo a cuerpo | +5% crítico cuerpo a cuerpo",
     "set_bonus": "+5% crítico cuerpo a cuerpo",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_armor": "10",
     "armor_set_es": "Armadura de mithril",
-    "armor_set_en": "Armor of mithril"
+    "armor_set_en": "Mythril Armor"
   },
   {
     "id": "381",
@@ -7198,12 +7185,12 @@
     "piece_effects": "+80 Maná máximo | +11% daño y crítico mágico",
     "set_bonus": "-19% de coste de Maná",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Minado: Bendición (Hallow)",
     "piece_armor": "4",
     "armor_set_es": "Armadura de piedra perlada",
-    "armor_set_en": "Armor of piedra perlada"
+    "armor_set_en": "Adamantite Armor"
   },
   {
     "id": "401",
@@ -7220,16 +7207,16 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Helmet.png",
     "is_armor": true,
     "armor_class": "Cuerpo a cuerpo",
-    "piece_defense": "22",
+    "piece_defense": "8",
     "piece_effects": "+14% daño cuerpo a cuerpo | +7% crítico cuerpo a cuerpo",
     "set_bonus": "+18% velocidad de ataque y movimiento cuerpo a cuerpo",
     "station_ids": [
-      "398"
+      "525"
     ],
     "origin_info": "Fabricado: Taller de chapuzas (Botas cohete + Botas de Hermes/Ráfaga/Pez vela/Caminadunas)",
-    "piece_armor": "22",
+    "piece_armor": "8",
     "armor_set_es": "Armadura de espectro",
-    "armor_set_en": "Armor of espectro"
+    "armor_set_en": "Adamantite Armor"
   },
   {
     "id": "402",
@@ -7246,15 +7233,15 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Mask.png",
     "is_armor": true,
     "armor_class": "A distancia",
-    "piece_defense": "8",
+    "piece_defense": "22",
     "piece_effects": "+14% daño a distancia | +8% crítico a distancia",
     "set_bonus": "25% de probabilidad de no consumir munición",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
-    "piece_armor": "8",
+    "piece_armor": "22",
     "armor_set_es": "Armadura de adamantita",
-    "armor_set_en": "Armor of adamantita"
+    "armor_set_en": "Adamantite Armor"
   },
   {
     "id": "403",
@@ -7270,14 +7257,14 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Breastplate.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "16",
     "is_armor": true,
     "piece_armor": "16",
     "armor_set_es": "Armadura de adamantita",
-    "armor_set_en": "Armor of adamantita"
+    "armor_set_en": "Adamantite Armor"
   },
   {
     "id": "404",
@@ -7293,14 +7280,14 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Leggings.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "12",
     "is_armor": true,
     "piece_armor": "12",
     "armor_set_es": "Armadura de adamantita",
-    "armor_set_en": "Armor of adamantita"
+    "armor_set_en": "Adamantite Armor"
   },
   {
     "id": "405",
@@ -9494,13 +9481,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Plate_Mail.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_defense": "15",
     "is_armor": true,
     "piece_armor": "15",
     "armor_set_es": "Armadura de placas sagrada",
-    "armor_set_en": "Armor of placas sagrada"
+    "armor_set_en": "Hallowed Armor"
   },
   {
     "id": "552",
@@ -9516,11 +9503,12 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Greaves.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_defense": "11",
     "is_armor": true,
-    "piece_armor": "11"
+    "piece_armor": "11",
+    "armor_set_en": "Hallowed Armor"
   },
   {
     "id": "553",
@@ -9541,9 +9529,10 @@
     "piece_effects": "+10% daño y crítico cuerpo a cuerpo | +10% vel. ataque",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
-    "piece_armor": "9"
+    "piece_armor": "9",
+    "armor_set_en": "Hallowed Armor"
   },
   {
     "id": "554",
@@ -9655,9 +9644,10 @@
     "piece_effects": "+100 Maná máximo | +12% daño y crítico mágico",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
-    "piece_armor": "7"
+    "piece_armor": "7",
+    "armor_set_en": "Hallowed Armor"
   },
   {
     "id": "559",
@@ -9678,9 +9668,10 @@
     "piece_effects": "+15% daño a distancia | +8% crítico a distancia",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
-    "piece_armor": "24"
+    "piece_armor": "24",
+    "armor_set_en": "Hallowed Armor"
   },
   {
     "id": "560",
@@ -11859,19 +11850,20 @@
     "recipes": [
       {
         "name_en": "Tin Bar",
-        "amount": 12
+        "amount": 15
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Helmet.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "2",
     "total_defense": "7",
     "is_armor": true,
     "piece_armor": "2",
     "armor_set_es": "Armadura de estaño",
-    "armor_set_en": "Armor of estaño"
+    "armor_set_en": "Tin Armor",
+    "set_bonus": "+2 Defensa"
   },
   {
     "id": "688",
@@ -11882,19 +11874,20 @@
     "recipes": [
       {
         "name_en": "Tin Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Chainmail.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "2",
     "total_defense": "7",
     "is_armor": true,
     "piece_armor": "2",
     "armor_set_es": "Armadura de malla",
-    "armor_set_en": "Armor of malla"
+    "armor_set_en": "Tin Armor",
+    "set_bonus": "+2 Defensa"
   },
   {
     "id": "689",
@@ -11905,19 +11898,20 @@
     "recipes": [
       {
         "name_en": "Tin Bar",
-        "amount": 16
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Greaves.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "1",
     "total_defense": "7",
     "is_armor": true,
     "piece_armor": "1",
     "armor_set_es": "Armadura de estaño",
-    "armor_set_en": "Armor of estaño"
+    "armor_set_en": "Tin Armor",
+    "set_bonus": "+2 Defensa"
   },
   {
     "id": "690",
@@ -11928,19 +11922,20 @@
     "recipes": [
       {
         "name_en": "Lead Bar",
-        "amount": 15
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Helmet.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "3",
     "total_defense": "11",
     "is_armor": true,
     "piece_armor": "3",
     "armor_set_es": "Armadura de plomo",
-    "armor_set_en": "Armor of plomo"
+    "armor_set_en": "Lead Armor",
+    "set_bonus": "+3 Defensa"
   },
   {
     "id": "691",
@@ -11951,19 +11946,20 @@
     "recipes": [
       {
         "name_en": "Lead Bar",
-        "amount": 25
+        "amount": 30
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Chainmail.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "3",
     "total_defense": "11",
     "is_armor": true,
     "piece_armor": "3",
     "armor_set_es": "Armadura de malla",
-    "armor_set_en": "Armor of malla"
+    "armor_set_en": "Lead Armor",
+    "set_bonus": "+3 Defensa"
   },
   {
     "id": "692",
@@ -11974,19 +11970,20 @@
     "recipes": [
       {
         "name_en": "Lead Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Greaves.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "2",
     "total_defense": "11",
     "is_armor": true,
     "piece_armor": "2",
     "armor_set_es": "Armadura de plomo",
-    "armor_set_en": "Armor of plomo"
+    "armor_set_en": "Lead Armor",
+    "set_bonus": "+3 Defensa"
   },
   {
     "id": "693",
@@ -11997,19 +11994,20 @@
     "recipes": [
       {
         "name_en": "Tungsten Bar",
-        "amount": 15
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Helmet.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "4",
     "total_defense": "15",
     "is_armor": true,
     "piece_armor": "4",
     "armor_set_es": "Armadura de tungsteno",
-    "armor_set_en": "Armor of tungsteno"
+    "armor_set_en": "Tungsten Armor",
+    "set_bonus": "+3 Defensa"
   },
   {
     "id": "694",
@@ -12020,19 +12018,20 @@
     "recipes": [
       {
         "name_en": "Tungsten Bar",
-        "amount": 25
+        "amount": 30
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Chainmail.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "5",
     "total_defense": "15",
     "is_armor": true,
     "piece_armor": "5",
     "armor_set_es": "Armadura de malla",
-    "armor_set_en": "Armor of malla"
+    "armor_set_en": "Tungsten Armor",
+    "set_bonus": "+3 Defensa"
   },
   {
     "id": "695",
@@ -12043,19 +12042,20 @@
     "recipes": [
       {
         "name_en": "Tungsten Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Greaves.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "3",
     "total_defense": "15",
     "is_armor": true,
     "piece_armor": "3",
     "armor_set_es": "Armadura de tungsteno",
-    "armor_set_en": "Armor of tungsteno"
+    "armor_set_en": "Tungsten Armor",
+    "set_bonus": "+3 Defensa"
   },
   {
     "id": "696",
@@ -12066,7 +12066,7 @@
     "recipes": [
       {
         "name_en": "Platinum Bar",
-        "amount": 20
+        "amount": 25
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Platinum_Helmet.png",
@@ -12075,9 +12075,9 @@
     "armor_set_es": "Armadura de platino",
     "total_defense": "20",
     "set_stats": "+Ninguno",
-    "set_bonus": "+4 Defensa extra.",
+    "set_bonus": "+4 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "5",
     "piece_armor": "5"
@@ -12091,7 +12091,7 @@
     "recipes": [
       {
         "name_en": "Platinum Bar",
-        "amount": 30
+        "amount": 35
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Platinum_Chainmail.png",
@@ -12100,9 +12100,9 @@
     "armor_set_es": "Armadura de platino",
     "total_defense": "20",
     "set_stats": "+Ninguno",
-    "set_bonus": "+4 Defensa extra.",
+    "set_bonus": "+4 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "6",
     "piece_armor": "6"
@@ -12116,7 +12116,7 @@
     "recipes": [
       {
         "name_en": "Platinum Bar",
-        "amount": 25
+        "amount": 30
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Platinum_Greaves.png",
@@ -12125,9 +12125,9 @@
     "armor_set_es": "Armadura de platino",
     "total_defense": "20",
     "set_stats": "+Ninguno",
-    "set_bonus": "+4 Defensa extra.",
+    "set_bonus": "+4 Defensa",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "5",
     "piece_armor": "5"
@@ -12784,10 +12784,6 @@
       {
         "name_en": "Ebonwood",
         "amount": 20
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ebonwood_Helmet.png",
@@ -12800,7 +12796,8 @@
     "is_armor": true,
     "piece_armor": "1",
     "armor_set_es": "Armadura de madera",
-    "armor_set_en": "Armor of madera"
+    "armor_set_en": "Ebonwood Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "731",
@@ -12812,10 +12809,6 @@
       {
         "name_en": "Ebonwood",
         "amount": 30
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ebonwood_Breastplate.png",
@@ -12828,7 +12821,8 @@
     "is_armor": true,
     "piece_armor": "2",
     "armor_set_es": "Armadura de madera",
-    "armor_set_en": "Armor of madera"
+    "armor_set_en": "Ebonwood Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "732",
@@ -12840,10 +12834,6 @@
       {
         "name_en": "Ebonwood",
         "amount": 25
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ebonwood_Greaves.png",
@@ -12856,7 +12846,8 @@
     "is_armor": true,
     "piece_armor": "1",
     "armor_set_es": "Armadura de madera",
-    "armor_set_en": "Armor of madera"
+    "armor_set_en": "Ebonwood Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "733",
@@ -12868,10 +12859,6 @@
       {
         "name_en": "Rich Mahogany",
         "amount": 20
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rich_Mahogany_Helmet.png",
@@ -12884,7 +12871,8 @@
     "is_armor": true,
     "piece_armor": "1",
     "armor_set_es": "Armadura de madera rica",
-    "armor_set_en": "Armor of madera rica"
+    "armor_set_en": "Rich Mahogany Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "734",
@@ -12908,7 +12896,8 @@
     "is_armor": true,
     "piece_armor": "1",
     "armor_set_es": "Armadura de madera rica",
-    "armor_set_en": "Armor of madera rica"
+    "armor_set_en": "Rich Mahogany Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "735",
@@ -12932,7 +12921,8 @@
     "is_armor": true,
     "piece_armor": "1",
     "armor_set_es": "Armadura de madera rica",
-    "armor_set_en": "Armor of madera rica"
+    "armor_set_en": "Rich Mahogany Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "736",
@@ -12955,7 +12945,8 @@
     "is_armor": true,
     "piece_armor": "2",
     "armor_set_es": "Armadura de madera perlada",
-    "armor_set_en": "Armor of madera perlada"
+    "armor_set_en": "Pearlwood Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "737",
@@ -12978,7 +12969,8 @@
     "is_armor": true,
     "piece_armor": "3",
     "armor_set_es": "Armadura de madera perlada",
-    "armor_set_en": "Armor of madera perlada"
+    "armor_set_en": "Pearlwood Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "738",
@@ -13001,7 +12993,8 @@
     "is_armor": true,
     "piece_armor": "3",
     "armor_set_es": "Armadura de madera perlada",
-    "armor_set_en": "Armor of madera perlada"
+    "armor_set_en": "Pearlwood Armor",
+    "set_bonus": "+1 Defensa"
   },
   {
     "id": "739",
@@ -13718,7 +13711,7 @@
       },
       {
         "name_en": "Tissue Sample",
-        "amount": 10
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimson_Helmet.png",
@@ -13727,9 +13720,9 @@
     "armor_set_es": "Armadura carmesí",
     "total_defense": "19",
     "set_stats": "+9% Daño general",
-    "set_bonus": "Aumenta enormemente la regeneración de vida.",
+    "set_bonus": "Gran aumento de regeneración de vida",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 10 Muestra de tejido)",
     "piece_defense": "6",
@@ -13744,7 +13737,7 @@
     "recipes": [
       {
         "name_en": "Crimtane Bar",
-        "amount": 25
+        "amount": 15
       },
       {
         "name_en": "Tissue Sample",
@@ -13757,9 +13750,9 @@
     "armor_set_es": "Armadura carmesí",
     "total_defense": "19",
     "set_stats": "+9% Daño general",
-    "set_bonus": "Aumenta enormemente la regeneración de vida.",
+    "set_bonus": "Gran aumento de regeneración de vida",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de carmesí + 15 Muestra de tejido)",
     "piece_defense": "7",
@@ -13774,11 +13767,11 @@
     "recipes": [
       {
         "name_en": "Crimtane Bar",
-        "amount": 20
+        "amount": 15
       },
       {
         "name_en": "Tissue Sample",
-        "amount": 15
+        "amount": 20
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimson_Greaves.png",
@@ -13787,9 +13780,9 @@
     "armor_set_es": "Armadura carmesí",
     "total_defense": "19",
     "set_stats": "+9% Daño general",
-    "set_bonus": "Aumenta enormemente la regeneración de vida.",
+    "set_bonus": "Gran aumento de regeneración de vida",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 12 Muestra de tejido)",
     "piece_defense": "6",
@@ -15841,7 +15834,12 @@
     "station_ids": [
       "36"
     ],
-    "is_armor": true
+    "is_armor": true,
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "total_defense": "4",
+    "set_bonus": "+1 Defensa",
+    "armor_set_en": "Shadewood Armor"
   },
   {
     "id": "925",
@@ -15859,7 +15857,12 @@
     "station_ids": [
       "36"
     ],
-    "is_armor": true
+    "is_armor": true,
+    "piece_defense": "2",
+    "piece_armor": "2",
+    "total_defense": "4",
+    "set_bonus": "+1 Defensa",
+    "armor_set_en": "Shadewood Armor"
   },
   {
     "id": "926",
@@ -15877,7 +15880,12 @@
     "station_ids": [
       "36"
     ],
-    "is_armor": true
+    "is_armor": true,
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "total_defense": "4",
+    "set_bonus": "+1 Defensa",
+    "armor_set_en": "Shadewood Armor"
   },
   {
     "id": "927",
@@ -17024,12 +17032,12 @@
     "piece_effects": "+16% daño cuerpo a cuerpo | +6% crítico cuerpo a cuerpo",
     "set_bonus": "Invoca un cristal de hojas sobre tu cabeza que dispara",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
     "piece_armor": "25",
     "armor_set_es": "Armadura de clorofita",
-    "armor_set_en": "Armor of clorofita"
+    "armor_set_en": "Chlorophyte Armor"
   },
   {
     "id": "1002",
@@ -17050,12 +17058,12 @@
     "piece_effects": "+16% daño a distancia | 20% prob. no usar munición",
     "set_bonus": "Invoca un cristal de hojas sobre tu cabeza que dispara",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
     "piece_armor": "13",
     "armor_set_es": "Armadura de clorofita",
-    "armor_set_en": "Armor of clorofita"
+    "armor_set_en": "Chlorophyte Armor"
   },
   {
     "id": "1003",
@@ -17076,12 +17084,12 @@
     "piece_effects": "+80 Maná máximo | +16% daño mágico | +5% crítico mágico",
     "set_bonus": "Invoca un cristal de hojas sobre tu cabeza que dispara",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
     "piece_armor": "7",
     "armor_set_es": "Armadura de clorofita",
-    "armor_set_en": "Armor of clorofita"
+    "armor_set_en": "Chlorophyte Armor"
   },
   {
     "id": "1004",
@@ -17097,14 +17105,14 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Plate_Mail.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes de clorofita)",
     "piece_defense": "18",
     "is_armor": true,
     "piece_armor": "18",
     "armor_set_es": "Armadura de placas",
-    "armor_set_en": "Armor of placas"
+    "armor_set_en": "Chlorophyte Armor"
   },
   {
     "id": "1005",
@@ -17120,14 +17128,14 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Greaves.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes de clorofita)",
     "piece_defense": "13",
     "is_armor": true,
     "piece_armor": "13",
     "armor_set_es": "Armadura de clorofita",
-    "armor_set_en": "Armor of clorofita"
+    "armor_set_en": "Chlorophyte Armor"
   },
   {
     "id": "1006",
@@ -20399,21 +20407,17 @@
       {
         "name_en": "Palladium Bar",
         "amount": 12
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Mask.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "14",
     "is_armor": true,
     "piece_armor": "14",
     "armor_set_es": "Armadura de paladio",
-    "armor_set_en": "Armor of paladio"
+    "armor_set_en": "Palladium Armor"
   },
   {
     "id": "1206",
@@ -20425,21 +20429,17 @@
       {
         "name_en": "Palladium Bar",
         "amount": 12
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Helmet.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "5",
     "is_armor": true,
     "piece_armor": "5",
     "armor_set_es": "Armadura de paladio",
-    "armor_set_en": "Armor of paladio"
+    "armor_set_en": "Palladium Armor"
   },
   {
     "id": "1207",
@@ -20451,21 +20451,17 @@
       {
         "name_en": "Palladium Bar",
         "amount": 12
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Headgear.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "3",
     "is_armor": true,
     "piece_armor": "3",
     "armor_set_es": "Armadura de paladio",
-    "armor_set_en": "Armor of paladio"
+    "armor_set_en": "Palladium Armor"
   },
   {
     "id": "1208",
@@ -20476,22 +20472,18 @@
     "recipes": [
       {
         "name_en": "Palladium Bar",
-        "amount": 24
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
+        "amount": 18
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Breastplate.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "10",
     "is_armor": true,
     "piece_armor": "10",
     "armor_set_es": "Armadura de paladio",
-    "armor_set_en": "Armor of paladio"
+    "armor_set_en": "Palladium Armor"
   },
   {
     "id": "1209",
@@ -20502,22 +20494,18 @@
     "recipes": [
       {
         "name_en": "Palladium Bar",
-        "amount": 18
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
+        "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Leggings.png",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "8",
     "is_armor": true,
     "piece_armor": "8",
     "armor_set_es": "Armadura de paladio",
-    "armor_set_en": "Armor of paladio"
+    "armor_set_en": "Palladium Armor"
   },
   {
     "id": "1210",
@@ -20529,21 +20517,17 @@
       {
         "name_en": "Orichalcum Bar",
         "amount": 12
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Mask.png",
     "station_ids": [
-      "iron_anvil"
+      "525"
     ],
     "piece_defense": "19",
     "is_armor": true,
     "piece_armor": "19",
     "armor_set_es": "Armadura de oricalco",
-    "armor_set_en": "Armor of oricalco"
+    "armor_set_en": "Orichalcum Armor"
   },
   {
     "id": "1211",
@@ -20555,21 +20539,17 @@
       {
         "name_en": "Orichalcum Bar",
         "amount": 12
-      },
-      {
-        "name_en": "Crimtane Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Helmet.png",
     "station_ids": [
-      "iron_anvil"
+      "525"
     ],
     "piece_defense": "7",
     "is_armor": true,
     "piece_armor": "7",
     "armor_set_es": "Armadura de oricalco",
-    "armor_set_en": "Armor of oricalco"
+    "armor_set_en": "Orichalcum Armor"
   },
   {
     "id": "1212",
@@ -20585,13 +20565,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Headgear.png",
     "station_ids": [
-      "iron_anvil"
+      "525"
     ],
     "piece_defense": "4",
     "is_armor": true,
     "piece_armor": "4",
     "armor_set_es": "Armadura de oricalco",
-    "armor_set_en": "Armor of oricalco"
+    "armor_set_en": "Orichalcum Armor"
   },
   {
     "id": "1213",
@@ -20602,18 +20582,18 @@
     "recipes": [
       {
         "name_en": "Orichalcum Bar",
-        "amount": 24
+        "amount": 18
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Breastplate.png",
     "station_ids": [
-      "iron_anvil"
+      "525"
     ],
     "piece_defense": "13",
     "is_armor": true,
     "piece_armor": "13",
     "armor_set_es": "Armadura de oricalco",
-    "armor_set_en": "Armor of oricalco"
+    "armor_set_en": "Orichalcum Armor"
   },
   {
     "id": "1214",
@@ -20624,19 +20604,19 @@
     "recipes": [
       {
         "name_en": "Orichalcum Bar",
-        "amount": 18
+        "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Leggings.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)",
     "piece_defense": "11",
     "is_armor": true,
     "piece_armor": "11",
     "armor_set_es": "Armadura de mithril",
-    "armor_set_en": "Armor of mithril"
+    "armor_set_en": "Orichalcum Armor"
   },
   {
     "id": "1215",
@@ -20652,14 +20632,14 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Mask.png",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "23",
     "is_armor": true,
     "piece_armor": "23",
     "armor_set_es": "Armadura de adamantita",
-    "armor_set_en": "Armor of adamantita"
+    "armor_set_en": "Titanium Armor"
   },
   {
     "id": "1216",
@@ -20675,7 +20655,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Helmet.png",
     "station_ids": [
-      "36"
+      "525"
     ],
     "origin_info": "Fabricado: Mesa de trabajo (20 Madera sombría)",
     "piece_defense": "8",
@@ -20683,7 +20663,7 @@
     "is_armor": true,
     "piece_armor": "8",
     "armor_set_es": "Armadura de madera sombría",
-    "armor_set_en": "Armor of madera sombría"
+    "armor_set_en": "Titanium Armor"
   },
   {
     "id": "1217",
@@ -20699,7 +20679,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Headgear.png",
     "station_ids": [
-      "36"
+      "525"
     ],
     "origin_info": "Fabricado: Mesa de trabajo (30 Madera sombría)",
     "piece_defense": "4",
@@ -20707,7 +20687,7 @@
     "is_armor": true,
     "piece_armor": "4",
     "armor_set_es": "Armadura de madera sombría",
-    "armor_set_en": "Armor of madera sombría"
+    "armor_set_en": "Titanium Armor"
   },
   {
     "id": "1218",
@@ -20723,7 +20703,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Breastplate.png",
     "station_ids": [
-      "36"
+      "525"
     ],
     "origin_info": "Fabricado: Mesa de trabajo (25 Madera sombría)",
     "piece_defense": "18",
@@ -20731,7 +20711,7 @@
     "is_armor": true,
     "piece_armor": "18",
     "armor_set_es": "Armadura de madera sombría",
-    "armor_set_en": "Armor of madera sombría"
+    "armor_set_en": "Titanium Armor"
   },
   {
     "id": "1219",
@@ -20747,13 +20727,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Leggings.png",
     "station_ids": [
-      "iron_anvil"
+      "525"
     ],
     "piece_defense": "13",
     "is_armor": true,
     "piece_armor": "13",
     "armor_set_es": "Armadura de titanio",
-    "armor_set_en": "Armor of titanio"
+    "armor_set_en": "Titanium Armor"
   },
   {
     "id": "1220",
@@ -24587,20 +24567,22 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Hood",
     "recipes": [
       {
-        "name_en": "Spectre Bar",
+        "name_en": [
+          "Spectre Bar"
+        ],
         "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Hood.png",
     "station_ids": [
-      "36"
+      "525"
     ],
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "6",
     "is_armor": true,
     "piece_armor": "6",
     "armor_set_es": "Armadura de esquimal rosa",
-    "armor_set_en": "Armor of esquimal rosa"
+    "armor_set_en": "Spectre Armor"
   },
   {
     "id": "1504",
@@ -24610,20 +24592,22 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Robe",
     "recipes": [
       {
-        "name_en": "Spectre Bar",
+        "name_en": [
+          "Spectre Bar"
+        ],
         "amount": 24
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Robe.png",
     "station_ids": [
-      "36"
+      "525"
     ],
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "14",
     "is_armor": true,
     "piece_armor": "14",
     "armor_set_es": "Armadura de esquimal rosa",
-    "armor_set_en": "Armor of esquimal rosa"
+    "armor_set_en": "Spectre Armor"
   },
   {
     "id": "1505",
@@ -24633,20 +24617,22 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Pants",
     "recipes": [
       {
-        "name_en": "Spectre Bar",
+        "name_en": [
+          "Spectre Bar"
+        ],
         "amount": 18
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Pants.png",
     "station_ids": [
-      "36"
+      "525"
     ],
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "10",
     "is_armor": true,
     "piece_armor": "10",
     "armor_set_es": "Armadura de esquimal rosa",
-    "armor_set_en": "Armor of esquimal rosa"
+    "armor_set_en": "Spectre Armor"
   },
   {
     "id": "1506",
@@ -34241,7 +34227,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Mask",
     "recipes": [
       {
-        "name_en": "Spectre Bar",
+        "name_en": [
+          "Spectre Bar"
+        ],
         "amount": 12
       }
     ],
@@ -34252,11 +34240,11 @@
     "piece_effects": "+60 Maná máximo | +10% daño mágico | +5% crítico mágico",
     "set_bonus": "El daño mágico genera orbes rastreadores que dañan enemigos",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
     "piece_armor": "14",
     "armor_set_es": "Armadura de espectro",
-    "armor_set_en": "Armor of espectro"
+    "armor_set_en": "Spectre Armor"
   },
   {
     "id": "2190",
@@ -34470,14 +34458,13 @@
         "amount": 8
       },
       {
-        "name_en": "Turtle Scale Mail",
+        "name_en": "Beetle Scale Mail",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Beetle_Shell.png",
     "station_ids": [
-      "iron_anvil",
-      "mythril_anvil"
+      "525"
     ],
     "piece_defense": "32",
     "is_armor": true,
@@ -39379,11 +39366,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Boreal_Wood_Helmet.png",
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Boreal Wood Armor",
     "armor_set_es": "Armadura de madera",
     "total_defense": "3",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
@@ -39404,11 +39391,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Boreal_Wood_Breastplate.png",
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Boreal Wood Armor",
     "armor_set_es": "Armadura de madera",
     "total_defense": "3",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
@@ -39429,11 +39416,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Boreal_Wood_Greaves.png",
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Boreal Wood Armor",
     "armor_set_es": "Armadura de madera",
     "total_defense": "3",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
@@ -39454,11 +39441,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palm_Wood_Helmet.png",
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Palm Wood Armor",
     "armor_set_es": "Armadura de madera",
     "total_defense": "3",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
@@ -39479,11 +39466,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palm_Wood_Breastplate.png",
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Palm Wood Armor",
     "armor_set_es": "Armadura de madera",
     "total_defense": "3",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
@@ -39504,11 +39491,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palm_Wood_Greaves.png",
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Palm Wood Armor",
     "armor_set_es": "Armadura de madera",
     "total_defense": "3",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
@@ -43892,12 +43879,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Helmet",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 8
-      },
-      {
         "name_en": "Vortex Fragment",
         "amount": 10
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 8
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Helmet.png",
@@ -43908,7 +43895,7 @@
     "set_stats": "+36% Daño rango / +27% Crítico rango / 25% no usar munición",
     "set_bonus": "Doble toque ABAJO para modo sigilo (Casi invisible, más daño y crítico, movimiento muy lento).",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de vórtice + 8 Luminita)",
     "piece_defense": "14",
@@ -43922,12 +43909,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Breastplate",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 16
-      },
-      {
         "name_en": "Vortex Fragment",
         "amount": 20
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 16
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Breastplate.png",
@@ -43938,7 +43925,7 @@
     "set_stats": "+36% Daño rango / +27% Crítico rango / 25% no usar munición",
     "set_bonus": "Doble toque ABAJO para modo sigilo (Casi invisible, más daño y crítico, movimiento muy lento).",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de vórtice + 16 Luminita)",
     "piece_defense": "28",
@@ -43952,12 +43939,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Leggings",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 12
-      },
-      {
         "name_en": "Vortex Fragment",
         "amount": 15
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Leggings.png",
@@ -43968,7 +43955,7 @@
     "set_stats": "+36% Daño rango / +27% Crítico rango / 25% no usar munición",
     "set_bonus": "Doble toque ABAJO para modo sigilo (Casi invisible, más daño y crítico, movimiento muy lento).",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de vórtice + 12 Luminita)",
     "piece_defense": "20",
@@ -43982,12 +43969,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nebula_Helmet",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 8
-      },
-      {
         "name_en": "Nebula Fragment",
         "amount": 10
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 8
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Helmet.png",
@@ -43998,7 +43985,7 @@
     "set_stats": "+26% Daño mágico / +16% Crítico mágico / +60 Maná / -15% Uso maná",
     "set_bonus": "Dañar enemigos genera potenciadores de salud, maná o daño en el suelo.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de nebulosa + 8 Luminita)",
     "piece_defense": "14",
@@ -44012,12 +43999,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nebula_Breastplate",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 16
-      },
-      {
         "name_en": "Nebula Fragment",
         "amount": 20
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 16
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Breastplate.png",
@@ -44028,7 +44015,7 @@
     "set_stats": "+26% Daño mágico / +16% Crítico mágico / +60 Maná / -15% Uso maná",
     "set_bonus": "Dañar enemigos genera potenciadores de salud, maná o daño en el suelo.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de nebulosa + 16 Luminita)",
     "piece_defense": "18",
@@ -44042,12 +44029,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nebula_Leggings",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 12
-      },
-      {
         "name_en": "Nebula Fragment",
         "amount": 15
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Leggings.png",
@@ -44058,7 +44045,7 @@
     "set_stats": "+26% Daño mágico / +16% Crítico mágico / +60 Maná / -15% Uso maná",
     "set_bonus": "Dañar enemigos genera potenciadores de salud, maná o daño en el suelo.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de nebulosa + 12 Luminita)",
     "piece_defense": "14",
@@ -44072,12 +44059,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Flare_Helmet",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 8
-      },
-      {
         "name_en": "Solar Fragment",
         "amount": 10
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 8
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Solar_Flare_Helmet.png",
@@ -44088,7 +44075,7 @@
     "set_stats": "+29% Daño melee / +26% Crítico melee / +15% Vel. Movimiento y Ataque",
     "set_bonus": "Genera escudos solares (hasta 3) que reducen 30% el daño. Doble toque para embestir.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos solares + 8 Luminita)",
     "piece_defense": "24",
@@ -44102,12 +44089,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Flare_Breastplate",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 16
-      },
-      {
         "name_en": "Solar Fragment",
         "amount": 20
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 16
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Solar_Flare_Breastplate.png",
@@ -44118,7 +44105,7 @@
     "set_stats": "+29% Daño melee / +26% Crítico melee / +15% Vel. Movimiento y Ataque",
     "set_bonus": "Genera escudos solares (hasta 3) que reducen 30% el daño. Doble toque para embestir.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos solares + 16 Luminita)",
     "piece_defense": "34",
@@ -44132,12 +44119,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Flare_Leggings",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 12
-      },
-      {
         "name_en": "Solar Fragment",
         "amount": 15
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Solar_Flare_Leggings.png",
@@ -44148,7 +44135,7 @@
     "set_stats": "+29% Daño melee / +26% Crítico melee / +15% Vel. Movimiento y Ataque",
     "set_bonus": "Genera escudos solares (hasta 3) que reducen 30% el daño. Doble toque para embestir.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos solares + 12 Luminita)",
     "piece_defense": "20",
@@ -52997,9 +52984,9 @@
     "armor_set_es": "Armadura fósil",
     "total_defense": "15",
     "set_stats": "+5% Daño a distancia / +8% Crítico a distancia",
-    "set_bonus": "20% de probabilidad de no consumir munición.",
+    "set_bonus": "20% de probabilidad de no consumir munición",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "5",
     "piece_armor": "5"
@@ -53022,9 +53009,9 @@
     "armor_set_es": "Armadura fósil",
     "total_defense": "15",
     "set_stats": "+5% Daño a distancia / +8% Crítico a distancia",
-    "set_bonus": "20% de probabilidad de no consumir munición.",
+    "set_bonus": "20% de probabilidad de no consumir munición",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "6",
     "piece_armor": "6"
@@ -53047,9 +53034,9 @@
     "armor_set_es": "Armadura fósil",
     "total_defense": "15",
     "set_stats": "+5% Daño a distancia / +8% Crítico a distancia",
-    "set_bonus": "20% de probabilidad de no consumir munición.",
+    "set_bonus": "20% de probabilidad de no consumir munición",
     "station_ids": [
-      "iron_anvil"
+      "35"
     ],
     "piece_defense": "4",
     "piece_armor": "4"
@@ -53132,12 +53119,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Stardust_Helmet",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 8
-      },
-      {
         "name_en": "Stardust Fragment",
         "amount": 10
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 8
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stardust_Helmet.png",
@@ -53148,7 +53135,7 @@
     "set_stats": "+5 Capacidad súbditos / +66% Daño súbditos / +30% Daño látigos",
     "set_bonus": "Invoca al Guardián de Polvo Estelar que ataca automáticamente o protege un área.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de polvo estelar + 8 Luminita)",
     "piece_defense": "10",
@@ -53162,12 +53149,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Stardust_Plate",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 16
-      },
-      {
         "name_en": "Stardust Fragment",
         "amount": 20
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 16
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stardust_Plate.png",
@@ -53178,7 +53165,7 @@
     "set_stats": "+5 Capacidad súbditos / +66% Daño súbditos / +30% Daño látigos",
     "set_bonus": "Invoca al Guardián de Polvo Estelar que ataca automáticamente o protege un área.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de polvo estelar + 16 Luminita)",
     "piece_defense": "16",
@@ -53192,12 +53179,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Stardust_Leggings",
     "recipes": [
       {
-        "name_en": "Luminite Bar",
-        "amount": 12
-      },
-      {
         "name_en": "Stardust Fragment",
         "amount": 15
+      },
+      {
+        "name_en": "Luminite Bar",
+        "amount": 12
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stardust_Leggings.png",
@@ -53208,7 +53195,7 @@
     "set_stats": "+5 Capacidad súbditos / +66% Daño súbditos / +30% Daño látigos",
     "set_bonus": "Invoca al Guardián de Polvo Estelar que ataca automáticamente o protege un área.",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de polvo estelar + 12 Luminita)",
     "piece_defense": "12",
@@ -75708,9 +75695,10 @@
     "piece_effects": "+1 Capacidad de súbditos | +10% daño de súbditos",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
-      "mythril_anvil"
+      "525"
     ],
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_en": "Hallowed Armor"
   },
   {
     "id": "4874",
@@ -81585,15 +81573,17 @@
       }
     ],
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Ash Wood Armor",
     "armor_set_es": "Armadura de madera",
-    "total_defense": "3",
+    "total_defense": "4",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ash_Wood_Helmet.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ash_Wood_Helmet.png",
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "5280",
@@ -81608,15 +81598,17 @@
       }
     ],
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Ash Wood Armor",
     "armor_set_es": "Armadura de madera",
-    "total_defense": "3",
+    "total_defense": "4",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ash_Wood_Breastplate.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ash_Wood_Breastplate.png",
+    "piece_defense": "2",
+    "piece_armor": "2"
   },
   {
     "id": "5281",
@@ -81631,15 +81623,17 @@
       }
     ],
     "is_armor": true,
-    "armor_set_en": "Wood Armor",
+    "armor_set_en": "Ash Wood Armor",
     "armor_set_es": "Armadura de madera",
-    "total_defense": "3",
+    "total_defense": "4",
     "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
+    "set_bonus": "+1 Defensa",
     "station_ids": [
       "36"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ash_Wood_Greaves.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ash_Wood_Greaves.png",
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "5282",
