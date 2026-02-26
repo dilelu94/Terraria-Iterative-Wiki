@@ -6988,7 +6988,7 @@
     "id": "395",
     "category": "Accessories",
     "name_en": "GPS",
-    "name_es": "Globo con herradura blanco",
+    "name_es": "GPS",
     "wiki_url": "https://terraria.wiki.gg/wiki/GPS",
     "recipes": [
       {
@@ -7000,16 +7000,15 @@
         "amount": 1
       },
       {
-        "name_en": "Platinum Watch",
+        "name_en": "Gold Watch",
         "amount": 1
       }
     ],
     "station_ids": [
-      "hand",
       "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/GPS.png",
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Fabricado: Taller de chapuzas (Brújula + Medidor de profundidad + Reloj de oro/platino)"
   },
   {
     "id": "397",
@@ -48187,7 +48186,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fisherman's_Pocket_Guide",
     "recipes": [
       {
-        "name_en": "Weather Radio",
+        "name_en": "Sextant",
         "amount": 1,
         "is_shimmer": true
       }
@@ -48206,23 +48205,16 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Goblin_Tech",
     "recipes": [
       {
-        "name_en": "DPS Meter",
-        "amount": 1
-      },
-      {
-        "name_en": "Metal Detector",
-        "amount": 1
-      },
-      {
-        "name_en": "Stopwatch",
-        "amount": 1
+        "name_en": "Fisherman's Pocket Guide",
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin_Tech.png",
     "station_ids": [
-      "exploration"
+      "398"
     ],
-    "origin_info": "Recompensa: Pescador (Angler)"
+    "origin_info": "Recompensa: Pescador"
   },
   {
     "id": "3122",
@@ -48232,23 +48224,16 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/R.E.K._3000",
     "recipes": [
       {
-        "name_en": "Lifeform Analyzer",
-        "amount": 1
-      },
-      {
-        "name_en": "Radar",
-        "amount": 1
-      },
-      {
-        "name_en": "Tally Counter",
-        "amount": 1
+        "name_en": "Weather Radio",
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
-      "exploration"
+      "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/R.E.K._3000.png",
-    "origin_info": "Recompensa: Pescador (Angler)"
+    "origin_info": "Recompensa: Pescador"
   },
   {
     "id": "3123",
@@ -48271,11 +48256,15 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cell_Phone",
     "recipes": [
       {
-        "name_en": "Magic Mirror",
+        "name_en": "Stopwatch",
         "amount": 1
       },
       {
-        "name_en": "PDA",
+        "name_en": "DPS Meter",
+        "amount": 1
+      },
+      {
+        "name_en": "Metal Detector",
         "amount": 1
       }
     ],
@@ -48293,12 +48282,16 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Granite_Chest",
     "recipes": [
       {
-        "name_en": "Any Iron Bar",
-        "amount": 2
+        "name_en": "Fisherman's Pocket Guide",
+        "amount": 1
       },
       {
-        "name_en": "Smooth Granite Block",
-        "amount": 8
+        "name_en": "Weather Radio",
+        "amount": 1
+      },
+      {
+        "name_en": "Sextant",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Granite_Chest.png",
@@ -48341,16 +48334,16 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Marble_Clock",
     "recipes": [
       {
-        "name_en": "Any Iron Bar",
-        "amount": 3
+        "name_en": "Radar",
+        "amount": 1
       },
       {
-        "name_en": "Glass",
-        "amount": 6
+        "name_en": "Tally Counter",
+        "amount": 1
       },
       {
-        "name_en": "Smooth Marble Block",
-        "amount": 10
+        "name_en": "Lifeform Analyzer",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Marble_Clock.png",
@@ -48367,16 +48360,20 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Granite_Clock",
     "recipes": [
       {
-        "name_en": "Any Iron Bar",
-        "amount": 3
+        "name_en": "GPS",
+        "amount": 1
       },
       {
-        "name_en": "Glass",
-        "amount": 6
+        "name_en": "Fish Finder",
+        "amount": 1
       },
       {
-        "name_en": "Smooth Granite Block",
-        "amount": 10
+        "name_en": "Goblin Tech",
+        "amount": 1
+      },
+      {
+        "name_en": "REK 3000",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Granite_Clock.png",
@@ -48393,15 +48390,19 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Meteorite_Door",
     "recipes": [
       {
-        "name_en": "Meteorite Brick",
-        "amount": 6
+        "name_en": "PDA",
+        "amount": 1
+      },
+      {
+        "name_en": "Magic Mirror",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite_Door.png",
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (PDA + Espejo mágico/Espejo de hielo)"
+    "origin_info": "Fabricado: Taller de chapuzas (PDA + Espejo mágico)"
   },
   {
     "id": "3130",
@@ -82103,14 +82104,27 @@
     "id": "5358",
     "category": "Item States",
     "name_en": "Shellphone",
-    "name_es": "Conchófono (Spawn)",
+    "name_es": "Conchófono",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Home)",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Cell Phone",
+        "amount": 1
+      },
+      {
+        "name_en": "Magic Conch",
+        "amount": 1
+      },
+      {
+        "name_en": "Demon Conch",
+        "amount": 1
+      }
+    ],
     "station_ids": [
       "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Home).png",
-    "origin_info": "Fabricado: Taller de chapuzas (Teléfono móvil + Caracolas)"
+    "origin_info": "Fabricado: Taller de chapuzas (Teléfono móvil + Caracola mágica + Caracola de demonio)"
   },
   {
     "id": "5359",
