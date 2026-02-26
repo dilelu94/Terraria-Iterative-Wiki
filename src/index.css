@@ -703,6 +703,17 @@ body {
   to { transform: translateY(0); opacity: 1; }
 }
 
+.detail-header-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: nowrap;
+}
+
+.detail-header-row h2 {
+  margin: 0;
+}
+
 /* Acordeón de Botín de Jefes */
 .boss-loot-container {
   grid-column: 1 / -1;
