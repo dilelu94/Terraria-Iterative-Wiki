@@ -167,7 +167,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Fabricado / Botín: Slimes"
+    "origin_info": "Cofre de madera (Superficie)"
   },
   {
     "id": "9",
@@ -1044,7 +1044,7 @@
     "id": "55",
     "category": "Weapons",
     "name_en": "Enchanted Boomerang",
-    "name_es": "Bumerán encantado",
+    "name_es": "Búmeran encantado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Enchanted_Boomerang",
     "recipes": [
       {
@@ -1058,8 +1058,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Enchanted_Boomerang.png",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Cofre dorado (Subterráneo)"
   },
   {
     "id": "56",
@@ -1178,14 +1180,14 @@
     "id": "65",
     "category": "Weapons",
     "name_en": "Starfury",
-    "name_es": "Muramasa",
+    "name_es": "Furia de estrellas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Starfury",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Starfury.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado con llave (Mazmorra)"
+    "origin_info": "Cofre celeste (Islas flotantes)"
   },
   {
     "id": "66",
@@ -2195,20 +2197,20 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Shadow Chest (Inframundo)"
+    "origin_info": "Cofre de las sombras (Inframundo)"
   },
   {
     "id": "113",
     "category": "Weapons",
     "name_en": "Magic Missile",
-    "name_es": "Pistola de energía",
+    "name_es": "Misil mágico",
     "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Missile",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Missile.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Yunque de hierro / plomo (Meteorito)"
+    "origin_info": "Cofre dorado con llave (Mazmorra)"
   },
   {
     "id": "114",
@@ -2994,28 +2996,28 @@
     "id": "155",
     "category": "Weapons",
     "name_en": "Muramasa",
-    "name_es": "Espada de hierba",
+    "name_es": "Muramasa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Muramasa",
     "recipes": [],
     "station_ids": [
       "iron_anvil",
       "exploration"
     ],
-    "origin_info": "Yunque de hierro / plomo",
+    "origin_info": "Cofre dorado con llave (Mazmorra)",
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Muramasa.png"
   },
   {
     "id": "156",
     "category": "Accessories",
     "name_en": "Cobalt Shield",
-    "name_es": "Bloque de lodo",
+    "name_es": "Escudo de cobalto",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cobalt_Shield",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cobalt_Shield.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Minado: Selva"
+    "origin_info": "Cofre dorado con llave (Mazmorra)"
   },
   {
     "id": "157",
@@ -3041,7 +3043,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre celeste / Cajas del cielo"
+    "origin_info": "Cofre celeste (Islas flotantes)"
   },
   {
     "id": "159",
@@ -3061,7 +3063,7 @@
       "shimmer",
       "exploration"
     ],
-    "origin_info": "Cofre celeste (Islas flotantes) / Cajas del cielo"
+    "origin_info": "Cofre celeste (Islas flotantes)"
   },
   {
     "id": "160",
@@ -3116,7 +3118,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Locked Gold Chest (Mazmorra)"
+    "origin_info": "Cofre dorado con llave (Mazmorra)"
   },
   {
     "id": "164",
@@ -3158,7 +3160,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Demoledor / Cofres / Vasijas"
+    "origin_info": "Cofre de madera (Superficie)"
   },
   {
     "id": "167",
@@ -3172,7 +3174,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Compra: Demoledor / Cofres"
+    "origin_info": "Cofre de madera (Superficie)"
   },
   {
     "id": "168",
@@ -3489,7 +3491,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de agua (Water Chest)"
+    "origin_info": "Cofre de agua (Océano / Cuevas inundadas)"
   },
   {
     "id": "187",
@@ -3502,7 +3504,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de agua (Water Chest)"
+    "origin_info": "Cofre de agua (Océano / Cuevas inundadas)"
   },
   {
     "id": "188",
@@ -3956,7 +3958,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra (Santuarios de la Selva)"
+    "origin_info": "Cofre de hiedra (Selva subterránea)"
   },
   {
     "id": "212",
@@ -3970,7 +3972,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra"
+    "origin_info": "Cofre de hiedra (Selva subterránea)"
   },
   {
     "id": "213",
@@ -3984,7 +3986,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra"
+    "origin_info": "Cofre de hiedra (Selva subterránea)"
   },
   {
     "id": "214",
@@ -4061,14 +4063,14 @@
     "id": "218",
     "category": "Weapons",
     "name_en": "Flamelash",
-    "name_es": "Rayo de agua",
+    "name_es": "Latigazo de llamas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flamelash",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flamelash.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Encontrado: Estanterías de la Mazmorra"
+    "origin_info": "Cofre de las sombras (Inframundo)"
   },
   {
     "id": "219",
@@ -4097,7 +4099,7 @@
     "id": "220",
     "category": "Weapons",
     "name_en": "Sunfury",
-    "name_es": "Furia del sol",
+    "name_es": "Furia solar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sunfury",
     "recipes": [
       {
@@ -4111,7 +4113,7 @@
       "iron_anvil",
       "exploration"
     ],
-    "origin_info": "Cofre de las sombras"
+    "origin_info": "Cofre de las sombras (Inframundo)"
   },
   {
     "id": "221",
@@ -5033,7 +5035,7 @@
     "id": "274",
     "category": "Weapons",
     "name_en": "Dark Lance",
-    "name_es": "Lanza de la oscuridad",
+    "name_es": "Lanza oscura",
     "wiki_url": "https://terraria.wiki.gg/wiki/Dark_Lance",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dark_Lance.png",
@@ -5041,7 +5043,7 @@
       "330",
       "exploration"
     ],
-    "origin_info": "Shadow Chest (Inframundo)"
+    "origin_info": "Cofre de las sombras (Inframundo)"
   },
   {
     "id": "275",
@@ -5175,7 +5177,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Compra: Mercader / Botín: Gelatinas"
+    "origin_info": "Cofre de madera / Cofre dorado"
   },
   {
     "id": "283",
@@ -6084,7 +6086,7 @@
     "id": "329",
     "category": "Keys/Boss Summons",
     "name_en": "Shadow Key",
-    "name_es": "Llave dorada",
+    "name_es": "Llave de las sombras",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shadow_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Key.png",
@@ -6092,7 +6094,7 @@
       "loot",
       "exploration"
     ],
-    "origin_info": "Botín: Enemigos de la Mazmorra / Vasijas"
+    "origin_info": "Cofre dorado con llave (Mazmorra)"
   },
   {
     "id": "330",
@@ -9571,14 +9573,16 @@
     "id": "532",
     "category": "Accessories",
     "name_en": "Star Cloak",
-    "name_es": "Manto de estrellas",
+    "name_es": "Capa de estrella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Cloak",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Cloak.png",
     "station_ids": [
       "mythril_anvil",
-      "merchant_buy"
-    ]
+      "merchant_buy",
+      "exploration"
+    ],
+    "origin_info": "Botín: Mímico (Hardmode)"
   },
   {
     "id": "533",
@@ -9635,7 +9639,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Philosopher's_Stone.png",
     "station_ids": [
       "exploration"
-    ]
+    ],
+    "origin_info": "Botín: Mímico (Hardmode)"
   },
   {
     "id": "536",
@@ -9645,7 +9650,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Titan_Glove",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titan_Glove.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Botín: Mímico (Hardmode)"
   },
   {
     "id": "537",
@@ -9941,11 +9949,14 @@
     "id": "554",
     "category": "Accessories",
     "name_en": "Cross Necklace",
-    "name_es": "Collar con cruz",
+    "name_es": "Collar de cruz",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cross_Necklace",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cross_Necklace.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Botín: Mímico (Hardmode)"
   },
   {
     "id": "555",
@@ -11948,11 +11959,14 @@
     "id": "670",
     "category": "Weapons",
     "name_en": "Ice Boomerang",
-    "name_es": "Bumerán de hielo",
+    "name_es": "Búmeran de hielo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Boomerang",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Boomerang.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "671",
@@ -13056,8 +13070,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Blade.png",
     "station_ids": [
       "hand",
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "725",
@@ -15065,7 +15081,7 @@
     "id": "848",
     "category": "Vanity",
     "name_en": "Pharaoh's Mask",
-    "name_es": "Máscara del faraón",
+    "name_es": "Máscara de faraón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pharaoh's_Mask",
     "recipes": [
       {
@@ -15078,7 +15094,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Gold Chest (Pirámide del Desierto)"
+    "origin_info": "Cofre de pirámide (Desierto)"
   },
   {
     "id": "849",
@@ -15209,7 +15225,7 @@
     "id": "857",
     "category": "Accessories",
     "name_en": "Sandstorm in a Bottle",
-    "name_es": "Tormenta de arena embotellada",
+    "name_es": "Tormenta de arena en botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sandstorm_in_a_Bottle",
     "recipes": [
       {
@@ -15234,7 +15250,7 @@
       "398",
       "exploration"
     ],
-    "origin_info": "Gold Chest (Pirámide del Desierto)"
+    "origin_info": "Cofre de pirámide (Desierto)"
   },
   {
     "id": "858",
@@ -15359,8 +15375,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Walking_Boots.png",
     "station_ids": [
       "398",
-      "loot"
-    ]
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Cofre de agua (Océano / Cuevas inundadas)"
   },
   {
     "id": "864",
@@ -15396,8 +15414,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh's_Robe.png",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Cofre de pirámide (Desierto)"
   },
   {
     "id": "867",
@@ -16521,8 +16541,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flying_Carpet.png",
     "station_ids": [
       "shimmer",
-      "398"
-    ]
+      "398",
+      "exploration"
+    ],
+    "origin_info": "Cofre de pirámide (Desierto)"
   },
   {
     "id": "935",
@@ -16740,7 +16762,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Ice Chest (Tundra)"
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "951",
@@ -16774,7 +16796,7 @@
       "shimmer",
       "exploration"
     ],
-    "origin_info": "Cofre de madera (Superficie / Subterráneo)"
+    "origin_info": "Cofre de madera (Superficie)"
   },
   {
     "id": "954",
@@ -16989,14 +17011,14 @@
     "id": "964",
     "category": "Weapons",
     "name_en": "Boomstick",
-    "name_es": "Escopeta de cañón recortado",
+    "name_es": "Escopeta recortada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Boomstick",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Boomstick.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra"
+    "origin_info": "Cofre de hiedra (Selva subterránea)"
   },
   {
     "id": "965",
@@ -17153,7 +17175,7 @@
     "id": "975",
     "category": "Accessories",
     "name_en": "Shoe Spikes",
-    "name_es": "Zapatos de púa",
+    "name_es": "Picos para zapatos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shoe_Spikes",
     "recipes": [
       {
@@ -17167,7 +17189,7 @@
       "shimmer",
       "exploration"
     ],
-    "origin_info": "Gold Chest (Subterráneo)"
+    "origin_info": "Cofre dorado (Subterráneo)"
   },
   {
     "id": "976",
@@ -17380,7 +17402,7 @@
     "id": "987",
     "category": "Accessories",
     "name_en": "Blizzard in a Bottle",
-    "name_es": "Ventisca embotellada",
+    "name_es": "Ventisca en botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Blizzard_in_a_Bottle",
     "recipes": [
       {
@@ -17398,7 +17420,7 @@
       "398",
       "exploration"
     ],
-    "origin_info": "Ice Chest (Tundra)"
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "988",
@@ -20219,7 +20241,7 @@
     "id": "1156",
     "category": "Weapons",
     "name_en": "Piranha Gun",
-    "name_es": "Cuchillos de vampiro",
+    "name_es": "Pistola de pirañas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Piranha_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Piranha_Gun.png",
@@ -20227,7 +20249,7 @@
       "loot",
       "exploration"
     ],
-    "origin_info": "Cofre carmesí (Mazmorra - Requiere llave)"
+    "origin_info": "Cofre de la selva (Mazmorra - Hardmode)"
   },
   {
     "id": "1157",
@@ -21994,8 +22016,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Rainbow_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rainbow_Gun.png",
-    "station_ids": [],
-    "origin_info": "Cofre bendecido (Mazmorra)"
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre bendecido (Mazmorra - Hardmode)"
   },
   {
     "id": "1261",
@@ -22502,7 +22526,7 @@
       "exploration",
       "loot"
     ],
-    "origin_info": "Cofres del Templo / Botín: Lihzahrd"
+    "origin_info": "Cofre de lihzahrd (Templo de la selva)"
   },
   {
     "id": "1294",
@@ -22876,14 +22900,14 @@
     "id": "1319",
     "category": "Weapons",
     "name_en": "Snowball Cannon",
-    "name_es": "Uzi",
+    "name_es": "Cañón de bolas de nieve",
     "wiki_url": "https://terraria.wiki.gg/wiki/Snowball_Cannon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Snowball_Cannon.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Botín: Trampero enfadado (Selva Hardmode)"
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "1320",
@@ -26201,8 +26225,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vampire_Knives.png",
     "station_ids": [
-      "loot"
-    ]
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Cofre carmesí (Mazmorra - Hardmode)"
   },
   {
     "id": "1570",
@@ -26225,7 +26251,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre corrupto (Mazmorra - Requiere llave)"
+    "origin_info": "Cofre corrupto (Mazmorra - Hardmode)"
   },
   {
     "id": "1572",
@@ -26235,7 +26261,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Staff_of_the_Frost_Hydra",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Staff_of_the_Frost_Hydra.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre helado (Mazmorra - Hardmode)"
   },
   {
     "id": "1573",
@@ -26312,11 +26341,14 @@
     "id": "1579",
     "category": "Accessories",
     "name_en": "Flurry Boots",
-    "name_es": "Botas del frenesí",
+    "name_es": "Botas de ráfaga",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flurry_Boots",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flurry_Boots.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "1580",
@@ -35363,14 +35395,15 @@
     "id": "2219",
     "category": "Accessories",
     "name_en": "Celestial Magnet",
-    "name_es": "Esposas celestiales",
+    "name_es": "Imán celestial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Magnet",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Magnet.png",
     "station_ids": [
-      "398"
+      "398",
+      "exploration"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Cofre celeste / Vendedor ambulante"
   },
   {
     "id": "2220",
@@ -37580,7 +37613,7 @@
       "31",
       "exploration"
     ],
-    "origin_info": "Cofres / Vasijas / Mesa de Alquimia"
+    "origin_info": "Cofre de madera / Cofre dorado"
   },
   {
     "id": "2351",
@@ -44715,7 +44748,7 @@
     "id": "2767",
     "category": "Keys/Boss Summons",
     "name_en": "Solar Tablet",
-    "name_es": "Trufa de gusano",
+    "name_es": "Tableta solar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Tablet",
     "recipes": [
       {
@@ -44729,7 +44762,7 @@
       "mythril_anvil",
       "exploration"
     ],
-    "origin_info": "Captura: Gusano en bioma de champiñones (Hardmode)"
+    "origin_info": "Cofre de lihzahrd (Templo de la selva)"
   },
   {
     "id": "2768",
@@ -47912,7 +47945,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra"
+    "origin_info": "Cofre de hiedra (Selva subterránea)"
   },
   {
     "id": "3018",
@@ -48605,11 +48638,14 @@
     "id": "3068",
     "category": "Accessories",
     "name_en": "Guide to Plant Fiber Cordage",
-    "name_es": "Guía de cordaje de fibra",
+    "name_es": "Guía de cordaje de fibra vegetal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Guide_to_Plant_Fiber_Cordage",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Guide_to_Plant_Fiber_Cordage.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de madera (Superficie)"
   },
   {
     "id": "3069",
@@ -49278,8 +49314,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Night_Vision_Helmet.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Cofre de granito (Subterráneo)"
   },
   {
     "id": "3110",
@@ -50367,8 +50405,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Marble_Bed.png",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Cofre de mármol (Subterráneo)"
   },
   {
     "id": "3164",
@@ -64017,7 +64057,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Chisel",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Chisel.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4057",
@@ -64085,11 +64128,14 @@
     "id": "4062",
     "category": "Weapons",
     "name_en": "Thunder Zapper",
-    "name_es": "Exterminador de rayos",
+    "name_es": "Zapeador de trueno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Thunder_Zapper",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Thunder_Zapper.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4063",
@@ -67646,7 +67692,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Snake_Charmer's_Flute",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Snake_Charmer's_Flute.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4263",
@@ -67659,7 +67708,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de arenisca (Desierto subterráneo) / Cajas del oasis"
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4264",
@@ -67838,14 +67887,14 @@
     "id": "4276",
     "category": "Statues",
     "name_en": "Bast Statue",
-    "name_es": "Estatua de líber",
+    "name_es": "Estatua de Bastet",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bast_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bast_Statue.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Sandstone Chest (Desierto Subterráneo)"
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4277",
@@ -68840,14 +68889,14 @@
     "id": "4341",
     "category": "Accessories",
     "name_en": "Step Stool",
-    "name_es": "Estatua de Bastet",
+    "name_es": "Taburete",
     "wiki_url": "https://terraria.wiki.gg/wiki/Step_Stool",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Step_Stool.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de arenisca"
+    "origin_info": "Cofre de madera (Superficie)"
   },
   {
     "id": "4342",
@@ -68916,11 +68965,14 @@
     "id": "4346",
     "category": "Tools",
     "name_en": "Encumbering Stone",
-    "name_es": "Piedra agobiante",
+    "name_es": "Piedra de carga",
     "wiki_url": "https://terraria.wiki.gg/wiki/Encumbering_Stone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Encumbering_Stone.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4347",
@@ -69750,7 +69802,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Geode",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Geode.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de granito (Subterráneo)"
   },
   {
     "id": "4401",
@@ -69795,11 +69850,14 @@
     "id": "4404",
     "category": "Accessories",
     "name_en": "Inner Tube",
-    "name_es": "Tubo interior",
+    "name_es": "Flotador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Inner_Tube",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Inner_Tube.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de agua (Océano / Cuevas inundadas)"
   },
   {
     "id": "4405",
@@ -70567,7 +70625,7 @@
     "id": "4462",
     "category": "Critters",
     "name_en": "Jungle Turtle Cage",
-    "name_es": "Jaula de tortuga de la jungla",
+    "name_es": "Búmeran de arena",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jungle_Turtle_Cage",
     "recipes": [
       {
@@ -70581,8 +70639,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jungle_Turtle_Cage.png",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4463",
@@ -70608,11 +70668,14 @@
     "id": "4465",
     "category": "Critters",
     "name_en": "Jungle Turtle",
-    "name_es": "Tortuga de la jungla",
+    "name_es": "Botas de correcaminos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jungle_Turtle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jungle_Turtle.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
   },
   {
     "id": "4466",
@@ -72797,14 +72860,14 @@
     "id": "4607",
     "category": "Weapons",
     "name_en": "Desert Tiger Staff",
-    "name_es": "Báculo de tigre del desierto",
+    "name_es": "Báculo del tigre del desierto",
     "wiki_url": "https://terraria.wiki.gg/wiki/Desert_Tiger_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Desert_Tiger_Staff.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Living Wood Chest (Árbol Gigante)"
+    "origin_info": "Cofre del desierto (Mazmorra - Hardmode)"
   },
   {
     "id": "4608",
@@ -78214,11 +78277,14 @@
     "id": "5011",
     "category": "Weapons",
     "name_en": "Mace",
-    "name_es": "Tonbogiri",
+    "name_es": "Maza",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mace",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mace.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre dorado (Subterráneo)"
   },
   {
     "id": "5012",
