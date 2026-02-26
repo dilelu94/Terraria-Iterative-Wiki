@@ -116,10 +116,12 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* Información de Estación de Trabajo (Múltiple) */}
+        {/* Información de Estación de Trabajo / Obtención */}
         {itemStations.length > 0 && (
           <div className="recipe-box station-box">
-            <h3>{lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:'}</h3>
+            <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal'].includes(s.id)) 
+              ? (lang === 'es' ? 'Método de Obtención' : 'Obtaining Method')
+              : (lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:')}</h3>
             <div className="info-list">
               {itemStations.map(s => (
                 <div key={s.id} className="ing-item no-hover">

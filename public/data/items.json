@@ -7560,7 +7560,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fairy_Bell.png?c48d78",
     "station_ids": [
-      "hand"
+      "hand",
+      "seasonal"
     ]
   },
   {
@@ -10197,7 +10198,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Carrot",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cabagge.png?a380a9",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "604",
@@ -19749,7 +19752,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Seedling",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Seedling.png?82f83d",
-    "station_ids": []
+    "station_ids": [
+      "seasonal"
+    ]
   },
   {
     "id": "1183",
@@ -19759,7 +19764,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wisp_in_a_Bottle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wisp_in_a_Bottle.png?cd47e4",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1184",
@@ -21839,7 +21846,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_Spring",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eye_Spring.png?b81e64",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1312",
@@ -27155,7 +27164,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nurse_Hat",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Nurse_Hat.png?b4424c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1737",
@@ -27930,7 +27941,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Unlucky_Yarn",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Unlucky_Yarn.png?a542cf",
-    "station_ids": []
+    "station_ids": [
+      "seasonal"
+    ]
   },
   {
     "id": "1811",
@@ -37392,7 +37405,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hotline_Fishing_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hotline_Fishing_Hook.png?ac9c4d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2423",
@@ -37492,7 +37507,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slimy_Saddle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slimy_Saddle.png?a5fa62",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "2431",
@@ -38163,7 +38180,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hardy_Saddle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hardy_Saddle.png?73b4bc",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2492",
@@ -38284,7 +38303,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Honeyed_Goggles",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Honeyed_Goggles.png?2a1f1c",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2503",
@@ -46867,7 +46888,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Rattle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Rattle.png?c45699",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "3061",
@@ -46926,7 +46949,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Enchanted_Sundial",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Enchanted_Sundial.png?5d3a91",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3065",
@@ -51223,7 +51248,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlsandstone_Block.png?c028f1",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -51606,7 +51632,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shrimpy_Truffle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shrimpy_Truffle.png?e38d69",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3368",
@@ -57861,7 +57889,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Horn",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ancient_Horn.png?f0f94a",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3772",
@@ -65824,7 +65854,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Finch_Staff.png?4edca7",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -70607,7 +70638,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Jungle_Night)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Jungle_Night%29.png?bf6682",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4607",
@@ -73281,7 +73314,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Combat_Wrench",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Combat_Wrench.png?16c760",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4819",
@@ -74897,7 +74932,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu_Relic",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eye_of_Cthulhu_Relic.png?b951fd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4925",
@@ -74907,7 +74944,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds_Relic",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eater_of_Worlds_Relic.png?6947f8",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4926",
@@ -75439,7 +75478,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vicious_Bunny_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Vicious_Bunny_Banner.png?22d4b9",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4971",
@@ -79383,7 +79424,9 @@
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Dread_of_the_Red_Sea",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "5241",
