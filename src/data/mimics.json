@@ -25,7 +25,7 @@
         "item_id": "554"
       }
     ],
-    "image": "https://terraria.wiki.gg/images/Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": null,
     "biome_en": "Underground",
@@ -59,7 +59,7 @@
         "item_id": "2673"
       }
     ],
-    "image": "https://terraria.wiki.gg/images/Ice_Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": null,
     "biome_en": "Underground",
@@ -76,7 +76,7 @@
     "defense": "38",
     "damage": "70 / 140",
     "drops": [],
-    "image": "https://terraria.wiki.gg/images/Present_Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Present_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": null,
     "biome_en": "Luna Gélida",
@@ -110,7 +110,7 @@
         "item_id": "3245"
       }
     ],
-    "image": "https://terraria.wiki.gg/images/Corrupt_Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Corrupt_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": "3091",
     "biome_en": "Corruption",
@@ -144,7 +144,7 @@
         "item_id": "3246"
       }
     ],
-    "image": "https://terraria.wiki.gg/images/Crimson_Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimson_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": "3091",
     "biome_en": "Underground",
@@ -178,7 +178,7 @@
         "item_id": "3031"
       }
     ],
-    "image": "https://terraria.wiki.gg/images/Hallowed_Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": "3092",
     "biome_en": "Hallow",
@@ -208,7 +208,7 @@
         "item_id": "4275"
       }
     ],
-    "image": "https://terraria.wiki.gg/images/Jungle_Mimic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Jungle_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": null,
     "biome_en": "Jungle",

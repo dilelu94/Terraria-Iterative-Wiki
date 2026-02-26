@@ -1,55 +1,320 @@
 [
-  { "id": "hand", "name_en": "By Hand", "name_es": "A mano", "image": "" },
-  { "id": "shimmer", "name_en": "Shimmer", "name_es": "Fulgor", "image": "https://terraria.wiki.gg/images/Shimmering.png" },
-  { "id": "36", "name_en": "Work Bench", "name_es": "Banco de trabajo", "image": "https://terraria.wiki.gg/images/Work_Bench.png" },
-  { "id": "33", "name_en": "Furnace", "name_es": "Horno", "image": "https://terraria.wiki.gg/images/Furnace.png" },
-  { "id": "112", "name_en": "Hellforge", "name_es": "Forja infernal", "image": "https://terraria.wiki.gg/images/Hellforge.png" },
-  { "id": "35", "name_en": "Iron Anvil", "name_es": "Yunque de hierro", "image": "https://terraria.wiki.gg/images/Iron_Anvil.png" },
-  { "id": "716", "name_en": "Lead Anvil", "name_es": "Yunque de plomo", "image": "https://terraria.wiki.gg/images/Lead_Anvil.png" },
-  { "id": "iron_anvil", "name_en": "Any Iron Anvil", "name_es": "Cualquier Yunque de Hierro/Plomo", "image": "https://terraria.wiki.gg/images/Iron_Anvil.png" },
-  { "id": "mythril_anvil", "name_en": "Any Mythril Anvil", "name_es": "Cualquier Yunque de Mitrilo/Oricalco", "image": "https://terraria.wiki.gg/images/Mythril_Anvil.png" },
-  { "id": "31", "name_en": "Placed Bottle", "name_es": "Botella colocada", "image": "https://terraria.wiki.gg/images/Bottle.png" },
-  { "id": "3001", "name_en": "Alchemy Table", "name_es": "Mesa de alquimia", "image": "https://terraria.wiki.gg/images/Alchemy_Table.png" },
-  { "id": "alch_flask", "name_en": "Alchemy Flask", "name_es": "Frasco de alquimia", "image": "" },
-  { "id": "2840", "name_en": "Metal Sink", "name_es": "Fregadero de metal", "image": "https://terraria.wiki.gg/images/Metal_Sink.png" },
-  { "id": "345", "name_en": "Sawmill", "name_es": "Aserradero", "image": "https://terraria.wiki.gg/images/Sawmill.png" },
-  { "id": "330", "name_en": "Loom", "name_es": "Telar", "image": "https://terraria.wiki.gg/images/Loom.png" },
-  { "id": "346", "name_en": "Cooking Pot", "name_es": "Olla", "image": "https://terraria.wiki.gg/images/Cooking_Pot.png" },
-  { "id": "2209", "name_en": "Cauldron", "name_es": "Caldero", "image": "https://terraria.wiki.gg/images/Cauldron.png" },
-  { "id": "398", "name_en": "Tinkerer's Workshop", "name_es": "Taller de chapuzas", "image": "https://terraria.wiki.gg/images/Tinkerer's_Workshop.png" },
-  { "id": "1551", "name_en": "Imbuing Station", "name_es": "Estación de imbuición", "image": "https://terraria.wiki.gg/images/Imbuing_Station.png" },
-  { "id": "adamantite_forge", "name_en": "Any Adamantite Forge", "name_es": "Cualquier Forja de Adamantita/Titanio", "image": "https://terraria.wiki.gg/images/Adamantite_Forge.png" },
-  { "id": "autohammer", "name_en": "Autohammer", "name_es": "Martillo automático", "image": "https://terraria.wiki.gg/images/Autohammer.png" },
-  { "id": "ancient_manipulator", "name_en": "Ancient Manipulator", "name_es": "Manipulador antiguo", "image": "https://terraria.wiki.gg/images/Ancient_Manipulator.png" },
-  { "id": "bookcase", "name_en": "Bookcase", "name_es": "Librería", "image": "https://terraria.wiki.gg/images/Bookcase.png" },
-  { "id": "altar", "name_en": "Demon/Crimson Altar", "name_es": "Altar demoníaco/carmesí", "image": "https://terraria.wiki.gg/images/Demon_Altar.png" },
-  { "id": "bone_welder", "name_en": "Bone Welder", "name_es": "Soldador de huesos", "image": "https://terraria.wiki.gg/images/Bone_Welder.png" },
-  { "id": "solidifier", "name_en": "Solidifier", "name_es": "Solidificador", "image": "https://terraria.wiki.gg/images/Solidifier.png" },
-  { "id": "flesh_cloning_vat", "name_en": "Flesh Cloning Vat", "name_es": "Tanque de clonación", "image": "https://terraria.wiki.gg/images/Flesh_Cloning_Vat.png" },
-  { "id": "glass_kiln", "name_en": "Glass Kiln", "name_es": "Horno de cristal", "image": "https://terraria.wiki.gg/images/Glass_Kiln.png" },
-  { "id": "steampunk_boiler", "name_en": "Steampunk Boiler", "name_es": "Caldera steampunk", "image": "https://terraria.wiki.gg/images/Steampunk_Boiler.png" },
-  { "id": "lihzahrd_furnace", "name_en": "Lihzahrd Furnace", "name_es": "Horno lihzahrd", "image": "https://terraria.wiki.gg/images/Lihzahrd_Furnace.png" },
-  { "id": "ice_machine", "name_en": "Ice Machine", "name_es": "Máquina de hielo", "image": "https://terraria.wiki.gg/images/Ice_Machine.png" },
-  { "id": "sky_mill", "name_en": "Sky Mill", "name_es": "Molino celestial", "image": "https://terraria.wiki.gg/images/Sky_Mill.png" },
-  { "id": "living_loom", "name_en": "Living Loom", "name_es": "Telar viviente", "image": "https://terraria.wiki.gg/images/Living_Loom.png" },
-  { "id": "heavy_workbench", "name_en": "Heavy Work Bench", "name_es": "Banco de trabajo pesado", "image": "https://terraria.wiki.gg/images/Heavy_Work_Bench.png" },
-  { "id": "crystal_ball", "name_en": "Crystal Ball", "name_es": "Bola de cristal", "image": "https://terraria.wiki.gg/images/Crystal_Ball.png" },
-  { "id": "loot", "name_en": "Boss/Enemy Drop", "name_es": "Botín de Jefe/Enemigo", "image": "https://terraria.wiki.gg/images/Treasure_Bag.png" },
-  { "id": "fishing", "name_en": "Fishing", "name_es": "Pesca", "image": "https://terraria.wiki.gg/images/Golden_Fishing_Rod.png" },
-  { "id": "merchant_buy", "name_en": "Purchase", "name_es": "Compra a NPC", "image": "https://terraria.wiki.gg/images/Gold_Coin.png" },
-  { "id": "seasonal", "name_en": "Seasonal Event", "name_es": "Evento Estacional", "image": "https://terraria.wiki.gg/images/Present.png" },
-  { "id": "quest", "name_en": "Quest Reward", "name_es": "Recompensa de Misión", "image": "https://terraria.wiki.gg/images/Angler_Tackle_Bag.png" },
-  { "id": "exploration", "name_en": "Exploration", "name_es": "Exploración/Cofres", "image": "https://terraria.wiki.gg/images/Chest.png" },
-  { "id": "mining", "name_en": "Mining", "name_es": "Minería", "image": "https://terraria.wiki.gg/images/Molten_Pickaxe.png" },
-  { "id": "farming", "name_en": "Farming/Harvest", "name_es": "Cultivo/Cosecha", "image": "https://terraria.wiki.gg/images/Pumpkin_Seed.png" },
-  { "id": "bug_net", "name_en": "Caught with Bug Net", "name_es": "Atrapado con Red", "image": "https://terraria.wiki.gg/images/Bug_Net.png" },
-  { "id": "tree_shaking", "name_en": "Tree Shaking", "name_es": "Sacudiendo Árboles", "image": "https://terraria.wiki.gg/images/Wood.png" },
-  { "id": "recording", "name_en": "Recording", "name_es": "Grabación (Equipada)", "image": "https://terraria.wiki.gg/images/Music_Box.png" },
-  { "id": "keg", "name_en": "Keg", "name_es": "Barril", "image": "https://terraria.wiki.gg/images/Keg.png" },
-  { "id": "teapot", "name_en": "Teapot", "name_es": "Tetera", "image": "https://terraria.wiki.gg/images/Teapot.png" },
-  { "id": "woodcutting", "name_en": "Woodcutting", "name_es": "Talado de Árboles", "image": "https://terraria.wiki.gg/images/Iron_Axe.png" },
-  { "id": "death", "name_en": "Player Death", "name_es": "Muerte del Jugador", "image": "https://terraria.wiki.gg/images/Tombstone.png" },
-  { "id": "dye_vat", "name_en": "Dye Vat", "name_es": "Vat de tintes", "image": "https://terraria.wiki.gg/images/Dye_Vat.png" },
-  { "id": "extractinator", "name_en": "Extractinator", "name_es": "Extractinador", "image": "https://terraria.wiki.gg/images/Extractinator.png" },
-  { "id": "demon_anvil", "name_en": "Demon/Crimson Anvil", "name_es": "Yunque demoníaco/carmesí", "image": "https://terraria.wiki.gg/images/Demon_Anvil.png" }
+  {
+    "id": "hand",
+    "name_en": "By Hand",
+    "name_es": "A mano",
+    "image": ""
+  },
+  {
+    "id": "shimmer",
+    "name_en": "Shimmer",
+    "name_es": "Fulgor",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Shimmering.png"
+  },
+  {
+    "id": "36",
+    "name_en": "Work Bench",
+    "name_es": "Banco de trabajo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Work_Bench.png"
+  },
+  {
+    "id": "33",
+    "name_en": "Furnace",
+    "name_es": "Horno",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Furnace.png"
+  },
+  {
+    "id": "112",
+    "name_en": "Hellforge",
+    "name_es": "Forja infernal",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellforge.png"
+  },
+  {
+    "id": "35",
+    "name_en": "Iron Anvil",
+    "name_es": "Yunque de hierro",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Anvil.png"
+  },
+  {
+    "id": "716",
+    "name_en": "Lead Anvil",
+    "name_es": "Yunque de plomo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Anvil.png"
+  },
+  {
+    "id": "iron_anvil",
+    "name_en": "Any Iron Anvil",
+    "name_es": "Cualquier Yunque de Hierro/Plomo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Anvil.png"
+  },
+  {
+    "id": "mythril_anvil",
+    "name_en": "Any Mythril Anvil",
+    "name_es": "Cualquier Yunque de Mitrilo/Oricalco",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Anvil.png"
+  },
+  {
+    "id": "31",
+    "name_en": "Placed Bottle",
+    "name_es": "Botella colocada",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Bottle.png"
+  },
+  {
+    "id": "3001",
+    "name_en": "Alchemy Table",
+    "name_es": "Mesa de alquimia",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Alchemy_Table.png"
+  },
+  {
+    "id": "alch_flask",
+    "name_en": "Alchemy Flask",
+    "name_es": "Frasco de alquimia",
+    "image": ""
+  },
+  {
+    "id": "2840",
+    "name_en": "Metal Sink",
+    "name_es": "Fregadero de metal",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Metal_Sink.png"
+  },
+  {
+    "id": "345",
+    "name_en": "Sawmill",
+    "name_es": "Aserradero",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Sawmill.png"
+  },
+  {
+    "id": "330",
+    "name_en": "Loom",
+    "name_es": "Telar",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Loom.png"
+  },
+  {
+    "id": "346",
+    "name_en": "Cooking Pot",
+    "name_es": "Olla",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Cooking_Pot.png"
+  },
+  {
+    "id": "2209",
+    "name_en": "Cauldron",
+    "name_es": "Caldero",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Cauldron.png"
+  },
+  {
+    "id": "398",
+    "name_en": "Tinkerer's Workshop",
+    "name_es": "Taller de chapuzas",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tinkerer's_Workshop.png"
+  },
+  {
+    "id": "1551",
+    "name_en": "Imbuing Station",
+    "name_es": "Estación de imbuición",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Imbuing_Station.png"
+  },
+  {
+    "id": "adamantite_forge",
+    "name_en": "Any Adamantite Forge",
+    "name_es": "Cualquier Forja de Adamantita/Titanio",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Forge.png"
+  },
+  {
+    "id": "autohammer",
+    "name_en": "Autohammer",
+    "name_es": "Martillo automático",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Autohammer.png"
+  },
+  {
+    "id": "ancient_manipulator",
+    "name_en": "Ancient Manipulator",
+    "name_es": "Manipulador antiguo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Manipulator.png"
+  },
+  {
+    "id": "bookcase",
+    "name_en": "Bookcase",
+    "name_es": "Librería",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Bookcase.png"
+  },
+  {
+    "id": "altar",
+    "name_en": "Demon/Crimson Altar",
+    "name_es": "Altar demoníaco/carmesí",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Altar.png"
+  },
+  {
+    "id": "bone_welder",
+    "name_en": "Bone Welder",
+    "name_es": "Soldador de huesos",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Bone_Welder.png"
+  },
+  {
+    "id": "solidifier",
+    "name_en": "Solidifier",
+    "name_es": "Solidificador",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Solidifier.png"
+  },
+  {
+    "id": "flesh_cloning_vat",
+    "name_en": "Flesh Cloning Vat",
+    "name_es": "Tanque de clonación",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Flesh_Cloning_Vat.png"
+  },
+  {
+    "id": "glass_kiln",
+    "name_en": "Glass Kiln",
+    "name_es": "Horno de cristal",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Glass_Kiln.png"
+  },
+  {
+    "id": "steampunk_boiler",
+    "name_en": "Steampunk Boiler",
+    "name_es": "Caldera steampunk",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Steampunk_Boiler.png"
+  },
+  {
+    "id": "lihzahrd_furnace",
+    "name_en": "Lihzahrd Furnace",
+    "name_es": "Horno lihzahrd",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Furnace.png"
+  },
+  {
+    "id": "ice_machine",
+    "name_en": "Ice Machine",
+    "name_es": "Máquina de hielo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Machine.png"
+  },
+  {
+    "id": "sky_mill",
+    "name_en": "Sky Mill",
+    "name_es": "Molino celestial",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Sky_Mill.png"
+  },
+  {
+    "id": "living_loom",
+    "name_en": "Living Loom",
+    "name_es": "Telar viviente",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Living_Loom.png"
+  },
+  {
+    "id": "heavy_workbench",
+    "name_en": "Heavy Work Bench",
+    "name_es": "Banco de trabajo pesado",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Heavy_Work_Bench.png"
+  },
+  {
+    "id": "crystal_ball",
+    "name_en": "Crystal Ball",
+    "name_es": "Bola de cristal",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Ball.png"
+  },
+  {
+    "id": "loot",
+    "name_en": "Boss/Enemy Drop",
+    "name_es": "Botín de Jefe/Enemigo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag.png"
+  },
+  {
+    "id": "fishing",
+    "name_en": "Fishing",
+    "name_es": "Pesca",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golden_Fishing_Rod.png"
+  },
+  {
+    "id": "merchant_buy",
+    "name_en": "Purchase",
+    "name_es": "Compra a NPC",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Coin.png"
+  },
+  {
+    "id": "seasonal",
+    "name_en": "Seasonal Event",
+    "name_es": "Evento Estacional",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Present.png"
+  },
+  {
+    "id": "quest",
+    "name_en": "Quest Reward",
+    "name_es": "Recompensa de Misión",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Angler_Tackle_Bag.png"
+  },
+  {
+    "id": "exploration",
+    "name_en": "Exploration",
+    "name_es": "Exploración/Cofres",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Chest.png"
+  },
+  {
+    "id": "mining",
+    "name_en": "Mining",
+    "name_es": "Minería",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Molten_Pickaxe.png"
+  },
+  {
+    "id": "farming",
+    "name_en": "Farming/Harvest",
+    "name_es": "Cultivo/Cosecha",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Pumpkin_Seed.png"
+  },
+  {
+    "id": "bug_net",
+    "name_en": "Caught with Bug Net",
+    "name_es": "Atrapado con Red",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Bug_Net.png"
+  },
+  {
+    "id": "tree_shaking",
+    "name_en": "Tree Shaking",
+    "name_es": "Sacudiendo Árboles",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood.png"
+  },
+  {
+    "id": "recording",
+    "name_en": "Recording",
+    "name_es": "Grabación (Equipada)",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png"
+  },
+  {
+    "id": "keg",
+    "name_en": "Keg",
+    "name_es": "Barril",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Keg.png"
+  },
+  {
+    "id": "teapot",
+    "name_en": "Teapot",
+    "name_es": "Tetera",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Teapot.png"
+  },
+  {
+    "id": "woodcutting",
+    "name_en": "Woodcutting",
+    "name_es": "Talado de Árboles",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Axe.png"
+  },
+  {
+    "id": "death",
+    "name_en": "Player Death",
+    "name_es": "Muerte del Jugador",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tombstone.png"
+  },
+  {
+    "id": "dye_vat",
+    "name_en": "Dye Vat",
+    "name_es": "Vat de tintes",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Vat.png"
+  },
+  {
+    "id": "extractinator",
+    "name_en": "Extractinator",
+    "name_es": "Extractinador",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Extractinator.png"
+  },
+  {
+    "id": "demon_anvil",
+    "name_en": "Demon/Crimson Anvil",
+    "name_es": "Yunque demoníaco/carmesí",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Anvil.png"
+  }
 ]

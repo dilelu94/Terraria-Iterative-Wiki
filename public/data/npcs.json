@@ -3,7 +3,7 @@
     "id": "17",
     "name_en": "Merchant",
     "name_es": "Comerciante",
-    "image": "https://terraria.wiki.gg/images/Merchant.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Merchant.png",
     "items_sold": [
       {
         "item_name": "Iron Pickaxe",
@@ -64,7 +64,7 @@
     "id": "18",
     "name_en": "Nurse",
     "name_es": "Enfermera",
-    "image": "https://terraria.wiki.gg/images/Nurse.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Nurse.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Nurse"
   },
@@ -72,7 +72,7 @@
     "id": "19",
     "name_en": "Arms Dealer",
     "name_es": "Traficante de armas",
-    "image": "https://terraria.wiki.gg/images/Arms_Dealer.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Arms_Dealer.png",
     "items_sold": [
       {
         "item_name": "Musket Ball",
@@ -101,7 +101,7 @@
     "id": "20",
     "name_en": "Dryad",
     "name_es": "Dríada",
-    "image": "https://terraria.wiki.gg/images/Dryad.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dryad.png",
     "items_sold": [
       {
         "item_name": "Purification Powder",
@@ -130,7 +130,7 @@
     "id": "22",
     "name_en": "Guide",
     "name_es": "Guía",
-    "image": "https://terraria.wiki.gg/images/Guide.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Guide.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Guide"
   },
@@ -138,7 +138,7 @@
     "id": "37",
     "name_en": "Old Man",
     "name_es": "Anciano",
-    "image": "https://terraria.wiki.gg/images/Old_Man.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Old_Man.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Old_Man"
   },
@@ -146,7 +146,7 @@
     "id": "38",
     "name_en": "Demolitionist",
     "name_es": "Demolicionista",
-    "image": "https://terraria.wiki.gg/images/Demolitionist.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Demolitionist.png",
     "items_sold": [
       {
         "item_name": "Bomb",
@@ -171,7 +171,7 @@
     "id": "54",
     "name_en": "Clothier",
     "name_es": "Buhonero",
-    "image": "https://terraria.wiki.gg/images/Clothier.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Clothier.png",
     "items_sold": [
       {
         "item_name": "Familiar Wig",
@@ -192,7 +192,7 @@
     "id": "107",
     "name_en": "Goblin Tinkerer",
     "name_es": "Chapucero duende",
-    "image": "https://terraria.wiki.gg/images/Goblin_Tinkerer.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin_Tinkerer.png",
     "items_sold": [
       {
         "item_name": "Tinkerer's Workshop",
@@ -221,7 +221,7 @@
     "id": "108",
     "name_en": "Wizard",
     "name_es": "Mago",
-    "image": "https://terraria.wiki.gg/images/Wizard.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wizard.png",
     "items_sold": [
       {
         "item_name": "Crystal Ball",
@@ -250,7 +250,7 @@
     "id": "124",
     "name_en": "Mechanic",
     "name_es": "Mecánica",
-    "image": "https://terraria.wiki.gg/images/Mechanic.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanic.png",
     "items_sold": [
       {
         "item_name": "Wrench",
@@ -275,7 +275,7 @@
     "id": "142",
     "name_en": "Santa Claus",
     "name_es": "Papá Noel",
-    "image": "https://terraria.wiki.gg/images/Santa_Claus.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Santa_Claus.png",
     "items_sold": [
       {
         "item_name": "Christmas Tree",
@@ -296,7 +296,7 @@
     "id": "160",
     "name_en": "Truffle",
     "name_es": "Trufa",
-    "image": "https://terraria.wiki.gg/images/Truffle.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Truffle.png",
     "items_sold": [
       {
         "item_name": "Autohammer",
@@ -321,7 +321,7 @@
     "id": "178",
     "name_en": "Steampunker",
     "name_es": "Steampunker",
-    "image": "https://terraria.wiki.gg/images/Steampunker.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Steampunker.png",
     "items_sold": [
       {
         "item_name": "Clentaminator",
@@ -350,7 +350,7 @@
     "id": "207",
     "name_en": "Dye Trader",
     "name_es": "Comerciante de tintes",
-    "image": "https://terraria.wiki.gg/images/Dye_Trader.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Trader.png",
     "items_sold": [
       {
         "item_name": "Dye Vat",
@@ -371,7 +371,7 @@
     "id": "208",
     "name_en": "Party Girl",
     "name_es": "Chica fiestera",
-    "image": "https://terraria.wiki.gg/images/Party_Girl.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Party_Girl.png",
     "items_sold": [
       {
         "item_name": "Confetti",
@@ -400,7 +400,7 @@
     "id": "209",
     "name_en": "Cyborg",
     "name_es": "Ciborg",
-    "image": "https://terraria.wiki.gg/images/Cyborg.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Cyborg.png",
     "items_sold": [
       {
         "item_name": "Rocket I",
@@ -433,7 +433,7 @@
     "id": "227",
     "name_en": "Painter",
     "name_es": "Pintor",
-    "image": "https://terraria.wiki.gg/images/Painter.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Painter.png",
     "items_sold": [
       {
         "item_name": "Paintbrush",
@@ -454,7 +454,7 @@
     "id": "228",
     "name_en": "Witch Doctor",
     "name_es": "Médico brujo",
-    "image": "https://terraria.wiki.gg/images/Witch_Doctor.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Witch_Doctor.png",
     "items_sold": [
       {
         "item_name": "Imbuing Station",
@@ -483,7 +483,7 @@
     "id": "229",
     "name_en": "Pirate",
     "name_es": "Pirata",
-    "image": "https://terraria.wiki.gg/images/Pirate.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Pirate.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Pirate"
   },
@@ -491,7 +491,7 @@
     "id": "353",
     "name_en": "Stylist",
     "name_es": "Estilista",
-    "image": "https://terraria.wiki.gg/images/Stylist.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Stylist.png",
     "items_sold": [
       {
         "item_name": "Hair Dye",
@@ -508,7 +508,7 @@
     "id": "368",
     "name_en": "Traveling Merchant",
     "name_es": "Traveling Merchant",
-    "image": "https://terraria.wiki.gg/images/Traveling_Merchant.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Traveling_Merchant.png",
     "items_sold": [
       {
         "item_name": "Celestial Magnet",
@@ -537,7 +537,7 @@
     "id": "441",
     "name_en": "Tax Collector",
     "name_es": "Recaudador de impuestos",
-    "image": "https://terraria.wiki.gg/images/Tax_Collector.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector"
   },
@@ -545,7 +545,7 @@
     "id": "453",
     "name_en": "Tavernkeep",
     "name_es": "Tabernero",
-    "image": "https://terraria.wiki.gg/images/Tavernkeep.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tavernkeep.png",
     "items_sold": [
       {
         "item_name": "Defender's Forge",
@@ -618,7 +618,7 @@
     "id": "588",
     "name_en": "Golfer",
     "name_es": "Golfista",
-    "image": "https://terraria.wiki.gg/images/Golfer.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golfer.png",
     "items_sold": [
       {
         "item_name": "Golf Clubs",
@@ -643,7 +643,7 @@
     "id": "633",
     "name_en": "Zoologist",
     "name_es": "Zoóloga",
-    "image": "https://terraria.wiki.gg/images/Zoologist.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Zoologist.png",
     "items_sold": [
       {
         "item_name": "Leather Whip",
@@ -672,7 +672,7 @@
     "id": "663",
     "name_en": "Princess",
     "name_es": "Princesa",
-    "image": "https://terraria.wiki.gg/images/Princess.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Princess.png",
     "items_sold": [
       {
         "item_name": "Slime Staff",

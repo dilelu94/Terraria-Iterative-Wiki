@@ -80,7 +80,7 @@ const ShimmerView: React.FC<ShimmerViewProps> = ({ items, lang, onSelect, select
               </div>
             </div>
           ) : (
-            <div className="shimmer-item-card" onClick={() => onSelect(pair.b)}>
+            <div className="shimmer-item-card" onClick={() => onSelect(pair.b as Item)}>
               {pair.b.image_url ? (
                 <img src={pair.b.image_url} alt={pair.b.name_en} className="item-icon-small" />
               ) : (

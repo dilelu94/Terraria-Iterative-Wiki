@@ -1,4 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
+import { Routes, Route, useNavigate, useLocation, useParams } from 'react-router-dom';
 import { useData } from './hooks/useData';
 import { Item, Enemy, NPC, Boss, EventBoss, Mimic, CraftingStation, Language, ViewType } from './types';
 import { calculateTotalMaterials } from './utils/crafting';
@@ -16,6 +17,8 @@ import ShimmerView from './components/ShimmerView';
 
 function App() {
   const { items: rawItems, enemies: rawEnemies, npcs: rawNPCs, bosses: rawBosses, eventBosses: rawEventBosses, mimics: rawMimics, stations: rawStations, loading, error } = useData();
+  const navigate = useNavigate();
+  const location = useLocation();
   
   const [view, setView] = useState<ViewType>('items');
   const [lang, setLang] = useState<Language>('es');
@@ -88,6 +91,69 @@ function App() {
     })) as CraftingStation[];
   }, [rawStations, lang]);
 
+  // Sincronizar estado con la URL
+  useEffect(() => {
+    const path = location.pathname;
+    if (path === '/' || path === '') {
+      resetAllSelections();
+      return;
+    }
+
+    // Solo sincronizar si los datos ya están cargados
+    if (items.length === 0) return;
+
+    const parts = path.split('/');
+    const type = parts[1];
+    const id = parts[2];
+    
+    if (type === 'item' && id) {
+      const found = items.find(i => i.id === id);
+      if (found) {
+        setSelectedItem(found);
+        resetAllSelectionsExcept('item');
+      }
+    } else if (type === 'enemy' && id) {
+      const found = enemies.find(e => e.id === id);
+      if (found) {
+        setSelectedEnemy(found);
+        resetAllSelectionsExcept('enemy');
+      }
+    } else if (type === 'npc' && id) {
+      const found = npcs.find(n => n.id === id);
+      if (found) {
+        setSelectedNPC(found);
+        resetAllSelectionsExcept('npc');
+      }
+    } else if (type === 'boss' && id) {
+      const found = bosses.find(b => b.id === id);
+      if (found) {
+        setSelectedBoss(found);
+        resetAllSelectionsExcept('boss');
+      }
+    } else if (type === 'event-boss' && id) {
+      const found = eventBosses.find(eb => eb.id === id);
+      if (found) {
+        setSelectedEventBoss(found);
+        resetAllSelectionsExcept('event-boss');
+      }
+    } else if (type === 'mimic' && id) {
+      const found = mimics.find(m => m.id === id);
+      if (found) {
+        setSelectedMimic(found);
+        resetAllSelectionsExcept('mimic');
+      }
+    }
+  }, [location.pathname, items, enemies, npcs, bosses, eventBosses, mimics]);
+
+  const resetAllSelectionsExcept = (except: string) => {
+    if (except !== 'item') setSelectedItem(null);
+    if (except !== 'enemy') setSelectedEnemy(null);
+    if (except !== 'npc') setSelectedNPC(null);
+    if (except !== 'boss') setSelectedBoss(null);
+    if (except !== 'event-boss') setSelectedEventBoss(null);
+    if (except !== 'mimic') setSelectedMimic(null);
+  };
+
   const resetAllSelections = () => {
     setSelectedItem(null);
     setSelectedEnemy(null);
@@ -100,11 +166,13 @@ function App() {
   const selectItem = (item: Item | null) => {
     if (item === null) {
       setNavigationHistory([]);
-    } else if (selectedItem && item.id !== selectedItem.id) {
-      setNavigationHistory(prev => [...prev, selectedItem]);
-    }
-    setSelectedItem(item);
-    if (item) {
+      navigate('/');
+    } else {
+      if (selectedItem && item.id !== selectedItem.id) {
+        setNavigationHistory(prev => [...prev, selectedItem]);
+      }
+      setSelectedItem(item);
+      navigate(`/item/${item.id}`);
       setSelectedEnemy(null);
       setSelectedNPC(null);
       setSelectedBoss(null);
@@ -117,11 +185,14 @@ function App() {
   const selectEnemy = (enemy: Enemy | null) => {
     setSelectedEnemy(enemy);
     if (enemy) {
+      navigate(`/enemy/${enemy.id}`);
       setSelectedItem(null);
       setSelectedNPC(null);
       setSelectedBoss(null);
       setSelectedEventBoss(null);
       setSelectedMimic(null);
+    } else {
+      navigate('/');
     }
     window.scrollTo(0, 0);
   };
@@ -129,11 +200,14 @@ function App() {
   const selectNPC = (npc: NPC | null) => {
     setSelectedNPC(npc);
     if (npc) {
+      navigate(`/npc/${npc.id}`);
       setSelectedItem(null);
       setSelectedEnemy(null);
       setSelectedBoss(null);
       setSelectedEventBoss(null);
       setSelectedMimic(null);
+    } else {
+      navigate('/');
     }
     window.scrollTo(0, 0);
   };
@@ -141,11 +215,14 @@ function App() {
   const selectBoss = (boss: Boss | null) => {
     setSelectedBoss(boss);
     if (boss) {
+      navigate(`/boss/${boss.id}`);
       setSelectedItem(null);
       setSelectedEnemy(null);
       setSelectedNPC(null);
       setSelectedEventBoss(null);
       setSelectedMimic(null);
+    } else {
+      navigate('/');
     }
     window.scrollTo(0, 0);
   };
@@ -153,11 +230,14 @@ function App() {
   const selectEventBoss = (boss: EventBoss | null) => {
     setSelectedEventBoss(boss);
     if (boss) {
+      navigate(`/event-boss/${boss.id}`);
       setSelectedItem(null);
       setSelectedEnemy(null);
       setSelectedNPC(null);
       setSelectedBoss(null);
       setSelectedMimic(null);
+    } else {
+      navigate('/');
     }
     window.scrollTo(0, 0);
   };
@@ -165,11 +245,14 @@ function App() {
   const selectMimic = (mimic: Mimic | null) => {
     setSelectedMimic(mimic);
     if (mimic) {
+      navigate(`/mimic/${mimic.id}`);
       setSelectedItem(null);
       setSelectedEnemy(null);
       setSelectedNPC(null);
       setSelectedBoss(null);
       setSelectedEventBoss(null);
+    } else {
+      navigate('/');
     }
     window.scrollTo(0, 0);
   };
