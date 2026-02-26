@@ -330,19 +330,43 @@
     "drops": [
       {
         "item_name": "Lucy the Axe",
-        "item_id": "5095"
+        "item_id": "5095",
+        "chance": "25%"
       },
       {
-        "item_name": "Chester",
-        "item_id": "48"
+        "item_name": "Weather Pain",
+        "item_id": "5118",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Houndius Shootius",
+        "item_id": "5119",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Pew-matic Horn",
+        "item_id": "5117",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Eyebrella",
+        "item_id": "5101",
+        "chance": "33.3%"
       },
       {
         "item_name": "Eye Bone",
-        "item_id": "5098"
+        "item_id": "5098",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Bone Helm (Experto)",
-        "item_id": "154"
+        "item_name": "Deerclops Mask",
+        "item_id": "5114",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Deerclops Trophy",
+        "item_id": "5115",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Deerclops.png",
@@ -357,40 +381,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "5098",
-        "item_name": "Eye Bone"
-      },
-      {
-        "item_id": "5099",
-        "item_name": "Garland"
-      },
-      {
-        "item_id": "5100",
-        "item_name": "Bone Helm"
-      },
-      {
-        "item_id": "5101",
-        "item_name": "Eyebrella"
-      },
-      {
-        "item_id": "5117",
-        "item_name": "Pew-matic Horn"
-      },
-      {
-        "item_id": "5118",
-        "item_name": "Weather Pain"
-      },
-      {
-        "item_id": "5119",
-        "item_name": "Houndius Shootius"
-      },
-      {
-        "item_id": "4918",
-        "item_name": "Ocean Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "5112",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -536,19 +528,23 @@
     "drops": [
       {
         "item_name": "Soul of Sight",
-        "item_id": "549"
+        "item_id": "549",
+        "chance": "100% (20-40)"
       },
       {
         "item_name": "Hallowed Bar",
-        "item_id": "1225"
-      },
-      {
-        "item_name": "Greater Healing Potion",
-        "item_id": "499"
+        "item_id": "1225",
+        "chance": "100% (15-30)"
       },
       {
         "item_name": "Twin Mask",
-        "item_id": "2111"
+        "item_id": "2105",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "The Twins Trophy",
+        "item_id": "2104",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Twins.png",
@@ -558,7 +554,7 @@
     "time_en": "Night",
     "time_es": "Noche",
     "treasure_bag": {
-      "item_id": "3326",
+      "item_id": "3325",
       "item_name": "Treasure Bag (The Twins)"
     },
     "expert_drops": [
@@ -578,19 +574,23 @@
     "drops": [
       {
         "item_name": "Soul of Might",
-        "item_id": "575"
+        "item_id": "548",
+        "chance": "100% (20-40)"
       },
       {
         "item_name": "Hallowed Bar",
-        "item_id": "1225"
+        "item_id": "1225",
+        "chance": "100% (15-30)"
       },
       {
-        "item_name": "Mechanical Wagon Piece",
-        "item_id": "3355"
+        "item_name": "Destroyer Mask",
+        "item_id": "2107",
+        "chance": "14.29%"
       },
       {
-        "item_name": "Greater Healing Potion",
-        "item_id": "499"
+        "item_name": "Destroyer Trophy",
+        "item_id": "2108",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer.png",
@@ -600,7 +600,7 @@
     "time_en": "Night",
     "time_es": "Noche",
     "treasure_bag": {
-      "item_id": "3325",
+      "item_id": "3326",
       "item_name": "Treasure Bag (The Destroyer)"
     },
     "expert_drops": [
@@ -620,19 +620,23 @@
     "drops": [
       {
         "item_name": "Soul of Fright",
-        "item_id": "578"
+        "item_id": "547",
+        "chance": "100% (20-40)"
       },
       {
         "item_name": "Hallowed Bar",
-        "item_id": "1225"
-      },
-      {
-        "item_name": "Greater Healing Potion",
-        "item_id": "499"
+        "item_id": "1225",
+        "chance": "100% (15-30)"
       },
       {
         "item_name": "Skeletron Prime Mask",
-        "item_id": "2106"
+        "item_id": "2106",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Skeletron Prime Trophy",
+        "item_id": "2103",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Prime.png",
@@ -662,19 +666,48 @@
     "drops": [
       {
         "item_name": "Temple Key",
-        "item_id": "1141"
+        "item_id": "1141",
+        "chance": "100%"
       },
       {
-        "item_name": "Grenade Launcher",
-        "item_id": "758"
+        "item_name": "The Axe",
+        "item_id": "1294",
+        "chance": "0.5% (Clásico) / 2% (Experto)"
       },
       {
         "item_name": "Seedler",
-        "item_id": "3018"
+        "item_id": "3063",
+        "chance": "14.29%"
       },
       {
-        "item_name": "Spore Sac (Experto)",
-        "item_id": "3336"
+        "item_name": "Flower Pow",
+        "item_id": "1258",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Leaf Blower",
+        "item_id": "1264",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Pygmy Staff",
+        "item_id": "1157",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Wasp Gun",
+        "item_id": "1154",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Plantera Mask",
+        "item_id": "2111",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Plantera Trophy",
+        "item_id": "2112",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Plantera.png",
@@ -704,19 +737,38 @@
     "drops": [
       {
         "item_name": "Picksaw",
-        "item_id": "1294"
+        "item_id": "1295",
+        "chance": "12.5% (Clásico) / 25% (Experto)"
+      },
+      {
+        "item_name": "Beetle Husk",
+        "item_id": "1353",
+        "chance": "100% (18-26)"
       },
       {
         "item_name": "Sun Stone",
-        "item_id": "899"
+        "item_id": "899",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Eye of the Golem",
+        "item_id": "1248",
+        "chance": "12.5%"
       },
       {
         "item_name": "Possessed Hatchet",
-        "item_id": "1122"
+        "item_id": "1255",
+        "chance": "12.5%"
       },
       {
-        "item_name": "Shiny Stone (Experto)",
-        "item_id": "3337"
+        "item_name": "Golem Mask",
+        "item_id": "2113",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Golem Trophy",
+        "item_id": "2114",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem.png",
@@ -873,24 +925,54 @@
     "damage": "150 / 300",
     "drops": [
       {
+        "item_name": "Luminite",
+        "item_id": "3460",
+        "chance": "100% (70-90)"
+      },
+      {
         "item_name": "Meowmere",
-        "item_id": "3063"
+        "item_id": "3065",
+        "chance": "11.1%"
+      },
+      {
+        "item_name": "Star Wrath",
+        "item_id": "3061",
+        "chance": "11.1%"
       },
       {
         "item_name": "Terrarian",
-        "item_id": "3389"
+        "item_id": "3389",
+        "chance": "11.1%"
       },
       {
-        "item_name": "Portal Gun",
-        "item_id": "3384"
+        "item_name": "S.D.M.G.",
+        "item_id": "1552",
+        "chance": "11.1%"
       },
       {
-        "item_name": "Luminite",
-        "item_id": "3460"
+        "item_name": "Last Prism",
+        "item_id": "3475",
+        "chance": "11.1%"
       },
       {
-        "item_name": "Gravity Globe (Experto)",
-        "item_id": "1131"
+        "item_name": "Lunar Flare",
+        "item_id": "3476",
+        "chance": "11.1%"
+      },
+      {
+        "item_name": "Celebration Mk2",
+        "item_id": "4952",
+        "chance": "11.1%"
+      },
+      {
+        "item_name": "Moon Lord Mask",
+        "item_id": "3372",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Moon Lord Trophy",
+        "item_id": "3373",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord.png",
