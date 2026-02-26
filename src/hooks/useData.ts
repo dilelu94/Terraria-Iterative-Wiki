@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Item, Enemy, NPC, Boss, EventBoss, Mimic } from '../types';
+import { Item, Enemy, NPC, Boss, EventBoss, Mimic, CraftingStation } from '../types';
 
 export const useData = () => {
   const [items, setItems] = useState<Item[]>([]);
@@ -8,19 +8,21 @@ export const useData = () => {
   const [bosses, setBosses] = useState<Boss[]>([]);
   const [eventBosses, setEventBosses] = useState<EventBoss[]>([]);
   const [mimics, setMimics] = useState<Mimic[]>([]);
+  const [stations, setStations] = useState<CraftingStation[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const loadData = async () => {
       try {
-        const [itemsRes, enemiesRes, npcsRes, bossesRes, eventBossesRes, mimicsRes] = await Promise.all([
+        const [itemsRes, enemiesRes, npcsRes, bossesRes, eventBossesRes, mimicsRes, stationsRes] = await Promise.all([
           fetch('./data/items.json').then(res => res.json()),
           fetch('./data/enemies.json').then(res => res.json()),
           fetch('./data/npcs.json').then(res => res.json()),
           fetch('./data/bosses.json').then(res => res.json()),
           fetch('./data/event_bosses.json').then(res => res.json()),
-          fetch('./data/mimics.json').then(res => res.json())
+          fetch('./data/mimics.json').then(res => res.json()),
+          fetch('./data/crafting_stations.json').then(res => res.json())
         ]);
 
         setItems(itemsRes);
@@ -29,6 +31,7 @@ export const useData = () => {
         setBosses(bossesRes);
         setEventBosses(eventBossesRes);
         setMimics(mimicsRes);
+        setStations(stationsRes);
         setLoading(false);
       } catch (err) {
         console.error("Error loading data:", err);
@@ -40,5 +43,5 @@ export const useData = () => {
     loadData();
   }, []);
 
-  return { items, enemies, npcs, bosses, eventBosses, mimics, loading, error };
+  return { items, enemies, npcs, bosses, eventBosses, mimics, stations, loading, error };
 };

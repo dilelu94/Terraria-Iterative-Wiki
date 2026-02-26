@@ -80,6 +80,13 @@ function App() {
     })) as Mimic[];
   }, [rawMimics, lang]);
 
+  const stations = useMemo(() => {
+    return rawStations.map(station => ({
+      ...station,
+      display_name: lang === 'es' ? (station.name_es || station.name_en) : station.name_en
+    })) as CraftingStation[];
+  }, [rawStations, lang]);
+
   const resetAllSelections = () => {
     setSelectedItem(null);
     setSelectedEnemy(null);
@@ -364,6 +371,7 @@ function App() {
           findMimicsByDrop={findMimicsByDrop}
           findItemsUsingMaterial={findItemsUsingMaterial}
           findNPCsByItem={findNPCsByItem}
+          stations={stations}
           selectEnemy={selectEnemy}
           selectBoss={selectBoss}
           selectNPC={selectNPC}

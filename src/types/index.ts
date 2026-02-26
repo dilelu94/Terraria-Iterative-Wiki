@@ -12,6 +12,7 @@ export interface Item {
   wiki_url: string;
   image_url?: string;
   recipes?: RecipeIngredient[];
+  station_id?: string;
   // Armor fields
   is_armor?: boolean;
   armor_set_en?: string;
@@ -104,6 +105,14 @@ export interface Mimic {
   drops: { item_name: string; item_id: string | null }[];
   image: string;
   wiki_url: string;
+}
+
+export interface CraftingStation {
+  id: string;
+  name_en: string;
+  name_es: string;
+  display_name: string;
+  image: string;
 }
 
 export type ViewType = 'items' | 'enemies' | 'npcs' | 'bosses' | 'event_bosses' | 'mimics';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Item, Language, Enemy, Boss, NPC, Mimic } from '../../types';
+import { Item, Language, Enemy, Boss, NPC, Mimic, CraftingStation } from '../../types';
 
 interface ItemDetailProps {
   item: Item;
@@ -14,6 +14,7 @@ interface ItemDetailProps {
   findMimicsByDrop: (itemId: string) => Mimic[];
   findItemsUsingMaterial: (itemNameEn: string) => Item[];
   findNPCsByItem: (itemId: string) => NPC[];
+  stations: CraftingStation[];
   selectEnemy: (enemy: Enemy | null) => void;
   selectBoss: (boss: Boss | null) => void;
   selectNPC: (npc: NPC | null) => void;
@@ -24,13 +25,14 @@ interface ItemDetailProps {
 const ItemDetail: React.FC<ItemDetailProps> = ({
   item, lang, navigationHistory, goBackInHistory, selectItem,
   findItemByName, totalMaterials, findEnemiesByDrop, findBossesByDrop, findMimicsByDrop, findItemsUsingMaterial,
-  findNPCsByItem, selectEnemy, selectBoss, selectNPC, selectMimic, setNavigationHistory
+  findNPCsByItem, stations, selectEnemy, selectBoss, selectNPC, selectMimic, setNavigationHistory
 }) => {
   const enemiesByDrop = findEnemiesByDrop(item.id);
   const bossesByDrop = findBossesByDrop(item.id);
   const mimicsByDrop = findMimicsByDrop(item.id);
   const itemsUsingMaterial = findItemsUsingMaterial(item.name_en);
   const npcsByItem = findNPCsByItem(item.id);
+  const station = item.station_id ? stations.find(s => s.id === item.station_id) : null;
 
   const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
 
@@ -83,7 +85,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             <h2>{item.display_name}</h2>
             <p className="hero-subtitle">{lang === 'es' ? item.name_en : (item.name_es || "Terraria Material")}</p>
             
-            {/* Estadísticas de Armadura (Formato Jefe) */}
+            {/* Estadísticas de Armadura */}
             {item.is_armor && (
               <div className="enemy-stats-row hero-stats">
                 <div className="stat-pill" title={lang === 'es' ? 'Defensa de esta pieza' : 'Piece Defense'}>
@@ -110,7 +112,28 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* Caja de Bonus de Set y Efectos */}
+        {/* Información de Estación de Trabajo */}
+        {(item.recipes?.length ?? 0) > 0 && (
+          <div className="recipe-box station-box">
+            <h3>{lang === 'es' ? 'Estación de Trabajo' : 'Crafting Station'}</h3>
+            <div className="info-list">
+              {station ? (
+                <div className="ing-item no-hover">
+                  {station.image ? (
+                    <img src={station.image} alt={station.name_en} className="ing-icon" />
+                  ) : (
+                    <div className="item-icon-placeholder tiny">🔨</div>
+                  )}
+                  <span className="ing-name" style={{ color: 'var(--accent)' }}>{station.display_name}</span>
+                </div>
+              ) : (
+                <div className="info-item">{lang === 'es' ? 'Desconocida' : 'Unknown'}</div>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* Información de Armadura */}
         {item.is_armor && (
           <div className="recipe-box armor-info-box">
             <h3>{lang === 'es' ? 'Información de Armadura' : 'Armor Information'}</h3>
