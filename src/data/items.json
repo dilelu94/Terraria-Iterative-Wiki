@@ -2527,7 +2527,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Brick_Wall.png?a30190",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy",
+      "iron_anvil"
     ]
   },
   {
@@ -2538,7 +2540,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Chain_Lantern",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Chain_Lantern.png?d14c3c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy",
+      "iron_anvil"
+    ]
   },
   {
     "id": "137",
@@ -8850,7 +8855,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bell",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bell.png?f6b7e4",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "508",
@@ -8860,7 +8867,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Harp",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Harp.png?ae59bb",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "509",
@@ -9201,7 +9210,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wire",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wire.png?23fe9c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "531",
@@ -9277,7 +9288,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Philosopher's_Stone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Philosopher%27s_Stone.png?23db63",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "536",
@@ -14665,7 +14678,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Actuator.png?f09bd1",
     "station_ids": [
       "mythril_anvil",
-      "exploration"
+      "exploration",
+      "merchant_buy"
     ],
     "origin_info": "Gold Chest (Pirámide del Desierto)"
   },
@@ -14677,7 +14691,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Wrench",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Wrench.png?78cc70",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "851",
@@ -14687,7 +14703,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Wrench",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Wrench.png?80f09a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "852",
@@ -16650,7 +16668,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Torch.png?aae642",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -19373,7 +19392,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rain_Hat.png?f8083b",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "exploration"
     ]
   },
   {
@@ -19385,7 +19405,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rain_Coat.png?46949c",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "exploration"
     ]
   },
   {
@@ -19402,7 +19423,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lihzahrd_Door.png?803ce1",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -19582,7 +19604,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Pressure_Plate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lihzahrd_Pressure_Plate.png?2997f8",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "1152",
@@ -22096,7 +22120,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Book_of_Skulls.png?e1dde3",
     "station_ids": [
       "iron_anvil",
-      "loot"
+      "loot",
+      "merchant_buy"
     ]
   },
   {
@@ -22108,7 +22133,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/KO_Cannon.png?ad4e5f",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -55743,7 +55769,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(AND)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Logic_Gate_%28AND%29.png?dd7ceb",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3604",
@@ -55753,7 +55781,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(OR)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Logic_Gate_%28OR%29.png?398953",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3605",
@@ -55841,7 +55871,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/The_Grand_Design.png?5469e2",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -55876,7 +55907,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Logic_Sensor_%28Day%29.png?95cf1a",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -55901,7 +55933,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Logic_Sensor_%28Night%29.png?25e624",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -55937,7 +55970,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Junction_Box",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Junction_Box.png?e74f52",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3617",
@@ -55961,7 +55996,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Announcement_Box.png?d7955a",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -55972,7 +56008,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_Lamp_(On)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Logic_Gate_Lamp_%28On%29.png?7468b2",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3619",
@@ -55982,7 +56020,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Lens",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Lens.png?a1bd11",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3620",
@@ -56007,7 +56047,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Actuation_Rod.png?c0e8df",
     "station_ids": [
       "hand",
-      "heavy_workbench"
+      "heavy_workbench",
+      "merchant_buy"
     ]
   },
   {
@@ -56018,7 +56059,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Team_Block",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Team_Block.png?3b7784",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3622",
@@ -56028,7 +56071,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Team_Platform",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Team_Platform.png?358f07",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3623",
@@ -56038,7 +56083,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Static_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Static_Hook.png?683566",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3624",
@@ -56048,7 +56095,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Presserator",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Presserator.png?886694",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ]
   },
   {
     "id": "3625",
@@ -56080,7 +56129,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Multicolor_Wrench.png?dfe211",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -66208,7 +66258,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Orange_Pressure_Plate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Orange_Pressure_Plate.png?6bec3c",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "4262",
