@@ -5884,85 +5884,81 @@
   },
   {
     "id": "313",
-    "category": "Plants",
+    "category": "Materials",
     "name_en": "Daybloom",
     "name_es": "Resplandor diurno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Daybloom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Daybloom.png",
     "station_ids": [
-      "33",
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Bosque / Superficie"
+    "origin_info": "Recogido: Bosque (Superficie)"
   },
   {
     "id": "314",
-    "category": "Plants",
+    "category": "Materials",
     "name_en": "Moonglow",
     "name_es": "Luz de luna",
     "wiki_url": "https://terraria.wiki.gg/wiki/Moonglow",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moonglow.png",
     "station_ids": [
-      "33",
-      "hand",
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Selva / Superficie"
+    "origin_info": "Recogido: Selva (Noche)"
   },
   {
     "id": "315",
-    "category": "Plants",
+    "category": "Materials",
     "name_en": "Blinkroot",
     "name_es": "Raíz de luz",
     "wiki_url": "https://terraria.wiki.gg/wiki/Blinkroot",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blinkroot.png",
     "station_ids": [
-      "33",
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Subterráneo (Cualquier bioma)"
+    "origin_info": "Recogido: Subterráneo / Cavernas"
   },
   {
     "id": "316",
-    "category": "Plants",
+    "category": "Materials",
     "name_en": "Deathweed",
-    "name_es": "Espina de agua",
+    "name_es": "Hierba de muerte",
     "wiki_url": "https://terraria.wiki.gg/wiki/Deathweed",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Deathweed.png",
     "station_ids": [
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Desierto / Superficie"
+    "origin_info": "Recogido: Corrupción / Carmesí (Luna de sangre / Luna llena)"
   },
   {
     "id": "317",
-    "category": "Plants",
+    "category": "Materials",
     "name_en": "Waterleaf",
     "name_es": "Hoja de agua",
     "wiki_url": "https://terraria.wiki.gg/wiki/Waterleaf",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Waterleaf.png",
     "station_ids": [
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Cortar Hoja de agua (Lluvia)"
+    "origin_info": "Recogido: Desierto (Lluvia)"
   },
   {
     "id": "318",
-    "category": "Plants",
+    "category": "Materials",
     "name_en": "Fireblossom",
-    "name_es": "Resplandor de fuego",
+    "name_es": "Flor de fuego",
     "wiki_url": "https://terraria.wiki.gg/wiki/Fireblossom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fireblossom.png",
     "station_ids": [
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Cortar Flor de fuego (Atardecer)"
+    "origin_info": "Recogido: El Inframundo"
   },
   {
     "id": "319",
