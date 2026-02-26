@@ -2343,8 +2343,8 @@
   {
     "id": "126",
     "category": "Blocks",
-    "name_en": "Obsidian Brick",
-    "name_es": "Ladrillo de obsidiana",
+    "name_en": "Bottled Water",
+    "name_es": "Botella de agua",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bottled_Water",
     "recipes": [
       {
@@ -2361,8 +2361,8 @@
   {
     "id": "127",
     "category": "Blocks",
-    "name_en": "Hellstone Brick",
-    "name_es": "Ladrillo de piedra infernal",
+    "name_en": "Space Gun",
+    "name_es": "Pistola de mano espacial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Space_Gun",
     "recipes": [
       {
@@ -2461,7 +2461,7 @@
     "category": "Accessories",
     "name_en": "Shackle",
     "name_es": "Grilletes",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Clay_Block",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Shackle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Clay_Block.png",
     "station_ids": [
@@ -8740,9 +8740,9 @@
   {
     "id": "514",
     "category": "Mechanisms",
-    "name_en": "Lever",
-    "name_es": "Palanca",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lever",
+    "name_en": "Laser Rifle",
+    "name_es": "Fusil láser",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Rifle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lever.png",
     "station_ids": [
@@ -8753,9 +8753,9 @@
   {
     "id": "515",
     "category": "Weapons",
-    "name_en": "Laser Rifle",
-    "name_es": "Fusil láser",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Rifle",
+    "name_en": "Crystal Bullet",
+    "name_es": "Bala de cristal",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Bullet",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Laser_Rifle.png",
     "station_ids": [],
@@ -8764,9 +8764,9 @@
   {
     "id": "516",
     "category": "Ammunition",
-    "name_en": "Crystal Bullet",
-    "name_es": "Bala de cristal",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Bullet",
+    "name_en": "Holy Arrow",
+    "name_es": "Flecha sagrada",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Holy_Arrow",
     "recipes": [
       {
         "name_en": "Pixie Dust",
@@ -21478,9 +21478,9 @@
   {
     "id": "1299",
     "category": "Weapons",
-    "name_en": "Golem Fist",
-    "name_es": "Puño de Golem",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Golem_Fist",
+    "name_en": "Binoculars",
+    "name_es": "Prismáticos",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Binoculars",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem_Fist.png",
     "station_ids": [
@@ -21491,9 +21491,9 @@
   {
     "id": "1300",
     "category": "Miscellaneous",
-    "name_en": "Water Gun",
-    "name_es": "Pistola de agua",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Water_Gun",
+    "name_en": "Rifle Scope",
+    "name_es": "Mira de fusil",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Rifle_Scope",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Gun.png",
     "station_ids": [
@@ -21504,9 +21504,9 @@
   {
     "id": "1301",
     "category": "Accessories",
-    "name_en": "Binoculars",
-    "name_es": "Prismáticos",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Binoculars",
+    "name_en": "Destroyer Emblem",
+    "name_es": "Emblema de destructor",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Emblem",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Binoculars.png",
     "station_ids": [],
@@ -21541,9 +21541,9 @@
   {
     "id": "1304",
     "category": "Ammunition",
-    "name_en": "High Velocity Bullet",
-    "name_es": "Bala de alta velocidad",
-    "wiki_url": "https://terraria.wiki.gg/wiki/High_Velocity_Bullet",
+    "name_en": "Zombie Arm",
+    "name_es": "Brazo de zombi",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Zombie_Arm",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/High_Velocity_Bullet.png",
     "station_ids": [
@@ -21554,9 +21554,9 @@
   {
     "id": "1305",
     "category": "Accessories",
-    "name_en": "Jellyfish Necklace",
-    "name_es": "Collar de medusa",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Jellyfish_Necklace",
+    "name_en": "The Axe",
+    "name_es": "El hacha",
+    "wiki_url": "https://terraria.wiki.gg/wiki/The_Axe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jellyfish_Necklace.png",
     "station_ids": [

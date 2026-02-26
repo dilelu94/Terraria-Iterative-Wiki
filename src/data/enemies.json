@@ -20,6 +20,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -44,6 +48,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -68,6 +76,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -92,6 +104,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -116,6 +132,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -140,6 +160,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -164,6 +188,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -188,6 +216,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -1233,7 +1265,7 @@
         "chance": "2% (Clásico) / 3.33% (Experto)"
       },
       {
-        "item_id": "1306",
+        "item_id": "1304",
         "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
@@ -1520,6 +1552,10 @@
       {
         "item_id": "954",
         "chance": "1% (Clásico) / 1.5% (Experto)"
+      },
+      {
+        "item_id": "1304",
+        "chance": "0.4% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
