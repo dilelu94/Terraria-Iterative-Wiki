@@ -2897,7 +2897,7 @@
   },
   {
     "id": "156",
-    "category": "Weapons",
+    "category": "Accessories",
     "name_en": "Cobalt Shield",
     "name_es": "Arpón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cobalt_Shield",
@@ -2906,7 +2906,8 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Invasión Goblin"
+    "origin_info": "Cofres de oro cerrados en la Mazmorra",
+    "piece_effects": "Otorga inmunidad al retroceso"
   },
   {
     "id": "157",
@@ -3759,7 +3760,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra (Selva subterránea)"
+    "origin_info": "Encontrado en Cofres de hiedra (Selva) y Cajas de la selva",
+    "piece_effects": "+12% Velocidad de ataque cuerpo a cuerpo"
   },
   {
     "id": "212",
@@ -7147,10 +7149,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Obsidian_Shield.png",
     "station_ids": [
-      "hand",
-      "loot"
+      "398"
     ],
-    "origin_info": "Pesca (Cualquier bioma)"
+    "piece_effects": "Inmunidad al retroceso y a los bloques de fuego"
   },
   {
     "id": "398",
@@ -8549,18 +8550,13 @@
     "name_en": "Ranger Emblem",
     "name_es": "Emblema de guardabosques",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ranger_Emblem",
-    "recipes": [
-      {
-        "name_en": "Warrior Emblem",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ranger_Emblem.png",
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (17 Lingotes de piedra infernal)"
+    "origin_info": "Soltado por el Muro de Carne (25% Experto / 12.5% Clásico)",
+    "piece_effects": "+15% Daño a distancia"
   },
   {
     "id": "492",
@@ -9246,7 +9242,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Botín: Mímico (Hardmode)"
+    "origin_info": "Soltado por Mímicos (Pre-Hardmode y Hardmode)",
+    "piece_effects": "Aumenta el retroceso de las armas"
   },
   {
     "id": "537",
@@ -9555,19 +9552,19 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mana_Flower",
     "recipes": [
       {
-        "name_en": "Mana Potion",
+        "name_en": "Natures Gift",
         "amount": 1
       },
       {
-        "name_en": "Nature's Gift",
+        "name_en": "Mana Potion",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mana_Flower.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "piece_effects": "-8% Consumo de maná y uso automático de pociones de maná"
   },
   {
     "id": "556",
@@ -15343,12 +15340,21 @@
     "name_en": "Power Glove",
     "name_es": "Bezoar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Power_Glove",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Feral Claws",
+        "amount": 1
+      },
+      {
+        "name_en": "Titan Glove",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Power_Glove.png",
     "station_ids": [
-      "loot"
+      "398"
     ],
-    "origin_info": "Botín: Avispón / Slime tóxico"
+    "piece_effects": "Habilita autoataque, aumenta el tamaño de las armas y la velocidad"
   },
   {
     "id": "898",
@@ -15999,8 +16005,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Avenger_Emblem",
     "recipes": [
       {
-        "name_en": "Soul of Fright",
-        "amount": 5
+        "name_en": "Warrior Emblem",
+        "amount": 1
       },
       {
         "name_en": "Soul of Might",
@@ -16011,15 +16017,15 @@
         "amount": 5
       },
       {
-        "name_en": "Summoner Emblem",
-        "amount": 1
+        "name_en": "Soul of Fright",
+        "amount": 5
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Avenger_Emblem.png",
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Cualquier emblema + 5 Almas de poder/vista/terror)"
+    "piece_effects": "+12% Daño a todas las armas"
   },
   {
     "id": "936",
@@ -16029,11 +16035,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Glove",
     "recipes": [
       {
-        "name_en": "Avenger Emblem",
+        "name_en": "Power Glove",
         "amount": 1
       },
       {
-        "name_en": "Power Glove",
+        "name_en": "Avenger Emblem",
         "amount": 1
       }
     ],
@@ -16041,7 +16047,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "+12% Daño y velocidad cuerpo a cuerpo, aumenta el retroceso"
   },
   {
     "id": "937",
@@ -21982,7 +21988,7 @@
   },
   {
     "id": "1300",
-    "category": "Miscellaneous",
+    "category": "Accessories",
     "name_en": "Rifle Scope",
     "name_es": "Mira de fusil",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rifle_Scope",
@@ -21991,7 +21997,8 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Vendedor ambulante"
+    "origin_info": "Soltado por Esqueleto Francotirador en la Mazmorra (8.33% / 12.5%)",
+    "piece_effects": "Permite hacer zoom con armas de fuego"
   },
   {
     "id": "1301",
@@ -21999,10 +22006,21 @@
     "name_en": "Destroyer Emblem",
     "name_es": "Emblema de destructor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Emblem",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Avenger Emblem",
+        "amount": 1
+      },
+      {
+        "name_en": "Eye of the Golem",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Destroyer_Emblem.png",
-    "station_ids": [],
-    "origin_info": "Botín: Ojo de Cthulhu"
+    "station_ids": [
+      "398"
+    ],
+    "piece_effects": "+10% Daño y +8% Probabilidad de crítico"
   },
   {
     "id": "1302",
@@ -22662,11 +22680,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fire_Gauntlet",
     "recipes": [
       {
-        "name_en": "Magma Stone",
+        "name_en": "Mechanical Glove",
         "amount": 1
       },
       {
-        "name_en": "Mechanical Glove",
+        "name_en": "Magma Stone",
         "amount": 1
       }
     ],
@@ -22674,7 +22692,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Guante mecánico + Piedra de magma)"
+    "piece_effects": "Otorga los efectos del guantelete mecánico e inflige daño de fuego"
   },
   {
     "id": "1344",
@@ -29063,10 +29081,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sniper_Scope.png",
     "station_ids": [
-      "hand",
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "Otorga zoom y aumenta el daño y crítico a distancia"
   },
   {
     "id": "1859",
@@ -62405,22 +62422,23 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arcane_Flower.png",
     "station_ids": [
-      "hand"
-    ]
+      "398"
+    ],
+    "piece_effects": "-8% Consumo de maná, uso automático de pociones y reduce agresividad"
   },
   {
     "id": "3992",
     "category": "Accessories",
-    "name_en": "Berserker's Glove",
+    "name_en": "Berserker s Glove",
     "name_es": "Guante de Berserker",
     "wiki_url": "https://terraria.wiki.gg/wiki/Berserker's_Glove",
     "recipes": [
       {
-        "name_en": "Flesh Knuckles",
+        "name_en": "Power Glove",
         "amount": 1
       },
       {
-        "name_en": "Power Glove",
+        "name_en": "Flesh Knuckles",
         "amount": 1
       }
     ],
@@ -62428,7 +62446,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "+7 Defensa, aumenta el tamaño de las armas y la agresividad"
   },
   {
     "id": "3993",
@@ -62525,11 +62543,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Frozen_Shield",
     "recipes": [
       {
-        "name_en": "Frozen Turtle Shell",
+        "name_en": "Paladin s Shield",
         "amount": 1
       },
       {
-        "name_en": "Paladin's Shield",
+        "name_en": "Frozen Turtle Shell",
         "amount": 1
       }
     ],
@@ -62537,7 +62555,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "+6 Defensa. Inmunidad al retroceso y reduce daño recibido un 25% si tienes <50% de vida"
   },
   {
     "id": "3998",
@@ -62547,11 +62565,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hero_Shield",
     "recipes": [
       {
-        "name_en": "Flesh Knuckles",
+        "name_en": "Paladin s Shield",
         "amount": 1
       },
       {
-        "name_en": "Paladin's Shield",
+        "name_en": "Flesh Knuckles",
         "amount": 1
       }
     ],
@@ -62559,7 +62577,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "+7 Defensa. Inmunidad al retroceso, absorbe daño de aliados y aumenta agresividad"
   },
   {
     "id": "3999",
@@ -62591,19 +62609,19 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Magnet_Flower",
     "recipes": [
       {
-        "name_en": "Celestial Magnet",
+        "name_en": "Mana Flower",
         "amount": 1
       },
       {
-        "name_en": "Mana Flower",
+        "name_en": "Celestial Magnet",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magnet_Flower.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "piece_effects": "-8% Consumo de maná, uso automático de pociones y aumenta alcance de estrellas"
   },
   {
     "id": "4001",
@@ -62625,7 +62643,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "Crea estrellas que recuperan maná al recibir daño"
   },
   {
     "id": "4002",
@@ -62700,11 +62718,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Recon_Scope",
     "recipes": [
       {
-        "name_en": "Putrid Scent",
+        "name_en": "Sniper Scope",
         "amount": 1
       },
       {
-        "name_en": "Sniper Scope",
+        "name_en": "Putrid Scent",
         "amount": 1
       }
     ],
@@ -62712,7 +62730,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "piece_effects": "Otorga zoom, daño, crítico y reduce la agresividad de los enemigos"
   },
   {
     "id": "4006",
