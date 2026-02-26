@@ -33,6 +33,25 @@ const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
 const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, selectItem }) => {
   const [isExpertOpen, setIsExpertOpen] = useState(false);
 
+  const renderLootItem = (drop: { item_name: string; item_id: string | null; chance?: string }, idx: number) => {
+    const itemDetails = drop.item_id ? items.find(i => String(i.id) === String(drop.item_id)) : null;
+    
+    return (
+      <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
+        {itemDetails?.image_url ? (
+          <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
+        ) : (
+          <div className="item-icon-placeholder tiny">📦</div>
+        )}
+        <div className="ing-info">
+          <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+          {drop.chance && <span className="chance-pill">{drop.chance}</span>}
+        </div>
+        {itemDetails && <span className="can-craft">↗</span>}
+      </div>
+    );
+  };
+
   return (
     <div className="crafting-view animate-slide">
       <button className="back-btn" onClick={onBack}>
@@ -72,20 +91,7 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
           </h3>
           
           <div className="loot-grid" style={{ marginBottom: boss.treasure_bag ? '1.5rem' : '0' }}>
-            {boss.drops.map((drop, idx) => {
-              const itemDetails = drop.item_id ? items.find(i => i.id === drop.item_id) : null;
-              return (
-                <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
-                  {itemDetails?.image_url ? (
-                    <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
-                  ) : (
-                    <div className="item-icon-placeholder tiny">📦</div>
-                  )}
-                  <div className="ing-info"><span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>{drop.chance && <span className="chance-pill">{drop.chance}</span>}</div>
-                  {itemDetails && <span className="can-craft">↗</span>}
-                </div>
-              );
-            })}
+            {boss.drops.map((drop, idx) => renderLootItem(drop, idx))}
           </div>
 
           {boss.treasure_bag && (
@@ -107,21 +113,7 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
               
               <div className={`accordion-content ${isExpertOpen ? 'open' : ''}`}>
                 <div className="loot-grid">
-                  {boss.expert_drops && boss.expert_drops.map((drop, idx) => {
-                    const itemDetails = items.find(i => i.id === drop.item_id);
-                    return (
-                      <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
-                        {itemDetails?.image_url ? (
-                          <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
-                        ) : (
-                          <div className="item-icon-placeholder tiny">📦</div>
-                        )}
-                        <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
-                        {drop.chance && <span className="chance-pill">{drop.chance}</span>}
-                        {itemDetails && <span className="can-craft">↗</span>}
-                      </div>
-                    );
-                  })}
+                  {boss.expert_drops && boss.expert_drops.map((drop, idx) => renderLootItem(drop, idx))}
                 </div>
               </div>
             </div>
