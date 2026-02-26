@@ -6,8 +6,36 @@
     "image": "https://terraria.wiki.gg/images/Merchant.png",
     "items_sold": [
       {
-        "item_name": "Piggy Bank",
-        "item_id": "87"
+        "item_name": "Iron Pickaxe",
+        "item_id": "1"
+      },
+      {
+        "item_name": "Iron Axe",
+        "item_id": "10"
+      },
+      {
+        "item_name": "Torch",
+        "item_id": "8"
+      },
+      {
+        "item_name": "Lesser Healing Potion",
+        "item_id": "28"
+      },
+      {
+        "item_name": "Lesser Mana Potion",
+        "item_id": "110"
+      },
+      {
+        "item_name": "Wooden Arrow",
+        "item_id": "40"
+      },
+      {
+        "item_name": "Shuriken",
+        "item_id": "42"
+      },
+      {
+        "item_name": "Sickle",
+        "item_id": "1786"
       },
       {
         "item_name": "Bug Net",
@@ -18,12 +46,16 @@
         "item_id": "88"
       },
       {
-        "item_name": "Iron Anvil",
-        "item_id": "35"
+        "item_name": "Piggy Bank",
+        "item_id": "87"
       },
       {
-        "item_name": "Safe",
-        "item_id": "346"
+        "item_name": "Anvil",
+        "item_id": null
+      },
+      {
+        "item_name": "Copper Pickaxe",
+        "item_id": "3509"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Merchant"
@@ -43,24 +75,24 @@
     "image": "https://terraria.wiki.gg/images/Arms_Dealer.png",
     "items_sold": [
       {
-        "item_name": "Minishark",
-        "item_id": "98"
-      },
-      {
         "item_name": "Musket Ball",
         "item_id": "97"
+      },
+      {
+        "item_name": "Flintlock Pistol",
+        "item_id": "95"
+      },
+      {
+        "item_name": "Minishark",
+        "item_id": "98"
       },
       {
         "item_name": "Illegal Gun Parts",
         "item_id": "324"
       },
       {
-        "item_name": "Shotgun",
-        "item_id": "534"
-      },
-      {
-        "item_name": "Empty Bullet",
-        "item_id": "1432"
+        "item_name": "Shark Bait",
+        "item_id": "4425"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Arms_Dealer"
@@ -371,20 +403,28 @@
     "image": "https://terraria.wiki.gg/images/Cyborg.png",
     "items_sold": [
       {
-        "item_name": "Nanites",
-        "item_id": "1346"
+        "item_name": "Rocket I",
+        "item_id": "771"
+      },
+      {
+        "item_name": "Rocket II",
+        "item_id": "772"
+      },
+      {
+        "item_name": "Rocket III",
+        "item_id": "773"
+      },
+      {
+        "item_name": "Rocket IV",
+        "item_id": "774"
       },
       {
         "item_name": "Proximity Mine Launcher",
         "item_id": "760"
       },
       {
-        "item_name": "Rocket I",
-        "item_id": "771"
-      },
-      {
-        "item_name": "Echo Block",
-        "item_id": "4392"
+        "item_name": "Nanites",
+        "item_id": "1346"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Cyborg"
@@ -512,52 +552,67 @@
         "item_id": "3813"
       },
       {
-        "item_name": "Eternia Crystal Stand",
-        "item_id": "3816"
-      },
-      {
         "item_name": "Eternia Crystal",
         "item_id": "3828"
       },
       {
-        "item_name": "Sentry Staves",
-        "item_id": null
+        "item_name": "Eternia Crystal Stand",
+        "item_id": "3816"
       },
       {
         "item_name": "Ale",
         "item_id": "353"
+      },
+      {
+        "item_name": "Squire's Great Helm",
+        "item_id": "3800"
+      },
+      {
+        "item_name": "Squire's Plated Coat",
+        "item_id": null
+      },
+      {
+        "item_name": "Squire's Greaves",
+        "item_id": "3802"
+      },
+      {
+        "item_name": "Apprentice's Hat",
+        "item_id": "3797"
+      },
+      {
+        "item_name": "Apprentice's Robe",
+        "item_id": "3798"
+      },
+      {
+        "item_name": "Apprentice's Trousers",
+        "item_id": "3799"
+      },
+      {
+        "item_name": "Huntress's Wig",
+        "item_id": "3803"
+      },
+      {
+        "item_name": "Huntress's Jerkin",
+        "item_id": "3804"
+      },
+      {
+        "item_name": "Huntress's Pants",
+        "item_id": "3805"
+      },
+      {
+        "item_name": "Monk's Bushy Brow Bald Cap",
+        "item_id": "3806"
+      },
+      {
+        "item_name": "Monk's Shirt",
+        "item_id": "3807"
+      },
+      {
+        "item_name": "Monk's Pants",
+        "item_id": "3808"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Tavernkeep"
-  },
-  {
-    "id": "471",
-    "name_en": "Mothron",
-    "name_es": "Polillrón",
-    "image": "https://terraria.wiki.gg/images/Mothron.png",
-    "items_sold": [
-      {
-        "item_name": "Yoyo Glove",
-        "item_id": "3334"
-      },
-      {
-        "item_name": "Slap Hand",
-        "item_id": "3258"
-      },
-      {
-        "item_name": "Spelunker Glowstick",
-        "item_id": "3002"
-      },
-      {
-        "item_name": "Magic Lantern",
-        "item_id": "3043"
-      },
-      {
-        "item_name": "Counterweight",
-        "item_id": null
-      }
-    ],
-    "wiki_url": "https://terraria.wiki.gg/wiki/Mothron"
   },
   {
     "id": "588",
