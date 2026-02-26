@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Language, ViewType } from '../types';
 
 interface HeaderProps {
@@ -10,6 +11,14 @@ interface HeaderProps {
 }
 
 const Header: React.FC<HeaderProps> = ({ lang, setLang, view, setView, resetSelections }) => {
+  const navigate = useNavigate();
+
+  const handleViewChange = (newView: ViewType) => {
+    setView(newView);
+    resetSelections();
+    navigate('/');
+  };
+
   return (
     <header className="main-header">
       <div className="lang-switcher">
@@ -26,49 +35,49 @@ const Header: React.FC<HeaderProps> = ({ lang, setLang, view, setView, resetSele
       <nav className="view-nav">
         <button 
           className={`nav-link ${view === 'items' ? 'active' : ''}`}
-          onClick={() => setView('items')}
+          onClick={() => handleViewChange('items')}
         >
           {lang === 'es' ? 'Ítems' : 'Items'}
         </button>
         <button 
           className={`nav-link ${view === 'npcs' ? 'active' : ''}`}
-          onClick={() => setView('npcs')}
+          onClick={() => handleViewChange('npcs')}
         >
           {lang === 'es' ? 'Aldeanos' : 'NPCs'}
         </button>
         <button 
           className={`nav-link ${view === 'bosses' ? 'active' : ''}`}
-          onClick={() => setView('bosses')}
+          onClick={() => handleViewChange('bosses')}
         >
           {lang === 'es' ? 'Jefes' : 'Bosses'}
         </button>
         <button 
           className={`nav-link ${view === 'event_bosses' ? 'active' : ''}`}
-          onClick={() => setView('event_bosses')}
+          onClick={() => handleViewChange('event_bosses')}
         >
           {lang === 'es' ? 'Eventos' : 'Event Bosses'}
         </button>
         <button 
           className={`nav-link ${view === 'mimics' ? 'active' : ''}`}
-          onClick={() => setView('mimics')}
+          onClick={() => handleViewChange('mimics')}
         >
           {lang === 'es' ? 'Mímicos' : 'Mimics'}
         </button>
         <button 
           className={`nav-link ${view === 'enemies' ? 'active' : ''}`}
-          onClick={() => setView('enemies')}
+          onClick={() => handleViewChange('enemies')}
         >
           {lang === 'es' ? 'Enemigos' : 'Enemies'}
         </button>
         <button 
           className={`nav-link ${view === 'shimmer' ? 'active' : ''}`}
-          onClick={() => setView('shimmer')}
+          onClick={() => handleViewChange('shimmer')}
         >
           {lang === 'es' ? 'Fulgor' : 'Shimmer'}
         </button>
       </nav>
 
-      <h1 onClick={resetSelections}>TIW: Terraria Iterative Wiki</h1>
+      <h1 onClick={() => { resetSelections(); navigate('/'); }}>TIW: Terraria Iterative Wiki</h1>
       <p>{lang === 'es' ? 'Tu guía interactiva definitiva' : 'Your ultimate interactive guide'}</p>
     </header>
   );
