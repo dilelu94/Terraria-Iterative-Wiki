@@ -1,22 +1,122 @@
 [
-  { "id": "hand", "name_en": "By Hand", "name_es": "A mano", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Work_Bench.png" },
-  { "id": "shimmer", "name_en": "Shimmer", "name_es": "Fulgor", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Shimmering.png" },
-  { "id": "36", "name_en": "Work Bench", "name_es": "Banco de trabajo", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Work_Bench.png" },
-  { "id": "33", "name_en": "Furnace", "name_es": "Horno", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Furnace.png" },
-  { "id": "112", "name_en": "Hellforge", "name_es": "Forja infernal", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellforge.png" },
-  { "id": "35", "name_en": "Iron Anvil", "name_es": "Yunque de hierro", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Anvil.png" },
-  { "id": "716", "name_en": "Lead Anvil", "name_es": "Yunque de plomo", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Anvil.png" },
-  { "id": "iron_anvil", "name_en": "Any Iron Anvil", "name_es": "Cualquier Yunque de Hierro/Plomo", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Anvil.png" },
-  { "id": "mythril_anvil", "name_en": "Any Mythril Anvil", "name_es": "Cualquier Yunque de Mitrilo/Oricalco", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Anvil.png" },
-  { "id": "101", "name_en": "Cooking Pot", "name_es": "Olla", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Cooking_Pot.png" },
-  { "id": "398", "name_en": "Tinkerer's Workshop", "name_es": "Taller de chapuzas", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tinkerer's_Workshop.png" },
-  { "id": "114", "name_en": "Sawmill", "name_es": "Aserradero", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Sawmill.png" },
-  { "id": "125", "name_en": "Loom", "name_es": "Telar", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Loom.png" },
-  { "id": "355", "name_en": "Alchemy Table", "name_es": "Mesa de alquimia", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Alchemy_Table.png" },
-  { "id": "placed_bottle", "name_en": "Placed Bottle", "name_es": "Botella colocada", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Bottle_(placed).png" },
-  { "id": "330", "name_en": "Ancient Manipulator", "name_es": "Manipulador antiguo", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Manipulator.png" },
-  { "id": "221", "name_en": "Autohammer", "name_es": "Automartillo", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Autohammer.png" },
-  { "id": "121", "name_en": "Imbuing Station", "name_es": "Estación de imbuir", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Imbuing_Station.png" },
-  { "id": "96", "name_en": "Keg", "name_es": "Barril", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Keg.png" },
-  { "id": "heavy_work_bench", "name_en": "Heavy Work Bench", "name_es": "Banco de trabajo pesado", "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Heavy_Work_Bench.png" }
+  {
+    "id": "hand",
+    "name_en": "By Hand",
+    "name_es": "A mano",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Work_Bench.png"
+  },
+  {
+    "id": "shimmer",
+    "name_en": "Shimmer",
+    "name_es": "Fulgor",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Shimmering.png"
+  },
+  {
+    "id": "36",
+    "name_en": "Work Bench",
+    "name_es": "Banco de trabajo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Work_Bench.png"
+  },
+  {
+    "id": "33",
+    "name_en": "Furnace",
+    "name_es": "Horno",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Furnace.png"
+  },
+  {
+    "id": "112",
+    "name_en": "Hellforge",
+    "name_es": "Forja infernal",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellforge.png"
+  },
+  {
+    "id": "35",
+    "name_en": "Iron Anvil",
+    "name_es": "Yunque de hierro",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Anvil.png"
+  },
+  {
+    "id": "716",
+    "name_en": "Lead Anvil",
+    "name_es": "Yunque de plomo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Anvil.png"
+  },
+  {
+    "id": "iron_anvil",
+    "name_en": "Any Iron Anvil",
+    "name_es": "Cualquier Yunque de Hierro/Plomo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Anvil.png"
+  },
+  {
+    "id": "mythril_anvil",
+    "name_en": "Any Mythril Anvil",
+    "name_es": "Cualquier Yunque de Mitrilo/Oricalco",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Anvil.png"
+  },
+  {
+    "id": "101",
+    "name_en": "Cooking Pot",
+    "name_es": "Olla",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Cooking_Pot.png"
+  },
+  {
+    "id": "398",
+    "name_en": "Tinkerer's Workshop",
+    "name_es": "Taller de chapucero",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tinkerer's_Workshop.png"
+  },
+  {
+    "id": "114",
+    "name_en": "Sawmill",
+    "name_es": "Aserradero",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Sawmill.png"
+  },
+  {
+    "id": "125",
+    "name_en": "Loom",
+    "name_es": "Telar",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Loom.png"
+  },
+  {
+    "id": "355",
+    "name_en": "Alchemy Table",
+    "name_es": "Mesa de alquimia",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Alchemy_Table.png"
+  },
+  {
+    "id": "placed_bottle",
+    "name_en": "Placed Bottle",
+    "name_es": "Botella colocada",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Bottle_(placed).png"
+  },
+  {
+    "id": "330",
+    "name_en": "Ancient Manipulator",
+    "name_es": "Manipulador antiguo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Manipulator.png"
+  },
+  {
+    "id": "221",
+    "name_en": "Autohammer",
+    "name_es": "Automartillo",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Autohammer.png"
+  },
+  {
+    "id": "121",
+    "name_en": "Imbuing Station",
+    "name_es": "Estación de imbuir",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Imbuing_Station.png"
+  },
+  {
+    "id": "96",
+    "name_en": "Keg",
+    "name_es": "Barril",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Keg.png"
+  },
+  {
+    "id": "heavy_work_bench",
+    "name_en": "Heavy Work Bench",
+    "name_es": "Banco de trabajo pesado",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Heavy_Work_Bench.png"
+  }
 ]

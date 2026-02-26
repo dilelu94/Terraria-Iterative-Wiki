@@ -2063,7 +2063,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "112",
@@ -7096,7 +7096,7 @@
       "hand",
       "loot"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "395",
@@ -7151,12 +7151,11 @@
     "id": "398",
     "category": "Crafting Stations",
     "name_en": "Tinkerer's Workshop",
-    "name_es": "Taller de chapuzas",
+    "name_es": "Taller de chapucero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tinkerer's_Workshop",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tinkerer's_Workshop.png",
     "station_ids": [
-      "398",
       "loot",
       "345"
     ]
@@ -7208,7 +7207,7 @@
     "station_ids": [
       "525"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas cohete + Botas de Hermes/Ráfaga/Pez vela/Caminadunas)",
+    "origin_info": "Fabricado: Taller de chapucero (Botas cohete + Botas de Hermes/Ráfaga/Pez vela/Caminadunas)",
     "piece_armor": "8",
     "armor_set_es": "Armadura de espectro",
     "armor_set_en": "Adamantite Armor"
@@ -7921,10 +7920,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Statue.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Nube en botella + Globo rojo brillante)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Nube en botella + Globo rojo brillante)"
   },
   {
     "id": "439",
@@ -8449,9 +8446,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Charm",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Charm.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "486",
@@ -8461,9 +8456,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ruler",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ruler.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "487",
@@ -8508,7 +8501,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sorcerer_Emblem.png",
     "station_ids": [
       "shimmer",
-      "398",
       "loot",
       "exploration"
     ],
@@ -14772,7 +14764,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstorm_in_a_Bottle.png",
     "station_ids": [
       "shimmer",
-      "398",
       "exploration"
     ],
     "origin_info": "Encontrado en Cofres de arenisca (Pirámide)"
@@ -14806,9 +14797,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Beach_Ball",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Beach_Ball.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "860",
@@ -14836,7 +14825,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Charm_of_Myths.png",
     "station_ids": [
       "shimmer",
-      "398",
       "loot",
       "exploration"
     ],
@@ -14852,7 +14840,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Veil.png",
     "station_ids": [
       "hand",
-      "398",
       "exploration"
     ],
     "origin_info": "Cofre helado"
@@ -14932,9 +14919,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mummy_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mummy_Pants.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "873",
@@ -15228,10 +15213,8 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Trifold_Map.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Megáfono + Nazar)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Megáfono + Nazar)"
   },
   {
     "id": "894",
@@ -15255,7 +15238,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Pulidor de armadura + Vitaminas)"
+    "origin_info": "Fabricado: Taller de chapucero (Pulidor de armadura + Vitaminas)"
   },
   {
     "id": "895",
@@ -15279,7 +15262,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Bezoar + Vendaje adhesivo)"
+    "origin_info": "Fabricado: Taller de chapucero (Bezoar + Vendaje adhesivo)"
   },
   {
     "id": "896",
@@ -15303,7 +15286,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Reloj rápido + Mapa tríptico)"
+    "origin_info": "Fabricado: Taller de chapucero (Reloj rápido + Mapa tríptico)"
   },
   {
     "id": "897",
@@ -15351,7 +15334,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas de espectro + Tobillera del viento + Herrete)"
+    "origin_info": "Fabricado: Taller de chapucero (Botas de espectro + Tobillera del viento + Herrete)"
   },
   {
     "id": "899",
@@ -15397,7 +15380,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Piedra de luna + Caparazón de neptuno)"
+    "origin_info": "Fabricado: Taller de chapucero (Piedra de luna + Caparazón de neptuno)"
   },
   {
     "id": "902",
@@ -15441,7 +15424,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Herradura de la suerte + Calavera de obsidiana)"
+    "origin_info": "Fabricado: Taller de chapucero (Herradura de la suerte + Calavera de obsidiana)"
   },
   {
     "id": "904",
@@ -15463,7 +15446,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Amuleto de Ankh + Escudo de obsidiana)"
+    "origin_info": "Fabricado: Taller de chapucero (Amuleto de Ankh + Escudo de obsidiana)"
   },
   {
     "id": "905",
@@ -15963,7 +15946,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flying_Carpet.png",
     "station_ids": [
       "shimmer",
-      "398",
       "exploration"
     ],
     "origin_info": "Cofre de pirámide (Desierto)"
@@ -16592,9 +16574,7 @@
     "name_es": "Tabi",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tabi",
     "recipes": [],
-    "station_ids": [
-      "398"
-    ],
+    "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tabi.png"
   },
   {
@@ -16786,7 +16766,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blizzard_in_a_Bottle.png",
     "station_ids": [
       "hand",
-      "398",
       "exploration"
     ],
     "origin_info": "Encontrado en Cofres helados (Nieve)"
@@ -18827,7 +18806,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Slush_Block.png",
     "station_ids": [],
-    "origin_info": "Taller de chapuzas (Venda + Reloj)"
+    "origin_info": "Taller de chapucero (Venda + Reloj)"
   },
   {
     "id": "1104",
@@ -19607,8 +19586,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tiki_Pants.png",
     "station_ids": [
-      "iron_anvil",
-      "398"
+      "iron_anvil"
     ],
     "piece_defense": "12",
     "total_defense": "35",
@@ -21131,9 +21109,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nimbus_Rod",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nimbus_Rod.png",
-    "station_ids": [
-      "398"
-    ],
+    "station_ids": [],
     "origin_info": "Cofre helado (Mazmorra)"
   },
   {
@@ -21300,10 +21276,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Frozen_Turtle_Shell",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Frozen_Turtle_Shell.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Nube en un globo + Herradura de la suerte)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Nube en un globo + Herradura de la suerte)"
   },
   {
     "id": "1255",
@@ -22007,10 +21981,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Jellyfish_Necklace",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jellyfish_Necklace.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Emblema de vengador + Ojo del Golem)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Emblema de vengador + Ojo del Golem)"
   },
   {
     "id": "1304",
@@ -22332,10 +22304,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bananarang",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bananarang.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Nube en botella + Cojín de pedos)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Nube en botella + Cojín de pedos)"
   },
   {
     "id": "1325",
@@ -26106,9 +26076,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Butterfly_Dust",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Butterfly_Dust.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "1612",
@@ -26142,7 +26110,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Armadura reforzada + Vendaje medicado + El plan + Mantra de contrahechizo + Venda)"
+    "origin_info": "Fabricado: Taller de chapucero (Armadura reforzada + Vendaje medicado + El plan + Mantra de contrahechizo + Venda)"
   },
   {
     "id": "1614",
@@ -29112,7 +29080,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas de espectro + Tobillera del viento + Aglet)"
+    "origin_info": "Fabricado: Taller de chapucero (Botas de espectro + Tobillera del viento + Aglet)"
   },
   {
     "id": "1862",
@@ -29134,7 +29102,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas relámpago + Patines de hielo)"
+    "origin_info": "Fabricado: Taller de chapucero (Botas relámpago + Patines de hielo)"
   },
   {
     "id": "1863",
@@ -29156,7 +29124,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Piedra de sol + Piedra de luna)"
+    "origin_info": "Fabricado: Taller de chapucero (Piedra de sol + Piedra de luna)"
   },
   {
     "id": "1864",
@@ -29178,7 +29146,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Piedra celestial + Caparazón de luna)"
+    "origin_info": "Fabricado: Taller de chapucero (Piedra celestial + Caparazón de luna)"
   },
   {
     "id": "1865",
@@ -29200,7 +29168,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "1866",
@@ -34744,7 +34712,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Beetle_Husk.png",
     "station_ids": [],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "2219",
@@ -34755,7 +34723,6 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Magnet.png",
     "station_ids": [
-      "398",
       "exploration"
     ],
     "origin_info": "Cofre celeste / Vendedor ambulante"
@@ -34781,7 +34748,7 @@
       "hand",
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "2221",
@@ -34803,7 +34770,7 @@
     "station_ids": [
       "hand"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "2222",
@@ -47492,9 +47459,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Super_Absorbant_Sponge",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Super_Absorbant_Sponge.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "3033",
@@ -48638,7 +48603,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Piedra celestial + Caparazón de luna)",
+    "origin_info": "Fabricado: Taller de chapucero (Piedra celestial + Caparazón de luna)",
     "piece_effects": "Gran mejora de stats. Transforma en Lobo de noche y en Tritón en el agua."
   },
   {
@@ -48930,7 +48895,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Cronómetro + Medidor de DPS + Detector de metales)",
+    "origin_info": "Fabricado: Taller de chapucero (Cronómetro + Medidor de DPS + Detector de metales)",
     "piece_effects": "Muestra toda la información del entorno y teletransporte a casa."
   },
   {
@@ -48957,7 +48922,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Guía de bolsillo + Radio del clima + Sextante)"
+    "origin_info": "Fabricado: Taller de chapucero (Guía de bolsillo + Radio del clima + Sextante)"
   },
   {
     "id": "3126",
@@ -49009,7 +48974,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Radar + Contador + Analizador de formas de vida)"
+    "origin_info": "Fabricado: Taller de chapucero (Radar + Contador + Analizador de formas de vida)"
   },
   {
     "id": "3128",
@@ -49039,7 +49004,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (GPS + Buscador de peces + Tecnología goblin + REK 3000)"
+    "origin_info": "Fabricado: Taller de chapucero (GPS + Buscador de peces + Tecnología goblin + REK 3000)"
   },
   {
     "id": "3129",
@@ -49061,7 +49026,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (PDA + Espejo mágico)"
+    "origin_info": "Fabricado: Taller de chapucero (PDA + Espejo mágico)"
   },
   {
     "id": "3130",
@@ -51728,7 +51693,7 @@
     "recipes": [],
     "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Kraken.png",
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "3292",
@@ -52656,9 +52621,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Wheel_Piece",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanical_Wheel_Piece.png",
-    "station_ids": [
-      "398"
-    ],
+    "station_ids": [],
     "origin_info": "Bolsa del Tesoro (Los Gemelos)"
   },
   {
@@ -53200,8 +53163,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Portal_Gun.png",
     "station_ids": [
-      "loot",
-      "398"
+      "loot"
     ]
   },
   {
@@ -56679,9 +56641,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Presserator",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Presserator.png",
-    "station_ids": [
-      "398"
-    ]
+    "station_ids": []
   },
   {
     "id": "3625",
@@ -62265,9 +62225,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Titanium_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Crate.png",
-    "station_ids": [
-      "398"
-    ],
+    "station_ids": [],
     "origin_info": "Pesca: Cualquier bioma (Hardmode)"
   },
   {
@@ -62374,7 +62332,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "3991",
@@ -62440,7 +62398,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "3994",
@@ -62637,7 +62595,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "4003",
@@ -62725,7 +62683,7 @@
       "hand",
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "4007",
@@ -68252,10 +68210,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/White_Paper_Airplane",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/White_Paper_Airplane.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Caparazón de tortuga de hielo + Escudo de paladín)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Caparazón de tortuga de hielo + Escudo de paladín)"
   },
   {
     "id": "4345",
@@ -74159,10 +74115,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/FoodBarbarian's_Wild_Wolf_Spaulders",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/FoodBarbarian's_Wild_Wolf_Spaulders.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Bolsa de aparejos de pescador + Anzuelo a prueba de lava)"
+    "station_ids": [],
+    "origin_info": "Fabricado: Taller de chapucero (Bolsa de aparejos de pescador + Anzuelo a prueba de lava)"
   },
   {
     "id": "4753",
@@ -77431,7 +77385,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas de chispas heladas + Botas de flotación de lava)",
+    "origin_info": "Fabricado: Taller de chapucero (Botas de chispas heladas + Botas de flotación de lava)",
     "piece_effects": "Permite volar, correr súper rápido, caminar sobre todos los líquidos e inmunidad a la lava."
   },
   {
@@ -82516,7 +82470,7 @@
       "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bundle_of_Horseshoe_Balloons.png",
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Taller de chapucero"
   },
   {
     "id": "5332",
