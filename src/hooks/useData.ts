@@ -15,15 +15,21 @@ export const useData = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        // Usar rutas relativas simples es lo más seguro para GitHub Pages
+        // En Vite, para archivos en 'public', la ruta debe empezar con / para que use el BASE_URL automáticamente
+        const fetchJson = async (file: string) => {
+            const response = await fetch(`./data/${file}`);
+            if (!response.ok) throw new Error(`Failed to load ${file}`);
+            return response.json();
+        };
+
         const [itemsRes, enemiesRes, npcsRes, bossesRes, eventBossesRes, mimicsRes, stationsRes] = await Promise.all([
-          fetch('data/items.json').then(res => res.json()),
-          fetch('data/enemies.json').then(res => res.json()),
-          fetch('data/npcs.json').then(res => res.json()),
-          fetch('data/bosses.json').then(res => res.json()),
-          fetch('data/event_bosses.json').then(res => res.json()),
-          fetch('data/mimics.json').then(res => res.json()),
-          fetch('data/crafting_stations.json').then(res => res.json())
+          fetchJson('items.json'),
+          fetchJson('enemies.json'),
+          fetchJson('npcs.json'),
+          fetchJson('bosses.json'),
+          fetchJson('event_bosses.json'),
+          fetchJson('mimics.json'),
+          fetchJson('crafting_stations.json')
         ]);
 
         setItems(itemsRes);
@@ -36,7 +42,7 @@ export const useData = () => {
         setLoading(false);
       } catch (err) {
         console.error("Error loading data:", err);
-        setError("Error al cargar los datos. Por favor, refresca la página.");
+        setError("Error al cargar los datos. Por favor, revisa la consola del navegador.");
         setLoading(false);
       }
     };

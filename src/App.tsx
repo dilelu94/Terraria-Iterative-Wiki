@@ -14,7 +14,7 @@ import EventBossDetail from './components/Details/EventBossDetail';
 import MimicDetail from './components/Details/MimicDetail';
 
 function App() {
-  const { items: rawItems, enemies: rawEnemies, npcs: rawNPCs, bosses: rawBosses, eventBosses: rawEventBosses, mimics: rawMimics, loading, error } = useData();
+  const { items: rawItems, enemies: rawEnemies, npcs: rawNPCs, bosses: rawBosses, eventBosses: rawEventBosses, mimics: rawMimics, stations: rawStations, loading, error } = useData();
   
   const [view, setView] = useState<ViewType>('items');
   const [lang, setLang] = useState<Language>('es');
