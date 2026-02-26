@@ -858,7 +858,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Unholy_Arrow.png?28e328",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -4846,7 +4847,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Silver_Bullet.png?895deb",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -8427,7 +8429,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Demon_Wings.png?f1d328",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -8452,7 +8455,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Angel_Wings.png?82c55a",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -9230,7 +9234,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cursed_Arrow.png?26db0e",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -9251,7 +9256,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cursed_Bullet.png?cb412b",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -12936,7 +12942,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Butterfly_Wings.png?6637e9",
     "station_ids": [
       "hand",
-      "bone_welder"
+      "bone_welder",
+      "mythril_anvil"
     ]
   },
   {
@@ -13104,7 +13111,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fairy_Wings.png?d788eb",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -13436,7 +13444,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Harpy_Wings.png?fd3be1",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -13457,7 +13466,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Wings.png?30c1b1",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -14042,7 +14052,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flame_Wings.png?45cac1",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -14063,7 +14074,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frozen_Wings.png?be4bb6",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -14084,7 +14096,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spectre_Wings.png?4578c6",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -19512,7 +19525,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Bat_Wings.png?da26fe",
     "station_ids": [
       "hand",
-      "398"
+      "398",
+      "mythril_anvil"
     ]
   },
   {
@@ -20685,7 +20699,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chlorophyte_Arrow.png?db1daa",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -21667,7 +21682,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/High_Velocity_Bullet.png?3d186a",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -22100,7 +22116,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ichor_Arrow.png?446a52",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -22121,7 +22138,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ichor_Bullet.png?c508a3",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -22253,7 +22271,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Venom_Bullet.png?afe682",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "36"
     ]
   },
   {
@@ -22352,7 +22371,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Party_Bullet.png?e1e17c",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -22373,7 +22393,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Nano_Bullet.png?768b03",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -22394,7 +22415,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Explosive_Bullet.png?939ec6",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -22415,7 +22437,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Bullet.png?68f363",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -24330,7 +24353,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bee_Wings.png?1b9cd0",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -27755,7 +27779,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tattered_Fairy_Wings.png?6aea19",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -28114,7 +28139,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spooky_Wings.png?ce0c3d",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -28634,7 +28660,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hoverboard.png?936f29",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -35027,7 +35054,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Beetle_Wings.png?1d1b8e",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -47446,7 +47474,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Endless_Quiver.png?bb4e31",
     "station_ids": [
-      "hand"
+      "hand",
+      "crystal_ball"
     ]
   },
   {
@@ -47463,7 +47492,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Endless_Musket_Pouch.png?9394db",
     "station_ids": [
-      "hand"
+      "hand",
+      "crystal_ball"
     ]
   },
   {
@@ -52752,7 +52782,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Wings.png?7094e4",
     "station_ids": [
       "hand",
-      "heavy_workbench"
+      "heavy_workbench",
+      "ancient_manipulator"
     ]
   },
   {
@@ -52774,7 +52805,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Vortex_Booster.png?575dff",
     "station_ids": [
       "hand",
-      "heavy_workbench"
+      "heavy_workbench",
+      "ancient_manipulator"
     ]
   },
   {
@@ -52796,7 +52828,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Nebula_Mantle.png?1f514f",
     "station_ids": [
       "hand",
-      "heavy_workbench"
+      "heavy_workbench",
+      "ancient_manipulator"
     ]
   },
   {
@@ -52818,7 +52851,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Stardust_Wings.png?35f7a3",
     "station_ids": [
       "hand",
-      "heavy_workbench"
+      "heavy_workbench",
+      "ancient_manipulator"
     ]
   },
   {
@@ -54509,7 +54543,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Luminite_Bullet.png?4cd983",
     "station_ids": [
-      "hand"
+      "hand",
+      "ancient_manipulator"
     ]
   },
   {
@@ -54526,7 +54561,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Luminite_Arrow.png?177876",
     "station_ids": [
-      "hand"
+      "hand",
+      "ancient_manipulator"
     ]
   },
   {
@@ -68202,7 +68238,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mini_Nuke_I.png?350e93",
     "station_ids": [
-      "hand"
+      "hand",
+      "autohammer"
     ]
   },
   {
@@ -68223,7 +68260,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mini_Nuke_II.png?f8275f",
     "station_ids": [
-      "hand"
+      "hand",
+      "autohammer"
     ]
   },
   {
@@ -74695,7 +74733,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tungsten_Bullet.png?a48610",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {

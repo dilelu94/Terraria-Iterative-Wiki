@@ -32,5 +32,6 @@
   { "id": "ice_machine", "name_en": "Ice Machine", "name_es": "Máquina de hielo", "image": "https://terraria.wiki.gg/images/Ice_Machine.png" },
   { "id": "sky_mill", "name_en": "Sky Mill", "name_es": "Molino celestial", "image": "https://terraria.wiki.gg/images/Sky_Mill.png" },
   { "id": "living_loom", "name_en": "Living Loom", "name_es": "Telar viviente", "image": "https://terraria.wiki.gg/images/Living_Loom.png" },
-  { "id": "heavy_workbench", "name_en": "Heavy Work Bench", "name_es": "Banco de trabajo pesado", "image": "https://terraria.wiki.gg/images/Heavy_Work_Bench.png" }
+  { "id": "heavy_workbench", "name_en": "Heavy Work Bench", "name_es": "Banco de trabajo pesado", "image": "https://terraria.wiki.gg/images/Heavy_Work_Bench.png" },
+  { "id": "crystal_ball", "name_en": "Crystal Ball", "name_es": "Bola de cristal", "image": "https://terraria.wiki.gg/images/Crystal_Ball.png" }
 ]
