@@ -6293,7 +6293,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ale.png?9ac67a",
     "station_ids": [
-      "hand"
+      "hand",
+      "keg"
     ]
   },
   {
@@ -9972,7 +9973,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box.png?a1a12e",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -10336,7 +10338,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Light",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Light.png?e8a9d8",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "598",
@@ -10346,7 +10350,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Light",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Light.png?d541b5",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "602",
@@ -10357,7 +10363,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Snow_Globe.png?7575af",
     "station_ids": [
-      "loot"
+      "loot",
+      "recording"
     ]
   },
   {
@@ -10369,7 +10376,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cabagge.png?a380a9",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "recording"
     ]
   },
   {
@@ -10390,7 +10398,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Adamantite_Beam.png?c17240",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10407,7 +10416,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Adamantite_Beam_Wall.png?577e69",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10424,7 +10434,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Demonite_Brick_Wall.png?3d3e0a",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10441,7 +10452,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandstone_Brick.png?9cb26c",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10458,7 +10470,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandstone_Brick_Wall.png?491260",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10475,7 +10488,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonstone_Brick.png?26ea5e",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10492,7 +10506,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonstone_Brick_Wall.png?1cb50f",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10513,7 +10528,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Stucco.png?185cbe",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10534,7 +10550,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Stucco.png?dc6ad4",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -10559,7 +10576,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Stucco.png?8522b2",
     "station_ids": [
-      "hand"
+      "hand",
+      "recording"
     ]
   },
   {
@@ -25945,7 +25963,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Plantera)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Plantera%29.png?db323e",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "1607",
@@ -25955,7 +25975,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Boss_5)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Boss_5%29.png?60825a",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "1608",
@@ -25965,7 +25987,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Temple)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Temple%29.png?7437cd",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "1609",
@@ -25975,7 +25999,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Eclipse)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Eclipse%29.png?ee0206",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "1610",
@@ -25985,7 +26011,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Mushrooms)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Mushrooms%29.png?d9b4f8",
-    "station_ids": []
+    "station_ids": [
+      "recording"
+    ]
   },
   {
     "id": "1611",
@@ -35372,7 +35400,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sake",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sake.png?984627",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2267",
@@ -35382,7 +35412,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pad_Thai",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pad_Thai.png?906b14",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2268",
@@ -35392,7 +35424,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pho",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pho.png?274d6f",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2269",
@@ -49842,7 +49876,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Buggy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Buggy.png?b9f5dc",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3195",
@@ -52377,7 +52413,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Goblin_Invasion%29.png?517c20",
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "recording"
     ]
   },
   {
@@ -62212,7 +62249,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Apple",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Apple.png?81f9fe",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4011",
@@ -62222,7 +62261,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Apple_Pie",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Apple_Pie.png?708c52",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4012",
@@ -62231,7 +62272,9 @@
     "name_es": "Banana Split",
     "wiki_url": "https://terraria.wiki.gg/wiki/Banana_Split",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4013",
@@ -62241,7 +62284,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/BBQ_Ribs",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/BBQ_Ribs.png?2dc6af",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4014",
@@ -62257,7 +62302,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bunny_Stew.png?e13bc3",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -62288,7 +62334,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Chocolate_Chip_Cookie",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Chocolate_Chip_Cookie.png?6dbcbb",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4018",
@@ -62298,7 +62346,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cream_Soda",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cream_Soda.png?7e0d38",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4019",
@@ -62351,7 +62401,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Delight.png?5fdde7",
     "station_ids": [
-      "hand"
+      "hand",
+      "teapot"
     ]
   },
   {
@@ -66659,7 +66710,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Apricot",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Apricot.png?212fb2",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4283",
@@ -66669,7 +66722,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Banana",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Banana.png?46bc6a",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4284",
@@ -66679,7 +66734,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blackcurrant",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blackcurrant.png?2d5564",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4285",
@@ -66689,7 +66746,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blood_Orange",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blood_Orange.png?37da54",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4286",
@@ -66729,7 +66788,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Elderberry",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Elderberry.png?a81384",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4290",
@@ -66739,7 +66800,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Grapefruit",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Grapefruit.png?970220",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4291",
@@ -66749,7 +66812,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lemon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lemon.png?60d109",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4292",
@@ -66778,7 +66843,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pineapple",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pineapple.png?2d12f4",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4295",
@@ -66788,7 +66855,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Plum",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Plum.png?36947f",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4296",
@@ -66797,7 +66866,9 @@
     "name_es": "Rambutan",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rambutan",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4297",
@@ -66807,7 +66878,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Fruit",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Star_Fruit.png?10c757",
-    "station_ids": []
+    "station_ids": [
+      "tree_shaking"
+    ]
   },
   {
     "id": "4298",
@@ -68432,7 +68505,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flounder",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Flounder.png?324969",
-    "station_ids": []
+    "station_ids": [
+      "346"
+    ]
   },
   {
     "id": "4402",
@@ -77116,7 +77191,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Carton_of_Milk",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shadow_Mummy_Banner.png?8b4ed0",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "5042",
