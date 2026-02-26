@@ -15,17 +15,15 @@ export const useData = () => {
   useEffect(() => {
     const loadData = async () => {
       try {
-        // Usar import.meta.env.BASE_URL para que funcione en GitHub Pages
-        const baseUrl = import.meta.env.BASE_URL;
-        
+        // Usar rutas relativas simples es lo más seguro para GitHub Pages
         const [itemsRes, enemiesRes, npcsRes, bossesRes, eventBossesRes, mimicsRes, stationsRes] = await Promise.all([
-          fetch(`${baseUrl}data/items.json`).then(res => res.json()),
-          fetch(`${baseUrl}data/enemies.json`).then(res => res.json()),
-          fetch(`${baseUrl}data/npcs.json`).then(res => res.json()),
-          fetch(`${baseUrl}data/bosses.json`).then(res => res.json()),
-          fetch(`${baseUrl}data/event_bosses.json`).then(res => res.json()),
-          fetch(`${baseUrl}data/mimics.json`).then(res => res.json()),
-          fetch(`${baseUrl}data/crafting_stations.json`).then(res => res.json())
+          fetch('data/items.json').then(res => res.json()),
+          fetch('data/enemies.json').then(res => res.json()),
+          fetch('data/npcs.json').then(res => res.json()),
+          fetch('data/bosses.json').then(res => res.json()),
+          fetch('data/event_bosses.json').then(res => res.json()),
+          fetch('data/mimics.json').then(res => res.json()),
+          fetch('data/crafting_stations.json').then(res => res.json())
         ]);
 
         setItems(itemsRes);
