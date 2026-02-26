@@ -29,15 +29,18 @@
     "recipes": [
       {
         "name_en": "Layered Dirt Wall",
-        "amount": 4
+        "amount": 4,
+        "is_shimmer": true
       },
       {
         "name_en": "Any Pre-Hardmode Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Stone Block",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Dirt_Block.png?bc57a6",
@@ -54,7 +57,8 @@
     "recipes": [
       {
         "name_en": "Stone Wall",
-        "amount": 4
+        "amount": 4,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Stone_Block.png?ebe88c",
@@ -199,11 +203,8 @@
     "recipes": [
       {
         "name_en": "Lead Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Lead Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Iron_Ore.png",
@@ -220,11 +221,8 @@
     "recipes": [
       {
         "name_en": "Tin Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Tin Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Copper_Ore.png",
@@ -241,11 +239,8 @@
     "recipes": [
       {
         "name_en": "Platinum Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Platinum Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Gold_Ore.png",
@@ -262,11 +257,8 @@
     "recipes": [
       {
         "name_en": "Tungsten Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Tungsten Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Silver_Ore.png",
@@ -283,15 +275,18 @@
     "recipes": [
       {
         "name_en": "Chain",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Copper Bar",
-        "amount": 10
+        "amount": 10,
+        "is_shimmer": true
       },
       {
         "name_en": "Balloon Pufferfish",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Copper_Watch.png?b0bc62",
@@ -2127,11 +2122,13 @@
     "recipes": [
       {
         "name_en": "Meteorite Bar",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Shoe Spikes",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hook.png?11c249",
@@ -2832,7 +2829,8 @@
     "recipes": [
       {
         "name_en": "Balloon Pufferfish",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Shiny_Red_Balloon.png?1c222d",
@@ -6222,11 +6220,8 @@
     "recipes": [
       {
         "name_en": "Palladium Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Palladium Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Cobalt_Ore.png",
@@ -6243,11 +6238,8 @@
     "recipes": [
       {
         "name_en": "Orichalcum Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Orichalcum Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Mythril_Ore.png",
@@ -6264,11 +6256,8 @@
     "recipes": [
       {
         "name_en": "Titanium Ore",
-        "amount": 1
-      },
-      {
-        "name_en": "Titanium Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Adamantite_Ore.png",
@@ -8207,15 +8196,13 @@
     "recipes": [
       {
         "name_en": "Ranger Emblem",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Summoner Emblem",
-        "amount": 1
-      },
-      {
-        "name_en": "Ranger Emblem",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sorcerer_Emblem.png?ed690e",
@@ -8232,11 +8219,13 @@
     "recipes": [
       {
         "name_en": "Summoner Emblem",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Warrior Emblem",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Warrior_Emblem.png?9d5612",
@@ -8253,7 +8242,8 @@
     "recipes": [
       {
         "name_en": "Warrior Emblem",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ranger_Emblem.png?17c017",
@@ -11669,11 +11659,13 @@
     "recipes": [
       {
         "name_en": "Copper Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Iron Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Tin_Ore.png",
@@ -11690,11 +11682,13 @@
     "recipes": [
       {
         "name_en": "Iron Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Silver Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Lead_Ore.png",
@@ -11711,11 +11705,13 @@
     "recipes": [
       {
         "name_en": "Silver Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Gold Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Tungsten_Ore.png",
@@ -11732,11 +11728,13 @@
     "recipes": [
       {
         "name_en": "Gold Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Cobalt Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Platinum_Ore.png",
@@ -14237,15 +14235,13 @@
     "recipes": [
       {
         "name_en": "Gold Ring",
-        "amount": 1
-      },
-      {
-        "name_en": "Gold Ring",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Discount Card",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Discount_Card.png?56c77a",
@@ -14262,7 +14258,8 @@
     "recipes": [
       {
         "name_en": "Discount Card",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lucky_Coin.png?1f9630",
@@ -14279,7 +14276,8 @@
     "recipes": [
       {
         "name_en": "Pharaoh's Robe",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Unicorn_on_a_Stick.png?a2c07a",
@@ -14296,15 +14294,18 @@
     "recipes": [
       {
         "name_en": "Cloud in a Bottle",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Forbidden Fragment",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Pharaoh's Mask",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandstorm_in_a_Bottle.png?917537",
@@ -14352,15 +14353,18 @@
     "recipes": [
       {
         "name_en": "Band of Regeneration",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Philosopher's Stone",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Magma Stone",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Charm_of_Myths.png?9deca2",
@@ -14666,11 +14670,13 @@
     "recipes": [
       {
         "name_en": "Ice Brick",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Megaphone",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Brick_Wall.png?e0d2ba",
@@ -14687,15 +14693,13 @@
     "recipes": [
       {
         "name_en": "Bezoar",
-        "amount": 1
-      },
-      {
-        "name_en": "Bezoar",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Vitamins",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Adhesive_Bandage.png?1d50a3",
@@ -14712,11 +14716,13 @@
     "recipes": [
       {
         "name_en": "Vitamins",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Armor Polish",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Armor_Polish.png?133820",
@@ -14733,11 +14739,8 @@
     "recipes": [
       {
         "name_en": "Adhesive Bandage",
-        "amount": 1
-      },
-      {
-        "name_en": "Adhesive Bandage",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -14753,11 +14756,8 @@
     "recipes": [
       {
         "name_en": "Pocket Mirror",
-        "amount": 1
-      },
-      {
-        "name_en": "Pocket Mirror",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blindfold.png?659d31",
@@ -14774,11 +14774,8 @@
     "recipes": [
       {
         "name_en": "Trifold Map",
-        "amount": 1
-      },
-      {
-        "name_en": "Trifold Map",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fast_Clock.png?e48b96",
@@ -14795,15 +14792,13 @@
     "recipes": [
       {
         "name_en": "Nazar",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Fast Clock",
-        "amount": 1
-      },
-      {
-        "name_en": "Nazar",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Megaphone.png?159ace",
@@ -14820,7 +14815,8 @@
     "recipes": [
       {
         "name_en": "Megaphone",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -14836,7 +14832,8 @@
     "recipes": [
       {
         "name_en": "Armor Polish",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Vitamins.png?549dd5",
@@ -14853,7 +14850,8 @@
     "recipes": [
       {
         "name_en": "Fast Clock",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Trifold_Map.png?e393c1",
@@ -15099,7 +15097,8 @@
     "recipes": [
       {
         "name_en": "Magma Stone",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lava_Charm.png?743a77",
@@ -15543,7 +15542,8 @@
     "recipes": [
       {
         "name_en": "Pharaoh's Robe",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flying_Carpet.png?7112c4",
@@ -15710,11 +15710,8 @@
     "recipes": [
       {
         "name_en": "Luminite",
-        "amount": 1
-      },
-      {
-        "name_en": "Luminite",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Chlorophyte_Ore.png",
@@ -16149,7 +16146,8 @@
     "recipes": [
       {
         "name_en": "Climbing Claws",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Shoe_Spikes.png?4dde27",
@@ -18410,11 +18408,13 @@
     "recipes": [
       {
         "name_en": "Cobalt Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Mythril Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Palladium_Ore.png",
@@ -18431,11 +18431,13 @@
     "recipes": [
       {
         "name_en": "Mythril Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Adamantite Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Orichalcum_Ore.png",
@@ -18452,11 +18454,13 @@
     "recipes": [
       {
         "name_en": "Adamantite Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Chlorophyte Ore",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Titanium_Ore.png",
@@ -21600,11 +21604,8 @@
     "recipes": [
       {
         "name_en": "Lava Charm",
-        "amount": 1
-      },
-      {
-        "name_en": "Lava Charm",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Magma_Stone.png?8fc461",
@@ -36095,11 +36096,8 @@
     "recipes": [
       {
         "name_en": "Tackle Box",
-        "amount": 1
-      },
-      {
-        "name_en": "Tackle Box",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/High_Test_Fishing_Line.png?684d7a",
@@ -36116,11 +36114,8 @@
     "recipes": [
       {
         "name_en": "High Test Fishing Line",
-        "amount": 1
-      },
-      {
-        "name_en": "High Test Fishing Line",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Angler_Earring.png?b613a4",
@@ -36137,11 +36132,8 @@
     "recipes": [
       {
         "name_en": "Angler Earring",
-        "amount": 1
-      },
-      {
-        "name_en": "Angler Earring",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tackle_Box.png?71db0d",
@@ -45520,11 +45512,8 @@
     "recipes": [
       {
         "name_en": "Sorcerer Emblem",
-        "amount": 1
-      },
-      {
-        "name_en": "Sorcerer Emblem",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Summoner_Emblem.png?f80298",
@@ -45736,7 +45725,8 @@
     "recipes": [
       {
         "name_en": "Flesh Knuckles",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Putrid_Scent.png?1f32d0",
@@ -45753,7 +45743,8 @@
     "recipes": [
       {
         "name_en": "Putrid Scent",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flesh_Knuckles.png?dfa3d5",
@@ -45937,11 +45928,8 @@
     "recipes": [
       {
         "name_en": "Lucky Coin",
-        "amount": 1
-      },
-      {
-        "name_en": "Lucky Coin",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Ring.png?5ab230",
@@ -46025,11 +46013,8 @@
     "recipes": [
       {
         "name_en": "Sextant",
-        "amount": 1
-      },
-      {
-        "name_en": "Sextant",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Weather_Radio.png?a6f68d",
@@ -46889,7 +46874,8 @@
     "recipes": [
       {
         "name_en": "Weather Radio",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tally_Counter.png?4765fb",
@@ -46906,11 +46892,8 @@
     "recipes": [
       {
         "name_en": "Fisherman's Pocket Guide",
-        "amount": 1
-      },
-      {
-        "name_en": "Fisherman's Pocket Guide",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sextant.png?3f702d",
@@ -47260,7 +47243,8 @@
     "recipes": [
       {
         "name_en": "Weather Radio",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fisherman%27s_Pocket_Guide.png?9f3b93",
@@ -56990,15 +56974,18 @@
     "recipes": [
       {
         "name_en": "Glass",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Sand Block",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Blindfold",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandfall_Block.png?7b3113",
@@ -57479,7 +57466,8 @@
     "recipes": [
       {
         "name_en": "Blindfold",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pocket_Mirror.png?86ff83",
@@ -77017,11 +77005,8 @@
     "recipes": [
       {
         "name_en": "Clentaminator",
-        "amount": 1
-      },
-      {
-        "name_en": "Clentaminator",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79202,11 +79187,13 @@
     "recipes": [
       {
         "name_en": "Ash Wood",
-        "amount": 10
+        "amount": 10,
+        "is_shimmer": true
       },
       {
         "name_en": "Any Torch",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79222,11 +79209,13 @@
     "recipes": [
       {
         "name_en": "Ash Wood",
-        "amount": 8
+        "amount": 8,
+        "is_shimmer": true
       },
       {
         "name_en": "Campfire",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79242,11 +79231,13 @@
     "recipes": [
       {
         "name_en": "Ash Wood",
-        "amount": 7
+        "amount": 7,
+        "is_shimmer": true
       },
       {
         "name_en": "Angel Statue",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79637,7 +79628,8 @@
     "recipes": [
       {
         "name_en": "Lucky Clover",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79662,7 +79654,8 @@
     "recipes": [
       {
         "name_en": "Whoopie Cushion",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79678,7 +79671,8 @@
     "recipes": [
       {
         "name_en": "Friendly Boulder",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79694,7 +79688,8 @@
     "recipes": [
       {
         "name_en": "Any Pylon",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -79891,15 +79886,18 @@
     "recipes": [
       {
         "name_en": "Any Guide to Critter Companionship",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Any Guide to Environmental Preservation",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Flare",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80070,11 +80068,8 @@
     "recipes": [
       {
         "name_en": "Rod of Discord",
-        "amount": 1
-      },
-      {
-        "name_en": "Rod of Discord",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80090,15 +80085,13 @@
     "recipes": [
       {
         "name_en": "Spell Tome",
-        "amount": 1
-      },
-      {
-        "name_en": "Spell Tome",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Wooden Arrow",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80114,11 +80107,8 @@
     "recipes": [
       {
         "name_en": "Life Crystal",
-        "amount": 1
-      },
-      {
-        "name_en": "Life Crystal",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80134,15 +80124,13 @@
     "recipes": [
       {
         "name_en": "Life Fruit",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Mana Crystal",
-        "amount": 1
-      },
-      {
-        "name_en": "Life Fruit",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80158,7 +80146,8 @@
     "recipes": [
       {
         "name_en": "Mana Crystal",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80174,15 +80163,13 @@
     "recipes": [
       {
         "name_en": "Pink Pearl",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Any Fruit",
-        "amount": 1
-      },
-      {
-        "name_en": "Pink Pearl",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80198,11 +80185,8 @@
     "recipes": [
       {
         "name_en": "Gold Worm",
-        "amount": 1
-      },
-      {
-        "name_en": "Gold Worm",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80218,7 +80202,8 @@
     "recipes": [
       {
         "name_en": "Any Fruit",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80234,11 +80219,8 @@
     "recipes": [
       {
         "name_en": "Peddler's Hat",
-        "amount": 1
-      },
-      {
-        "name_en": "Peddler's Hat",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80287,7 +80269,8 @@
     "recipes": [
       {
         "name_en": "Used Gas Trap",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80303,7 +80286,8 @@
     "recipes": [
       {
         "name_en": "Angel Statue",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80319,7 +80303,8 @@
     "recipes": [
       {
         "name_en": "Wooden Arrow",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80389,7 +80374,8 @@
     "recipes": [
       {
         "name_en": "Any Torch",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80425,11 +80411,8 @@
     "recipes": [
       {
         "name_en": "Star Cloak",
-        "amount": 1
-      },
-      {
-        "name_en": "Star Cloak",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80454,11 +80437,13 @@
     "recipes": [
       {
         "name_en": "Aether Torch",
-        "amount": 5
+        "amount": 5,
+        "is_shimmer": true
       },
       {
         "name_en": "Any Wood",
-        "amount": 10
+        "amount": 10,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80501,7 +80486,8 @@
     "recipes": [
       {
         "name_en": "Slime Gun",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80526,11 +80512,13 @@
     "recipes": [
       {
         "name_en": "Spider Wall",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Enchanted Sundial",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80546,15 +80534,13 @@
     "recipes": [
       {
         "name_en": "Bottomless Water Bucket",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Luminite Bar",
-        "amount": 10
-      },
-      {
-        "name_en": "Bottomless Water Bucket",
-        "amount": 1
+        "amount": 10,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80650,11 +80636,13 @@
     "recipes": [
       {
         "name_en": "Pink Tiled Wall",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Empty Dropper",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80686,11 +80674,13 @@
     "recipes": [
       {
         "name_en": "Green Slab Wall",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Axe of Regrowth",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80706,11 +80696,13 @@
     "recipes": [
       {
         "name_en": "Green Tiled Wall",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       },
       {
         "name_en": "Fertilizer",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80834,7 +80826,8 @@
     "recipes": [
       {
         "name_en": "Flare",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [
@@ -80850,7 +80843,8 @@
     "recipes": [
       {
         "name_en": "Enchanted Sundial",
-        "amount": 1
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "station_ids": [

@@ -1,6 +1,7 @@
 export interface RecipeIngredient {
   name_en: string;
   amount: number;
+  is_shimmer?: boolean;
 }
 
 export interface Item {

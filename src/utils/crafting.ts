@@ -21,7 +21,11 @@ export const calculateTotalMaterials = (
 
   seen.add(item.name_en);
 
-  if (!item.recipes || item.recipes.length === 0) {
+  // Filtrar recetas: No calcular totales para transmutaciones de Shimmer
+  // ya que suelen ser "de-crafting" o transformaciones laterales.
+  const validRecipes = item.recipes?.filter(r => !r.is_shimmer) || [];
+
+  if (validRecipes.length === 0) {
     totals[item.display_name] = { 
       amount: multiplier, 
       image: item.image_url 
@@ -31,10 +35,9 @@ export const calculateTotalMaterials = (
 
   const findItemByName = (name: string) => items.find(i => i.name_en === name) || null;
 
-  item.recipes.forEach(ing => {
+  validRecipes.forEach(ing => {
     const ingDetails = findItemByName(ing.name_en);
     if (ingDetails) {
-      // Create a localized display name for the ingredient
       const localizedIngDetails = {
         ...ingDetails,
         display_name: lang === 'es' ? (ingDetails.name_es || ingDetails.name_en) : ingDetails.name_en
