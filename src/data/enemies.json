@@ -4865,24 +4865,20 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "890",
+        "chance": "1% (Clásico) / 2% (Experto)"
       },
       {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
+        "item_id": "671",
+        "chance": "0.33% (Clásico) / 0.5% (Experto)"
       },
       {
-        "item_name": "Golden Key",
-        "item_id": "327",
-        "chance": "Drops"
+        "item_id": "1566",
+        "chance": "0.33% (Clásico) / 0.5% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "1183",
+        "chance": "0.25% (Clásico) / 0.37% (Experto)"
       }
     ]
   },
@@ -4901,24 +4897,24 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "890",
+        "chance": "1% (Clásico) / 2% (Experto)"
       },
       {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
+        "item_id": "671",
+        "chance": "0.33% (Clásico) / 0.5% (Experto)"
       },
       {
-        "item_name": "Golden Key",
-        "item_id": "327",
-        "chance": "Drops"
+        "item_id": "1566",
+        "chance": "0.33% (Clásico) / 0.5% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "1183",
+        "chance": "0.25% (Clásico) / 0.37% (Experto)"
+      },
+      {
+        "item_id": "4679",
+        "chance": "0.5% (Clásico) / 0.75% (Experto)"
       }
     ]
   },
@@ -4937,24 +4933,24 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "890",
+        "chance": "1% (Clásico) / 2% (Experto)"
       },
       {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
+        "item_id": "671",
+        "chance": "0.33% (Clásico) / 0.5% (Experto)"
       },
       {
-        "item_name": "Golden Key",
-        "item_id": "327",
-        "chance": "Drops"
+        "item_id": "1566",
+        "chance": "0.33% (Clásico) / 0.5% (Experto)"
       },
       {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "1183",
+        "chance": "0.25% (Clásico) / 0.37% (Experto)"
+      },
+      {
+        "item_id": "4679",
+        "chance": "0.5% (Clásico) / 0.75% (Experto)"
       }
     ]
   },
@@ -4973,19 +4969,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Paladin's Hammer",
-        "item_id": "1513",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "1565",
+        "chance": "2.5% (Clásico) / 3.75% (Experto)"
       }
     ]
   },
@@ -5004,19 +4989,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Paladin's Hammer",
-        "item_id": "1513",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "SWAT Helmet",
-        "item_id": "1514",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Bone",
-        "item_id": "154",
-        "chance": "Drops"
+        "item_id": "1564",
+        "chance": "2.5% (Clásico) / 3.75% (Experto)"
       }
     ]
   },
@@ -5036,7 +5010,7 @@
     "drops": [
       {
         "item_id": "1563",
-        "chance": "2.5% (Clásico) / 5% (Experto)"
+        "chance": "2.5% (Clásico) / 3.75% (Experto)"
       }
     ]
   },
