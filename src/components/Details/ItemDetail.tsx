@@ -326,11 +326,11 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {item.is_armor && (
+        {item.is_armor && (item.armor_set_es || item.piece_effects || item.set_stats || item.set_bonus) && (
           <div className="recipe-box armor-info-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Información de Armadura' : 'Armor Information'}</h3>
             <div className="info-list">
-              {item.armor_set_es && (
+              {(item.armor_set_es || item.armor_set_en) && (
                 <div className="info-item">
                   <strong>{lang === 'es' ? 'Set:' : 'Set:'}</strong> {lang === 'es' ? item.armor_set_es : item.armor_set_en}
                 </div>

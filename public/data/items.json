@@ -2426,31 +2426,30 @@
   },
   {
     "id": "129",
-    "category": "Armor",
-    "name_en": "Wood Breastplate",
-    "name_es": "Coraza de madera",
+    "category": "Blocks",
+    "name_en": "Gray Brick",
+    "name_es": "Ladrillo gris",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gray_Brick",
     "recipes": [
       {
-        "name_en": "Stone Platform",
+        "name_en": "Stone Block",
         "amount": 2
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gray_Brick.png",
     "station_ids": [
-      "36"
+      "33"
     ],
-    "origin_info": "Fabricado: Banco de trabajo (30 Madera)",
+    "origin_info": "Fabricado: Horno (2 Piedras)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true,
-    "piece_armor": "1"
+    "is_armor": true
   },
   {
     "id": "130",
-    "category": "Armor",
-    "name_en": "Wood Helmet",
-    "name_es": "Casco de madera",
+    "category": "Walls/Wallpaper",
+    "name_en": "Gray Brick Wall",
+    "name_es": "Pared de ladrillo gris",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gray_Brick_Wall",
     "recipes": [
       {
@@ -2462,17 +2461,18 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Banco de trabajo (20 Madera)",
+    "origin_info": "Fabricado: Banco de trabajo",
     "piece_defense": "1",
     "total_defense": "3",
     "is_armor": true,
-    "piece_armor": "1"
+    "armor_set_es": "Armadura de ladrillo gris",
+    "armor_set_en": "Armor of ladrillo gris"
   },
   {
     "id": "131",
-    "category": "Armor",
-    "name_en": "Wood Greaves",
-    "name_es": "Grebas de madera",
+    "category": "Blocks",
+    "name_en": "Red Brick",
+    "name_es": "Ladrillo rojo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Brick",
     "recipes": [
       {
@@ -2482,13 +2482,12 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Brick.png",
     "station_ids": [
-      "36"
+      "33"
     ],
-    "origin_info": "Fabricado: Banco de trabajo (25 Madera)",
+    "origin_info": "Fabricado: Horno (2 Arcilla)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true,
-    "piece_armor": "1"
+    "is_armor": true
   },
   {
     "id": "132",
@@ -2536,7 +2535,9 @@
     "piece_defense": "2",
     "total_defense": "6",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de malla",
+    "armor_set_en": "Armor of malla"
   },
   {
     "id": "135",
@@ -2558,7 +2559,9 @@
     "piece_defense": "1",
     "total_defense": "6",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de cobre",
+    "armor_set_en": "Armor of cobre"
   },
   {
     "id": "136",
@@ -4255,7 +4258,9 @@
     ],
     "piece_defense": "2",
     "piece_armor": "2",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de mago",
+    "armor_set_en": "Armor of mago"
   },
   {
     "id": "239",
@@ -4743,7 +4748,9 @@
     ],
     "piece_defense": "2",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de buceo",
+    "armor_set_en": "Armor of buceo"
   },
   {
     "id": "269",
@@ -6610,7 +6617,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de cobalto",
+    "armor_set_en": "Armor of cobalto"
   },
   {
     "id": "372",
@@ -6633,7 +6642,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "12"
+    "piece_armor": "12",
+    "armor_set_es": "Armadura de cobalto",
+    "armor_set_en": "Armor of cobalto"
   },
   {
     "id": "373",
@@ -6656,7 +6667,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de cobalto",
+    "armor_set_en": "Armor of cobalto"
   },
   {
     "id": "374",
@@ -6677,7 +6690,9 @@
     ],
     "piece_defense": "8",
     "is_armor": true,
-    "piece_armor": "8"
+    "piece_armor": "8",
+    "armor_set_es": "Armadura de cobalto",
+    "armor_set_en": "Armor of cobalto"
   },
   {
     "id": "375",
@@ -6698,7 +6713,9 @@
     ],
     "piece_defense": "7",
     "is_armor": true,
-    "piece_armor": "7"
+    "piece_armor": "7",
+    "armor_set_es": "Armadura de cobalto",
+    "armor_set_en": "Armor of cobalto"
   },
   {
     "id": "376",
@@ -6722,7 +6739,9 @@
     ],
     "piece_defense": "2",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de mithril",
+    "armor_set_en": "Armor of mithril"
   },
   {
     "id": "377",
@@ -6746,7 +6765,9 @@
     ],
     "piece_defense": "15",
     "is_armor": true,
-    "piece_armor": "15"
+    "piece_armor": "15",
+    "armor_set_es": "Armadura de mithril",
+    "armor_set_en": "Armor of mithril"
   },
   {
     "id": "378",
@@ -6762,7 +6783,9 @@
     "origin_info": "Compra: Médico brujo (Selva)",
     "piece_defense": "6",
     "is_armor": true,
-    "piece_armor": "6"
+    "piece_armor": "6",
+    "armor_set_es": "Armadura de Hércules",
+    "armor_set_en": "Armor of Hércules"
   },
   {
     "id": "379",
@@ -6785,7 +6808,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "12"
+    "piece_armor": "12",
+    "armor_set_es": "Armadura de malla",
+    "armor_set_en": "Armor of malla"
   },
   {
     "id": "380",
@@ -6808,7 +6833,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "10"
+    "piece_armor": "10",
+    "armor_set_es": "Armadura de mithril",
+    "armor_set_en": "Armor of mithril"
   },
   {
     "id": "381",
@@ -6832,7 +6859,9 @@
       "33"
     ],
     "origin_info": "Fabricado: Horno (3 Mineral de cobalto)",
-    "piece_armor": "6"
+    "piece_armor": "6",
+    "armor_set_es": "Armadura de cobalto",
+    "armor_set_en": "Armor of cobalto"
   },
   {
     "id": "382",
@@ -7178,7 +7207,9 @@
       "mythril_anvil"
     ],
     "origin_info": "Minado: Bendición (Hallow)",
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de piedra perlada",
+    "armor_set_en": "Armor of piedra perlada"
   },
   {
     "id": "401",
@@ -7202,7 +7233,9 @@
       "398"
     ],
     "origin_info": "Fabricado: Taller de chapuzas (Botas cohete + Botas de Hermes/Ráfaga/Pez vela/Caminadunas)",
-    "piece_armor": "22"
+    "piece_armor": "22",
+    "armor_set_es": "Armadura de espectro",
+    "armor_set_en": "Armor of espectro"
   },
   {
     "id": "402",
@@ -7225,7 +7258,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "8"
+    "piece_armor": "8",
+    "armor_set_es": "Armadura de adamantita",
+    "armor_set_en": "Armor of adamantita"
   },
   {
     "id": "403",
@@ -7246,7 +7281,9 @@
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "16",
     "is_armor": true,
-    "piece_armor": "16"
+    "piece_armor": "16",
+    "armor_set_es": "Armadura de adamantita",
+    "armor_set_en": "Armor of adamantita"
   },
   {
     "id": "404",
@@ -7267,7 +7304,9 @@
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "12",
     "is_armor": true,
-    "piece_armor": "12"
+    "piece_armor": "12",
+    "armor_set_es": "Armadura de adamantita",
+    "armor_set_en": "Armor of adamantita"
   },
   {
     "id": "405",
@@ -7374,7 +7413,9 @@
     "origin_info": "Botín: No muerto minero",
     "piece_defense": "1",
     "piece_armor": "1",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de minero",
+    "armor_set_en": "Armor of minero"
   },
   {
     "id": "411",
@@ -7390,7 +7431,9 @@
     "origin_info": "Botín: No muerto minero",
     "piece_defense": "1",
     "piece_armor": "1",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de minero",
+    "armor_set_en": "Armor of minero"
   },
   {
     "id": "412",
@@ -9465,7 +9508,9 @@
     ],
     "piece_defense": "15",
     "is_armor": true,
-    "piece_armor": "15"
+    "piece_armor": "15",
+    "armor_set_es": "Armadura de placas sagrada",
+    "armor_set_en": "Armor of placas sagrada"
   },
   {
     "id": "552",
@@ -11832,7 +11877,9 @@
     "piece_defense": "2",
     "total_defense": "7",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de estaño",
+    "armor_set_en": "Armor of estaño"
   },
   {
     "id": "688",
@@ -11853,7 +11900,9 @@
     "piece_defense": "2",
     "total_defense": "7",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de malla",
+    "armor_set_en": "Armor of malla"
   },
   {
     "id": "689",
@@ -11874,7 +11923,9 @@
     "piece_defense": "1",
     "total_defense": "7",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de estaño",
+    "armor_set_en": "Armor of estaño"
   },
   {
     "id": "690",
@@ -11895,7 +11946,9 @@
     "piece_defense": "3",
     "total_defense": "11",
     "is_armor": true,
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de plomo",
+    "armor_set_en": "Armor of plomo"
   },
   {
     "id": "691",
@@ -11916,7 +11969,9 @@
     "piece_defense": "3",
     "total_defense": "11",
     "is_armor": true,
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de malla",
+    "armor_set_en": "Armor of malla"
   },
   {
     "id": "692",
@@ -11937,7 +11992,9 @@
     "piece_defense": "2",
     "total_defense": "11",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de plomo",
+    "armor_set_en": "Armor of plomo"
   },
   {
     "id": "693",
@@ -11958,7 +12015,9 @@
     "piece_defense": "4",
     "total_defense": "15",
     "is_armor": true,
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de tungsteno",
+    "armor_set_en": "Armor of tungsteno"
   },
   {
     "id": "694",
@@ -11979,7 +12038,9 @@
     "piece_defense": "5",
     "total_defense": "15",
     "is_armor": true,
-    "piece_armor": "5"
+    "piece_armor": "5",
+    "armor_set_es": "Armadura de malla",
+    "armor_set_en": "Armor of malla"
   },
   {
     "id": "695",
@@ -12000,7 +12061,9 @@
     "piece_defense": "3",
     "total_defense": "15",
     "is_armor": true,
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de tungsteno",
+    "armor_set_en": "Armor of tungsteno"
   },
   {
     "id": "696",
@@ -12743,7 +12806,9 @@
     "piece_defense": "1",
     "total_defense": "4",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de madera",
+    "armor_set_en": "Armor of madera"
   },
   {
     "id": "731",
@@ -12769,7 +12834,9 @@
     "piece_defense": "2",
     "total_defense": "4",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de madera",
+    "armor_set_en": "Armor of madera"
   },
   {
     "id": "732",
@@ -12795,7 +12862,9 @@
     "piece_defense": "1",
     "total_defense": "4",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de madera",
+    "armor_set_en": "Armor of madera"
   },
   {
     "id": "733",
@@ -12821,7 +12890,9 @@
     "piece_defense": "1",
     "total_defense": "3",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de madera rica",
+    "armor_set_en": "Armor of madera rica"
   },
   {
     "id": "734",
@@ -12843,7 +12914,9 @@
     "piece_defense": "1",
     "total_defense": "3",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de madera rica",
+    "armor_set_en": "Armor of madera rica"
   },
   {
     "id": "735",
@@ -12865,7 +12938,9 @@
     "piece_defense": "1",
     "total_defense": "3",
     "is_armor": true,
-    "piece_armor": "1"
+    "piece_armor": "1",
+    "armor_set_es": "Armadura de madera rica",
+    "armor_set_en": "Armor of madera rica"
   },
   {
     "id": "736",
@@ -12886,7 +12961,9 @@
     "piece_defense": "2",
     "total_defense": "8",
     "is_armor": true,
-    "piece_armor": "2"
+    "piece_armor": "2",
+    "armor_set_es": "Armadura de madera perlada",
+    "armor_set_en": "Armor of madera perlada"
   },
   {
     "id": "737",
@@ -12907,7 +12984,9 @@
     "piece_defense": "3",
     "total_defense": "8",
     "is_armor": true,
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de madera perlada",
+    "armor_set_en": "Armor of madera perlada"
   },
   {
     "id": "738",
@@ -12928,7 +13007,9 @@
     "piece_defense": "3",
     "total_defense": "8",
     "is_armor": true,
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de madera perlada",
+    "armor_set_en": "Armor of madera perlada"
   },
   {
     "id": "739",
@@ -13880,7 +13961,9 @@
     ],
     "piece_defense": "1",
     "piece_armor": "1",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de esquimal",
+    "armor_set_en": "Armor of esquimal"
   },
   {
     "id": "804",
@@ -13896,7 +13979,9 @@
     ],
     "piece_defense": "2",
     "piece_armor": "2",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de esquimal",
+    "armor_set_en": "Armor of esquimal"
   },
   {
     "id": "805",
@@ -13912,7 +13997,9 @@
     ],
     "piece_defense": "1",
     "piece_armor": "1",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de esquimal",
+    "armor_set_en": "Armor of esquimal"
   },
   {
     "id": "806",
@@ -16250,7 +16337,9 @@
     "origin_info": "Botín: Devoraalmas (Eater of Souls)",
     "piece_defense": "2",
     "piece_armor": "2",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de las sombras antiguo",
+    "armor_set_en": "Armor of las sombras antiguo"
   },
   {
     "id": "961",
@@ -16266,7 +16355,9 @@
     "origin_info": "Botín: Devoraalmas (Eater of Souls)",
     "piece_defense": "8",
     "piece_armor": "8",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de escamas",
+    "armor_set_en": "Armor of escamas"
   },
   {
     "id": "962",
@@ -16282,7 +16373,9 @@
     "origin_info": "Botín: Devoraalmas (Eater of Souls)",
     "piece_defense": "7",
     "piece_armor": "7",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de las sombras antiguas",
+    "armor_set_en": "Armor of las sombras antiguas"
   },
   {
     "id": "963",
@@ -16536,7 +16629,9 @@
     "origin_info": "Tortuga de hielo",
     "piece_defense": "1",
     "piece_armor": "1",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de esquimal rosa",
+    "armor_set_en": "Armor of esquimal rosa"
   },
   {
     "id": "979",
@@ -16560,7 +16655,9 @@
     ],
     "piece_defense": "2",
     "piece_armor": "2",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de esquimal rosa",
+    "armor_set_en": "Armor of esquimal rosa"
   },
   {
     "id": "980",
@@ -16584,7 +16681,9 @@
     ],
     "piece_defense": "1",
     "piece_armor": "1",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de esquimal rosa",
+    "armor_set_en": "Armor of esquimal rosa"
   },
   {
     "id": "981",
@@ -16921,7 +17020,9 @@
       "mythril_anvil"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
-    "piece_armor": "25"
+    "piece_armor": "25",
+    "armor_set_es": "Armadura de clorofita",
+    "armor_set_en": "Armor of clorofita"
   },
   {
     "id": "1002",
@@ -16945,7 +17046,9 @@
       "mythril_anvil"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
-    "piece_armor": "13"
+    "piece_armor": "13",
+    "armor_set_es": "Armadura de clorofita",
+    "armor_set_en": "Armor of clorofita"
   },
   {
     "id": "1003",
@@ -16969,7 +17072,9 @@
       "mythril_anvil"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
-    "piece_armor": "7"
+    "piece_armor": "7",
+    "armor_set_es": "Armadura de clorofita",
+    "armor_set_en": "Armor of clorofita"
   },
   {
     "id": "1004",
@@ -16990,7 +17095,9 @@
     "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes de clorofita)",
     "piece_defense": "18",
     "is_armor": true,
-    "piece_armor": "18"
+    "piece_armor": "18",
+    "armor_set_es": "Armadura de placas",
+    "armor_set_en": "Armor of placas"
   },
   {
     "id": "1005",
@@ -17011,7 +17118,9 @@
     "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes de clorofita)",
     "piece_defense": "13",
     "is_armor": true,
-    "piece_armor": "13"
+    "piece_armor": "13",
+    "armor_set_es": "Armadura de clorofita",
+    "armor_set_en": "Armor of clorofita"
   },
   {
     "id": "1006",
@@ -19857,7 +19966,9 @@
       "mythril_anvil",
       "exploration"
     ],
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1186",
@@ -19881,7 +19992,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "5"
+    "piece_armor": "5",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1187",
@@ -19905,7 +20018,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "14"
+    "piece_armor": "14",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1188",
@@ -20003,7 +20118,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1193",
@@ -20027,7 +20144,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "7"
+    "piece_armor": "7",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1194",
@@ -20051,7 +20170,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "19"
+    "piece_armor": "19",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1195",
@@ -20148,7 +20269,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de titanio",
+    "armor_set_en": "Armor of titanio"
   },
   {
     "id": "1200",
@@ -20172,7 +20295,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "8"
+    "piece_armor": "8",
+    "armor_set_es": "Armadura de titanio",
+    "armor_set_en": "Armor of titanio"
   },
   {
     "id": "1201",
@@ -20196,7 +20321,9 @@
       "hand",
       "mythril_anvil"
     ],
-    "piece_armor": "23"
+    "piece_armor": "23",
+    "armor_set_es": "Armadura de titanio",
+    "armor_set_en": "Armor of titanio"
   },
   {
     "id": "1202",
@@ -20275,7 +20402,9 @@
     ],
     "piece_defense": "14",
     "is_armor": true,
-    "piece_armor": "14"
+    "piece_armor": "14",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1206",
@@ -20299,7 +20428,9 @@
     ],
     "piece_defense": "5",
     "is_armor": true,
-    "piece_armor": "5"
+    "piece_armor": "5",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1207",
@@ -20323,7 +20454,9 @@
     ],
     "piece_defense": "3",
     "is_armor": true,
-    "piece_armor": "3"
+    "piece_armor": "3",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1208",
@@ -20347,7 +20480,9 @@
     ],
     "piece_defense": "10",
     "is_armor": true,
-    "piece_armor": "10"
+    "piece_armor": "10",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1209",
@@ -20371,7 +20506,9 @@
     ],
     "piece_defense": "8",
     "is_armor": true,
-    "piece_armor": "8"
+    "piece_armor": "8",
+    "armor_set_es": "Armadura de paladio",
+    "armor_set_en": "Armor of paladio"
   },
   {
     "id": "1210",
@@ -20395,7 +20532,9 @@
     ],
     "piece_defense": "19",
     "is_armor": true,
-    "piece_armor": "19"
+    "piece_armor": "19",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1211",
@@ -20419,7 +20558,9 @@
     ],
     "piece_defense": "7",
     "is_armor": true,
-    "piece_armor": "7"
+    "piece_armor": "7",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1212",
@@ -20439,7 +20580,9 @@
     ],
     "piece_defense": "4",
     "is_armor": true,
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1213",
@@ -20459,7 +20602,9 @@
     ],
     "piece_defense": "13",
     "is_armor": true,
-    "piece_armor": "13"
+    "piece_armor": "13",
+    "armor_set_es": "Armadura de oricalco",
+    "armor_set_en": "Armor of oricalco"
   },
   {
     "id": "1214",
@@ -20480,7 +20625,9 @@
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)",
     "piece_defense": "11",
     "is_armor": true,
-    "piece_armor": "11"
+    "piece_armor": "11",
+    "armor_set_es": "Armadura de mithril",
+    "armor_set_en": "Armor of mithril"
   },
   {
     "id": "1215",
@@ -20501,7 +20648,9 @@
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "23",
     "is_armor": true,
-    "piece_armor": "23"
+    "piece_armor": "23",
+    "armor_set_es": "Armadura de adamantita",
+    "armor_set_en": "Armor of adamantita"
   },
   {
     "id": "1216",
@@ -20523,7 +20672,9 @@
     "piece_defense": "8",
     "total_defense": "4",
     "is_armor": true,
-    "piece_armor": "8"
+    "piece_armor": "8",
+    "armor_set_es": "Armadura de madera sombría",
+    "armor_set_en": "Armor of madera sombría"
   },
   {
     "id": "1217",
@@ -20545,7 +20696,9 @@
     "piece_defense": "4",
     "total_defense": "4",
     "is_armor": true,
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de madera sombría",
+    "armor_set_en": "Armor of madera sombría"
   },
   {
     "id": "1218",
@@ -20567,7 +20720,9 @@
     "piece_defense": "18",
     "total_defense": "4",
     "is_armor": true,
-    "piece_armor": "18"
+    "piece_armor": "18",
+    "armor_set_es": "Armadura de madera sombría",
+    "armor_set_en": "Armor of madera sombría"
   },
   {
     "id": "1219",
@@ -20587,7 +20742,9 @@
     ],
     "piece_defense": "13",
     "is_armor": true,
-    "piece_armor": "13"
+    "piece_armor": "13",
+    "armor_set_es": "Armadura de titanio",
+    "armor_set_en": "Armor of titanio"
   },
   {
     "id": "1220",
@@ -24425,7 +24582,9 @@
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "6",
     "is_armor": true,
-    "piece_armor": "6"
+    "piece_armor": "6",
+    "armor_set_es": "Armadura de esquimal rosa",
+    "armor_set_en": "Armor of esquimal rosa"
   },
   {
     "id": "1504",
@@ -24446,7 +24605,9 @@
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "14",
     "is_armor": true,
-    "piece_armor": "14"
+    "piece_armor": "14",
+    "armor_set_es": "Armadura de esquimal rosa",
+    "armor_set_en": "Armor of esquimal rosa"
   },
   {
     "id": "1505",
@@ -24467,7 +24628,9 @@
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "10",
     "is_armor": true,
-    "piece_armor": "10"
+    "piece_armor": "10",
+    "armor_set_es": "Armadura de esquimal rosa",
+    "armor_set_en": "Armor of esquimal rosa"
   },
   {
     "id": "1506",
@@ -34068,7 +34231,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_armor": "14"
+    "piece_armor": "14",
+    "armor_set_es": "Armadura de espectro",
+    "armor_set_en": "Armor of espectro"
   },
   {
     "id": "2190",
@@ -34239,7 +34404,9 @@
     ],
     "piece_defense": "14",
     "is_armor": true,
-    "piece_armor": "14"
+    "piece_armor": "14",
+    "armor_set_es": "Armadura de escarabajo",
+    "armor_set_en": "Armor of escarabajo"
   },
   {
     "id": "2200",
@@ -34264,7 +34431,9 @@
     ],
     "piece_defense": "20",
     "is_armor": true,
-    "piece_armor": "20"
+    "piece_armor": "20",
+    "armor_set_es": "Armadura de malla",
+    "armor_set_en": "Armor of malla"
   },
   {
     "id": "2201",
@@ -34289,7 +34458,9 @@
     ],
     "piece_defense": "32",
     "is_armor": true,
-    "piece_armor": "32"
+    "piece_armor": "32",
+    "armor_set_es": "Armadura de escarabajo",
+    "armor_set_en": "Armor of escarabajo"
   },
   {
     "id": "2202",
@@ -34314,7 +34485,9 @@
     ],
     "piece_defense": "15",
     "is_armor": true,
-    "piece_armor": "15"
+    "piece_armor": "15",
+    "armor_set_es": "Armadura de escarabajo",
+    "armor_set_en": "Armor of escarabajo"
   },
   {
     "id": "2203",
@@ -37033,7 +37206,9 @@
     "origin_info": "Recompensa: Pescador (15 misiones)",
     "piece_defense": "4",
     "piece_armor": "4",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de gran prueba",
+    "armor_set_en": "Armor of gran prueba"
   },
   {
     "id": "2362",
@@ -37054,7 +37229,9 @@
     "origin_info": "Recompensa: Pescador (20 misiones)",
     "piece_defense": "5",
     "piece_armor": "5",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de pescador",
+    "armor_set_en": "Armor of pescador"
   },
   {
     "id": "2363",
@@ -37075,7 +37252,9 @@
     "origin_info": "Recompensa: Pescador (25 misiones)",
     "piece_defense": "4",
     "piece_armor": "4",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de aparejos",
+    "armor_set_en": "Armor of aparejos"
   },
   {
     "id": "2364",
@@ -48415,7 +48594,9 @@
     "origin_info": "Cofre de granito (Subterráneo)",
     "piece_defense": "4",
     "is_armor": true,
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de visión nocturna",
+    "armor_set_en": "Armor of visión nocturna"
   },
   {
     "id": "3110",
@@ -49942,7 +50123,9 @@
     "piece_defense": "4",
     "total_defense": "13",
     "is_armor": true,
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de gladiador",
+    "armor_set_en": "Armor of gladiador"
   },
   {
     "id": "3188",
@@ -49958,7 +50141,9 @@
     "piece_defense": "5",
     "total_defense": "13",
     "is_armor": true,
-    "piece_armor": "5"
+    "piece_armor": "5",
+    "armor_set_es": "Armadura de gladiador",
+    "armor_set_en": "Armor of gladiador"
   },
   {
     "id": "3189",
@@ -49974,7 +50159,9 @@
     "piece_defense": "4",
     "total_defense": "13",
     "is_armor": true,
-    "piece_armor": "4"
+    "piece_armor": "4",
+    "armor_set_es": "Armadura de gladiador",
+    "armor_set_en": "Armor of gladiador"
   },
   {
     "id": "3190",
@@ -59263,7 +59450,9 @@
     ],
     "piece_defense": "8",
     "piece_armor": "8",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de aprendiz",
+    "armor_set_en": "Armor of aprendiz"
   },
   {
     "id": "3798",
@@ -59278,7 +59467,9 @@
     ],
     "piece_defense": "12",
     "piece_armor": "12",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de aprendiz",
+    "armor_set_en": "Armor of aprendiz"
   },
   {
     "id": "3799",
@@ -59293,7 +59484,9 @@
     ],
     "piece_defense": "12",
     "piece_armor": "12",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de aprendiz",
+    "armor_set_en": "Armor of aprendiz"
   },
   {
     "id": "3800",
@@ -59310,7 +59503,9 @@
     "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
     "piece_defense": "14",
     "piece_armor": "14",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de infiltrador shinobi",
+    "armor_set_en": "Armor of infiltrador shinobi"
   },
   {
     "id": "3801",
@@ -59326,7 +59521,9 @@
     "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
     "piece_defense": "18",
     "piece_armor": "18",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de infiltrador shinobi",
+    "armor_set_en": "Armor of infiltrador shinobi"
   },
   {
     "id": "3802",
@@ -59342,7 +59539,9 @@
     "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
     "piece_defense": "20",
     "piece_armor": "20",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de infiltrador shinobi",
+    "armor_set_en": "Armor of infiltrador shinobi"
   },
   {
     "id": "3803",
@@ -59358,7 +59557,9 @@
     "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
     "piece_defense": "8",
     "piece_armor": "8",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de artista oscuro",
+    "armor_set_en": "Armor of artista oscuro"
   },
   {
     "id": "3804",
@@ -59374,7 +59575,9 @@
     "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
     "piece_defense": "12",
     "piece_armor": "12",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de artista oscuro",
+    "armor_set_en": "Armor of artista oscuro"
   },
   {
     "id": "3805",
@@ -59390,7 +59593,9 @@
     "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
     "piece_defense": "16",
     "piece_armor": "16",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de artista oscuro",
+    "armor_set_en": "Armor of artista oscuro"
   },
   {
     "id": "3806",
@@ -59405,7 +59610,9 @@
     ],
     "piece_defense": "12",
     "piece_armor": "12",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de calvo y cejas densas",
+    "armor_set_en": "Armor of calvo y cejas densas"
   },
   {
     "id": "3807",
@@ -59420,7 +59627,9 @@
     ],
     "piece_defense": "16",
     "piece_armor": "16",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de monje",
+    "armor_set_en": "Armor of monje"
   },
   {
     "id": "3808",
@@ -59435,7 +59644,9 @@
     ],
     "piece_defense": "18",
     "piece_armor": "18",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de monje",
+    "armor_set_en": "Armor of monje"
   },
   {
     "id": "3809",
@@ -60068,7 +60279,9 @@
     ],
     "piece_defense": "20",
     "piece_armor": "20",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de Caballero del Valhalla",
+    "armor_set_en": "Armor of Caballero del Valhalla"
   },
   {
     "id": "3872",
@@ -60083,7 +60296,9 @@
     ],
     "piece_defense": "24",
     "piece_armor": "24",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de Caballero del Valhalla",
+    "armor_set_en": "Armor of Caballero del Valhalla"
   },
   {
     "id": "3873",
@@ -60203,7 +60418,9 @@
     ],
     "piece_defense": "10",
     "piece_armor": "10",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de infiltrador shinobi",
+    "armor_set_en": "Armor of infiltrador shinobi"
   },
   {
     "id": "3881",
@@ -60218,7 +60435,9 @@
     ],
     "piece_defense": "20",
     "piece_armor": "20",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de infiltrador shinobi",
+    "armor_set_en": "Armor of infiltrador shinobi"
   },
   {
     "id": "3882",
@@ -60233,7 +60452,9 @@
     ],
     "piece_defense": "24",
     "piece_armor": "24",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de infiltrador shinobi",
+    "armor_set_en": "Armor of infiltrador shinobi"
   },
   {
     "id": "3883",
@@ -75882,7 +76103,9 @@
     ],
     "piece_defense": "15",
     "piece_armor": "15",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de placas sagrada antigua",
+    "armor_set_en": "Armor of placas sagrada antigua"
   },
   {
     "id": "4901",
@@ -76881,7 +77104,9 @@
     "origin_info": "Botín: Reina slime",
     "piece_defense": "6",
     "piece_armor": "6",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de asesino",
+    "armor_set_en": "Armor of asesino"
   },
   {
     "id": "4983",
@@ -76895,7 +77120,9 @@
     "origin_info": "Botín: Reina slime",
     "piece_defense": "14",
     "piece_armor": "14",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de asesino",
+    "armor_set_en": "Armor of asesino"
   },
   {
     "id": "4984",
@@ -76909,7 +77136,9 @@
     "origin_info": "Botín: Reina slime",
     "piece_defense": "16",
     "piece_armor": "16",
-    "is_armor": true
+    "is_armor": true,
+    "armor_set_es": "Armadura de asesino",
+    "armor_set_en": "Armor of asesino"
   },
   {
     "id": "4985",
@@ -91165,5 +91394,80 @@
     "recipes": [],
     "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Skeletron).png"
+  },
+  {
+    "id": "727",
+    "name_en": "Wood Helmet",
+    "name_es": "Casco de madera",
+    "category": "Armor",
+    "is_armor": true,
+    "armor_set_en": "Wood Armor",
+    "armor_set_es": "Armadura de madera",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "set_bonus": "+1 Defensa",
+    "recipes": [
+      {
+        "name_en": "Wood",
+        "amount": 20
+      }
+    ],
+    "station_ids": [
+      "36"
+    ],
+    "origin_info": "Fabricado: Banco de trabajo (20 Madera)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Helmet",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Helmet.png",
+    "piece_armor": "1"
+  },
+  {
+    "id": "728",
+    "name_en": "Wood Breastplate",
+    "name_es": "Coraza de madera",
+    "category": "Armor",
+    "is_armor": true,
+    "armor_set_en": "Wood Armor",
+    "armor_set_es": "Armadura de madera",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "set_bonus": "+1 Defensa",
+    "recipes": [
+      {
+        "name_en": "Wood",
+        "amount": 30
+      }
+    ],
+    "station_ids": [
+      "36"
+    ],
+    "origin_info": "Fabricado: Banco de trabajo (30 Madera)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Breastplate",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Breastplate.png",
+    "piece_armor": "1"
+  },
+  {
+    "id": "729",
+    "name_en": "Wood Greaves",
+    "name_es": "Grebas de madera",
+    "category": "Armor",
+    "is_armor": true,
+    "armor_set_en": "Wood Armor",
+    "armor_set_es": "Armadura de madera",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "set_bonus": "+1 Defensa",
+    "recipes": [
+      {
+        "name_en": "Wood",
+        "amount": 25
+      }
+    ],
+    "station_ids": [
+      "36"
+    ],
+    "origin_info": "Fabricado: Banco de trabajo (25 Madera)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Greaves",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Greaves.png",
+    "piece_armor": "1"
   }
 ]
