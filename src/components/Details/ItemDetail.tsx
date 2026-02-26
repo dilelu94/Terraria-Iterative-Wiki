@@ -33,7 +33,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const itemsUsingMaterial = findItemsUsingMaterial(item.name_en);
   const npcsByItem = findNPCsByItem(item.id);
   
-  // Buscar todas las estaciones vinculadas
   const itemStations = item.station_ids 
     ? stations.filter(s => item.station_ids!.includes(s.id))
     : [];
@@ -89,7 +88,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             <h2>{item.display_name}</h2>
             <p className="hero-subtitle">{lang === 'es' ? item.name_en : (item.name_es || "Terraria Material")}</p>
             
-            {/* Estadísticas de Armadura */}
             {item.is_armor && (
               <div className="enemy-stats-row hero-stats">
                 <div className="stat-pill" title={lang === 'es' ? 'Defensa de esta pieza' : 'Piece Defense'}>
@@ -116,64 +114,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* Información de Estación de Trabajo / Obtención */}
-        {itemStations.length > 0 && (
-          <div className="recipe-box station-box">
-            <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal'].includes(s.id)) 
-              ? (lang === 'es' ? 'Método de Obtención' : 'Obtaining Method')
-              : (lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:')}</h3>
-            <div className="info-list">
-              {itemStations.map(s => (
-                <div key={s.id} className="ing-item no-hover">
-                  {s.image ? (
-                    <img src={s.image} alt={s.name_en} className="ing-icon" />
-                  ) : (
-                    <div className="item-icon-placeholder tiny">🔨</div>
-                  )}
-                  <div style={{ display: 'flex', flexDirection: 'column' }}>
-                    <span className="ing-name" style={{ color: 'var(--accent)' }}>{s.display_name}</span>
-                    {s.id === 'exploration' && item.origin_info && (
-                      <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{item.origin_info}</span>
-                    )}
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* Información de Armadura */}
-        {item.is_armor && (
-          <div className="recipe-box armor-info-box">
-            <h3>{lang === 'es' ? 'Información de Armadura' : 'Armor Information'}</h3>
-            <div className="info-list">
-              {item.armor_set_es && (
-                <div className="info-item">
-                  <strong>{lang === 'es' ? 'Set:' : 'Set:'}</strong> {lang === 'es' ? item.armor_set_es : item.armor_set_en}
-                </div>
-              )}
-              {item.piece_effects && (
-                <div className="info-item">
-                  <strong>{lang === 'es' ? 'Efectos de pieza:' : 'Piece Effects:'}</strong> 
-                  <span className="effect-text">{item.piece_effects}</span>
-                </div>
-              )}
-              {item.set_stats && (
-                <div className="info-item">
-                  <strong>{lang === 'es' ? 'Mejora de Stats (Set):' : 'Set Stats Bonus:'}</strong> 
-                  <span className="effect-text">{item.set_stats}</span>
-                </div>
-              )}
-              {item.set_bonus && (
-                <div className="info-item highlight-bonus">
-                  <strong>{lang === 'es' ? 'Bonus de Set Completo:' : 'Full Set Bonus:'}</strong> 
-                  <p className="bonus-text">{item.set_bonus}</p>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
+        {/* 1. Ingredientes Directos */}
         <div className="recipe-box">
           <h3>{lang === 'es' ? 'Ingredientes Directos' : 'Direct Ingredients'}</h3>
           {item.recipes && item.recipes.length > 0 ? (
@@ -263,9 +204,10 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           )}
         </div>
 
-        {itemsUsingMaterial.length > 0 && (
-          <div className="recipe-box">
-            <h3>{lang === 'es' ? 'Se usa para fabricar:' : 'Used to craft:'}</h3>
+        {/* 2. Se usa para fabricar */}
+        <div className="recipe-box">
+          <h3>{lang === 'es' ? 'Se usa para fabricar:' : 'Used to craft:'}</h3>
+          {itemsUsingMaterial.length > 0 ? (
             <div className="ingredients-list">
               {itemsUsingMaterial.map((targetItem, idx) => (
                 <div key={idx} className="ing-item" onClick={() => selectItem(targetItem)}>
@@ -279,18 +221,81 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
                 </div>
               ))}
             </div>
-          </div>
-        )}
+          ) : (
+            <p className="base-material" style={{ opacity: 0.6 }}>
+              {lang === 'es' ? 'No se usa en ninguna receta conocida.' : 'Not used in any known recipes.'}
+            </p>
+          )}
+        </div>
 
+        {/* 3. Lista de Compras (Total Base) */}
         {Object.keys(totalMaterials).length > 0 && item.recipes && (
-          <div className="raw-materials-box">
+          <div className="raw-materials-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Lista de Compras (Total Base)' : 'Shopping List (Total Base)'}</h3>
-            <div className="ingredients-list">
+            <div className="ingredients-list" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '0.5rem' }}>
               {Object.entries(totalMaterials).map(([name, data], idx) => (
                 <div key={idx} className="ing-item no-hover">
                   <span className="ing-count total">{data.amount}x</span>
                   {data.image && <img src={data.image} alt={name} className="ing-icon" />}
                   <span className="ing-name">{name}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* 4. Información de Armadura (Si aplica) */}
+        {item.is_armor && (
+          <div className="recipe-box armor-info-box" style={{ gridColumn: '1 / -1' }}>
+            <h3>{lang === 'es' ? 'Información de Armadura' : 'Armor Information'}</h3>
+            <div className="info-list">
+              {item.armor_set_es && (
+                <div className="info-item">
+                  <strong>{lang === 'es' ? 'Set:' : 'Set:'}</strong> {lang === 'es' ? item.armor_set_es : item.armor_set_en}
+                </div>
+              )}
+              {item.piece_effects && (
+                <div className="info-item">
+                  <strong>{lang === 'es' ? 'Efectos de pieza:' : 'Piece Effects:'}</strong> 
+                  <span className="effect-text">{item.piece_effects}</span>
+                </div>
+              )}
+              {item.set_stats && (
+                <div className="info-item">
+                  <strong>{lang === 'es' ? 'Mejora de Stats (Set):' : 'Set Stats Bonus:'}</strong> 
+                  <span className="effect-text">{item.set_stats}</span>
+                </div>
+              )}
+              {item.set_bonus && (
+                <div className="info-item highlight-bonus">
+                  <strong>{lang === 'es' ? 'Bonus de Set Completo:' : 'Full Set Bonus:'}</strong> 
+                  <p className="bonus-text">{item.set_bonus}</p>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* 5. Estación de Trabajo / Obtención */}
+        {itemStations.length > 0 && (
+          <div className="recipe-box station-box" style={{ gridColumn: '1 / -1' }}>
+            <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal', 'exploration', 'quest', 'mining', 'farming'].includes(s.id)) 
+              ? (lang === 'es' ? 'Método de Obtención' : 'Obtaining Method')
+              : (lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:')}</h3>
+            <div className="info-list" style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
+              {itemStations.map(s => (
+                <div key={s.id} className="ing-item no-hover">
+                  {s.image ? (
+                    <img src={s.image} alt={s.name_en} className="ing-icon" />
+                  ) : (
+                    <div className="item-icon-placeholder tiny">🔨</div>
+                  )}
+                  <div style={{ display: 'flex', flexDirection: 'column' }}>
+                    <span className="ing-name" style={{ color: 'var(--accent)' }}>{s.display_name}</span>
+                    {s.id === 'exploration' && item.origin_info && (
+                      <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{item.origin_info}</span>
+                    )}
+                  </div>
                 </div>
               ))}
             </div>
