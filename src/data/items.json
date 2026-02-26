@@ -5784,7 +5784,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tombstone.png?e86e10",
     "station_ids": [
-      "33"
+      "33",
+      "death"
     ]
   },
   {
@@ -16657,7 +16658,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Rocket",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Rocket.png?ed4715",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "971",
@@ -16667,7 +16670,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Rocket",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Rocket.png?a0ad41",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "972",
@@ -16677,7 +16682,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Rocket",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Rocket.png?717148",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "973",
@@ -16687,7 +16694,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Rocket",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Rocket.png?306bc3",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "974",
@@ -19956,7 +19965,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Grave_Marker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Grave_Marker.png?2c7204",
-    "station_ids": []
+    "station_ids": [
+      "death"
+    ]
   },
   {
     "id": "1174",
@@ -19966,7 +19977,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cross_Grave_Marker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cross_Grave_Marker.png?44e16b",
-    "station_ids": []
+    "station_ids": [
+      "death"
+    ]
   },
   {
     "id": "1175",
@@ -19976,7 +19989,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Headstone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Headstone.png?98efc6",
-    "station_ids": []
+    "station_ids": [
+      "death"
+    ]
   },
   {
     "id": "1176",
@@ -19986,7 +20001,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gravestone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gravestone.png?2c0ce8",
-    "station_ids": []
+    "station_ids": [
+      "death"
+    ]
   },
   {
     "id": "1177",
@@ -19996,7 +20013,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Obelisk",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Obelisk.png?fc9cf0",
-    "station_ids": []
+    "station_ids": [
+      "death"
+    ]
   },
   {
     "id": "1178",
@@ -50353,7 +50372,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Cross_Grave_Marker.png?b77278",
     "station_ids": [
-      "loot"
+      "loot",
+      "death"
     ]
   },
   {
@@ -50365,7 +50385,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Tombstone.png?f912f6",
     "station_ids": [
-      "loot"
+      "loot",
+      "death"
     ]
   },
   {
@@ -50377,7 +50398,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Grave_Marker.png?7cb210",
     "station_ids": [
-      "loot"
+      "loot",
+      "death"
     ]
   },
   {
@@ -50389,7 +50411,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Gravestone.png?782742",
     "station_ids": [
-      "loot"
+      "loot",
+      "death"
     ]
   },
   {
@@ -50401,7 +50424,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Headstone.png?bb4bc1",
     "station_ids": [
-      "loot"
+      "loot",
+      "death"
     ]
   },
   {
@@ -68077,7 +68101,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Kite.png?1c56b8",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4368",
@@ -68087,7 +68113,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_and_Yellow_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_and_Yellow_Kite.png?779c40",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4369",
@@ -68097,7 +68125,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Kite.png?27fd9e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4370",
@@ -68107,7 +68137,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_and_Yellow_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_and_Yellow_Kite.png?3266cd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4371",
@@ -68117,7 +68149,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Kite.png?6c205b",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4372",
@@ -68208,7 +68242,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wyvern_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wyvern_Kite.png?fa3f94",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4380",
@@ -71646,7 +71682,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Serpent_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Serpent_Kite.png?a9f669",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4611",
@@ -71666,7 +71704,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bunny_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bunny_Kite.png?1066d9",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4613",
@@ -72263,7 +72303,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Man_Eater_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Man_Eater_Kite.png?975313",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4649",
@@ -72293,7 +72335,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shark_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shark_Kite.png?ea8f10",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4652",
@@ -72626,7 +72670,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Koi_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Koi_Kite.png?76096a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4677",
@@ -72687,7 +72733,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectrum_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Spectrum_Kite.png?3aba68",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4682",
@@ -72717,7 +72765,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Unicorn_Kite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Unicorn_Kite.png?d21fea",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4685",
