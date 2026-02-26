@@ -204,7 +204,20 @@
     "biome_en": "Hallow",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "501",
+        "chance": "100% (1-3)"
+      },
+      {
+        "item_id": "888",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      },
+      {
+        "item_id": "887",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      }
+    ]
   },
   {
     "id": "-56",
@@ -219,7 +232,20 @@
     "biome_en": "Hallow",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "501",
+        "chance": "100% (1-3)"
+      },
+      {
+        "item_id": "888",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      },
+      {
+        "item_id": "887",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      }
+    ]
   },
   {
     "id": "-55",
@@ -234,7 +260,20 @@
     "biome_en": "Hallow",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "501",
+        "chance": "100% (1-3)"
+      },
+      {
+        "item_id": "888",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      },
+      {
+        "item_id": "887",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      }
+    ]
   },
   {
     "id": "-54",
@@ -2387,29 +2426,16 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Soul of Light",
-        "item_id": "520",
-        "chance": "Drops"
+        "item_id": "501",
+        "chance": "100% (1-3)"
       },
       {
-        "item_name": "Unicorn Horn",
-        "item_id": "526",
-        "chance": "Drops"
+        "item_id": "888",
+        "chance": "1% (Clásico) / 2% (Experto)"
       },
       {
-        "item_name": "Dark Shard",
-        "item_id": "527",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Light Shard",
-        "item_id": "528",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Poison Staff",
-        "item_id": "1308",
-        "chance": "Drops"
+        "item_id": "887",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -2478,19 +2504,16 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Soul of Night",
-        "item_id": "521",
-        "chance": "Drops"
+        "item_id": "527",
+        "chance": "10% (Clásico) / 15% (Experto)"
       },
       {
-        "item_name": "Soul of Light",
-        "item_id": "520",
-        "chance": "Drops"
+        "item_id": "886",
+        "chance": "1% (Clásico) / 2% (Experto)"
       },
       {
-        "item_name": "Chain Knife",
-        "item_id": "1325",
-        "chance": "Drops"
+        "item_id": "892",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -2509,24 +2532,20 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Soul of Light",
-        "item_id": "520",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Chain Knife",
-        "item_id": "1325",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Dark Shard",
-        "item_id": "527",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Light Shard",
         "item_id": "528",
-        "chance": "Drops"
+        "chance": "10% (Clásico) / 15% (Experto)"
+      },
+      {
+        "item_id": "888",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      },
+      {
+        "item_id": "887",
+        "chance": "1% (Clásico) / 2% (Experto)"
+      },
+      {
+        "item_id": "892",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -2659,24 +2678,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Soul of Light",
-        "item_id": "520",
-        "chance": "Drops"
+        "item_id": "503",
+        "chance": "100%"
       },
       {
-        "item_name": "Unicorn Horn",
-        "item_id": "526",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Poison Staff",
-        "item_id": "1308",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Treasure Bag (Plantera)",
-        "item_id": "3328",
-        "chance": "Drops"
+        "item_id": "3045",
+        "chance": "0.5% (Clásico) / 0.67% (Experto)"
       }
     ]
   },
@@ -3207,29 +3214,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Gel",
         "item_id": "23",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Soul of Light",
-        "item_id": "520",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Dark Shard",
-        "item_id": "527",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Light Shard",
-        "item_id": "528",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Poison Staff",
-        "item_id": "1308",
-        "chance": "Drops"
+        "chance": "100% (5-10)"
       }
     ]
   },
