@@ -24106,7 +24106,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Deadland_Comes_Alive",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Deadland_Comes_Alive.png?c9cbb2",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1493",
@@ -24116,7 +24118,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Evil_Presence",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Evil_Presence.png?fcba12",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1494",
@@ -24126,7 +24130,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sky_Guardian",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sky_Guardian.png?a6201b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1495",
@@ -24136,7 +24142,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/American_Explosive",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/American_Explosive.png?c39cbe",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1496",
@@ -24146,7 +24154,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Discover",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Discover.png?191cc5",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1497",
@@ -24156,7 +24166,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hand_Earth",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hand_Earth.png?6b8b83",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1498",
@@ -24166,7 +24178,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Old_Miner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Old_Miner.png?ad62c3",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1499",
@@ -24176,7 +24190,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skelehead",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Skelehead.png?228cbb",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1500",
@@ -24186,7 +24202,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Facing_the_Cerebral_Mastermind",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Facing_the_Cerebral_Mastermind.png?2fea1a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1501",
@@ -24196,7 +24214,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lake_of_Fire",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lake_of_Fire.png?d337af",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1502",
@@ -24206,7 +24226,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Trio_Super_Heroes",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Trio_Super_Heroes.png?1433fa",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1503",
@@ -24222,7 +24244,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spectre_Hood.png?dbb1ef",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24239,7 +24262,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spectre_Robe.png?ffa078",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24256,7 +24280,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spectre_Pants.png?db04af",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24273,7 +24298,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spectre_Pickaxe.png?eebf20",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -24290,7 +24316,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spectre_Hamaxe.png?33edd2",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -24313,7 +24340,8 @@
     "set_bonus": "El daño mágico infligido te cura a ti o al aliado con menos vida",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24331,7 +24359,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Gothic_Chair.png?fb645f",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24349,7 +24378,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Gothic_Table.png?d44844",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24367,7 +24397,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Gothic_Work_Bench.png?72918f",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -24378,7 +24409,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gothic_Bookcase",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gothic_Bookcase.png?e80823",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1513",
@@ -24388,7 +24421,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Paladin's_Hammer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Paladin%27s_Hammer.png?43da21",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1514",
@@ -24399,7 +24434,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/SWAT_Helmet.png?f9eb91",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "merchant_buy"
     ]
   },
   {
@@ -28460,7 +28496,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hallow's_Eve",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hallow%27s_Eve.png?27c70b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1850",
@@ -28470,7 +28508,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Morbid_Curiosity",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Morbid_Curiosity.png?95b18c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1851",
@@ -28480,7 +28520,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Hunter_Shirt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Hunter_Shirt.png?bb42d2",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1852",
@@ -28490,7 +28532,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Hunter_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Hunter_Pants.png?4d7e87",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1853",
@@ -37108,7 +37152,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pink_Dungeon_Sofa",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Dungeon_Sofa.png?e0d8d4",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "2405",
@@ -37417,7 +37463,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Frog_Leg",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Frog_Leg.png?2653d0",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "2424",
@@ -37427,7 +37475,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Anchor",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Anchor.png?2de7cf",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "2425",
@@ -37443,7 +37493,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cooked_Fish.png?a5fb1a",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -37460,7 +37511,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cooked_Shrimp.png?67bb88",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -37476,7 +37528,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ]
   },
   {
@@ -37767,7 +37820,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Batfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Batfish.png?86a17e",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2451",
@@ -37777,7 +37832,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bumblebee_Tuna",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bumblebee_Tuna.png?d8eb17",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2452",
@@ -37787,7 +37844,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Catfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Catfish.png?3b46fb",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2453",
@@ -37797,7 +37856,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloudfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cloudfish.png?ead545",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2454",
@@ -37807,7 +37868,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cursedfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cursedfish.png?e7874f",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2455",
@@ -37817,7 +37880,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dirtfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dirtfish.png?b4a976",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2456",
@@ -37827,7 +37892,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dynamite_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dynamite_Fish.png?552274",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2457",
@@ -37837,7 +37904,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Plankton",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eater_of_Plankton.png?9778ec",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2458",
@@ -37847,7 +37916,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fallen_Starfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fallen_Starfish.png?3c7756",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2459",
@@ -37857,7 +37928,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Fish_of_Cthulhu",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Fish_of_Cthulhu.png?4ea73d",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2460",
@@ -37867,7 +37940,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fishotron",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fishotron.png?a485dd",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2461",
@@ -37877,7 +37952,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Harpyfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Harpyfish.png?5f5123",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2462",
@@ -37887,7 +37964,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hungerfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hungerfish.png?ddfc33",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2463",
@@ -37897,7 +37976,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ichorfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ichorfish.png?a8bd8e",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2464",
@@ -37907,7 +37988,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Jewelfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Jewelfish.png?abb9df",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2465",
@@ -37917,7 +38000,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mirage_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mirage_Fish.png?c39b3e",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2466",
@@ -37927,7 +38012,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mutant_Flinxfin",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mutant_Flinxfin.png?c9ce0f",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2467",
@@ -37937,7 +38024,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pengfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pengfish.png?f4e868",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2468",
@@ -37947,7 +38036,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pixiefish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pixiefish.png?dc2371",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2469",
@@ -37957,7 +38048,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spiderfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Spiderfish.png?b7d8e3",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2470",
@@ -37967,7 +38060,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tundra_Trout",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tundra_Trout.png?415af6",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2471",
@@ -37977,7 +38072,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Unicorn_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Unicorn_Fish.png?25113f",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2472",
@@ -37987,7 +38084,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Guide_Voodoo_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Guide_Voodoo_Fish.png?36c4ea",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2473",
@@ -37997,7 +38096,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wyverntail",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wyverntail.png?53d584",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2474",
@@ -38007,7 +38108,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Zombie_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Zombie_Fish.png?26d0ff",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2475",
@@ -38017,7 +38120,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Amanita_Fungifin",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Amanita_Fungifin.png?d7d241",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2476",
@@ -38027,7 +38132,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Angelfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Angelfish.png?73e936",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2477",
@@ -38037,7 +38144,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bloody_Manowar",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bloody_Manowar.png?7472c9",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2478",
@@ -38047,7 +38156,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bonefish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bonefish.png?f801ca",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2479",
@@ -38057,7 +38168,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bunnyfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bunnyfish.png?bdf197",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2480",
@@ -38067,7 +38180,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cap'n_Tunabeard",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cap%27n_Tunabeard.png?abfc2e",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2481",
@@ -38077,7 +38192,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Clownfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Clownfish.png?58c180",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2482",
@@ -38087,7 +38204,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Demonic_Hellfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Demonic_Hellfish.png?1cbc6d",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2483",
@@ -38097,7 +38216,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Derpfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Derpfish.png?267e3e",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2484",
@@ -38106,7 +38227,9 @@
     "name_es": "Fishron",
     "wiki_url": "https://terraria.wiki.gg/wiki/Fishron",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2485",
@@ -38117,7 +38240,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Infected_Scabbardfish.png?ebcfa8",
     "station_ids": [
-      "33"
+      "33",
+      "quest"
     ]
   },
   {
@@ -38128,7 +38252,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mudfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mudfish.png?36f1c5",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2487",
@@ -38138,7 +38264,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slimefish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slimefish.png?34b9d3",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "2488",
@@ -38149,7 +38277,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tropical_Barracuda.png?7ceb26",
     "station_ids": [
-      "33"
+      "33",
+      "quest"
     ]
   },
   {

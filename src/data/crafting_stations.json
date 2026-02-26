@@ -37,5 +37,7 @@
   { "id": "loot", "name_en": "Boss/Enemy Drop", "name_es": "Botín de Jefe/Enemigo", "image": "https://terraria.wiki.gg/images/Treasure_Bag.png" },
   { "id": "fishing", "name_en": "Fishing", "name_es": "Pesca", "image": "https://terraria.wiki.gg/images/Golden_Fishing_Rod.png" },
   { "id": "merchant_buy", "name_en": "Purchase", "name_es": "Compra a NPC", "image": "https://terraria.wiki.gg/images/Gold_Coin.png" },
-  { "id": "seasonal", "name_en": "Seasonal Event", "name_es": "Evento Estacional", "image": "https://terraria.wiki.gg/images/Present.png" }
+  { "id": "seasonal", "name_en": "Seasonal Event", "name_es": "Evento Estacional", "image": "https://terraria.wiki.gg/images/Present.png" },
+  { "id": "quest", "name_en": "Quest Reward", "name_es": "Recompensa de Misión", "image": "https://terraria.wiki.gg/images/Angler_Tackle_Bag.png" },
+  { "id": "exploration", "name_en": "Exploration", "name_es": "Exploración/Cofres", "image": "https://terraria.wiki.gg/images/Chest.png" }
 ]
