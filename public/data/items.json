@@ -5725,7 +5725,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Key.png?214c58",
     "station_ids": [
-      "345"
+      "345",
+      "exploration"
     ]
   },
   {
@@ -5746,7 +5747,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shadow_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shadow_Key.png?60e873",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "330",
@@ -24736,7 +24739,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Jungle_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Jungle_Key.png?8a2e62",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1534",
@@ -24746,7 +24751,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Corruption_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Corruption_Key.png?aa65ee",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1535",
@@ -24756,7 +24763,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crimson_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Crimson_Key.png?e7d888",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1536",
@@ -24766,7 +24775,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hallowed_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hallowed_Key.png?aac7ac",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1537",
@@ -24776,7 +24787,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Frozen_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Frozen_Key.png?a5a760",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1538",
@@ -27650,7 +27663,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Goodie_Bag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Goodie_Bag.png?a97a50",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1775",
@@ -28835,7 +28850,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Present",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Present.png?df66fe",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1870",
@@ -35952,7 +35969,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Crate.png?2b9031",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -35969,7 +35987,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Iron_Crate.png?1f3347",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -35986,7 +36005,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Crate.png?fa5f56",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -35997,7 +36017,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Old_Shoe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Old_Shoe.png?52e4e0",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2338",
@@ -36007,7 +36029,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Seaweed",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Seaweed.png?285892",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2339",
@@ -36017,7 +36041,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tin_Can",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tin_Can.png?3ded55",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2340",
@@ -36037,7 +36063,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Minecart_Track.png?1890fb",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -36048,7 +36075,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Reaver_Shark",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Reaver_Shark.png?fe54b5",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2342",
@@ -36058,7 +36087,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sawtooth_Shark",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sawtooth_Shark.png?211965",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "2343",
@@ -51211,7 +51242,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(King_Slime)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28King_Slime%29.png?8aef68",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3319",
@@ -51221,7 +51254,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Eye_of_Cthulhu)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Eye_of_Cthulhu%29.png?942fdf",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3320",
@@ -51231,7 +51266,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Eater_of_Worlds)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Eater_of_Worlds%29.png?99dc3d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3321",
@@ -51241,7 +51278,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Brain_of_Cthulhu)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Brain_of_Cthulhu%29.png?10937b",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3322",
@@ -51251,7 +51290,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Queen_Bee)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Queen_Bee%29.png?f6e41c",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3323",
@@ -51261,7 +51302,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Skeletron)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Skeletron%29.png?d90318",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3324",
@@ -51271,7 +51314,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Wall_of_Flesh)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Wall_of_Flesh%29.png?1ae7e3",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3325",
@@ -51281,7 +51326,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(The_Destroyer)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28The_Destroyer%29.png?9faff2",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3326",
@@ -51291,7 +51338,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(The_Twins)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28The_Twins%29.png?8c3c98",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3327",
@@ -51301,7 +51350,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Skeletron_Prime)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Skeletron_Prime%29.png?a4ea45",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3328",
@@ -51311,7 +51362,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Plantera)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Plantera%29.png?9967b0",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3329",
@@ -51321,7 +51374,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Golem)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Golem%29.png?2268e3",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3330",
@@ -51331,7 +51386,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Duke_Fishron)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Duke_Fishron%29.png?a8c4f3",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3332",
@@ -51341,7 +51398,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Moon_Lord)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Moon_Lord%29.png?85e35b",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3333",
@@ -54820,7 +54879,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Squirrel_Cage.png?d9531f",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -59165,7 +59225,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Betsy)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Betsy%29.png?320026",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3863",
@@ -67101,7 +67163,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Purple_Moss.png?22fbb5",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -67872,7 +67935,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frozen_Crate.png?cec555",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -67899,7 +67963,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Oasis_Crate.png?e5c694",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -67910,7 +67975,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mirage_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mirage_Crate.png?508019",
-    "station_ids": []
+    "station_ids": [
+      "fishing"
+    ]
   },
   {
     "id": "4409",
@@ -72401,7 +72468,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Desert_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Desert_Key.png?2a46ba",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4715",
@@ -73142,7 +73211,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Empress_of_Light)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/TB_Empress_of_Light.png?5377ad",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4783",
@@ -77506,7 +77577,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Deerclops_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Deerclops_Trophy.png?5f65ca",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "5109",

@@ -60,6 +60,12 @@ const Header: React.FC<HeaderProps> = ({ lang, setLang, view, setView, resetSele
         >
           {lang === 'es' ? 'Enemigos' : 'Enemies'}
         </button>
+        <button 
+          className={`nav-link ${view === 'shimmer' ? 'active' : ''}`}
+          onClick={() => setView('shimmer')}
+        >
+          {lang === 'es' ? 'Fulgor' : 'Shimmer'}
+        </button>
       </nav>
 
       <h1 onClick={resetSelections}>TIW: Terraria Iterative Wiki</h1>

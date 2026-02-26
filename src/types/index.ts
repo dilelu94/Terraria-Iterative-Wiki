@@ -116,5 +116,5 @@ export interface CraftingStation {
   image: string;
 }
 
-export type ViewType = 'items' | 'enemies' | 'npcs' | 'bosses' | 'event_bosses' | 'mimics';
+export type ViewType = 'items' | 'enemies' | 'npcs' | 'bosses' | 'event_bosses' | 'mimics' | 'shimmer';
 export type Language = 'es' | 'en';

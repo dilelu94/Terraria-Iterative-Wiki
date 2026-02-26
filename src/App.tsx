@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { useData } from './hooks/useData';
-import { Item, Enemy, NPC, Boss, EventBoss, Mimic, Language, ViewType } from './types';
+import { Item, Enemy, NPC, Boss, EventBoss, Mimic, CraftingStation, Language, ViewType } from './types';
 import { calculateTotalMaterials } from './utils/crafting';
 import Header from './components/Header';
 import SearchFilters from './components/SearchFilters';
@@ -195,9 +195,12 @@ function App() {
   }, [searchTerm, selectedCategory, selectedBiome, selectedTime]);
 
   const categories = useMemo(() => {
+    if (view === 'shimmer') {
+      return ['All', 'Unique', 'Others'];
+    }
     const cats = Array.from(new Set(items.map(i => i.category))).sort();
     return ['All', ...cats];
-  }, [items]);
+  }, [items, view]);
 
   const enemyBiomes = useMemo(() => {
     const biomes = Array.from(new Set(enemies.map(e => e.biome_en))).filter(b => b && b.length > 0).sort();
@@ -238,14 +241,21 @@ function App() {
 
   const filteredResults = useMemo(() => {
     let result: (Item | Enemy | NPC | Boss | EventBoss | Mimic)[] = [];
-    if (view === 'items') result = items;
+    if (view === 'items' || view === 'shimmer') result = items;
     else if (view === 'enemies') result = enemies;
     else if (view === 'npcs') result = npcs;
     else if (view === 'bosses') result = bosses;
     else if (view === 'event_bosses') result = eventBosses;
     else if (view === 'mimics') result = mimics;
     
-    if (view === 'items' && selectedCategory !== 'All') {
+    if (view === 'shimmer') {
+      result = (result as Item[]).filter(item => item.station_ids && item.station_ids.includes('shimmer'));
+      if (selectedCategory === 'Unique') {
+        result = (result as Item[]).filter(item => item.station_ids!.length === 1 && !item.category.includes('Ore'));
+      } else if (selectedCategory === 'Others') {
+        result = (result as Item[]).filter(item => item.station_ids!.length > 1 || item.category.includes('Ore'));
+      }
+    } else if (view === 'items' && selectedCategory !== 'All') {
       result = (result as Item[]).filter(item => item.category === selectedCategory);
     }
 
@@ -261,7 +271,6 @@ function App() {
     if (searchTerm.length >= 2) {
       const normalize = (str: string) => 
         str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-      
       const term = normalize(searchTerm);
       
       result = (result as any[]).filter(entity => 
@@ -331,11 +340,11 @@ function App() {
           />
 
           <ItemList 
-            view={view}
+            view={view === 'shimmer' ? 'items' : view}
             results={paginatedResults}
             lang={lang}
             onSelect={(entity) => {
-              if (view === 'items') selectItem(entity);
+              if (view === 'items' || view === 'shimmer') selectItem(entity);
               else if (view === 'enemies') selectEnemy(entity);
               else if (view === 'npcs') selectNPC(entity);
               else if (view === 'bosses') selectBoss(entity);
