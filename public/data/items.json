@@ -1176,7 +1176,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado con llave (Locked Gold Chest - Mazmorra)"
+    "origin_info": "Cofre dorado con llave (Mazmorra)"
   },
   {
     "id": "66",
@@ -1770,7 +1770,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flintlock_Pistol.png",
     "station_ids": [
-      "merchant_buy"
+      "merchant_buy",
+      "exploration"
     ],
     "origin_info": "Botín: Orbe sombrío (Corrupción)"
   },
@@ -2202,7 +2203,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dirt_Rod",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dirt_Rod.png",
-    "station_ids": [],
+    "station_ids": [
+      "exploration"
+    ],
     "origin_info": "Botín: Orbe sombrío (Corrupción)"
   },
   {
@@ -2214,7 +2217,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Orb.png",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "exploration"
     ],
     "origin_info": "Cofre de pirámide (Desierto)"
   },
@@ -3000,8 +3004,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Aqua_Scepter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aqua_Scepter.png",
-    "station_ids": [],
-    "origin_info": "Cofre celeste (Skyware Chest)"
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre celeste (Islas flotantes)"
   },
   {
     "id": "158",
@@ -3011,7 +3017,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lucky_Horseshoe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lucky_Horseshoe.png",
-    "station_ids": [],
+    "station_ids": [
+      "exploration"
+    ],
     "origin_info": "Cofre celeste (Islas flotantes)"
   },
   {
@@ -3029,7 +3037,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shiny_Red_Balloon.png",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "exploration"
     ],
     "origin_info": "Cofre celeste (Islas flotantes)"
   },
@@ -8973,7 +8982,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Neptune's_Shell.png",
     "station_ids": [
-      "loot"
+      "loot",
+      "exploration"
     ],
     "origin_info": "Botín: Criatura de las profundidades (Eclipse Solar)"
   },
@@ -15230,9 +15240,10 @@
     "station_ids": [
       "shimmer",
       "398",
-      "loot"
+      "loot",
+      "exploration"
     ],
-    "origin_info": "Botín: Medusa (Jellyfish)"
+    "origin_info": "Botín: Medusa (Subterráneo)"
   },
   {
     "id": "861",
@@ -15277,9 +15288,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Veil.png",
     "station_ids": [
       "hand",
-      "398"
+      "398",
+      "exploration"
     ],
-    "origin_info": "Cofre helado (Nieve)"
+    "origin_info": "Cofre helado (Bioma de nieve)"
   },
   {
     "id": "863",
@@ -16432,8 +16444,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Leaf_Wand",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leaf_Wand.png",
-    "station_ids": [],
-    "origin_info": "Botín: Cofre falso (Mimic)"
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Botín: Mímico (Hardmode)"
   },
   {
     "id": "934",
@@ -16525,9 +16539,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin's_Shield.png",
     "station_ids": [
-      "loot"
+      "loot",
+      "exploration"
     ],
-    "origin_info": "Botín: Paladín (Mazmorra post-Plantera)"
+    "origin_info": "Botín: Paladín (Mazmorra Post-Plantera)"
   },
   {
     "id": "939",
@@ -21884,7 +21899,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flower_Pow",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flower_Pow.png",
-    "station_ids": [],
+    "station_ids": [
+      "exploration"
+    ],
     "origin_info": "Botín: Esqueleto francotirador (Mazmorra)"
   },
   {
@@ -21964,7 +21981,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Magnet_Sphere",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magnet_Sphere.png",
-    "station_ids": [],
+    "station_ids": [
+      "exploration"
+    ],
     "origin_info": "Botín: Corazón carmesí (Carmesí)"
   },
   {
@@ -22775,7 +22794,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Snowball_Cannon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Snowball_Cannon.png",
-    "station_ids": [],
+    "station_ids": [
+      "exploration"
+    ],
     "origin_info": "Botín: Trampero enfadado (Selva Hardmode)"
   },
   {
@@ -22799,7 +22820,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Quiver.png",
     "station_ids": [
       "398",
-      "loot"
+      "loot",
+      "exploration"
     ],
     "origin_info": "Botín: Tortuga de hielo (Nieve Hardmode)"
   },
@@ -29596,9 +29618,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Heart_Lantern.png",
     "station_ids": [
-      "hand"
+      "hand",
+      "exploration"
     ],
-    "origin_info": "Botín: Cofre falso (Mimic)"
+    "origin_info": "Botín: Mímico (Hardmode)"
   },
   {
     "id": "1860",
@@ -33488,9 +33511,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstone_Slab.png",
     "station_ids": [
       "hand",
-      "loot"
+      "loot",
+      "exploration"
     ],
-    "origin_info": "Botín: Gólem"
+    "origin_info": "Botín: Gólem (Material de armadura)"
   },
   {
     "id": "2121",
@@ -37675,7 +37699,7 @@
     "id": "2361",
     "category": "Armor",
     "name_en": "Bee Headgear",
-    "name_es": "Tocado de abeja",
+    "name_es": "Camiseta de minero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bee_Headgear",
     "recipes": [
       {
@@ -37685,14 +37709,16 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bee_Headgear.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Botín: No-muerto minero"
   },
   {
     "id": "2362",
     "category": "Armor",
     "name_en": "Bee Breastplate",
-    "name_es": "Coraza de abeja",
+    "name_es": "Pantalones de minero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bee_Breastplate",
     "recipes": [
       {
@@ -37702,8 +37728,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bee_Breastplate.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Botín: No-muerto minero"
   },
   {
     "id": "2363",
