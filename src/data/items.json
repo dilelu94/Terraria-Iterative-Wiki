@@ -23090,7 +23090,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eye_of_Cthulhu_Trophy.png?cb7db0",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Ojo de Cthulhu (10%)"
   },
   {
     "id": "1361",
@@ -23100,7 +23103,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eater_of_Worlds_Trophy.png?bb8765",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Devoramundos (10%)"
   },
   {
     "id": "1362",
@@ -23110,7 +23116,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Brain_of_Cthulhu_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Brain_of_Cthulhu_Trophy.png?466dcc",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cerebro de Cthulhu (10%)"
   },
   {
     "id": "1363",
@@ -23130,7 +23139,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Bee_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Queen_Bee_Trophy.png?2fe4c0",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Esqueletrón (10%)"
   },
   {
     "id": "1365",
@@ -23140,7 +23152,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wall_of_Flesh_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wall_of_Flesh_Trophy.png?2237a5",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Reina Abeja (10%)"
   },
   {
     "id": "1366",
@@ -23150,7 +23165,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Destroyer_Trophy.png?89d02a",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Muro de carne (10%)"
   },
   {
     "id": "1367",
@@ -23160,7 +23178,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Prime_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Skeletron_Prime_Trophy.png?bc0168",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "El Destructor (10%)"
   },
   {
     "id": "1368",
@@ -23170,7 +23191,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Retinazer_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Retinazer_Trophy.png?1dd41e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Esqueletrón Prime (10%)"
   },
   {
     "id": "1369",
@@ -23180,7 +23204,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spazmatism_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Spazmatism_Trophy.png?549ca6",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Los Gemelos (Retinazer) (10%)"
   },
   {
     "id": "1370",
@@ -23190,7 +23217,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Plantera_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Plantera_Trophy.png?98fd6a",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Los Gemelos (Spazmatism) (10%)"
   },
   {
     "id": "1371",
@@ -23200,7 +23230,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golem_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golem_Trophy.png?ff155d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Plantera (10%)"
   },
   {
     "id": "1372",
@@ -23210,7 +23243,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blood_Moon_Rising",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blood_Moon_Rising.png?84c553",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Gólem (10%)"
   },
   {
     "id": "1373",
@@ -30468,7 +30504,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Life_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Life_Hair_Dye.png?ab02a9",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1978",
@@ -30478,7 +30517,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mana_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mana_Hair_Dye.png?567172",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1979",
@@ -30488,7 +30530,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Depth_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Depth_Hair_Dye.png?109694",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1980",
@@ -30498,7 +30543,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Money_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Money_Hair_Dye.png?562d04",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1981",
@@ -30508,7 +30556,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Time_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Time_Hair_Dye.png?6d7fe2",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1982",
@@ -30518,7 +30569,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Team_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Team_Hair_Dye.png?4f3322",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1983",
@@ -30528,7 +30582,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Biome_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Biome_Hair_Dye.png?dd5d0a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1984",
@@ -30538,7 +30595,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Party_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Party_Hair_Dye.png?2faa1a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1985",
@@ -30548,7 +30608,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Rainbow_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rainbow_Hair_Dye.png?d0ac1c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1986",
@@ -30558,7 +30621,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Speed_Hair_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Speed_Hair_Dye.png?553752",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Estilista (Stylist)"
   },
   {
     "id": "1987",
@@ -32674,8 +32740,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Skyware_Candelabra.png?ed6c3d",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Rey Slime (14.29%)"
   },
   {
     "id": "2103",
@@ -32706,7 +32774,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Brain_of_Cthulhu_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Brain_of_Cthulhu_Mask.png?7efa37",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Ojo de Cthulhu (14.29%)"
   },
   {
     "id": "2105",
@@ -32716,7 +32787,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wall_of_Flesh_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wall_of_Flesh_Mask.png?d7d8bc",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cerebro de Cthulhu (14.29%)"
   },
   {
     "id": "2106",
@@ -32736,7 +32810,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Prime_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Skeletron_Prime_Mask.png?bc2341",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Esqueletrón (14.29%)"
   },
   {
     "id": "2108",
@@ -32746,7 +32823,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Bee_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Queen_Bee_Mask.png?c4b7a5",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Reina Abeja (14.29%)"
   },
   {
     "id": "2109",
@@ -32756,7 +32836,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Plantera_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Plantera_Mask.png?3b4722",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Esqueletrón Prime (14.29%)"
   },
   {
     "id": "2110",
@@ -32766,7 +32849,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golem_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golem_Mask.png?a74017",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Los Gemelos (14.29%)"
   },
   {
     "id": "2111",
@@ -32776,7 +32862,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eater_of_Worlds_Mask.png?26ec24",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Devoramundos (14.29%)"
   },
   {
     "id": "2112",
@@ -32786,7 +32875,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eye_of_Cthulhu_Mask.png?829428",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Muro de carne (14.29%)"
   },
   {
     "id": "2113",
@@ -32796,7 +32888,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Destroyer_Mask.png?ac42c6",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "El Destructor (14.29%)"
   },
   {
     "id": "2114",
@@ -32816,8 +32911,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blacksmith_Rack.png?628c4e",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Plantera (14.29%)"
   },
   {
     "id": "2115",
@@ -32837,8 +32934,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Carpentry_Rack.png?d69287",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Gólem (14.29%)"
   },
   {
     "id": "2116",
@@ -40225,8 +40324,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Boreal_Wood_Clock.png",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Rey Slime (10%)"
   },
   {
     "id": "2561",
@@ -40756,8 +40857,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Duke_Fishron_Mask.png?987198",
     "station_ids": [
-      "glass_kiln"
-    ]
+      "glass_kiln",
+      "loot"
+    ],
+    "origin_info": "Duque Fishron (14.29%)"
   },
   {
     "id": "2589",
@@ -40768,8 +40871,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Duke_Fishron_Trophy.png?4baf4b",
     "station_ids": [
-      "glass_kiln"
-    ]
+      "glass_kiln",
+      "loot"
+    ],
+    "origin_info": "Duque Fishron (10%)"
   },
   {
     "id": "2590",
@@ -52428,7 +52533,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lunatic_Cultist_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lunatic_Cultist_Trophy.png?1dfadd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cultista lunático (10%)"
   },
   {
     "id": "3358",
@@ -52481,7 +52589,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fallen_Tuxedo_Shirt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fallen_Tuxedo_Shirt.png?7df4cb",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cultista lunático (14.29%)"
   },
   {
     "id": "3363",
@@ -52491,7 +52602,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fallen_Tuxedo_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fallen_Tuxedo_Pants.png?66ef58",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Señor de la Luna (14.29%)"
   },
   {
     "id": "3364",
@@ -56024,7 +56138,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Moon_Lord_Trophy.png?d54a26",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Señor de la Luna (10%)"
   },
   {
     "id": "3596",
@@ -74114,7 +74229,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lightning_Carrot",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lightning_Carrot.png?219336",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Emperatriz de la Luz (10%)"
   },
   {
     "id": "4778",
@@ -74124,7 +74242,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Prismatic_Dye",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Prismatic_Dye.png?69cffd",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Emperatriz de la Luz (14.29%)"
   },
   {
     "id": "4779",
@@ -76549,8 +76670,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Queen_Slime_Trophy.png?4d2837",
     "station_ids": [
-      "heavy_workbench"
-    ]
+      "heavy_workbench",
+      "loot"
+    ],
+    "origin_info": "Reina Slime (10%)"
   },
   {
     "id": "4959",
@@ -76561,8 +76684,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Queen_Slime_Mask.png?52ebbe",
     "station_ids": [
-      "heavy_workbench"
-    ]
+      "heavy_workbench",
+      "loot"
+    ],
+    "origin_info": "Reina Slime (14.29%)"
   },
   {
     "id": "4960",
@@ -78249,7 +78374,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Painting_of_a_Lass",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Painting_of_a_Lass.png?9ee5cb",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Ciervíclope (10%)"
   },
   {
     "id": "5087",
@@ -78496,8 +78624,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gentleman%27s_Beard.png?8112dc",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Ciervíclope (14.29%)"
   },
   {
     "id": "5105",
