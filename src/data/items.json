@@ -28,10 +28,18 @@
       {
         "name_en": "Layered Dirt Wall",
         "amount": 4
+      },
+      {
+        "name_en": "Any Pre-Hardmode Ore",
+        "amount": 1
+      },
+      {
+        "name_en": "Stone Block",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Dirt_Block.png?bc57a6",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3",
@@ -173,10 +181,14 @@
       {
         "name_en": "Lead Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Lead Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Iron_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "12",
@@ -188,10 +200,14 @@
       {
         "name_en": "Tin Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Tin Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Copper_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "13",
@@ -203,10 +219,14 @@
       {
         "name_en": "Platinum Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Platinum Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Gold_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "14",
@@ -218,10 +238,14 @@
       {
         "name_en": "Tungsten Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Tungsten Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Silver_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "15",
@@ -237,10 +261,14 @@
       {
         "name_en": "Copper Bar",
         "amount": 10
+      },
+      {
+        "name_en": "Balloon Pufferfish",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Copper_Watch.png?b0bc62",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "16",
@@ -1895,10 +1923,14 @@
       {
         "name_en": "Meteorite Bar",
         "amount": 1
+      },
+      {
+        "name_en": "Shoe Spikes",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hook.png?11c249",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "119",
@@ -5580,10 +5612,14 @@
       {
         "name_en": "Palladium Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Palladium Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Cobalt_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "365",
@@ -5595,10 +5631,14 @@
       {
         "name_en": "Orichalcum Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Orichalcum Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Mythril_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "366",
@@ -5610,10 +5650,14 @@
       {
         "name_en": "Titanium Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Titanium Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Adamantite_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "367",
@@ -7353,10 +7397,18 @@
       {
         "name_en": "Ranger Emblem",
         "amount": 1
+      },
+      {
+        "name_en": "Summoner Emblem",
+        "amount": 1
+      },
+      {
+        "name_en": "Ranger Emblem",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sorcerer_Emblem.png?ed690e",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "490",
@@ -7368,10 +7420,14 @@
       {
         "name_en": "Summoner Emblem",
         "amount": 1
+      },
+      {
+        "name_en": "Warrior Emblem",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Warrior_Emblem.png?9d5612",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "491",
@@ -10454,10 +10510,14 @@
       {
         "name_en": "Copper Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Iron Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Tin_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "700",
@@ -10469,10 +10529,14 @@
       {
         "name_en": "Iron Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Silver Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Lead_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "701",
@@ -10484,10 +10548,14 @@
       {
         "name_en": "Silver Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Gold Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Tungsten_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "702",
@@ -10499,10 +10567,14 @@
       {
         "name_en": "Gold Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Cobalt Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Platinum_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "703",
@@ -12744,10 +12816,18 @@
       {
         "name_en": "Gold Ring",
         "amount": 1
+      },
+      {
+        "name_en": "Gold Ring",
+        "amount": 1
+      },
+      {
+        "name_en": "Discount Card",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Discount_Card.png?56c77a",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "855",
@@ -12770,8 +12850,14 @@
     "name_en": "Unicorn on a Stick",
     "name_es": "Unicornio en un palo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Unicorn_on_a_Stick",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/es/images/Unicorn_on_a_Stick.png?a2c07a"
+    "recipes": [
+      {
+        "name_en": "Pharaoh's Robe",
+        "amount": 1
+      }
+    ],
+    "image_url": "https://terraria.wiki.gg/es/images/Unicorn_on_a_Stick.png?a2c07a",
+    "station_id": "shimmer"
   },
   {
     "id": "857",
@@ -12787,10 +12873,14 @@
       {
         "name_en": "Forbidden Fragment",
         "amount": 1
+      },
+      {
+        "name_en": "Pharaoh's Mask",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandstorm_in_a_Bottle.png?917537",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "858",
@@ -12834,10 +12924,14 @@
       {
         "name_en": "Philosopher's Stone",
         "amount": 1
+      },
+      {
+        "name_en": "Magma Stone",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Charm_of_Myths.png?9deca2",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "861",
@@ -13106,10 +13200,14 @@
       {
         "name_en": "Ice Brick",
         "amount": 1
+      },
+      {
+        "name_en": "Megaphone",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Brick_Wall.png?e0d2ba",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "885",
@@ -13121,10 +13219,18 @@
       {
         "name_en": "Bezoar",
         "amount": 1
+      },
+      {
+        "name_en": "Bezoar",
+        "amount": 1
+      },
+      {
+        "name_en": "Vitamins",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Adhesive_Bandage.png?1d50a3",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "886",
@@ -13136,10 +13242,14 @@
       {
         "name_en": "Vitamins",
         "amount": 1
+      },
+      {
+        "name_en": "Armor Polish",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Armor_Polish.png?133820",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "887",
@@ -13151,9 +13261,13 @@
       {
         "name_en": "Adhesive Bandage",
         "amount": 1
+      },
+      {
+        "name_en": "Adhesive Bandage",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "888",
@@ -13165,10 +13279,14 @@
       {
         "name_en": "Pocket Mirror",
         "amount": 1
+      },
+      {
+        "name_en": "Pocket Mirror",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blindfold.png?659d31",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "889",
@@ -13180,10 +13298,14 @@
       {
         "name_en": "Trifold Map",
         "amount": 1
+      },
+      {
+        "name_en": "Trifold Map",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fast_Clock.png?e48b96",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "890",
@@ -13195,10 +13317,18 @@
       {
         "name_en": "Nazar",
         "amount": 1
+      },
+      {
+        "name_en": "Fast Clock",
+        "amount": 1
+      },
+      {
+        "name_en": "Nazar",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Megaphone.png?159ace",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "891",
@@ -14009,10 +14139,14 @@
       {
         "name_en": "Luminite",
         "amount": 1
+      },
+      {
+        "name_en": "Luminite",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Chlorophyte_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "948",
@@ -14395,8 +14529,14 @@
     "name_en": "Shoe Spikes",
     "name_es": "Zapatos de púa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shoe_Spikes",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/es/images/Shoe_Spikes.png?4dde27"
+    "recipes": [
+      {
+        "name_en": "Climbing Claws",
+        "amount": 1
+      }
+    ],
+    "image_url": "https://terraria.wiki.gg/es/images/Shoe_Spikes.png?4dde27",
+    "station_id": "shimmer"
   },
   {
     "id": "976",
@@ -16426,10 +16566,14 @@
       {
         "name_en": "Cobalt Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Mythril Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Palladium_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "1105",
@@ -16441,10 +16585,14 @@
       {
         "name_en": "Mythril Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Adamantite Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Orichalcum_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "1106",
@@ -16456,10 +16604,14 @@
       {
         "name_en": "Adamantite Ore",
         "amount": 1
+      },
+      {
+        "name_en": "Chlorophyte Ore",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Titanium_Ore.png",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "1107",
@@ -19274,10 +19426,14 @@
       {
         "name_en": "Lava Charm",
         "amount": 1
+      },
+      {
+        "name_en": "Lava Charm",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Magma_Stone.png?8fc461",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "1323",
@@ -32314,10 +32470,14 @@
       {
         "name_en": "Tackle Box",
         "amount": 1
+      },
+      {
+        "name_en": "Tackle Box",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/High_Test_Fishing_Line.png?684d7a",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "2374",
@@ -32329,10 +32489,14 @@
       {
         "name_en": "High Test Fishing Line",
         "amount": 1
+      },
+      {
+        "name_en": "High Test Fishing Line",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Angler_Earring.png?b613a4",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "2375",
@@ -32344,10 +32508,14 @@
       {
         "name_en": "Angler Earring",
         "amount": 1
+      },
+      {
+        "name_en": "Angler Earring",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tackle_Box.png?71db0d",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "2376",
@@ -40788,10 +40956,14 @@
       {
         "name_en": "Sorcerer Emblem",
         "amount": 1
+      },
+      {
+        "name_en": "Sorcerer Emblem",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Summoner_Emblem.png?f80298",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "2999",
@@ -40973,8 +41145,14 @@
     "name_en": "Putrid Scent",
     "name_es": "Aroma putrefacto",
     "wiki_url": "https://terraria.wiki.gg/wiki/Putrid_Scent",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/es/images/Putrid_Scent.png?1f32d0"
+    "recipes": [
+      {
+        "name_en": "Flesh Knuckles",
+        "amount": 1
+      }
+    ],
+    "image_url": "https://terraria.wiki.gg/es/images/Putrid_Scent.png?1f32d0",
+    "station_id": "shimmer"
   },
   {
     "id": "3016",
@@ -40982,8 +41160,14 @@
     "name_en": "Flesh Knuckles",
     "name_es": "Nudillos de carne",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flesh_Knuckles",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/es/images/Flesh_Knuckles.png?dfa3d5"
+    "recipes": [
+      {
+        "name_en": "Putrid Scent",
+        "amount": 1
+      }
+    ],
+    "image_url": "https://terraria.wiki.gg/es/images/Flesh_Knuckles.png?dfa3d5",
+    "station_id": "shimmer"
   },
   {
     "id": "3017",
@@ -41145,10 +41329,14 @@
       {
         "name_en": "Lucky Coin",
         "amount": 1
+      },
+      {
+        "name_en": "Lucky Coin",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Ring.png?5ab230",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3034",
@@ -41221,10 +41409,14 @@
       {
         "name_en": "Sextant",
         "amount": 1
+      },
+      {
+        "name_en": "Sextant",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Weather_Radio.png?a6f68d",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3038",
@@ -41988,8 +42180,14 @@
     "name_en": "Tally Counter",
     "name_es": "Contador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tally_Counter",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/es/images/Tally_Counter.png?4765fb"
+    "recipes": [
+      {
+        "name_en": "Weather Radio",
+        "amount": 1
+      }
+    ],
+    "image_url": "https://terraria.wiki.gg/es/images/Tally_Counter.png?4765fb",
+    "station_id": "shimmer"
   },
   {
     "id": "3096",
@@ -42001,10 +42199,14 @@
       {
         "name_en": "Fisherman's Pocket Guide",
         "amount": 1
+      },
+      {
+        "name_en": "Fisherman's Pocket Guide",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sextant.png?3f702d",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3097",
@@ -51083,10 +51285,14 @@
       {
         "name_en": "Sand Block",
         "amount": 1
+      },
+      {
+        "name_en": "Blindfold",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandfall_Block.png?7b3113",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3755",
@@ -69062,9 +69268,13 @@
       {
         "name_en": "Clentaminator",
         "amount": 1
+      },
+      {
+        "name_en": "Clentaminator",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5135",
@@ -71012,9 +71222,13 @@
       {
         "name_en": "Ash Wood",
         "amount": 10
+      },
+      {
+        "name_en": "Any Torch",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5283",
@@ -71026,9 +71240,13 @@
       {
         "name_en": "Ash Wood",
         "amount": 8
+      },
+      {
+        "name_en": "Campfire",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5284",
@@ -71040,9 +71258,13 @@
       {
         "name_en": "Ash Wood",
         "amount": 7
+      },
+      {
+        "name_en": "Angel Statue",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5285",
@@ -71386,7 +71608,13 @@
     "name_en": "r/Terraria",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/r/Terraria",
-    "recipes": []
+    "recipes": [
+      {
+        "name_en": "Lucky Clover",
+        "amount": 1
+      }
+    ],
+    "station_id": "shimmer"
   },
   {
     "id": "5309",
@@ -71402,7 +71630,13 @@
     "name_en": "Princess Style",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Princess_Style",
-    "recipes": []
+    "recipes": [
+      {
+        "name_en": "Whoopie Cushion",
+        "amount": 1
+      }
+    ],
+    "station_id": "shimmer"
   },
   {
     "id": "5311",
@@ -71410,7 +71644,13 @@
     "name_en": "Toucan",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Toucan",
-    "recipes": []
+    "recipes": [
+      {
+        "name_en": "Friendly Boulder",
+        "amount": 1
+      }
+    ],
+    "station_id": "shimmer"
   },
   {
     "id": "5312",
@@ -71418,7 +71658,13 @@
     "name_en": "Yellow Cockatiel",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Cockatiel",
-    "recipes": []
+    "recipes": [
+      {
+        "name_en": "Any Pylon",
+        "amount": 1
+      }
+    ],
+    "station_id": "shimmer"
   },
   {
     "id": "5313",
@@ -71596,9 +71842,13 @@
       {
         "name_en": "Any Guide to Environmental Preservation",
         "amount": 1
+      },
+      {
+        "name_en": "Flare",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5324",
@@ -71750,9 +72000,13 @@
       {
         "name_en": "Rod of Discord",
         "amount": 1
+      },
+      {
+        "name_en": "Rod of Discord",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5336",
@@ -71764,9 +72018,17 @@
       {
         "name_en": "Spell Tome",
         "amount": 1
+      },
+      {
+        "name_en": "Spell Tome",
+        "amount": 1
+      },
+      {
+        "name_en": "Wooden Arrow",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5337",
@@ -71778,9 +72040,13 @@
       {
         "name_en": "Life Crystal",
         "amount": 1
+      },
+      {
+        "name_en": "Life Crystal",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5338",
@@ -71792,9 +72058,17 @@
       {
         "name_en": "Life Fruit",
         "amount": 1
+      },
+      {
+        "name_en": "Mana Crystal",
+        "amount": 1
+      },
+      {
+        "name_en": "Life Fruit",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5339",
@@ -71820,9 +72094,17 @@
       {
         "name_en": "Pink Pearl",
         "amount": 1
+      },
+      {
+        "name_en": "Any Fruit",
+        "amount": 1
+      },
+      {
+        "name_en": "Pink Pearl",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5341",
@@ -71834,9 +72116,13 @@
       {
         "name_en": "Gold Worm",
         "amount": 1
+      },
+      {
+        "name_en": "Gold Worm",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5342",
@@ -71862,9 +72148,13 @@
       {
         "name_en": "Peddler's Hat",
         "amount": 1
+      },
+      {
+        "name_en": "Peddler's Hat",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5344",
@@ -72028,9 +72318,13 @@
       {
         "name_en": "Star Cloak",
         "amount": 1
+      },
+      {
+        "name_en": "Star Cloak",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5356",
@@ -72088,7 +72382,13 @@
     "name_en": "Shellphone (Underworld)",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Underworld)",
-    "recipes": []
+    "recipes": [
+      {
+        "name_en": "Slime Gun",
+        "amount": 1
+      }
+    ],
+    "station_id": "shimmer"
   },
   {
     "id": "5362",
@@ -72108,9 +72408,13 @@
       {
         "name_en": "Spider Wall",
         "amount": 1
+      },
+      {
+        "name_en": "Enchanted Sundial",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5364",
@@ -72126,9 +72430,13 @@
       {
         "name_en": "Luminite Bar",
         "amount": 10
+      },
+      {
+        "name_en": "Bottomless Water Bucket",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5365",
@@ -72210,9 +72518,13 @@
       {
         "name_en": "Pink Tiled Wall",
         "amount": 1
+      },
+      {
+        "name_en": "Empty Dropper",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5371",
@@ -72238,9 +72550,13 @@
       {
         "name_en": "Green Slab Wall",
         "amount": 1
+      },
+      {
+        "name_en": "Axe of Regrowth",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5373",
@@ -72252,9 +72568,13 @@
       {
         "name_en": "Green Tiled Wall",
         "amount": 1
+      },
+      {
+        "name_en": "Fertilizer",
+        "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5374",
