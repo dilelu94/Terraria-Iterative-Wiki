@@ -133,13 +133,28 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* 0. Información de Obtención (Prioridad alta para ítems que no se fabrican) */}
-        {item.origin_info && (
-          <div className="recipe-box origin-box">
+        {/* 0. Información de Obtención (Unificada: Drops, Cofres y Crafteo) */}
+        {(item.origin_info || itemStations.length > 0) && (
+          <div className="recipe-box origin-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? '¿Cómo se consigue?' : 'How to get?'}</h3>
-            <div className="origin-info-highlight-v2">
-              <span className="origin-icon">📍</span>
-              <p>{item.origin_info}</p>
+            <div className="origin-info-highlight-v2" style={{ flexDirection: 'column', alignItems: 'flex-start' }}>
+              {item.origin_info && (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: itemStations.length > 0 ? '10px' : '0' }}>
+                  <span className="origin-icon">📍</span>
+                  <p>{item.origin_info}</p>
+                </div>
+              )}
+              {itemStations.map(s => (
+                <div key={s.id} style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+                  <span className="origin-icon">🔨</span>
+                  <p>
+                    <span style={{ color: '#ffd700', fontWeight: 'bold' }}>
+                      {lang === 'es' ? '(Crafteo) ' : '(Crafting) '}
+                    </span>
+                    {s.display_name}
+                  </p>
+                </div>
+              ))}
             </div>
           </div>
         )}
@@ -328,31 +343,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
                   <p className="bonus-text">{item.set_bonus}</p>
                 </div>
               )}
-            </div>
-          </div>
-        )}
-
-        {itemStations.length > 0 && (
-          <div className="recipe-box station-box" style={{ gridColumn: '1 / -1' }}>
-            <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal', 'exploration', 'quest', 'mining', 'farming', 'bug_net', 'tree_shaking', 'recording', 'death'].includes(s.id)) 
-              ? (lang === 'es' ? 'Método de Obtención' : 'Obtaining Method')
-              : (lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:')}</h3>
-            <div className="info-list" style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
-              {itemStations.map(s => (
-                <div key={s.id} className="ing-item no-hover">
-                  {s.image ? (
-                    <img src={s.image} alt={s.name_en} className="ing-icon" />
-                  ) : (
-                    <div className="item-icon-placeholder tiny">🔨</div>
-                  )}
-                  <div style={{ display: 'flex', flexDirection: 'column' }}>
-                    <span className="ing-name" style={{ color: 'var(--accent)' }}>{s.display_name}</span>
-                    {s.id === 'exploration' && item.origin_info && (
-                      <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{item.origin_info}</span>
-                    )}
-                  </div>
-                </div>
-              ))}
             </div>
           </div>
         )}
