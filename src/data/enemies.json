@@ -1141,7 +1141,12 @@
     "biome_en": "Corruption",
     "time_es": "Pre-Hardmode",
     "time_en": "Pre-Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "133",
+        "chance": "100% (Gel rosa)"
+      }
+    ]
   },
   {
     "id": "-3",
@@ -3178,11 +3183,7 @@
     "drops": [
       {
         "item_id": "1326",
-        "chance": "0.2% (Clásico) / 0.25% (Experto)"
-      },
-      {
-        "item_id": "3045",
-        "chance": "0.5% (Clásico) / 0.67% (Experto)"
+        "chance": "0.2% (1 en 500)"
       }
     ]
   },

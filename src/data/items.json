@@ -197,7 +197,7 @@
   },
   {
     "id": "11",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Iron Ore",
     "name_es": "Mineral de hierro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Iron_Ore",
@@ -216,7 +216,7 @@
   },
   {
     "id": "12",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Copper Ore",
     "name_es": "Mineral de cobre",
     "wiki_url": "https://terraria.wiki.gg/wiki/Copper_Ore",
@@ -235,7 +235,7 @@
   },
   {
     "id": "13",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Gold Ore",
     "name_es": "Mineral de oro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gold_Ore",
@@ -254,7 +254,7 @@
   },
   {
     "id": "14",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Silver Ore",
     "name_es": "Mineral de plata",
     "wiki_url": "https://terraria.wiki.gg/wiki/Silver_Ore",
@@ -361,7 +361,7 @@
   },
   {
     "id": "19",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Gold Bar",
     "name_es": "Lingote de oro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gold_Bar",
@@ -374,12 +374,11 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Bar.png",
     "station_ids": [
       "33"
-    ],
-    "origin_info": "Fabricado: Horno (4 Mineral de oro)"
+    ]
   },
   {
     "id": "20",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Copper Bar",
     "name_es": "Lingote de cobre",
     "wiki_url": "https://terraria.wiki.gg/wiki/Copper_Bar",
@@ -392,12 +391,11 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Copper_Bar.png",
     "station_ids": [
       "33"
-    ],
-    "origin_info": "Fabricado: Horno (3 Mineral de cobre)"
+    ]
   },
   {
     "id": "21",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Silver Bar",
     "name_es": "Lingote de plata",
     "wiki_url": "https://terraria.wiki.gg/wiki/Silver_Bar",
@@ -410,12 +408,11 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Bar.png",
     "station_ids": [
       "33"
-    ],
-    "origin_info": "Fabricado: Horno (4 Mineral de plata)"
+    ]
   },
   {
     "id": "22",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Iron Bar",
     "name_es": "Lingote de hierro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Iron_Bar",
@@ -428,8 +425,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Bar.png",
     "station_ids": [
       "33"
-    ],
-    "origin_info": "Fabricado: Horno (3 Mineral de hierro)"
+    ]
   },
   {
     "id": "23",
@@ -514,9 +510,9 @@
   },
   {
     "id": "28",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Lesser Healing Potion",
-    "name_es": "Poción curativa",
+    "name_es": "Poción curativa menor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lesser_Healing_Potion",
     "recipes": [
       {
@@ -525,7 +521,7 @@
       },
       {
         "name_en": "Gel",
-        "amount": 1
+        "amount": 2
       },
       {
         "name_en": "Bottle",
@@ -534,10 +530,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lesser_Healing_Potion.png",
     "station_ids": [
-      "31",
-      "3001"
-    ],
-    "origin_info": "Fabricado: Mesa de alquimia (2 Pociones curativas menores + 1 Champiñón brillante)"
+      "placed_bottle"
+    ]
   },
   {
     "id": "29",
@@ -1696,7 +1690,7 @@
   },
   {
     "id": "97",
-    "category": "Ammunition",
+    "category": "Ammo",
     "name_en": "Musket Ball",
     "name_es": "Bala de mosquete",
     "wiki_url": "https://terraria.wiki.gg/wiki/Musket_Ball",
@@ -1709,16 +1703,16 @@
   },
   {
     "id": "98",
-    "category": "Weapons",
+    "category": "Ranged Weapons",
     "name_en": "Minishark",
-    "name_es": "Minitiburón",
+    "name_es": "Minishark",
     "wiki_url": "https://terraria.wiki.gg/wiki/Minishark",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Minishark.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Traficante de armas (35 Oro)"
+    "origin_info": "Comprado al Traficante de armas (35 Oro)"
   },
   {
     "id": "99",
@@ -3178,9 +3172,9 @@
   },
   {
     "id": "177",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Sapphire",
-    "name_es": "Gafas",
+    "name_es": "Zafiro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sapphire",
     "recipes": [
       {
@@ -3196,7 +3190,7 @@
   },
   {
     "id": "178",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Ruby",
     "name_es": "Rubí",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ruby",
@@ -3213,7 +3207,7 @@
   },
   {
     "id": "179",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Emerald",
     "name_es": "Esmeralda",
     "wiki_url": "https://terraria.wiki.gg/wiki/Emerald",
@@ -3230,7 +3224,7 @@
   },
   {
     "id": "180",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Topaz",
     "name_es": "Topacio",
     "wiki_url": "https://terraria.wiki.gg/wiki/Topaz",
@@ -3247,7 +3241,7 @@
   },
   {
     "id": "181",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Amethyst",
     "name_es": "Amatista",
     "wiki_url": "https://terraria.wiki.gg/wiki/Amethyst",
@@ -3264,7 +3258,7 @@
   },
   {
     "id": "182",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Diamond",
     "name_es": "Diamante",
     "wiki_url": "https://terraria.wiki.gg/wiki/Diamond",
@@ -3348,7 +3342,7 @@
   },
   {
     "id": "188",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Healing Potion",
     "name_es": "Poción curativa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Healing_Potion",
@@ -3364,8 +3358,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Healing_Potion.png",
     "station_ids": [
-      "31",
-      "3001"
+      "placed_bottle"
     ]
   },
   {
@@ -5044,7 +5037,7 @@
   },
   {
     "id": "289",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Regeneration Potion",
     "name_es": "Poción de regeneración",
     "wiki_url": "https://terraria.wiki.gg/wiki/Regeneration_Potion",
@@ -5064,10 +5057,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Regeneration_Potion.png",
     "station_ids": [
-      "31",
-      "3001"
-    ],
-    "origin_info": "Mesa de alquimia (Alchemy Table)"
+      "placed_bottle"
+    ]
   },
   {
     "id": "290",
@@ -5125,9 +5116,9 @@
   },
   {
     "id": "292",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Ironskin Potion",
-    "name_es": "Poción de invisibilidad",
+    "name_es": "Poción de piel de hierro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ironskin_Potion",
     "recipes": [
       {
@@ -5139,24 +5130,14 @@
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
-        "amount": 1
-      },
-      {
-        "name_en": "Deathweed",
-        "amount": 1
-      },
-      {
-        "name_en": "Obsidian",
+        "name_en": "Iron Ore",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ironskin_Potion.png",
     "station_ids": [
-      "31",
-      "3001"
-    ],
-    "origin_info": "Mesa de alquimia (Botella de agua + Raíz de luz + Luz de luna)"
+      "placed_bottle"
+    ]
   },
   {
     "id": "293",
@@ -8642,7 +8623,7 @@
   },
   {
     "id": "499",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Greater Healing Potion",
     "name_es": "Poción curativa mayor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Greater_Healing_Potion",
@@ -8662,11 +8643,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Greater_Healing_Potion.png",
     "station_ids": [
-      "31",
-      "3001",
-      "loot"
-    ],
-    "origin_info": "Botín: Jefes de Hardmode / Fabricado (3 Botellas de agua + 3 Polvo de hada + 1 Cristal)"
+      "placed_bottle"
+    ]
   },
   {
     "id": "500",
@@ -8876,14 +8854,24 @@
   },
   {
     "id": "515",
-    "category": "Weapons",
+    "category": "Ammo",
     "name_en": "Crystal Bullet",
     "name_es": "Bala de cristal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Bullet",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Musket Ball",
+        "amount": 100
+      },
+      {
+        "name_en": "Crystal Shard",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Bullet.png",
-    "station_ids": [],
-    "origin_info": "Botín: Muro de Carne"
+    "station_ids": [
+      "35"
+    ]
   },
   {
     "id": "516",
@@ -9160,17 +9148,17 @@
   },
   {
     "id": "533",
-    "category": "Weapons",
+    "category": "Ranged Weapons",
     "name_en": "Megashark",
-    "name_es": "Megatiburón",
+    "name_es": "Megashark",
     "wiki_url": "https://terraria.wiki.gg/wiki/Megashark",
     "recipes": [
       {
-        "name_en": "Illegal Gun Parts",
+        "name_en": "Minishark",
         "amount": 1
       },
       {
-        "name_en": "Minishark",
+        "name_en": "Illegal Gun Parts",
         "amount": 1
       },
       {
@@ -9184,9 +9172,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Megashark.png",
     "station_ids": [
-      "mythril_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (Minitiburón + Partes ilegales + 5 Almas de poder + 20 Aletas de tiburón)"
+      "525"
+    ]
   },
   {
     "id": "534",
@@ -12187,7 +12174,7 @@
   },
   {
     "id": "702",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Platinum Ore",
     "name_es": "Mineral de platino",
     "wiki_url": "https://terraria.wiki.gg/wiki/Platinum_Ore",
@@ -12265,7 +12252,7 @@
   },
   {
     "id": "706",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Platinum Bar",
     "name_es": "Lingote de platino",
     "wiki_url": "https://terraria.wiki.gg/wiki/Platinum_Bar",
@@ -12278,8 +12265,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Platinum_Bar.png",
     "station_ids": [
       "33"
-    ],
-    "origin_info": "Fabricado: Horno (4 Mineral de platino)"
+    ]
   },
   {
     "id": "707",
@@ -16941,7 +16927,7 @@
   },
   {
     "id": "999",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Amber",
     "name_es": "Ámbar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Amber",
@@ -17102,14 +17088,13 @@
     "recipes": [
       {
         "name_en": "Chlorophyte Ore",
-        "amount": 6
+        "amount": 5
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Bar.png",
     "station_ids": [
-      "adamantite_forge"
-    ],
-    "origin_info": "Fabricado: Forja de adamantita (5 Minerales de clorofita)"
+      "524"
+    ]
   },
   {
     "id": "1007",
@@ -19828,26 +19813,24 @@
   },
   {
     "id": "1179",
-    "category": "Weapons (Thrown/Ammo)",
+    "category": "Ammo",
     "name_en": "Chlorophyte Bullet",
     "name_es": "Bala de clorofita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Chlorophyte_Bullet",
     "recipes": [
       {
-        "name_en": "Chlorophyte Bar",
-        "amount": 1
+        "name_en": "Musket Ball",
+        "amount": 70
       },
       {
-        "name_en": "Musket Ball",
-        "amount": 60
+        "name_en": "Chlorophyte Bar",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Bullet.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Lingote de clorofita)"
+      "525"
+    ]
   },
   {
     "id": "1180",
@@ -25326,16 +25309,16 @@
   },
   {
     "id": "1553",
-    "category": "Weapons",
+    "category": "Ranged Weapons",
     "name_en": "S.D.M.G.",
-    "name_es": "Autoham",
+    "name_es": "S.D.M.G.",
     "wiki_url": "https://terraria.wiki.gg/wiki/S.D.M.G.",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/S.D.M.G..png",
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Compra: Trufa (Tras derrotar a Plantera)"
+    "origin_info": "Soltado por Moon Lord (11.11%)"
   },
   {
     "id": "1554",
@@ -36918,9 +36901,9 @@
   },
   {
     "id": "2350",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Recall Potion",
-    "name_es": "Horno de cristal",
+    "name_es": "Poción de retorno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Recall_Potion",
     "recipes": [
       {
@@ -36928,19 +36911,18 @@
         "amount": 1
       },
       {
-        "name_en": "Daybloom",
+        "name_en": "Specular Fish",
         "amount": 1
       },
       {
-        "name_en": "Specular Fish",
+        "name_en": "Daybloom",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Recall_Potion.png",
     "station_ids": [
-      "iron_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque (18 Vidrio + 8 Lingotes de hierro/plomo)"
+      "placed_bottle"
+    ]
   },
   {
     "id": "2351",
@@ -47413,15 +47395,16 @@
   },
   {
     "id": "3029",
-    "category": "Weapons",
+    "category": "Ranged Weapons",
     "name_en": "Daedalus Stormbow",
-    "name_es": "Arco de tormentas de Dédalo",
+    "name_es": "Arco de tormenta de Dédalo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Daedalus_Stormbow",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Daedalus_Stormbow.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Soltado por Mímicos Sagrados (25%)"
   },
   {
     "id": "3030",
@@ -53926,7 +53909,7 @@
   },
   {
     "id": "3460",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Luminite",
     "name_es": "Luminita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Luminite",
@@ -54005,7 +53988,7 @@
   },
   {
     "id": "3467",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Luminite Bar",
     "name_es": "Lingote de luminita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Luminite_Bar",
@@ -54017,9 +54000,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Luminite_Bar.png",
     "station_ids": [
-      "3467"
-    ],
-    "origin_info": "Fabricado: Manipulador antiguo (4 Luminita)"
+      "3549"
+    ]
   },
   {
     "id": "3468",
@@ -54166,14 +54148,20 @@
   },
   {
     "id": "3475",
-    "category": "Weapons",
+    "category": "Ranged Weapons",
     "name_en": "Vortex Beater",
-    "name_es": "Último prisma",
+    "name_es": "Batidor de vórtice",
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Beater",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Vortex Fragment",
+        "amount": 18
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Beater.png",
-    "station_ids": [],
-    "origin_info": "Botín: Señor de la Luna"
+    "station_ids": [
+      "3549"
+    ]
   },
   {
     "id": "3476",
@@ -55355,17 +55343,20 @@
   },
   {
     "id": "3540",
-    "category": "Weapons",
+    "category": "Ranged Weapons",
     "name_en": "Phantasm",
-    "name_es": "Último prisma",
+    "name_es": "Fantasma",
     "wiki_url": "https://terraria.wiki.gg/wiki/Phantasm",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Vortex Fragment",
+        "amount": 18
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Phantasm.png",
     "station_ids": [
-      "hand",
-      "ancient_manipulator"
-    ],
-    "origin_info": "Botín: Señor de la Luna (Moon Lord)"
+      "3549"
+    ]
   },
   {
     "id": "3541",
@@ -55416,9 +55407,9 @@
   },
   {
     "id": "3544",
-    "category": "Potions",
+    "category": "Consumables",
     "name_en": "Super Healing Potion",
-    "name_es": "Poción supercurativa",
+    "name_es": "Poción curativa suprema",
     "wiki_url": "https://terraria.wiki.gg/wiki/Super_Healing_Potion",
     "recipes": [
       {
@@ -55426,27 +55417,26 @@
         "amount": 4
       },
       {
-        "name_en": "Solar Fragment",
-        "amount": 1
-      },
-      {
         "name_en": "Nebula Fragment",
         "amount": 1
       },
       {
-        "name_en": "Vortex Fragment",
+        "name_en": "Solar Fragment",
         "amount": 1
       },
       {
         "name_en": "Stardust Fragment",
         "amount": 1
+      },
+      {
+        "name_en": "Vortex Fragment",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Super_Healing_Potion.png",
     "station_ids": [
-      "ancient_manipulator"
-    ],
-    "origin_info": "Fabricado: Manipulador antiguo (4 Pociones curativas mayores + 1 de cada fragmento lunar)"
+      "placed_bottle"
+    ]
   },
   {
     "id": "3545",
@@ -55797,7 +55787,7 @@
   },
   {
     "id": "3567",
-    "category": "Weapons (Thrown/Ammo)",
+    "category": "Ammo",
     "name_en": "Luminite Bullet",
     "name_es": "Bala de luminita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Luminite_Bullet",
@@ -55809,8 +55799,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Luminite_Bullet.png",
     "station_ids": [
-      "hand",
-      "ancient_manipulator"
+      "3549"
     ]
   },
   {
