@@ -95,7 +95,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mushroom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Mushroom.png?abeb5f",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Bosque (Superficie)"
   },
   {
     "id": "6",
@@ -572,8 +575,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bottle.png?fbcd9b",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Corrupción"
   },
   {
     "id": "32",
@@ -615,8 +620,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Furnace.png?5678ee",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "tree_shaking"
+    ],
+    "origin_info": "Sacudir árboles (Bosque)"
   },
   {
     "id": "34",
@@ -2395,7 +2402,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Bottled_Water.png?7d5a62",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Cerca de Agua"
   },
   {
     "id": "127",
@@ -3215,8 +3223,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mud_Block.png?3a954e",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Bioma de champiñones"
   },
   {
     "id": "177",
@@ -3334,8 +3344,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Glowing_Mushroom.png?f39a60",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Carmesí"
   },
   {
     "id": "185",
@@ -4808,7 +4820,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Guide_Voodoo_Doll",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Guide_Voodoo_Doll.png?e5b6a8",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Diablillo vudú (Inframundo)"
   },
   {
     "id": "268",
@@ -5640,7 +5655,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Daybloom_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Daybloom_Seeds.png?442286",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Bosque (Día)"
   },
   {
     "id": "308",
@@ -5650,7 +5668,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Moonglow_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Moonglow_Seeds.png?4e8636",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Selva (Noche)"
   },
   {
     "id": "309",
@@ -5660,7 +5681,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blinkroot_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blinkroot_Seeds.png?6085a4",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Tierra / Cavernas"
   },
   {
     "id": "310",
@@ -5670,7 +5694,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Deathweed_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Deathweed_Seeds.png?1487e4",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Corrupción / Carmesí"
   },
   {
     "id": "311",
@@ -5680,7 +5707,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Waterleaf_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Waterleaf_Seeds.png?708124",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Desierto"
   },
   {
     "id": "312",
@@ -5690,7 +5720,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fireblossom_Seeds",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fireblossom_Seeds.png?93422f",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Inframundo"
   },
   {
     "id": "313",
@@ -5701,8 +5734,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Daybloom.png?6f48fb",
     "station_ids": [
-      "33"
-    ]
+      "33",
+      "loot"
+    ],
+    "origin_info": "Cortar Resplandor diurno (Día)"
   },
   {
     "id": "314",
@@ -5714,8 +5749,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Moonglow.png?9d1e7a",
     "station_ids": [
       "33",
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Cortar Resplandor lunar (Noche)"
   },
   {
     "id": "315",
@@ -5726,8 +5763,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blinkroot.png?a17325",
     "station_ids": [
-      "33"
-    ]
+      "33",
+      "loot"
+    ],
+    "origin_info": "Cortar Raíz parpadeante"
   },
   {
     "id": "316",
@@ -5737,7 +5776,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Deathweed",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Deathweed.png?acbc08",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cortar Hierba de muerte (Luna llena/sangrienta)"
   },
   {
     "id": "317",
@@ -5747,7 +5789,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Waterleaf",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Waterleaf.png?a5cb94",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cortar Hoja de agua (Lluvia)"
   },
   {
     "id": "318",
@@ -5757,7 +5802,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fireblossom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fireblossom.png?8ef242",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cortar Flor de fuego (Atardecer)"
   },
   {
     "id": "319",
@@ -5767,7 +5815,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shark_Fin",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shark_Fin.png?dd5e0f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Cortar Espina helada"
   },
   {
     "id": "320",
@@ -5778,8 +5829,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Feather.png?b9ac5f",
     "station_ids": [
-      "loot"
-    ]
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Nieve / Hielo"
   },
   {
     "id": "321",
@@ -10396,7 +10449,8 @@
     "station_ids": [
       "loot",
       "recording"
-    ]
+    ],
+    "origin_info": "Regalos (Hardmode)"
   },
   {
     "id": "603",
@@ -22032,9 +22086,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lihzahrd_Power_Cell.png?f0ded4",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "loot"
     ],
-    "origin_info": "Lihzahrd Chest (Templo de la Selva)"
+    "origin_info": "Lihzahrd"
   },
   {
     "id": "1294",
@@ -22307,8 +22362,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pirate_Map.png?1d545f",
     "station_ids": [
-      "loot"
-    ]
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Lihzahrd"
   },
   {
     "id": "1316",
@@ -29015,7 +29072,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blood_Moon_Countess",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blood_Moon_Countess.png?dfc081",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "1849",
@@ -30246,8 +30305,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Naughty_Present.png?348c69",
     "station_ids": [
       "hand",
-      "mythril_anvil"
-    ]
+      "mythril_anvil",
+      "loot"
+    ],
+    "origin_info": "Enemigos del Templo Lihzahrd"
   },
   {
     "id": "1959",
@@ -37111,7 +37172,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shiverthorn",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shiverthorn.png?3e0b26",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Superficie (Cualquier bioma)"
   },
   {
     "id": "2359",
@@ -42348,7 +42412,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Truffle_Worm.png?8f5fb3",
     "station_ids": [
-      "living_loom"
+      "living_loom",
+      "bug_net"
     ]
   },
   {
@@ -47956,8 +48021,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Bunny_Cage.png?33fce7",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3072",
@@ -47977,8 +48044,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Butterfly_Jar.png?6eb929",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3073",
@@ -47998,8 +48067,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Frog_Cage.png?518ec4",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3074",
@@ -48019,8 +48090,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Grasshopper_Cage.png?63b8da",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3075",
@@ -48040,8 +48113,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Mouse_Cage.png?1bd0a5",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3076",
@@ -48061,8 +48136,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Worm_Cage.png?5c6ec9",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3077",
@@ -48078,8 +48155,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Silk_Rope.png?76202d",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3078",
@@ -48095,8 +48174,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Web_Rope.png?674103",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "merchant_buy"
+    ],
+    "origin_info": "Dríada (Dryad)"
   },
   {
     "id": "3079",
@@ -73858,7 +73939,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Football",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Football.png?d20e5a",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "4744",
@@ -77026,8 +77109,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gelatin_Crystal.png?b21f5f",
     "station_ids": [
-      "loot"
-    ]
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Bendición subterránea"
   },
   {
     "id": "4989",
