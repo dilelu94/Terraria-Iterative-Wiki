@@ -1319,13 +1319,14 @@
     "is_armor": true,
     "armor_set_en": "Copper Armor",
     "armor_set_es": "Armadura de cobre",
-    "total_defense": "6",
+    "total_defense": "4",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil",
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "77",
@@ -1343,13 +1344,14 @@
     "is_armor": true,
     "armor_set_en": "Iron Armor",
     "armor_set_es": "Armadura de hierro",
-    "total_defense": "9",
+    "total_defense": "7",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil",
       "36"
-    ]
+    ],
+    "piece_defense": "2"
   },
   {
     "id": "78",
@@ -1367,13 +1369,14 @@
     "is_armor": true,
     "armor_set_en": "Silver Armor",
     "armor_set_es": "Armadura de plata",
-    "total_defense": "13",
+    "total_defense": "10",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil",
       "36"
-    ]
+    ],
+    "piece_defense": "3"
   },
   {
     "id": "79",
@@ -1391,12 +1394,13 @@
     "is_armor": true,
     "armor_set_en": "Gold Armor",
     "armor_set_es": "Armadura de oro",
-    "total_defense": "16",
+    "total_defense": "13",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4"
   },
   {
     "id": "81",
@@ -1418,12 +1422,13 @@
     "is_armor": true,
     "armor_set_en": "Iron Armor",
     "armor_set_es": "Armadura de hierro",
-    "total_defense": "9",
+    "total_defense": "7",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "3"
   },
   {
     "id": "82",
@@ -1445,12 +1450,13 @@
     "is_armor": true,
     "armor_set_en": "Silver Armor",
     "armor_set_es": "Armadura de plata",
-    "total_defense": "13",
+    "total_defense": "10",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4"
   },
   {
     "id": "83",
@@ -1472,12 +1478,13 @@
     "is_armor": true,
     "armor_set_en": "Gold Armor",
     "armor_set_es": "Armadura de oro",
-    "total_defense": "16",
+    "total_defense": "13",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5"
   },
   {
     "id": "84",
@@ -1568,12 +1575,13 @@
     "is_armor": true,
     "armor_set_en": "Iron Armor",
     "armor_set_es": "Armadura de hierro",
-    "total_defense": "9",
+    "total_defense": "7",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "2"
   },
   {
     "id": "91",
@@ -1591,12 +1599,13 @@
     "is_armor": true,
     "armor_set_en": "Silver Armor",
     "armor_set_es": "Armadura de plata",
-    "total_defense": "13",
+    "total_defense": "10",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "3"
   },
   {
     "id": "92",
@@ -1618,12 +1627,13 @@
     "is_armor": true,
     "armor_set_en": "Gold Armor",
     "armor_set_es": "Armadura de oro",
-    "total_defense": "16",
+    "total_defense": "13",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4"
   },
   {
     "id": "93",
@@ -1773,7 +1783,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 12 Escamas de las sombras)"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 12 Escamas de las sombras)",
+    "piece_defense": "6"
   },
   {
     "id": "101",
@@ -1805,7 +1816,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (20 Lingotes de endemoniado + 15 Escamas de las sombras)"
+    "origin_info": "Fabricado: Yunque (20 Lingotes de endemoniado + 15 Escamas de las sombras)",
+    "piece_defense": "7"
   },
   {
     "id": "102",
@@ -1837,7 +1849,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 10 Escamas de las sombras)"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 10 Escamas de las sombras)",
+    "piece_defense": "6"
   },
   {
     "id": "103",
@@ -2290,7 +2303,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (10 Lingotes de meteorito)"
+    "origin_info": "Fabricado: Yunque (10 Lingotes de meteorito)",
+    "piece_defense": "5"
   },
   {
     "id": "124",
@@ -2314,7 +2328,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)"
+    "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)",
+    "piece_defense": "6"
   },
   {
     "id": "125",
@@ -2338,7 +2353,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (15 Lingotes de meteorito)"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de meteorito)",
+    "piece_defense": "5"
   },
   {
     "id": "126",
@@ -2405,7 +2421,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Banco de trabajo (30 Madera)"
+    "origin_info": "Fabricado: Banco de trabajo (30 Madera)",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "is_armor": true
   },
   {
     "id": "130",
@@ -2423,7 +2442,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Banco de trabajo (20 Madera)"
+    "origin_info": "Fabricado: Banco de trabajo (20 Madera)",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "is_armor": true
   },
   {
     "id": "131",
@@ -2441,7 +2463,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Banco de trabajo (25 Madera)"
+    "origin_info": "Fabricado: Banco de trabajo (25 Madera)",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "is_armor": true
   },
   {
     "id": "132",
@@ -2485,7 +2510,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (25 Lingotes de cobre)"
+    "origin_info": "Fabricado: Yunque (25 Lingotes de cobre)",
+    "piece_defense": "2",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "135",
@@ -2503,7 +2531,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (15 Lingotes de cobre)"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de cobre)",
+    "piece_defense": "1",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "136",
@@ -2782,7 +2813,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Mazmorra)"
+    "origin_info": "Cofre dorado (Mazmorra)",
+    "piece_defense": "6"
   },
   {
     "id": "152",
@@ -2801,7 +2833,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Mazmorra)"
+    "origin_info": "Cofre dorado (Mazmorra)",
+    "piece_defense": "7"
   },
   {
     "id": "153",
@@ -2820,7 +2853,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Mazmorra)"
+    "origin_info": "Cofre dorado (Mazmorra)",
+    "piece_defense": "6"
   },
   {
     "id": "154",
@@ -3962,7 +3996,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (1 Espora de selva + 10 Aguijón)"
+    "origin_info": "Fabricado: Yunque (1 Espora de selva + 10 Aguijón)",
+    "piece_defense": "6"
   },
   {
     "id": "229",
@@ -3994,7 +4029,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (1 Espora de selva + 1 Enredadera)"
+    "origin_info": "Fabricado: Yunque (1 Espora de selva + 1 Enredadera)",
+    "piece_defense": "5"
   },
   {
     "id": "230",
@@ -4026,7 +4062,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (1 Espora de selva + 2 Enredadera)"
+    "origin_info": "Fabricado: Yunque (1 Espora de selva + 2 Enredadera)",
+    "piece_defense": "6"
   },
   {
     "id": "231",
@@ -4050,7 +4087,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)"
+    "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)",
+    "piece_defense": "8"
   },
   {
     "id": "232",
@@ -4073,7 +4111,8 @@
     "set_bonus": "Inmunidad al bloque de fuego (Piedra Infernal).",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "9"
   },
   {
     "id": "233",
@@ -4096,7 +4135,8 @@
     "set_bonus": "Inmunidad al bloque de fuego (Piedra Infernal).",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "8"
   },
   {
     "id": "234",
@@ -4461,7 +4501,8 @@
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [],
-    "origin_info": "Botín: Rey Slime"
+    "origin_info": "Botín: Rey Slime",
+    "piece_defense": "2"
   },
   {
     "id": "257",
@@ -4478,7 +4519,8 @@
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [],
-    "origin_info": "Botín: Rey Slime"
+    "origin_info": "Botín: Rey Slime",
+    "piece_defense": "4"
   },
   {
     "id": "258",
@@ -4495,7 +4537,8 @@
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [],
-    "origin_info": "Botín: Rey Slime"
+    "origin_info": "Botín: Rey Slime",
+    "piece_defense": "3"
   },
   {
     "id": "259",
@@ -4513,7 +4556,9 @@
     "station_ids": [
       "hand",
       "330"
-    ]
+    ],
+    "piece_defense": "4",
+    "is_armor": true
   },
   {
     "id": "260",
@@ -4655,7 +4700,9 @@
     "station_ids": [
       "iron_anvil",
       "330"
-    ]
+    ],
+    "piece_defense": "2",
+    "is_armor": true
   },
   {
     "id": "269",
@@ -6538,7 +6585,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cobalt_Helmet.png",
     "is_armor": true,
     "armor_class": "Cuerpo a cuerpo",
-    "piece_defense": "11",
+    "piece_defense": "12",
     "piece_effects": "+15% vel. de ataque cuerpo a cuerpo",
     "set_bonus": "+15% vel. ataque cuerpo a cuerpo (Total: +27%)",
     "station_ids": [
@@ -6583,7 +6630,9 @@
     "station_ids": [
       "mythril_anvil",
       "330"
-    ]
+    ],
+    "piece_defense": "8",
+    "is_armor": true
   },
   {
     "id": "375",
@@ -6601,7 +6650,9 @@
     "station_ids": [
       "mythril_anvil",
       "330"
-    ]
+    ],
+    "piece_defense": "7",
+    "is_armor": true
   },
   {
     "id": "376",
@@ -6622,7 +6673,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Hood.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "2",
+    "is_armor": true
   },
   {
     "id": "377",
@@ -6643,7 +6696,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Helmet.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "15",
+    "is_armor": true
   },
   {
     "id": "378",
@@ -6656,7 +6711,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Compra: Médico brujo (Selva)"
+    "origin_info": "Compra: Médico brujo (Selva)",
+    "piece_defense": "6",
+    "is_armor": true
   },
   {
     "id": "379",
@@ -6673,7 +6730,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Chainmail.png",
     "is_armor": true,
     "armor_class": "Magia",
-    "piece_defense": "3",
+    "piece_defense": "12",
     "piece_effects": "+60 Maná máximo | +15% daño mágico",
     "set_bonus": "-17% de coste de Maná",
     "station_ids": [
@@ -6695,7 +6752,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Greaves.png",
     "is_armor": true,
     "armor_class": "Cuerpo a cuerpo",
-    "piece_defense": "16",
+    "piece_defense": "10",
     "piece_effects": "+10% daño cuerpo a cuerpo | +5% crítico cuerpo a cuerpo",
     "set_bonus": "+5% crítico cuerpo a cuerpo",
     "station_ids": [
@@ -7131,7 +7188,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)"
+    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
+    "piece_defense": "16",
+    "is_armor": true
   },
   {
     "id": "404",
@@ -7149,7 +7208,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)"
+    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
+    "piece_defense": "12",
+    "is_armor": true
   },
   {
     "id": "405",
@@ -9338,7 +9399,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Plate_Mail.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "15",
+    "is_armor": true
   },
   {
     "id": "552",
@@ -9355,7 +9418,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Greaves.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "11",
+    "is_armor": true
   },
   {
     "id": "553",
@@ -9372,7 +9437,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Helmet.png",
     "is_armor": true,
     "armor_class": "Cuerpo a cuerpo",
-    "piece_defense": "24",
+    "piece_defense": "9",
     "piece_effects": "+10% daño y crítico cuerpo a cuerpo | +10% vel. ataque",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
@@ -9485,7 +9550,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Headgear.png",
     "is_armor": true,
     "armor_class": "Magia",
-    "piece_defense": "5",
+    "piece_defense": "7",
     "piece_effects": "+100 Maná máximo | +12% daño y crítico mágico",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
@@ -9507,7 +9572,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Mask.png",
     "is_armor": true,
     "armor_class": "A distancia",
-    "piece_defense": "9",
+    "piece_defense": "24",
     "piece_effects": "+15% daño a distancia | +8% crítico a distancia",
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
@@ -11689,7 +11754,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "2",
+    "total_defense": "5",
+    "is_armor": true
   },
   {
     "id": "688",
@@ -11706,7 +11774,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Chainmail.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "2",
+    "total_defense": "5",
+    "is_armor": true
   },
   {
     "id": "689",
@@ -11723,7 +11794,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Greaves.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "1",
+    "total_defense": "5",
+    "is_armor": true
   },
   {
     "id": "690",
@@ -11740,7 +11814,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "3",
+    "total_defense": "8",
+    "is_armor": true
   },
   {
     "id": "691",
@@ -11757,7 +11834,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Chainmail.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "3",
+    "total_defense": "8",
+    "is_armor": true
   },
   {
     "id": "692",
@@ -11774,7 +11854,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Greaves.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "2",
+    "total_defense": "8",
+    "is_armor": true
   },
   {
     "id": "693",
@@ -11791,7 +11874,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4",
+    "total_defense": "12",
+    "is_armor": true
   },
   {
     "id": "694",
@@ -11808,7 +11894,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Chainmail.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5",
+    "total_defense": "12",
+    "is_armor": true
   },
   {
     "id": "695",
@@ -11825,7 +11914,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Greaves.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "3",
+    "total_defense": "12",
+    "is_armor": true
   },
   {
     "id": "696",
@@ -11843,12 +11935,13 @@
     "is_armor": true,
     "armor_set_en": "Platinum Armor",
     "armor_set_es": "Armadura de platino",
-    "total_defense": "20",
+    "total_defense": "16",
     "set_stats": "+Ninguno",
     "set_bonus": "+4 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5"
   },
   {
     "id": "697",
@@ -11866,12 +11959,13 @@
     "is_armor": true,
     "armor_set_en": "Platinum Armor",
     "armor_set_es": "Armadura de platino",
-    "total_defense": "20",
+    "total_defense": "16",
     "set_stats": "+Ninguno",
     "set_bonus": "+4 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "6"
   },
   {
     "id": "698",
@@ -11889,12 +11983,13 @@
     "is_armor": true,
     "armor_set_en": "Platinum Armor",
     "armor_set_es": "Armadura de platino",
-    "total_defense": "20",
+    "total_defense": "16",
     "set_stats": "+Ninguno",
     "set_bonus": "+4 Defensa extra.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5"
   },
   {
     "id": "699",
@@ -12558,7 +12653,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (20 Madera de ébano)"
+    "origin_info": "Fabricado: Mesa de trabajo (20 Madera de ébano)",
+    "piece_defense": "1",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "731",
@@ -12580,7 +12678,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (30 Madera de ébano)"
+    "origin_info": "Fabricado: Mesa de trabajo (30 Madera de ébano)",
+    "piece_defense": "2",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "732",
@@ -12602,7 +12703,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (25 Madera de ébano)"
+    "origin_info": "Fabricado: Mesa de trabajo (25 Madera de ébano)",
+    "piece_defense": "1",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "733",
@@ -12624,7 +12728,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (20 Madera rica)"
+    "origin_info": "Fabricado: Mesa de trabajo (20 Madera rica)",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "is_armor": true
   },
   {
     "id": "734",
@@ -12642,7 +12749,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (30 Madera rica)"
+    "origin_info": "Fabricado: Mesa de trabajo (30 Madera rica)",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "is_armor": true
   },
   {
     "id": "735",
@@ -12660,7 +12770,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (25 Madera rica)"
+    "origin_info": "Fabricado: Mesa de trabajo (25 Madera rica)",
+    "piece_defense": "1",
+    "total_defense": "3",
+    "is_armor": true
   },
   {
     "id": "736",
@@ -12677,7 +12790,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pearlwood_Helmet.png",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "2",
+    "total_defense": "8",
+    "is_armor": true
   },
   {
     "id": "737",
@@ -12694,7 +12810,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pearlwood_Breastplate.png",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "3",
+    "total_defense": "8",
+    "is_armor": true
   },
   {
     "id": "738",
@@ -12711,7 +12830,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pearlwood_Greaves.png",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "3",
+    "total_defense": "8",
+    "is_armor": true
   },
   {
     "id": "739",
@@ -13440,7 +13562,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 10 Muestra de tejido)"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 10 Muestra de tejido)",
+    "piece_defense": "6"
   },
   {
     "id": "793",
@@ -13468,7 +13591,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (20 Lingotes de carmesí + 15 Muestra de tejido)"
+    "origin_info": "Fabricado: Yunque (20 Lingotes de carmesí + 15 Muestra de tejido)",
+    "piece_defense": "7"
   },
   {
     "id": "794",
@@ -13496,7 +13620,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 12 Muestra de tejido)"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 12 Muestra de tejido)",
+    "piece_defense": "6"
   },
   {
     "id": "795",
@@ -16722,7 +16847,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes de clorofita)"
+    "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes de clorofita)",
+    "piece_defense": "18",
+    "is_armor": true
   },
   {
     "id": "1005",
@@ -16740,7 +16867,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes de clorofita)"
+    "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes de clorofita)",
+    "piece_defense": "13",
+    "is_armor": true
   },
   {
     "id": "1006",
@@ -19200,7 +19329,10 @@
       "exploration",
       "merchant_buy"
     ],
-    "origin_info": "Witch Doctor"
+    "origin_info": "Witch Doctor",
+    "piece_defense": "6",
+    "total_defense": "35",
+    "is_armor": true
   },
   {
     "id": "1160",
@@ -19214,7 +19346,10 @@
       "iron_anvil",
       "loot"
     ],
-    "origin_info": "Mourning Wood (Luna Calabaza)"
+    "origin_info": "Mourning Wood (Luna Calabaza)",
+    "piece_defense": "17",
+    "total_defense": "35",
+    "is_armor": true
   },
   {
     "id": "1161",
@@ -19227,7 +19362,10 @@
     "station_ids": [
       "iron_anvil",
       "398"
-    ]
+    ],
+    "piece_defense": "12",
+    "total_defense": "35",
+    "is_armor": true
   },
   {
     "id": "1162",
@@ -19980,7 +20118,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Mask.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "14",
+    "is_armor": true
   },
   {
     "id": "1206",
@@ -20001,7 +20141,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5",
+    "is_armor": true
   },
   {
     "id": "1207",
@@ -20022,7 +20164,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Headgear.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "3",
+    "is_armor": true
   },
   {
     "id": "1208",
@@ -20043,7 +20187,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Breastplate.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "10",
+    "is_armor": true
   },
   {
     "id": "1209",
@@ -20064,7 +20210,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Leggings.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "8",
+    "is_armor": true
   },
   {
     "id": "1210",
@@ -20085,7 +20233,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Mask.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "19",
+    "is_armor": true
   },
   {
     "id": "1211",
@@ -20106,7 +20256,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "7",
+    "is_armor": true
   },
   {
     "id": "1212",
@@ -20123,7 +20275,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Headgear.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4",
+    "is_armor": true
   },
   {
     "id": "1213",
@@ -20140,7 +20294,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Breastplate.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "13",
+    "is_armor": true
   },
   {
     "id": "1214",
@@ -20158,7 +20314,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)"
+    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)",
+    "piece_defense": "11",
+    "is_armor": true
   },
   {
     "id": "1215",
@@ -20176,7 +20334,9 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)"
+    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
+    "piece_defense": "23",
+    "is_armor": true
   },
   {
     "id": "1216",
@@ -20194,7 +20354,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (20 Madera sombría)"
+    "origin_info": "Fabricado: Mesa de trabajo (20 Madera sombría)",
+    "piece_defense": "8",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "1217",
@@ -20212,7 +20375,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (30 Madera sombría)"
+    "origin_info": "Fabricado: Mesa de trabajo (30 Madera sombría)",
+    "piece_defense": "4",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "1218",
@@ -20230,7 +20396,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (25 Madera sombría)"
+    "origin_info": "Fabricado: Mesa de trabajo (25 Madera sombría)",
+    "piece_defense": "18",
+    "total_defense": "4",
+    "is_armor": true
   },
   {
     "id": "1219",
@@ -20247,7 +20416,9 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Leggings.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "13",
+    "is_armor": true
   },
   {
     "id": "1220",
@@ -24082,7 +24253,9 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)"
+    "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
+    "piece_defense": "6",
+    "is_armor": true
   },
   {
     "id": "1504",
@@ -24100,7 +24273,9 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)"
+    "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
+    "piece_defense": "14",
+    "is_armor": true
   },
   {
     "id": "1505",
@@ -24118,7 +24293,9 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)"
+    "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
+    "piece_defense": "10",
+    "is_armor": true
   },
   {
     "id": "1506",
@@ -24783,7 +24960,8 @@
     "set_bonus": "Al no moverse, te vuelves invisible. Aumenta daño rango, crítico y reduce aggro.",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "24"
   },
   {
     "id": "1550",
@@ -24806,7 +24984,8 @@
     "set_bonus": "Al no moverse, te vuelves invisible. Aumenta daño rango, crítico y reduce aggro.",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "16"
   },
   {
     "id": "1551",
@@ -28203,7 +28382,8 @@
     "station_ids": [
       "iron_anvil",
       "36"
-    ]
+    ],
+    "piece_defense": "8"
   },
   {
     "id": "1833",
@@ -28227,7 +28407,8 @@
     "station_ids": [
       "iron_anvil",
       "36"
-    ]
+    ],
+    "piece_defense": "11"
   },
   {
     "id": "1834",
@@ -28251,7 +28432,8 @@
     "station_ids": [
       "iron_anvil",
       "36"
-    ]
+    ],
+    "piece_defense": "11"
   },
   {
     "id": "1835",
@@ -33699,7 +33881,7 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Mask.png",
     "is_armor": true,
     "armor_class": "Magia (Daño)",
-    "piece_defense": "18",
+    "piece_defense": "14",
     "piece_effects": "+60 Maná máximo | +10% daño mágico | +5% crítico mágico",
     "set_bonus": "El daño mágico genera orbes rastreadores que dañan enemigos",
     "station_ids": [
@@ -33872,7 +34054,9 @@
     "station_ids": [
       "iron_anvil",
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "14",
+    "is_armor": true
   },
   {
     "id": "2200",
@@ -33894,7 +34078,9 @@
     "station_ids": [
       "iron_anvil",
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "20",
+    "is_armor": true
   },
   {
     "id": "2201",
@@ -33916,7 +34102,9 @@
     "station_ids": [
       "iron_anvil",
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "32",
+    "is_armor": true
   },
   {
     "id": "2202",
@@ -33938,7 +34126,9 @@
     "station_ids": [
       "iron_anvil",
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "15",
+    "is_armor": true
   },
   {
     "id": "2203",
@@ -38787,7 +38977,8 @@
     "set_bonus": "+1 Defensa extra.",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "2510",
@@ -38810,7 +39001,8 @@
     "set_bonus": "+1 Defensa extra.",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "2511",
@@ -38833,7 +39025,8 @@
     "set_bonus": "+1 Defensa extra.",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "2512",
@@ -38856,7 +39049,8 @@
     "set_bonus": "+1 Defensa extra.",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "2513",
@@ -38879,7 +39073,8 @@
     "set_bonus": "+1 Defensa extra.",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "2514",
@@ -38902,7 +39097,8 @@
     "set_bonus": "+1 Defensa extra.",
     "station_ids": [
       "36"
-    ]
+    ],
+    "piece_defense": "1"
   },
   {
     "id": "2515",
@@ -43301,7 +43497,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de vórtice + 8 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de vórtice + 8 Luminita)",
+    "piece_defense": "14"
   },
   {
     "id": "2758",
@@ -43329,7 +43526,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de vórtice + 16 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de vórtice + 16 Luminita)",
+    "piece_defense": "28"
   },
   {
     "id": "2759",
@@ -43357,7 +43555,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de vórtice + 12 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de vórtice + 12 Luminita)",
+    "piece_defense": "20"
   },
   {
     "id": "2760",
@@ -43385,7 +43584,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de nebulosa + 8 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de nebulosa + 8 Luminita)",
+    "piece_defense": "14"
   },
   {
     "id": "2761",
@@ -43413,7 +43613,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de nebulosa + 16 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de nebulosa + 16 Luminita)",
+    "piece_defense": "18"
   },
   {
     "id": "2762",
@@ -43441,7 +43642,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de nebulosa + 12 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de nebulosa + 12 Luminita)",
+    "piece_defense": "14"
   },
   {
     "id": "2763",
@@ -43469,7 +43671,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos solares + 8 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos solares + 8 Luminita)",
+    "piece_defense": "24"
   },
   {
     "id": "2764",
@@ -43497,7 +43700,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos solares + 16 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos solares + 16 Luminita)",
+    "piece_defense": "34"
   },
   {
     "id": "2765",
@@ -43525,7 +43729,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos solares + 12 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos solares + 12 Luminita)",
+    "piece_defense": "20"
   },
   {
     "id": "2766",
@@ -47991,7 +48196,9 @@
       "iron_anvil",
       "exploration"
     ],
-    "origin_info": "Cofre de granito (Subterráneo)"
+    "origin_info": "Cofre de granito (Subterráneo)",
+    "piece_defense": "4",
+    "is_armor": true
   },
   {
     "id": "3110",
@@ -49514,7 +49721,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gladiator_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4",
+    "total_defense": "13",
+    "is_armor": true
   },
   {
     "id": "3188",
@@ -49526,7 +49736,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gladiator_Breastplate.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5",
+    "total_defense": "13",
+    "is_armor": true
   },
   {
     "id": "3189",
@@ -49538,7 +49751,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gladiator_Leggings.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4",
+    "total_defense": "13",
+    "is_armor": true
   },
   {
     "id": "3190",
@@ -52290,12 +52506,13 @@
     "is_armor": true,
     "armor_set_en": "Fossil Armor",
     "armor_set_es": "Armadura fósil",
-    "total_defense": "13",
+    "total_defense": "15",
     "set_stats": "+5% Daño a distancia / +8% Crítico a distancia",
     "set_bonus": "20% de probabilidad de no consumir munición.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5"
   },
   {
     "id": "3375",
@@ -52313,12 +52530,13 @@
     "is_armor": true,
     "armor_set_en": "Fossil Armor",
     "armor_set_es": "Armadura fósil",
-    "total_defense": "13",
+    "total_defense": "15",
     "set_stats": "+5% Daño a distancia / +8% Crítico a distancia",
     "set_bonus": "20% de probabilidad de no consumir munición.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "6"
   },
   {
     "id": "3376",
@@ -52336,12 +52554,13 @@
     "is_armor": true,
     "armor_set_en": "Fossil Armor",
     "armor_set_es": "Armadura fósil",
-    "total_defense": "13",
+    "total_defense": "15",
     "set_stats": "+5% Daño a distancia / +8% Crítico a distancia",
     "set_bonus": "20% de probabilidad de no consumir munición.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "4"
   },
   {
     "id": "3377",
@@ -52439,7 +52658,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de polvo estelar + 8 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de polvo estelar + 8 Luminita)",
+    "piece_defense": "10"
   },
   {
     "id": "3382",
@@ -52467,7 +52687,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de polvo estelar + 16 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de polvo estelar + 16 Luminita)",
+    "piece_defense": "16"
   },
   {
     "id": "3383",
@@ -52495,7 +52716,8 @@
     "station_ids": [
       "ancient_manipulator"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de polvo estelar + 12 Luminita)"
+    "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de polvo estelar + 12 Luminita)",
+    "piece_defense": "12"
   },
   {
     "id": "3384",
