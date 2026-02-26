@@ -41,5 +41,6 @@
   { "id": "quest", "name_en": "Quest Reward", "name_es": "Recompensa de Misión", "image": "https://terraria.wiki.gg/images/Angler_Tackle_Bag.png" },
   { "id": "exploration", "name_en": "Exploration", "name_es": "Exploración/Cofres", "image": "https://terraria.wiki.gg/images/Chest.png" },
   { "id": "mining", "name_en": "Mining", "name_es": "Minería", "image": "https://terraria.wiki.gg/images/Molten_Pickaxe.png" },
-  { "id": "farming", "name_en": "Farming/Harvest", "name_es": "Cultivo/Cosecha", "image": "https://terraria.wiki.gg/images/Pumpkin_Seed.png" }
+  { "id": "farming", "name_en": "Farming/Harvest", "name_es": "Cultivo/Cosecha", "image": "https://terraria.wiki.gg/images/Pumpkin_Seed.png" },
+  { "id": "bug_net", "name_en": "Caught with Bug Net", "name_es": "Atrapado con Red", "image": "https://terraria.wiki.gg/images/Bug_Net.png" }
 ]

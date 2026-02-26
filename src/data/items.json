@@ -11511,7 +11511,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red%27s_Wings.png?494459",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "666",
@@ -25663,7 +25665,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crowno's_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Crowno%27s_Wings.png?a395a5",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1586",
@@ -25673,7 +25677,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cenx's_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cenx%27s_Wings.png?81ce1f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1587",
@@ -30441,7 +30447,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Firefly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Firefly.png?8f325b",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "1993",
@@ -30472,7 +30480,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Monarch_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Monarch_Butterfly.png?fecb45",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "1995",
@@ -30492,7 +30502,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Admiral_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Admiral_Butterfly.png?57da07",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "1997",
@@ -30532,7 +30544,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Zebra_Swallowtail_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Zebra_Swallowtail_Butterfly.png?7d23e7",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2001",
@@ -30542,7 +30556,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Julia_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Julia_Butterfly.png?92659a",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2002",
@@ -30552,7 +30568,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Worm",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Worm.png?a4f1f7",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2003",
@@ -30562,7 +30580,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mouse",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mouse.png?ed6420",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2004",
@@ -30592,7 +30612,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lightning_Bug_in_a_Bottle.png?ce5719",
     "station_ids": [
-      "hand"
+      "hand",
+      "bug_net"
     ]
   },
   {
@@ -30613,7 +30634,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Glowing_Snail",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Glowing_Snail.png?f37996",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2008",
@@ -42040,7 +42063,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Journeyman_Bait",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Journeyman_Bait.png?eecbfa",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2676",
@@ -45577,7 +45602,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gold_Frog",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Frog.png?38021f",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "2893",
@@ -49779,7 +49806,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Enchanted_Nightcrawler.png?e4dfea",
     "station_ids": [
-      "hand"
+      "hand",
+      "bug_net"
     ]
   },
   {
@@ -49790,7 +49818,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Grubby",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Grubby.png?773329",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "3193",
@@ -49800,7 +49830,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sluggy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sluggy.png?b2bbac",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "3194",
@@ -50232,7 +50264,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Cross_Grave_Marker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Cross_Grave_Marker.png?b77278",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3230",
@@ -50242,7 +50276,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Tombstone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Tombstone.png?f912f6",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3231",
@@ -50252,7 +50288,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Grave_Marker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Grave_Marker.png?7cb210",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3232",
@@ -50262,7 +50300,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Gravestone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Gravestone.png?782742",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3233",
@@ -50272,7 +50312,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Headstone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Headstone.png?bb4bc1",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3234",
@@ -50288,7 +50330,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Crystal_Block.png?b3b41b",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -50299,7 +50342,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Martian_Madness)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Martian_Madness%29.png?2135e2",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3236",
@@ -50309,7 +50354,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Pirate_Invasion)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Pirate_Invasion%29.png?c8fffe",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3237",
@@ -50319,7 +50366,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Hell)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Music_Box_%28Hell%29.png?9d9b91",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3238",
@@ -50409,7 +50458,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector's_Hat",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tax_Collector%27s_Hat.png?26541a",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3243",
@@ -50419,7 +50470,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector's_Suit",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tax_Collector%27s_Suit.png?6ee227",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3244",
@@ -50429,7 +50482,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector's_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tax_Collector%27s_Pants.png?584a1f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3245",
@@ -55492,7 +55547,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Uniform",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yoraiz0r%27s_Uniform.png?53dd35",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3579",
@@ -55502,7 +55559,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Skirt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yoraiz0r%27s_Skirt.png?e5f367",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3580",
@@ -55512,7 +55571,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Spell",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yoraiz0r%27s_Spell.gif?fb6d3a",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3581",
@@ -55522,7 +55583,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Scowl",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yoraiz0r%27s_Scowl.gif?ad8f12",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3582",
@@ -55532,7 +55595,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Jim%27s_Wings.png?3d4e62",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3583",
@@ -55542,7 +55607,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Recolored_Goggles",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Yoraiz0r's_Recolored_Goggles.png",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3584",
@@ -55558,7 +55625,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Leaf_Wall.png?d8db8f",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -55569,7 +55637,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skiphs'_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Skiphs%27_Mask.png?881cae",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3586",
@@ -55599,7 +55669,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Skiphs'_Paws",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Skiphs%27_Paws.png?c2e607",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3589",
@@ -55610,7 +55682,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Loki%27s_Helmet.png?5007cd",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -55622,7 +55695,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Loki%27s_Breastplate.png?8aa41a",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -55634,7 +55708,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Loki%27s_Greaves.png?651dad",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -55645,7 +55720,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Loki's_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Loki%27s_Wings.png?483cf0",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3593",
@@ -55655,7 +55732,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sand_Slime_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sand_Slime_Banner.png?981f68",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3594",
@@ -55665,7 +55744,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sea_Snail_Banner",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sea_Snail_Banner.png?de6fc4",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3595",
@@ -55675,7 +55756,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Moon_Lord_Trophy.png?d54a26",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3596",
@@ -68222,7 +68305,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Scarab_Fish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Scarab_Fish.png?7f5db2",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ]
   },
   {
     "id": "4394",
@@ -68325,7 +68410,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Ladybug_Cage.png?18174e",
     "station_ids": [
-      "hand"
+      "hand",
+      "bug_net"
     ]
   },
   {
