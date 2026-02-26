@@ -264,7 +264,12 @@
     "biome_en": "Underworld",
     "time_es": "Pre-Hardmode",
     "time_en": "Pre-Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "1322",
+        "chance": "0.67% (Clásico) / 1% (Experto)"
+      }
+    ]
   },
   {
     "id": "-52",
@@ -870,7 +875,12 @@
     "biome_en": "Underworld",
     "time_es": "Pre-Hardmode",
     "time_en": "Pre-Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "1322",
+        "chance": "0.67% (Clásico) / 1% (Experto)"
+      }
+    ]
   },
   {
     "id": "-14",
@@ -885,7 +895,12 @@
     "biome_en": "Underworld",
     "time_es": "Pre-Hardmode",
     "time_en": "Pre-Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "1322",
+        "chance": "0.67% (Clásico) / 1% (Experto)"
+      }
+    ]
   },
   {
     "id": "-13",
@@ -900,7 +915,12 @@
     "biome_en": "Underworld",
     "time_es": "Pre-Hardmode",
     "time_en": "Pre-Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "1322",
+        "chance": "0.67% (Clásico) / 1% (Experto)"
+      }
+    ]
   },
   {
     "id": "-12",
@@ -1475,9 +1495,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Obsidian Rose",
         "item_id": "1323",
-        "chance": "Drops"
+        "chance": "2% (Clásico) / 4% (Experto)"
       }
     ]
   },
@@ -2056,14 +2075,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Ichor Arrow",
-        "item_id": "1334",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Lucky Coin",
-        "item_id": "855",
-        "chance": "Drops"
+        "item_id": "1322",
+        "chance": "0.67% (Clásico) / 1% (Experto)"
       }
     ]
   },
@@ -2097,14 +2110,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Dark Lance",
-        "item_id": "274",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Ichor Bullet",
-        "item_id": "1335",
-        "chance": "Drops"
+        "item_id": "272",
+        "chance": "2.86%"
       }
     ]
   },
@@ -2206,19 +2213,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Guide Voodoo Doll",
         "item_id": "267",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Dark Lance",
-        "item_id": "274",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Ichor Bullet",
-        "item_id": "1335",
-        "chance": "Drops"
+        "chance": "100%"
       }
     ]
   },
@@ -3746,14 +3742,12 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Ichor Bullet",
-        "item_id": "1335",
-        "chance": "Drops"
+        "item_id": "683",
+        "chance": "10% (Clásico) / 15% (Experto)"
       },
       {
-        "item_name": "Crimtane Bar",
-        "item_id": "1257",
-        "chance": "Drops"
+        "item_id": "1518",
+        "chance": "1.33% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -5475,13 +5469,7 @@
     "biome_en": "Various",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Solar Fragment",
-        "item_id": "3458",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "425",
@@ -5496,13 +5484,7 @@
     "biome_en": "Various",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Stardust Fragment",
-        "item_id": "3459",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "460",
@@ -5619,13 +5601,7 @@
     "biome_en": "Various",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Vortex Fragment",
-        "item_id": "3456",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "507",
@@ -5640,13 +5616,7 @@
     "biome_en": "Various",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Nebula Fragment",
-        "item_id": "3457",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "548",
