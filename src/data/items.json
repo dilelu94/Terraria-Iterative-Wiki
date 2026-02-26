@@ -777,7 +777,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Suspicious_Looking_Eye.png?502166",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "altar"
     ]
   },
   {
@@ -1181,7 +1182,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Worm_Food.png?6793d5",
     "station_ids": [
-      "hand"
+      "hand",
+      "altar"
     ]
   },
   {
@@ -2047,7 +2049,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lesser_Mana_Potion.png?d75464",
     "station_ids": [
-      "31"
+      "31",
+      "hand"
     ]
   },
   {
@@ -3305,7 +3308,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Healing_Potion.png?9e912f",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -3326,7 +3330,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mana_Potion.png?ce1ac1",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -3977,7 +3982,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Restoration_Potion.png?d4bb57",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -4152,7 +4158,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Meteor_Shot.png?e976f1",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -4974,7 +4981,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Skin_Potion.png?5e2b48",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -4999,7 +5007,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Regeneration_Potion.png?b3f011",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5024,7 +5033,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Swiftness_Potion.png?6ebc7b",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5049,7 +5059,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gills_Potion.png?b69f4d",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5240,7 +5251,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Shine_Potion.png?36f24f",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5394,7 +5406,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hunter_Potion.png?fbfeea",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5427,7 +5440,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gravitation_Potion.png?df2ce4",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -6260,7 +6274,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Goblin_Battle_Standard.png?99c108",
     "station_ids": [
-      "hand"
+      "hand",
+      "330"
     ]
   },
   {
@@ -8743,7 +8758,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Crystal_Bullet.png?77e683",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -8768,7 +8784,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Holy_Arrow.png?a491fb",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -9160,7 +9177,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Eye.png?732e62",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -9386,7 +9404,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Worm.png?aa8837",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -9415,7 +9434,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Skull.png?92fb6f",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -9480,7 +9500,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Crown.png?80cab8",
     "station_ids": [
-      "hand"
+      "hand",
+      "altar"
     ]
   },
   {
@@ -19560,7 +19581,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chlorophyte_Bullet.png?fd9de6",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -21937,7 +21959,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bloody_Spine.png?9aeb4e",
     "station_ids": [
-      "hand"
+      "hand",
+      "altar"
     ]
   },
   {
@@ -22119,7 +22142,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Venom_Arrow.png?7ea581",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -22140,7 +22164,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Venom_Bullet.png?afe682",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -28198,7 +28223,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin_Moon_Medallion.png?840c21",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -29455,7 +29481,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Naughty_Present.png?348c69",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -35359,7 +35386,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mining_Potion.png?76d789",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35384,7 +35412,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Heartreach_Potion.png?9c3adc",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35409,7 +35438,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Calming_Potion.png?d7d4dd",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35438,7 +35468,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Builder_Potion.png?4cfa9f",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35467,7 +35498,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Titan_Potion.png?4141f8",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35492,7 +35524,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flipper_Potion.png?f71d47",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35517,7 +35550,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Summoning_Potion.png?1b8fd0",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35542,7 +35576,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dangersense_Potion.png?878585",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -35553,7 +35588,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Purple_Clubberfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Purple_Clubberfish.png?1f7e9a",
-    "station_ids": []
+    "station_ids": [
+      "31",
+      "3001"
+    ]
   },
   {
     "id": "2331",
@@ -35563,7 +35601,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Swordfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Swordfish.png?265581",
-    "station_ids": []
+    "station_ids": [
+      "31",
+      "3001"
+    ]
   },
   {
     "id": "2332",
@@ -35573,7 +35614,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Swordfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Swordfish.png?69d074",
-    "station_ids": []
+    "station_ids": [
+      "31",
+      "3001"
+    ]
   },
   {
     "id": "2333",
@@ -36019,7 +36063,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fishing_Potion.png?427e76",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -36044,7 +36089,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sonar_Potion.png?fa147d",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -36077,7 +36123,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Crate_Potion.png?b31d25",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -54746,7 +54793,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Celestial_Sigil.png?97259b",
     "station_ids": [
-      "hand"
+      "hand",
+      "ancient_manipulator"
     ]
   },
   {
@@ -77090,7 +77138,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Deer_Thing.png?beae01",
     "station_ids": [
-      "hand"
+      "hand",
+      "altar"
     ]
   },
   {

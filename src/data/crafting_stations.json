@@ -21,5 +21,6 @@
   { "id": "adamantite_forge", "name_en": "Any Adamantite Forge", "name_es": "Cualquier Forja de Adamantita/Titanio", "image": "https://terraria.wiki.gg/images/Adamantite_Forge.png" },
   { "id": "autohammer", "name_en": "Autohammer", "name_es": "Martillo automático", "image": "https://terraria.wiki.gg/images/Autohammer.png" },
   { "id": "ancient_manipulator", "name_en": "Ancient Manipulator", "name_es": "Manipulador antiguo", "image": "https://terraria.wiki.gg/images/Ancient_Manipulator.png" },
-  { "id": "bookcase", "name_en": "Bookcase", "name_es": "Librería", "image": "https://terraria.wiki.gg/images/Bookcase.png" }
+  { "id": "bookcase", "name_en": "Bookcase", "name_es": "Librería", "image": "https://terraria.wiki.gg/images/Bookcase.png" },
+  { "id": "altar", "name_en": "Demon/Crimson Altar", "name_es": "Altar demoníaco/carmesí", "image": "https://terraria.wiki.gg/images/Demon_Altar.png" }
 ]
