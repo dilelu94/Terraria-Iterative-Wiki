@@ -13598,9 +13598,9 @@
   },
   {
     "id": "750",
-    "category": "Walls/Wallpaper",
-    "name_en": "Cactus Wall",
-    "name_es": "Pared de cactus",
+    "category": "Crafting",
+    "name_en": "Soul of Fright",
+    "name_es": "Alma de terror",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cactus_Wall",
     "recipes": [
       {
@@ -13610,15 +13610,15 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cactus_Wall.png",
     "station_ids": [
-      "hand",
-      "bone_welder"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Esqueletrón Prime"
   },
   {
     "id": "751",
-    "category": "Blocks",
-    "name_en": "Cloud",
-    "name_es": "Nube",
+    "category": "Crafting",
+    "name_en": "Soul of Might",
+    "name_es": "Alma de poder",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloud",
     "recipes": [
       {
@@ -13628,14 +13628,15 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud.png",
     "station_ids": [
-      "hand"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: El Destructor"
   },
   {
     "id": "752",
-    "category": "Walls/Wallpaper",
-    "name_en": "Cloud Wall",
-    "name_es": "Pared de nube",
+    "category": "Crafting",
+    "name_en": "Soul of Sight",
+    "name_es": "Alma de visión",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloud_Wall",
     "recipes": [
       {
@@ -13645,50 +13646,61 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud_Wall.png",
     "station_ids": [
-      "hand"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Los Gemelos"
   },
   {
     "id": "753",
-    "category": "Pets/Mounts",
-    "name_en": "Seaweed",
-    "name_es": "Alga",
+    "category": "Weapons",
+    "name_en": "Gungnir",
+    "name_es": "Gungnir",
     "wiki_url": "https://terraria.wiki.gg/wiki/Seaweed_(pet)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Seaweed.png",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes sagrados)"
   },
   {
     "id": "754",
-    "category": "Vanity",
-    "name_en": "Rune Hat",
-    "name_es": "Sombrero rúnico",
+    "category": "Armor",
+    "name_en": "Hallowed Greaves",
+    "name_es": "Grebas sagradas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rune_Hat",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rune_Hat.png",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes sagrados)"
   },
   {
     "id": "755",
-    "category": "Vanity",
-    "name_en": "Rune Robe",
-    "name_es": "Vestido rúnico",
+    "category": "Armor",
+    "name_en": "Hallowed Helmet",
+    "name_es": "Casco sagrado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rune_Robe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rune_Robe.png",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes sagrados)"
   },
   {
     "id": "756",
-    "category": "Weapons",
-    "name_en": "Mushroom Spear",
-    "name_es": "Lanza de champiñón",
+    "category": "Armor",
+    "name_en": "Hallowed Plate Mail",
+    "name_es": "Cota de placas sagrada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mushroom_Spear",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mushroom_Spear.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes sagrados)"
   },
   {
     "id": "757",
@@ -13697,10 +13709,6 @@
     "name_es": "Filo de Terra",
     "wiki_url": "https://terraria.wiki.gg/wiki/Terra_Blade",
     "recipes": [
-      {
-        "name_en": "Broken Hero Sword",
-        "amount": 1
-      },
       {
         "name_en": "True Excalibur",
         "amount": 1
@@ -13714,7 +13722,7 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (Filo de la noche verdadero + Excalibur verdadera)"
+    "origin_info": "Fabricado: Yunque de mitrilo (Filo de la noche verdadero + Excalibur verdadera)"
   },
   {
     "id": "758",
@@ -13727,7 +13735,7 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Plantera (Primer drop garantizado)"
+    "origin_info": "Botín: Plantera"
   },
   {
     "id": "759",
@@ -13753,7 +13761,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Cyborg"
+    "origin_info": "Compra: Cyborg (35 Oro)"
   },
   {
     "id": "761",
