@@ -11,7 +11,7 @@
     "drops": [
       {
         "item_name": "Solidifier",
-        "item_id": "997"
+        "item_id": "998"
       },
       {
         "item_name": "Slimy Saddle",
@@ -31,7 +31,7 @@
       },
       {
         "item_name": "Slime Gun",
-        "item_id": "530"
+        "item_id": "2610"
       },
       {
         "item_name": "Slime Hook",
@@ -39,11 +39,15 @@
       },
       {
         "item_name": "King Slime Mask",
-        "item_id": "2489"
+        "item_id": "2493"
       },
       {
         "item_name": "King Slime Trophy",
-        "item_id": "2589"
+        "item_id": "2489"
+      },
+      {
+        "item_name": "Lesser Healing Potion",
+        "item_id": "28"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.png",
@@ -58,48 +62,32 @@
     },
     "expert_drops": [
       {
-        "item_id": "3258",
-        "item_name": "Royal Gel"
+        "item_name": "Royal Gel",
+        "item_id": "3090"
       },
       {
-        "item_id": "4912",
-        "item_name": "King Slime Relic"
+        "item_name": "Slimy Saddle",
+        "item_id": "2430"
       },
       {
-        "item_id": "4957",
-        "item_name": "Royal Delight"
+        "item_name": "Ninja Hood",
+        "item_id": "256"
       },
       {
-        "item_id": "256",
-        "item_name": "Ninja Hood"
+        "item_name": "Ninja Shirt",
+        "item_id": "257"
       },
       {
-        "item_id": "257",
-        "item_name": "Ninja Shirt"
+        "item_name": "Ninja Pants",
+        "item_id": "258"
       },
       {
-        "item_id": "258",
-        "item_name": "Ninja Pants"
+        "item_name": "Slime Gun",
+        "item_id": "2610"
       },
       {
-        "item_id": "530",
-        "item_name": "Slime Gun"
-      },
-      {
-        "item_id": "2585",
-        "item_name": "Slime Hook"
-      },
-      {
-        "item_id": "2430",
-        "item_name": "Slimy Saddle"
-      },
-      {
-        "item_id": "2489",
-        "item_name": "King Slime Mask"
-      },
-      {
-        "item_id": "997",
-        "item_name": "Solidifier"
+        "item_name": "Slime Hook",
+        "item_id": "2585"
       }
     ]
   },
