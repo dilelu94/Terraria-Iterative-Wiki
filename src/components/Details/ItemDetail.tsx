@@ -37,6 +37,9 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
   const hasChestOrigin = !!item.origin_info;
 
+  const normalRecipes = item.recipes?.filter(r => !r.is_shimmer) || [];
+  const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
+
   // Filtrar estaciones según la regla: No mostrar "A mano" si no hay recetas o si hay otras fuentes
   const itemStations = item.station_ids 
     ? stations.filter(s => {
@@ -51,9 +54,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
         return item.station_ids!.includes(s.id);
       })
     : [];
-
-  const normalRecipes = item.recipes?.filter(r => !r.is_shimmer) || [];
-  const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
 
   return (
     <div className="crafting-view animate-slide">
