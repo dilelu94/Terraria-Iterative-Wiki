@@ -46,7 +46,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Dirt_Block.png?bc57a6",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "mining"
     ]
   },
   {
@@ -64,7 +65,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Stone_Block.png?ebe88c",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "mining"
     ]
   },
   {
@@ -173,7 +175,8 @@
     "image_url": "https://terraria.wiki.gg/images/Any_Wood.gif?952c00",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "woodcutting"
     ]
   },
   {
@@ -365,7 +368,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Gold_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -382,7 +386,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Copper_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -399,7 +404,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Silver_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -416,7 +422,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Iron_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -1058,7 +1065,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Corrupt_Seeds.png?ca23f8",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "mining"
     ]
   },
   {
@@ -2866,7 +2874,8 @@
     "set_stats": "+15% Daño a distancia / +10% Crítico a distancia",
     "set_bonus": "20% de probabilidad de no consumir munición.",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "mining"
     ]
   },
   {
@@ -3514,7 +3523,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mushroom_Grass_Seeds.png?5babb8",
     "station_ids": [
-      "hand"
+      "hand",
+      "mining"
     ]
   },
   {
@@ -10684,7 +10694,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood.png?586217",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "woodcutting"
     ]
   },
   {
@@ -10702,7 +10713,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany.png?e9c36b",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "woodcutting"
     ]
   },
   {
@@ -10720,7 +10732,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood.png?2ceb5b",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "woodcutting"
     ]
   },
   {
@@ -12189,7 +12202,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Tin_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -12206,7 +12220,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Lead_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -12223,7 +12238,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Tungsten_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -12240,7 +12256,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Platinum_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "mining"
     ]
   },
   {
@@ -18574,7 +18591,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Paint.png?8fd6f9",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1074",
@@ -18584,7 +18603,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Orange_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Orange_Paint.png?f3f19a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1075",
@@ -18594,7 +18615,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Paint.png?aaf872",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1076",
@@ -18604,7 +18627,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lime_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lime_Paint.png?583747",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1077",
@@ -18614,7 +18639,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Paint.png?165ec3",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1078",
@@ -18624,7 +18651,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Teal_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Teal_Paint.png?4d14f3",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1079",
@@ -18634,7 +18663,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cyan_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cyan_Paint.png?120b7b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1080",
@@ -18644,7 +18675,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sky_Blue_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sky_Blue_Paint.png?a0d098",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1081",
@@ -18654,7 +18687,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Paint.png?1f6906",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1082",
@@ -18664,7 +18699,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Purple_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Purple_Paint.png?b4fb5b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1083",
@@ -18674,7 +18711,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Violet_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Violet_Paint.png?738b19",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1084",
@@ -18684,7 +18723,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pink_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Paint.png?8b1a5b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1085",
@@ -18887,7 +18928,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Deep_Pink_Paint.png?61e16a",
     "station_ids": [
-      "hand"
+      "hand",
+      "merchant_buy"
     ]
   },
   {
@@ -18898,7 +18940,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Black_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Black_Paint.png?86fe14",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1098",
@@ -18908,7 +18952,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/White_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/White_Paint.png?4365a1",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1099",
@@ -18918,7 +18964,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gray_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gray_Paint.png?862568",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1100",
@@ -30144,7 +30192,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Brown_Paint",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Brown_Paint.png?b3419c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1967",
@@ -38905,7 +38955,8 @@
     "image_url": "https://terraria.wiki.gg/images/Boreal_Wood.png",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "woodcutting"
     ]
   },
   {
@@ -38923,7 +38974,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Palm_Wood.png?70cd88",
     "station_ids": [
       "hand",
-      "36"
+      "36",
+      "woodcutting"
     ]
   },
   {
@@ -62617,7 +62669,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golf_Club_(Iron)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golf_Club_%28Iron%29.png?6026bc",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4040",
@@ -62627,7 +62681,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golf_Cup",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golf_Cup.png?8cb0c9",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4041",
@@ -63137,7 +63193,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/White_Pin_Flag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/White_Pin_Flag.png?4f7c09",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4084",
@@ -63147,7 +63205,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Pin_Flag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Pin_Flag.png?3e0d4b",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4085",
@@ -63157,7 +63217,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Pin_Flag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Pin_Flag.png?6e53ba",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4086",
@@ -63167,7 +63229,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Pin_Flag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Pin_Flag.png?f58f6d",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4087",
@@ -63177,7 +63241,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Pin_Flag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Pin_Flag.png?38cf82",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4088",
@@ -63187,7 +63253,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Purple_Pin_Flag",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Purple_Pin_Flag.png?b23070",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4089",
@@ -72468,7 +72536,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Illuminant_Coating",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Illuminant_Paint.png?9d251d",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4669",

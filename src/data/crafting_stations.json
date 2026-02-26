@@ -46,5 +46,6 @@
   { "id": "tree_shaking", "name_en": "Tree Shaking", "name_es": "Sacudiendo Árboles", "image": "https://terraria.wiki.gg/images/Wood.png" },
   { "id": "recording", "name_en": "Recording", "name_es": "Grabación (Equipada)", "image": "https://terraria.wiki.gg/images/Music_Box.png" },
   { "id": "keg", "name_en": "Keg", "name_es": "Barril", "image": "https://terraria.wiki.gg/images/Keg.png" },
-  { "id": "teapot", "name_en": "Teapot", "name_es": "Tetera", "image": "https://terraria.wiki.gg/images/Teapot.png" }
+  { "id": "teapot", "name_en": "Teapot", "name_es": "Tetera", "image": "https://terraria.wiki.gg/images/Teapot.png" },
+  { "id": "woodcutting", "name_en": "Woodcutting", "name_es": "Talado de Árboles", "image": "https://terraria.wiki.gg/images/Iron_Axe.png" }
 ]
