@@ -458,7 +458,12 @@
     "biome_en": "Corruption",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "23",
+        "chance": "100% (1-2)"
+      }
+    ]
   },
   {
     "id": "-42",
@@ -473,7 +478,12 @@
     "biome_en": "Corruption",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "23",
+        "chance": "100% (1-2)"
+      }
+    ]
   },
   {
     "id": "-41",
@@ -488,7 +498,12 @@
     "biome_en": "Corruption",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "23",
+        "chance": "100% (1-2)"
+      }
+    ]
   },
   {
     "id": "-40",
@@ -1124,7 +1139,12 @@
     "biome_en": "Corruption",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "23",
+        "chance": "100% (1-2)"
+      }
+    ]
   },
   {
     "id": "-1",
@@ -1139,7 +1159,12 @@
     "biome_en": "Corruption",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": []
+    "drops": [
+      {
+        "item_id": "23",
+        "chance": "100% (1-2)"
+      }
+    ]
   },
   {
     "id": "1",
@@ -2564,19 +2589,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Gel",
         "item_id": "23",
-        "chance": "Drops"
+        "chance": "100% (2-4)"
       },
       {
-        "item_name": "Cursed Flame",
-        "item_id": "522",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Unicorn Horn",
-        "item_id": "526",
-        "chance": "Drops"
+        "item_id": "886",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -2809,24 +2827,12 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Cursed Flame",
-        "item_id": "522",
-        "chance": "Drops"
+        "item_id": "886",
+        "chance": "1% (Clásico) / 2% (Experto)"
       },
       {
-        "item_name": "Unicorn Horn",
-        "item_id": "526",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Discount Card",
-        "item_id": "854",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Hook",
-        "item_id": "118",
-        "chance": "Drops"
+        "item_id": "889",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -2860,14 +2866,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Cursed Flame",
         "item_id": "522",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Unicorn Horn",
-        "item_id": "526",
-        "chance": "Drops"
+        "chance": "100% (2-5)"
       }
     ]
   },
@@ -3183,19 +3183,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Gel",
         "item_id": "23",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Cursed Flame",
-        "item_id": "522",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Unicorn Horn",
-        "item_id": "526",
-        "chance": "Drops"
+        "chance": "100% (1-2)"
       }
     ]
   },
@@ -3982,9 +3971,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Toy Sled",
-        "item_id": "1312",
-        "chance": "Drops"
+        "item_id": "2427",
+        "chance": "6.67%"
       }
     ]
   },
@@ -4027,13 +4015,7 @@
     "biome_en": "Crimson",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Tissue Sample",
-        "item_id": "1329",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "175",
@@ -4165,14 +4147,8 @@
     "time_en": "Hardmode",
     "drops": [
       {
-        "item_name": "Tissue Sample",
-        "item_id": "1329",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Soul of Night",
-        "item_id": "521",
-        "chance": "Drops"
+        "item_id": "889",
+        "chance": "1% (Clásico) / 2% (Experto)"
       }
     ]
   },
@@ -4191,14 +4167,8 @@
     "time_en": "Pre-Hardmode",
     "drops": [
       {
-        "item_name": "Gel",
         "item_id": "23",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Tissue Sample",
-        "item_id": "1329",
-        "chance": "Drops"
+        "chance": "100% (2-4)"
       }
     ]
   },
@@ -4876,7 +4846,7 @@
     "drops": [
       {
         "item_id": "1332",
-        "chance": "100% (1-3 Clásico / 2-5 Experto)"
+        "chance": "100% (2-5)"
       }
     ]
   },
