@@ -995,7 +995,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Subterráneo) / Cajas de hierro (Pesca)"
+    "origin_info": "Encontrado en Cofres de oro (Cueva)"
   },
   {
     "id": "54",
@@ -2924,7 +2924,7 @@
   },
   {
     "id": "158",
-    "category": "Weapons",
+    "category": "Accessories",
     "name_en": "Lucky Horseshoe",
     "name_es": "Bola de dolor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lucky_Horseshoe",
@@ -2933,26 +2933,20 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Orbe sombrío (Corrupción)"
+    "origin_info": "Encontrado en Cofres de las Islas Flotantes"
   },
   {
     "id": "159",
-    "category": "Weapons",
+    "category": "Accessories",
     "name_en": "Shiny Red Balloon",
     "name_es": "Luna azul",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shiny_Red_Balloon",
-    "recipes": [
-      {
-        "name_en": "Balloon Pufferfish",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shiny_Red_Balloon.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Mazmorra)"
+    "origin_info": "Encontrado en Cofres de las Islas Flotantes"
   },
   {
     "id": "160",
@@ -14774,30 +14768,14 @@
     "name_en": "Sandstorm in a Bottle",
     "name_es": "Tormenta de arena en botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sandstorm_in_a_Bottle",
-    "recipes": [
-      {
-        "name_en": "Cloud in a Bottle",
-        "amount": 1,
-        "is_shimmer": true
-      },
-      {
-        "name_en": "Forbidden Fragment",
-        "amount": 1,
-        "is_shimmer": true
-      },
-      {
-        "name_en": "Pharaoh's Mask",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstorm_in_a_Bottle.png",
     "station_ids": [
       "shimmer",
       "398",
       "exploration"
     ],
-    "origin_info": "Cofre de pirámide (Desierto) / Cajas del oasis (Pesca)"
+    "origin_info": "Encontrado en Cofres de arenisca (Pirámide)"
   },
   {
     "id": "858",
@@ -16811,7 +16789,7 @@
       "398",
       "exploration"
     ],
-    "origin_info": "Cofre helado (Bioma de nieve)"
+    "origin_info": "Encontrado en Cofres helados (Nieve)"
   },
   {
     "id": "988",
@@ -19680,11 +19658,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bundle_of_Balloons",
     "recipes": [
       {
-        "name_en": "Blizzard in a Balloon",
+        "name_en": "Cloud in a Balloon",
         "amount": 1
       },
       {
-        "name_en": "Cloud in a Balloon",
+        "name_en": "Blizzard in a Balloon",
         "amount": 1
       },
       {
@@ -19694,7 +19672,6 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bundle_of_Balloons.png",
     "station_ids": [
-      "hand",
       "398"
     ]
   },
@@ -21270,10 +21247,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blue_Horseshoe_Balloon.png",
     "station_ids": [
-      "hand",
       "398"
-    ],
-    "origin_info": "Fabricado: 16 Colmillos de araña"
+    ]
   },
   {
     "id": "1251",
@@ -21293,9 +21268,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/White_Horseshoe_Balloon.png",
     "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Fabricado: 16 Colmillos de araña"
+      "398"
+    ]
   },
   {
     "id": "1252",
@@ -21305,21 +21279,18 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Horseshoe_Balloon",
     "recipes": [
       {
-        "name_en": "Lucky Horseshoe",
+        "name_en": "Sandstorm in a Balloon",
         "amount": 1
       },
       {
-        "name_en": "Sandstorm in a Balloon",
+        "name_en": "Lucky Horseshoe",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yellow_Horseshoe_Balloon.png",
     "station_ids": [
-      "hand",
-      "398",
-      "exploration"
-    ],
-    "origin_info": "Romper Corazones Carmesí"
+      "398"
+    ]
   },
   {
     "id": "1253",
@@ -48408,7 +48379,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Royal_Gel.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Rey Slime)"
+    "origin_info": "Soltado por el Rey Slime (Bolsa de Tesoro)"
   },
   {
     "id": "3091",
@@ -48495,7 +48466,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shield_of_Cthulhu.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Ojo de Cthulhu)"
+    "origin_info": "Soltado por el Ojo de Cthulhu (Bolsa de Tesoro)"
   },
   {
     "id": "3098",
@@ -50696,7 +50667,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Confusion.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Devoramundos)"
+    "origin_info": "Soltado por el Cerebro de Cthulhu (Bolsa de Tesoro)"
   },
   {
     "id": "3224",
@@ -50707,7 +50678,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Worm_Scarf.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Cerebro de Cthulhu)"
+    "origin_info": "Soltado por el Devoramundos (Bolsa de Tesoro)"
   },
   {
     "id": "3225",
@@ -50995,7 +50966,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bone_Glove.png",
     "station_ids": [],
-    "origin_info": "Botín: Esqueletrón (Experto)"
+    "origin_info": "Soltado por Skeletron (Bolsa de Tesoro)"
   },
   {
     "id": "3246",
@@ -52383,7 +52354,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hive_Pack.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Muro de Carne)"
+    "origin_info": "Soltado por la Abeja Reina (Bolsa de Tesoro)"
   },
   {
     "id": "3334",
@@ -52400,14 +52371,14 @@
   },
   {
     "id": "3335",
-    "category": "Miscellaneous",
+    "category": "Accessories",
     "name_en": "Demon Heart",
     "name_es": "Corazón del Demonio",
     "wiki_url": "https://terraria.wiki.gg/wiki/Demon_Heart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Heart.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Plantera)"
+    "origin_info": "Soltado por el Muro de Carne (Bolsa de Tesoro)"
   },
   {
     "id": "3336",
@@ -52418,7 +52389,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spore_Sac.png",
     "station_ids": [],
-    "origin_info": "Bolsa del Tesoro (Golem)"
+    "origin_info": "Soltado por Plantera (Bolsa de Tesoro)"
   },
   {
     "id": "3337",
@@ -52428,7 +52399,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shiny_Stone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shiny_Stone.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Soltado por el Golem (Bolsa de Tesoro)"
   },
   {
     "id": "3338",
@@ -77287,7 +77259,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Volatile_Gelatin.png",
     "station_ids": [],
-    "origin_info": "Botín: Reina slime"
+    "origin_info": "Soltado por la Reina Slime (Bolsa de Tesoro)"
   },
   {
     "id": "4988",
@@ -77309,7 +77281,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soaring_Insignia.png",
     "station_ids": [],
-    "origin_info": "Botín: Emperatriz de la luz (Experto)"
+    "origin_info": "Soltado por la Emperatriz de la Luz (Bolsa de Tesoro)"
   },
   {
     "id": "4990",
