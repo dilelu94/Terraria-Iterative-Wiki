@@ -1030,7 +1030,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Subterráneo)"
+    "origin_info": "Cofre dorado (Subterráneo) / Cajas de hierro (Pesca)"
   },
   {
     "id": "54",
@@ -1043,7 +1043,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Subterráneo)"
+    "origin_info": "Cofre dorado (Subterráneo) / Cajas de hierro (Pesca)"
   },
   {
     "id": "55",
@@ -3978,7 +3978,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra (Selva subterránea)"
+    "origin_info": "Cofre de hiedra (Selva) / Cajas de la selva (Pesca)"
   },
   {
     "id": "213",
@@ -3992,7 +3992,7 @@
       "hand",
       "exploration"
     ],
-    "origin_info": "Cofre de hiedra (Selva subterránea)"
+    "origin_info": "Cofre de hiedra (Selva) / Cajas de la selva (Pesca)"
   },
   {
     "id": "214",
@@ -5221,7 +5221,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de madera (Superficie) / Cajas de madera"
+    "origin_info": "Cofre de madera (Superficie) / Cajas de madera (Pesca)"
   },
   {
     "id": "286",
@@ -15255,7 +15255,7 @@
       "398",
       "exploration"
     ],
-    "origin_info": "Cofre de pirámide (Desierto)"
+    "origin_info": "Cofre de pirámide (Desierto) / Cajas del oasis (Pesca)"
   },
   {
     "id": "858",
@@ -15381,7 +15381,7 @@
       "loot",
       "exploration"
     ],
-    "origin_info": "Cofre de agua (Océano / Cuevas inundadas)"
+    "origin_info": "Cofre de agua (Océano) / Cajas del océano (Pesca)"
   },
   {
     "id": "864",
@@ -16769,7 +16769,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre helado (Bioma de nieve)"
+    "origin_info": "Cofre helado (Nieve) / Cajas congeladas (Pesca)"
   },
   {
     "id": "951",
@@ -42043,8 +42043,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Falcon_Blade.png",
     "station_ids": [
-      "steampunk_boiler"
-    ]
+      "steampunk_boiler",
+      "exploration"
+    ],
+    "origin_info": "Cajas de hierro / Cajas de mitrilo (Pesca)"
   },
   {
     "id": "2609",
@@ -48982,7 +48984,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de madera (Superficie) / Cajas de madera",
+    "origin_info": "Cofre de madera (Superficie) / Cajas de madera (Pesca)",
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Radar.png"
   },
   {
