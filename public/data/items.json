@@ -1737,7 +1737,7 @@
     "id": "93",
     "category": "Walls/Wallpaper",
     "name_en": "Wood Wall",
-    "name_es": "Linterna de cadena",
+    "name_es": "Pared de madera",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Wall",
     "recipes": [
       {
@@ -1751,15 +1751,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Wall.png",
     "station_ids": [
-      "hand",
-      "iron_anvil",
       "36"
     ],
-    "origin_info": "Yunque de hierro / plomo"
+    "origin_info": "Fabricado: Banco de trabajo (1 Madera)"
   },
   {
     "id": "94",
-    "category": "Platforms/Fencing",
+    "category": "Blocks",
     "name_en": "Wood Platform",
     "name_es": "Plataforma de madera",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Platform",
@@ -1772,21 +1770,21 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Platform.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Fabricado: A mano (1 Madera)"
   },
   {
     "id": "95",
     "category": "Weapons",
     "name_en": "Flintlock Pistol",
-    "name_es": "Mosquete",
+    "name_es": "Pistola de chispa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flintlock_Pistol",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flintlock_Pistol.png",
     "station_ids": [
-      "merchant_buy",
       "exploration"
     ],
-    "origin_info": "Botín: Orbe sombrío (Corrupción)"
+    "origin_info": "Compra: Traficante de armas (5 Oro)"
   },
   {
     "id": "96",
@@ -1798,24 +1796,27 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Musket.png",
     "station_ids": [
       "exploration"
-    ]
+    ],
+    "origin_info": "Botín: Orbe sombrío (Corrupción)"
   },
   {
     "id": "97",
-    "category": "Weapons (Thrown/Ammo)",
+    "category": "Ammunition",
     "name_en": "Musket Ball",
     "name_es": "Bala de mosquete",
     "wiki_url": "https://terraria.wiki.gg/wiki/Musket_Ball",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Musket_Ball.png",
-    "station_ids": [],
-    "origin_info": "Compra: Mercader de armas"
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Compra: Traficante de armas (7 Bronce)"
   },
   {
     "id": "98",
     "category": "Weapons",
     "name_en": "Minishark",
-    "name_es": "Cañón de estrellas",
+    "name_es": "Minitiburón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Minishark",
     "recipes": [
       {
@@ -1825,15 +1826,15 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Minishark.png",
     "station_ids": [
-      "iron_anvil"
+      "exploration"
     ],
-    "origin_info": "Fabricado: Yunque (Minitiburón + 20 Lingotes de meteorito + 5 Estrellas caídas)"
+    "origin_info": "Compra: Traficante de armas (35 Oro)"
   },
   {
     "id": "99",
     "category": "Weapons",
     "name_en": "Iron Bow",
-    "name_es": "Espada encantada",
+    "name_es": "Arco de hierro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Iron_Bow",
     "recipes": [
       {
@@ -1851,10 +1852,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Bow.png",
     "station_ids": [
-      "hand",
       "iron_anvil"
     ],
-    "origin_info": "Encontrado: Santuarios en el bosque"
+    "origin_info": "Fabricado: Yunque (7 Lingotes de hierro)"
   },
   {
     "id": "100",
@@ -9098,29 +9098,29 @@
   },
   {
     "id": "501",
-    "category": "Crafting",
+    "category": "Materials",
     "name_en": "Pixie Dust",
-    "name_es": "Cuerno de unicornio",
+    "name_es": "Polvo de hada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pixie_Dust",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pixie_Dust.png",
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Unicornio (Bendición)"
+    "origin_info": "Botín: Pixie (Bendición)"
   },
   {
     "id": "502",
-    "category": "Crafting",
+    "category": "Materials",
     "name_en": "Crystal Shard",
     "name_es": "Fragmento de cristal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Shard",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Shard.png",
     "station_ids": [
-      "loot"
+      "exploration"
     ],
-    "origin_info": "Encontrado: Bendición (Subterráneo)"
+    "origin_info": "Encontrado: Bendición subterránea"
   },
   {
     "id": "503",
@@ -9174,8 +9174,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flamethrower.png",
     "station_ids": [
-      "hand"
-    ]
+      "mythril_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (20 Lingotes de hierro + Parte de arma ilegal + 20 Almas de terror)"
   },
   {
     "id": "507",
@@ -9210,28 +9211,29 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Wrench.png",
     "station_ids": [
-      "merchant_buy"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Compra: Mecánica (2 Oro)"
   },
   {
     "id": "510",
+    "category": "Weapons",
+    "name_en": "Ice Rod",
+    "name_es": "Vara de hielo",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Rod",
+    "recipes": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Rod.png",
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Compra: Mago (50 Oro)"
+  },
+  {
+    "id": "511",
     "category": "Tools",
     "name_en": "Wire Cutter",
     "name_es": "Alicates",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wire_Cutter",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wire_Cutter.png",
-    "station_ids": [
-      "hand",
-      "merchant_buy"
-    ]
-  },
-  {
-    "id": "511",
-    "category": "Mechanisms",
-    "name_en": "Active Stone Block",
-    "name_es": "Bloque de piedra activo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Active_Stone_Block",
     "recipes": [
       {
         "name_en": "Stone Block",
@@ -9242,17 +9244,18 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Active_Stone_Block.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wire_Cutter.png",
     "station_ids": [
-      "hand"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Compra: Mecánica (2 Oro)"
   },
   {
     "id": "512",
-    "category": "Item States",
-    "name_en": "Inactive Stone Block",
-    "name_es": "Bloque de piedra inactivo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Inactive_Stone_Block",
+    "category": "Mechanisms",
+    "name_en": "Active Stone Block",
+    "name_es": "Bloque de piedra activo",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Active_Stone_Block",
     "recipes": [
       {
         "name_en": "Stone Wall",
@@ -9263,41 +9266,44 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Inactive_Stone_Block.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Active_Stone_Block.png",
     "station_ids": [
-      "hand",
-      "iron_anvil"
-    ]
+      "hand"
+    ],
+    "origin_info": "Fabricado: A mano (1 Bloque de piedra + 1 Cable)"
   },
   {
     "id": "513",
+    "category": "Mechanisms",
+    "name_en": "Inactive Stone Block",
+    "name_es": "Bloque de piedra inactivo",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Inactive_Stone_Block",
+    "recipes": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Inactive_Stone_Block.png",
+    "station_ids": [
+      "hand"
+    ],
+    "origin_info": "Fabricado: A mano (1 Bloque de piedra + 1 Cable)"
+  },
+  {
+    "id": "514",
     "category": "Mechanisms",
     "name_en": "Lever",
     "name_es": "Palanca",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lever",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lever.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Compra: Mecánica (30 Plata)"
   },
   {
-    "id": "514",
+    "id": "515",
     "category": "Weapons",
     "name_en": "Laser Rifle",
     "name_es": "Fusil láser",
     "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Rifle",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Laser_Rifle.png",
-    "station_ids": [
-      "bookcase",
-      "exploration"
-    ]
-  },
-  {
-    "id": "515",
-    "category": "Weapons (Thrown/Ammo)",
-    "name_en": "Crystal Bullet",
-    "name_es": "Bala de cristal",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Bullet",
     "recipes": [
       {
         "name_en": "Crystal Shard",
@@ -9308,19 +9314,18 @@
         "amount": 100
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Bullet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Laser_Rifle.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil"
+      "loot"
     ],
-    "origin_info": "Fabricado: Yunque (Fragmento de cristal)"
+    "origin_info": "Botín: Muro de Carne"
   },
   {
     "id": "516",
-    "category": "Weapons (Thrown/Ammo)",
-    "name_en": "Holy Arrow",
-    "name_es": "Flecha sagrada",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Holy_Arrow",
+    "category": "Ammunition",
+    "name_en": "Crystal Bullet",
+    "name_es": "Bala de cristal",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Bullet",
     "recipes": [
       {
         "name_en": "Pixie Dust",
@@ -9335,30 +9340,31 @@
         "amount": 200
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Holy_Arrow.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Bullet.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil"
+      "iron_anvil"
     ],
-    "origin_info": "Yunque de mitrilo / oricalco"
+    "origin_info": "Fabricado: Yunque (100 Balas de mosquete + 1 Fragmento de cristal)"
   },
   {
     "id": "517",
-    "category": "Weapons",
-    "name_en": "Magic Dagger",
-    "name_es": "Rifle láser",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Dagger",
+    "category": "Ammunition",
+    "name_en": "Holy Arrow",
+    "name_es": "Flecha sagrada",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Holy_Arrow",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Dagger.png",
-    "station_ids": [],
-    "origin_info": "Botín: Muro de carne"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Holy_Arrow.png",
+    "station_ids": [
+      "iron_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque (200 Flechas + 3 Polvo de hada + 1 Cuerno de unicornio)"
   },
   {
     "id": "518",
     "category": "Weapons",
-    "name_en": "Crystal Storm",
-    "name_es": "Tormenta de cristal",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Storm",
+    "name_en": "Magic Harp",
+    "name_es": "Arpa mágica",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Harp",
     "recipes": [
       {
         "name_en": "Crystal Shard",
@@ -9373,19 +9379,18 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Storm.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Harp.png",
     "station_ids": [
-      "hand",
-      "bookcase"
+      "mythril_anvil"
     ],
-    "origin_info": "Librería (Libro + Almas)"
+    "origin_info": "Fabricado: Yunque de mitrilo (Arpa + 20 Almas de vista + 8 Almas de noche + 15 Cristales)"
   },
   {
     "id": "519",
     "category": "Weapons",
-    "name_en": "Cursed Flames",
-    "name_es": "Llamas malditas",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cursed_Flames",
+    "name_en": "Rainbow Rod",
+    "name_es": "Vara arcoíris",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Rainbow_Rod",
     "recipes": [
       {
         "name_en": "Cursed Flame",
@@ -9400,39 +9405,37 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cursed_Flames.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rainbow_Rod.png",
     "station_ids": [
-      "hand"
+      "mythril_anvil"
     ],
-    "origin_info": "Librería (Libro + Almas)"
+    "origin_info": "Fabricado: Yunque de mitrilo (10 Cristales + 2 Cuerno de unicornio + 10 Polvo de hada + 8 Almas de vista + 15 Almas de luz)"
   },
   {
     "id": "520",
-    "category": "Crafting",
+    "category": "Materials",
     "name_en": "Soul of Light",
     "name_es": "Alma de luz",
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Light",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soul_of_Light.png",
     "station_ids": [
-      "loot",
-      "exploration"
+      "loot"
     ],
-    "origin_info": "Botín: Enemigos en la Bendición subterránea"
+    "origin_info": "Botín: Enemigos de la Bendición subterránea"
   },
   {
     "id": "521",
-    "category": "Crafting",
+    "category": "Materials",
     "name_en": "Soul of Night",
     "name_es": "Alma de noche",
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Night",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soul_of_Night.png",
     "station_ids": [
-      "loot",
-      "exploration"
+      "loot"
     ],
-    "origin_info": "Botín: Enemigos en la Corrupción/Carmesí subterránea"
+    "origin_info": "Botín: Enemigos de la Corrupción/Carmesí subterráneos"
   },
   {
     "id": "522",
@@ -15607,61 +15610,64 @@
   },
   {
     "id": "881",
-    "category": "Weapons",
-    "name_en": "Cactus Sword",
-    "name_es": "Espada de cactus",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cactus_Sword",
+    "category": "Materials",
+    "name_en": "Tissue Sample",
+    "name_es": "Muestra de tejido",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Tissue_Sample",
     "recipes": [
       {
         "name_en": "Cactus",
         "amount": 10
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cactus_Sword.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tissue_Sample.png",
     "station_ids": [
-      "hand"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Cerebro de Cthulhu / Creepers"
   },
   {
     "id": "882",
-    "category": "Tools",
-    "name_en": "Cactus Pickaxe",
-    "name_es": "Pico de cactus",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cactus_Pickaxe",
+    "category": "Materials",
+    "name_en": "Vertebra",
+    "name_es": "Vértebra",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Vertebra",
     "recipes": [
       {
         "name_en": "Cactus",
         "amount": 15
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cactus_Pickaxe.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vertebra.png",
     "station_ids": [
-      "hand"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Enemigos del Carmesí"
   },
   {
     "id": "883",
-    "category": "Blocks",
-    "name_en": "Ice Brick",
-    "name_es": "Ladrillo de hielo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Brick",
+    "category": "Boss Summons",
+    "name_en": "Bloody Spine",
+    "name_es": "Espina sangrienta",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Bloody_Spine",
     "recipes": [
       {
         "name_en": "Ice Brick Wall",
         "amount": 4
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Brick.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bloody_Spine.png",
     "station_ids": [
-      "hand"
-    ]
+      "altar"
+    ],
+    "origin_info": "Fabricado: Altar carmesí (15 Vértebras + 30 Polvo vicioso)"
   },
   {
     "id": "884",
-    "category": "Walls/Wallpaper",
-    "name_en": "Ice Brick Wall",
-    "name_es": "Pared de ladrillo de hielo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Brick_Wall",
+    "category": "Accessories",
+    "name_en": "Water Walking Boots",
+    "name_es": "Botas de flotación",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Water_Walking_Boots",
     "recipes": [
       {
         "name_en": "Ice Brick",
@@ -15674,17 +15680,18 @@
         "is_shimmer": true
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Brick_Wall.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Walking_Boots.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Cofre de agua (Océano) / Cajas del océano (Pesca)"
   },
   {
     "id": "885",
-    "category": "Accessories",
-    "name_en": "Adhesive Bandage",
-    "name_es": "Bezoar",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Adhesive_Bandage",
+    "category": "Social",
+    "name_en": "Tiara",
+    "name_es": "Tiara",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Tiara",
     "recipes": [
       {
         "name_en": "Bezoar",
@@ -15697,13 +15704,11 @@
         "is_shimmer": true
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adhesive_Bandage.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tiara.png",
     "station_ids": [
-      "shimmer",
-      "398",
-      "exploration"
+      "loot"
     ],
-    "origin_info": "Botín: Hombre lobo / Pez abisal"
+    "origin_info": "Botín: Mago"
   },
   {
     "id": "886",
@@ -17658,13 +17663,16 @@
   },
   {
     "id": "1000",
-    "category": "Miscellaneous",
-    "name_en": "Confetti Gun",
-    "name_es": "Pistola de confeti",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Confetti_Gun",
+    "category": "Materials",
+    "name_en": "Chlorophyte Ore",
+    "name_es": "Mineral de clorofita",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Chlorophyte_Ore",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Confetti_Gun.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Ore.png",
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Minado: Selva (Hardmode)"
   },
   {
     "id": "1001",
@@ -17686,7 +17694,8 @@
     "set_bonus": "Invoca un cristal de hojas sobre tu cabeza que dispara",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)"
   },
   {
     "id": "1002",
@@ -17708,7 +17717,8 @@
     "set_bonus": "Invoca un cristal de hojas sobre tu cabeza que dispara",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)"
   },
   {
     "id": "1003",
@@ -17730,7 +17740,8 @@
     "set_bonus": "Invoca un cristal de hojas sobre tu cabeza que dispara",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)"
   },
   {
     "id": "1004",
@@ -17747,7 +17758,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Plate_Mail.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes de clorofita)"
   },
   {
     "id": "1005",
@@ -17763,13 +17775,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Greaves.png",
     "station_ids": [
-      "mythril_anvil",
-      "33"
-    ]
+      "mythril_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes de clorofita)"
   },
   {
     "id": "1006",
-    "category": "Ore/Bars/Gems",
+    "category": "Materials",
     "name_en": "Chlorophyte Bar",
     "name_es": "Lingote de clorofita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Chlorophyte_Bar",
@@ -17783,79 +17795,79 @@
     "station_ids": [
       "adamantite_forge"
     ],
-    "origin_info": "Fabricado: Forja de adamantita/titanio (5-6 Minerales de clorofita)"
+    "origin_info": "Fabricado: Forja de adamantita (5 Minerales de clorofita)"
   },
   {
     "id": "1007",
-    "category": "Dyes",
-    "name_en": "Red Dye",
-    "name_es": "Tinte rojo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Red_Dye",
+    "category": "Furniture",
+    "name_en": "Dye Vat",
+    "name_es": "Tintorería",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Dye_Vat",
     "recipes": [
       {
         "name_en": "Red Husk",
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Dye.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Vat.png",
     "station_ids": [
-      "hand",
-      "dye_vat"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Compra: Tintorero (5 Oro)"
   },
   {
     "id": "1008",
     "category": "Dyes",
-    "name_en": "Orange Dye",
-    "name_es": "Tinte naranja",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Orange_Dye",
+    "name_en": "Silver Dye",
+    "name_es": "Tinte plateado",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Silver_Dye",
     "recipes": [
       {
         "name_en": "Orange Bloodroot",
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orange_Dye.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Dye.png",
     "station_ids": [
-      "hand",
-      "dye_vat"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Compra: Tintorero (1 Oro)"
   },
   {
     "id": "1009",
     "category": "Dyes",
-    "name_en": "Yellow Dye",
-    "name_es": "Tinte amarillo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Yellow_Dye",
+    "name_en": "Black Dye",
+    "name_es": "Tinte negro",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Black_Dye",
     "recipes": [
       {
         "name_en": "Yellow Marigold",
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yellow_Dye.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Black_Dye.png",
     "station_ids": [
-      "hand",
-      "dye_vat"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Compra: Tintorero (1 Oro)"
   },
   {
     "id": "1010",
     "category": "Dyes",
-    "name_en": "Lime Dye",
-    "name_es": "Tinte verde lima",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lime_Dye",
+    "name_en": "Red Dye",
+    "name_es": "Tinte rojo",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Red_Dye",
     "recipes": [
       {
         "name_en": "Lime Kelp",
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lime_Dye.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Dye.png",
     "station_ids": [
-      "hand",
-      "dye_vat"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Compra: Tintorero (1 Oro)"
   },
   {
     "id": "1011",
@@ -26234,105 +26246,120 @@
   },
   {
     "id": "1560",
-    "category": "Vanity (Developer)",
-    "name_en": "Will's Helmet",
-    "name_es": "Casco de Will",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Will's_Helmet",
+    "category": "Accessories",
+    "name_en": "Paladin's Shield",
+    "name_es": "Escudo de paladín",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Paladin's_Shield",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Will's_Helmet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin's_Shield.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Paladín (Mazmorra)"
   },
   {
     "id": "1561",
-    "category": "Vanity (Developer)",
-    "name_en": "Will's Breastplate",
-    "name_es": "Coraza de Will",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Will's_Breastplate",
+    "category": "Weapons",
+    "name_en": "Paladin's Hammer",
+    "name_es": "Martillo de paladín",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Paladin's_Hammer",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Will's_Breastplate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin's_Hammer.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Paladín (Mazmorra)"
   },
   {
     "id": "1562",
-    "category": "Vanity (Developer)",
-    "name_en": "Will's Leggings",
-    "name_es": "Perneras de Will",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Will's_Leggings",
+    "category": "Banners",
+    "name_en": "Paladin Banner",
+    "name_es": "Bandera de paladín",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Paladin_Banner",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Will's_Leggings.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin_Banner.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Paladín"
   },
   {
     "id": "1563",
-    "category": "Vanity (Developer)",
-    "name_en": "Jim's Helmet",
-    "name_es": "Casco de Jim",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Helmet",
+    "category": "Weapons",
+    "name_en": "Shadowbeam Staff",
+    "name_es": "Báculo de haz de sombras",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Shadowbeam_Staff",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Helmet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadowbeam_Staff.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Nigromante (Mazmorra)"
   },
   {
     "id": "1564",
-    "category": "Vanity (Developer)",
-    "name_en": "Jim's Breastplate",
-    "name_es": "Coraza de Jim",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Breastplate",
+    "category": "Weapons",
+    "name_en": "Inferno Fork",
+    "name_es": "Tenedor del infierno",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Inferno_Fork",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Breastplate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Inferno_Fork.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Diablillo táctico (Mazmorra)"
   },
   {
     "id": "1565",
-    "category": "Vanity (Developer)",
-    "name_en": "Jim's Leggings",
-    "name_es": "Perneras de Jim",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Leggings",
+    "category": "Weapons",
+    "name_en": "Spectre Staff",
+    "name_es": "Báculo espectral",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Staff",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Leggings.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Staff.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Esqueleto armado (Mazmorra)"
   },
   {
     "id": "1566",
-    "category": "Vanity (Developer)",
-    "name_en": "Aaron's Helmet",
-    "name_es": "Casco de Aaron",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Aaron's_Helmet",
+    "category": "Weapons",
+    "name_en": "Magnet Sphere",
+    "name_es": "Esfera magnética",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Magnet_Sphere",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aaron's_Helmet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magnet_Sphere.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Enemigos de la Mazmorra (Post-Plantera)"
   },
   {
     "id": "1567",
-    "category": "Vanity (Developer)",
-    "name_en": "Aaron's Breastplate",
-    "name_es": "Coraza de Aaron",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Aaron's_Breastplate",
+    "category": "Blocks",
+    "name_en": "Lihzahrd Brick",
+    "name_es": "Ladrillo de lihzahrd",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Brick",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aaron's_Breastplate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Brick.png",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "mining"
+    ],
+    "origin_info": "Minado: Templo de la selva"
   },
   {
     "id": "1568",
-    "category": "Vanity (Developer)",
-    "name_en": "Aaron's Leggings",
-    "name_es": "Perneras de Aaron",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Aaron's_Leggings",
+    "category": "Walls/Wallpaper",
+    "name_en": "Lihzahrd Brick Wall",
+    "name_es": "Pared de ladrillo de lihzahrd",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Brick_Wall",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aaron's_Leggings.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Brick_Wall.png",
+    "station_ids": [
+      "36"
+    ],
+    "origin_info": "Fabricado: Banco de trabajo (1 Ladrillo de lihzahrd)"
   },
   {
     "id": "1569",
@@ -26386,33 +26413,42 @@
   },
   {
     "id": "1573",
-    "category": "Paintings",
-    "name_en": "The Creation of the Guide",
-    "name_es": "La creación del Guía",
-    "wiki_url": "https://terraria.wiki.gg/wiki/The_Creation_of_the_Guide",
+    "category": "Weapons",
+    "name_en": "Piranha Gun",
+    "name_es": "Pistola de pirañas",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Piranha_Gun",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Creation_of_the_Guide.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Piranha_Gun.png",
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de la selva (Mazmorra)"
   },
   {
     "id": "1574",
-    "category": "Paintings",
-    "name_en": "The Merchant",
-    "name_es": "El Mercader",
-    "wiki_url": "https://terraria.wiki.gg/wiki/The_Merchant",
+    "category": "Weapons",
+    "name_en": "Tactical Shotgun",
+    "name_es": "Escopeta táctica",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Tactical_Shotgun",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Merchant.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tactical_Shotgun.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Esqueleto táctico (Mazmorra)"
   },
   {
     "id": "1575",
-    "category": "Paintings",
-    "name_en": "Crowno Devours His Lunch",
-    "name_es": "Crowno devora su comida",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Crowno_Devours_His_Lunch",
+    "category": "Weapons",
+    "name_en": "Sniper Rifle",
+    "name_es": "Fusil de francotirador",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Sniper_Rifle",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crowno_Devours_His_Lunch.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sniper_Rifle.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Esqueleto francotirador (Mazmorra)"
   },
   {
     "id": "1576",
@@ -60357,20 +60393,23 @@
   },
   {
     "id": "3780",
-    "category": "Banners (Enemy)",
-    "name_en": "Sand Elemental Banner",
-    "name_es": "Estandarte de elemental de arena",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Sand_Elemental_Banner",
+    "category": "Walls/Wallpaper",
+    "name_en": "Sandstone Brick Wall",
+    "name_es": "Pared de ladrillo de arenisca",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Sandstone_Brick_Wall",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sand_Elemental_Banner.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstone_Brick_Wall.png",
+    "station_ids": [
+      "36"
+    ],
+    "origin_info": "Fabricado: Banco de trabajo"
   },
   {
     "id": "3781",
-    "category": "Accessories",
-    "name_en": "Pocket Mirror",
-    "name_es": "Tocado prohibido",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Pocket_Mirror",
+    "category": "Armor",
+    "name_en": "Forbidden Mask",
+    "name_es": "Máscara prohibida",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Forbidden_Mask",
     "recipes": [
       {
         "name_en": "Blindfold",
@@ -60378,19 +60417,18 @@
         "is_shimmer": true
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pocket_Mirror.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Mask.png",
     "station_ids": [
-      "shimmer",
-      "exploration"
+      "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Fragmento prohibido + Lingotes)"
+    "origin_info": "Fabricado: Yunque de mitrilo (1 Fragmento prohibido + 10 Lingotes de adamantita/titanio)"
   },
   {
     "id": "3782",
-    "category": "Miscellaneous",
-    "name_en": "Magic Sand Dropper",
+    "category": "Armor",
+    "name_en": "Forbidden Tunic",
     "name_es": "Túnica prohibida",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Sand_Dropper",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Forbidden_Tunic",
     "recipes": [
       {
         "name_en": "Any Sand",
@@ -60401,52 +60439,63 @@
         "amount": 3
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Sand_Dropper.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Tunic.png",
     "station_ids": [
-      "hand"
+      "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Fragmento prohibido + Lingotes)"
+    "origin_info": "Fabricado: Yunque de mitrilo (1 Fragmento prohibido + 20 Lingotes de adamantita/titanio)"
   },
   {
     "id": "3783",
-    "category": "Crafting",
-    "name_en": "Forbidden Fragment",
+    "category": "Armor",
+    "name_en": "Forbidden Treads",
     "name_es": "Perneras prohibidas",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Forbidden_Fragment",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Forbidden_Treads",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Fragment.png",
-    "station_ids": [],
-    "origin_info": "Fabricado: Yunque de mitrilo (Fragmento prohibido + Lingotes)"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Treads.png",
+    "station_ids": [
+      "mythril_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque de mitrilo (1 Fragmento prohibido + 16 Lingotes de adamantita/titanio)"
   },
   {
     "id": "3784",
-    "category": "Vanity",
-    "name_en": "Lamia Tail",
-    "name_es": "Cola de lamia",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lamia_Tail",
+    "category": "Miscellaneous",
+    "name_en": "Magic Sand Dropper",
+    "name_es": "Gotero de arena mágica",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Sand_Dropper",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lamia_Tail.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Sand_Dropper.png",
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Compra: Vendedor ambulante"
   },
   {
     "id": "3785",
-    "category": "Vanity",
-    "name_en": "Lamia Wraps",
-    "name_es": "Vendas de lamia",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lamia_Wraps",
+    "category": "Banners",
+    "name_en": "Sand Elemental Banner",
+    "name_es": "Estandarte de elemental de arena",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Sand_Elemental_Banner",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lamia_Wraps.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sand_Elemental_Banner.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Elemental de arena"
   },
   {
     "id": "3786",
-    "category": "Vanity",
-    "name_en": "Lamia Mask",
-    "name_es": "Máscara de lamia",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lamia_Mask",
+    "category": "Banners",
+    "name_en": "Sand Shark Banner",
+    "name_es": "Estandarte de tiburón de arena",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Sand_Shark_Banner",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lamia_Mask.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sand_Shark_Banner.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Tiburón de arena"
   },
   {
     "id": "3787",
