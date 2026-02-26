@@ -1168,7 +1168,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Rotten_Chunk",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rotten_Chunk.png?960410",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "69",
@@ -1532,7 +1534,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Shadow_Scale.png?abb6da",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -2152,7 +2155,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Meteorite",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Meteorite.png",
-    "station_ids": []
+    "station_ids": [
+      "mining"
+    ]
   },
   {
     "id": "117",
@@ -5667,7 +5672,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Feather",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Feather.png?b9ac5f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "321",
@@ -8678,7 +8685,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pixie_Dust",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pixie_Dust.png?a79e47",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "502",
@@ -8688,7 +8697,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crystal_Shard",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Crystal_Shard.png?1055a2",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "503",
@@ -8969,7 +8980,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Light",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Soul_of_Light.png?7c9e82",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "521",
@@ -8979,7 +8992,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Night",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Soul_of_Night.png?e93ef9",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "522",
@@ -8989,7 +9004,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cursed_Flame",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cursed_Flame.png?a9e11a",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "523",
@@ -9354,7 +9371,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Soul_of_Fright.png?7f3845",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "loot"
     ]
   },
   {
@@ -9372,7 +9390,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Soul_of_Might.png?5f5e25",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "loot"
     ]
   },
   {
@@ -9390,7 +9409,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Soul_of_Sight.png?e17798",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "loot"
     ]
   },
   {
@@ -9834,7 +9854,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Flight",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Soul_of_Flight.png?faebd1",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "576",
@@ -20639,7 +20661,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Hallowed_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "loot"
     ]
   },
   {
@@ -22178,7 +22201,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vertebra",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Vertebrae.png?261d52",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1331",
@@ -22344,7 +22369,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vial_of_Venom",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Vial_of_Venom.png?2ba7af",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "1340",
@@ -24411,7 +24438,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil",
-      "merchant_buy"
+      "merchant_buy",
+      "loot"
     ]
   },
   {
@@ -25289,7 +25317,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Vampire_Knives",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Vampire_Knives.png?b16309",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1570",
@@ -27126,7 +27156,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fart_in_a_Jar.png?ed083f",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -27143,7 +27174,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin.png?c28262",
     "station_ids": [
-      "hand"
+      "hand",
+      "farming"
     ]
   },
   {
@@ -32533,7 +32565,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sandstone_Slab.png?39298c",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -50419,7 +50452,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Spectre_Bar.png",
     "station_ids": [
-      "33"
+      "33",
+      "adamantite_forge"
     ]
   },
   {
@@ -52220,7 +52254,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sturdy_Fossil",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sturdy_Fossil.png?d5d586",
-    "station_ids": []
+    "station_ids": [
+      "mining"
+    ]
   },
   {
     "id": "3381",
@@ -53044,7 +53080,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Vortex_Fragment.png?f70a4f",
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "loot"
     ]
   },
   {
@@ -53070,7 +53107,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Nebula_Fragment.png?251af7",
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "loot"
     ]
   },
   {
@@ -53100,7 +53138,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Fragment.png?76fc5e",
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "loot"
     ]
   },
   {
@@ -53126,7 +53165,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Stardust_Fragment.png?59814d",
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "loot"
     ]
   },
   {
