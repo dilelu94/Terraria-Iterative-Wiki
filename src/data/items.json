@@ -10356,7 +10356,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Snow_Globe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Snow_Globe.png?7575af",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "603",
@@ -22145,7 +22147,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pirate_Map",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pirate_Map.png?1d545f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "1316",
@@ -43707,7 +43711,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Tablet.png?46854a",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil",
+      "exploration"
     ]
   },
   {
@@ -59202,7 +59208,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Eternia_Crystal_Stand",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eternia_Crystal_Stand.png?a32dab",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3817",
@@ -59212,7 +59220,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Defender_Medal",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Defender_Medal.png?98f062",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "3818",
@@ -66393,7 +66403,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bloody_Tear",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bloody_Tear.png?11f31e",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4272",
