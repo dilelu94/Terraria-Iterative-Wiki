@@ -19693,7 +19693,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wooden_Spike",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Spike.png?a97d83",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Steampunker"
   },
   {
     "id": "1151",
@@ -19785,9 +19788,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pygmy_Necklace.png?d892f6",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "merchant_buy"
     ],
-    "origin_info": "Crimson Chest (Bioma Hardmode)"
+    "origin_info": "Witch Doctor"
   },
   {
     "id": "1159",
@@ -19799,9 +19803,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Tiki_Mask.png?32f1be",
     "station_ids": [
       "iron_anvil",
-      "exploration"
+      "exploration",
+      "merchant_buy"
     ],
-    "origin_info": "Jungle Chest (Bioma Hardmode)"
+    "origin_info": "Witch Doctor"
   },
   {
     "id": "1160",
@@ -19812,8 +19817,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tiki_Shirt.png?82ad44",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "loot"
+    ],
+    "origin_info": "Mourning Wood (Luna Calabaza)"
   },
   {
     "id": "1161",
@@ -19824,7 +19831,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tiki_Pants.png?956817",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "398"
     ]
   },
   {
@@ -19835,7 +19843,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Leaf_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Leaf_Wings.png?408d7e",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Witch Doctor (Selva Hardmode)"
   },
   {
     "id": "1163",
@@ -19855,7 +19866,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blizzard_in_a_Balloon.png?f99316",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -19925,7 +19937,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hercules_Beetle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hercules_Beetle.png?78943e",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "1168",
@@ -19935,7 +19949,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Smoke_Bomb",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Smoke_Bomb.png?26ec3c",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "1169",
@@ -19945,7 +19961,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Key",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Key.png?6d8b58",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "1170",
@@ -21308,8 +21326,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eye_of_the_Golem.png?743c3e",
     "station_ids": [
-      "398"
-    ]
+      "398",
+      "loot"
+    ],
+    "origin_info": "Gólem"
   },
   {
     "id": "1249",
@@ -29112,7 +29132,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Arctic_Diving_Gear.png?dbee07",
     "station_ids": [
       "hand",
-      "398"
+      "398",
+      "mythril_anvil"
     ]
   },
   {
@@ -47630,8 +47651,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Architect_Gizmo_Pack.png?9a45f9",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Mago Oscuro (Ejército del Antiguo)"
   },
   {
     "id": "3062",
@@ -47641,7 +47664,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crimson_Heart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Crimson_Heart_%28item%29.png?72e6fe",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Mago Oscuro (Ejército del Antiguo)"
   },
   {
     "id": "3063",
@@ -51363,7 +51389,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Throw",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Red%27s_Throw.png?77eae3",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Skeleton Merchant"
   },
   {
     "id": "3288",
@@ -51373,7 +51402,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Valkyrie_Yoyo",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Valkyrie_Yoyo.png?771a3a",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Skeleton Merchant / Traveling Merchant"
   },
   {
     "id": "3289",
@@ -51902,7 +51934,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Treasure_Bag_%28Skeletron%29.png?d90318",
     "station_ids": [
-      "loot"
+      "loot",
+      "330"
     ]
   },
   {
@@ -52009,7 +52042,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hive_Pack",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hive_Pack.png?bc5b60",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Plantera)"
   },
   {
     "id": "3334",
@@ -52019,7 +52055,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoyo_Glove",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Yoyo_Glove.png?405121",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Gólem)"
   },
   {
     "id": "3335",
@@ -52030,8 +52069,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Demon_Heart.png?601407",
     "station_ids": [
-      "398"
-    ]
+      "398",
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Jefes Mecánicos)"
   },
   {
     "id": "3336",
@@ -52042,8 +52083,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Spore_Sac.png",
     "station_ids": [
-      "398"
-    ]
+      "398",
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Muro de carne)"
   },
   {
     "id": "3337",
@@ -52088,7 +52131,8 @@
     "station_ids": [
       "hand",
       "loot"
-    ]
+    ],
+    "origin_info": "Bolsa del Tesoro (Rey Slime)"
   },
   {
     "id": "3340",
@@ -52363,7 +52407,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Living_Mahogany_Wand",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Mahogany_Wand.png?974a8f",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Polillrón (Mothron)"
   },
   {
     "id": "3361",
@@ -52489,7 +52536,8 @@
     ],
     "station_ids": [
       "hand",
-      "ancient_manipulator"
+      "ancient_manipulator",
+      "398"
     ]
   },
   {
@@ -59281,8 +59329,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Squire%27s_Great_Helm.png?76a646",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "loot"
+    ],
+    "origin_info": "Ogro (Ejército del Antiguo)"
   },
   {
     "id": "3801",
@@ -59388,7 +59438,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Apprentice's_Scarf",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Apprentice%27s_Scarf.png?9b160d",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Ogro (Ejército del Antiguo)"
   },
   {
     "id": "3810",
@@ -61888,7 +61941,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Titanium_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Titanium_Crate.png?8a3872",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ]
   },
   {
     "id": "3982",
@@ -61988,7 +62043,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Amphibian_Boots.png?af529d",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62051,7 +62107,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fairy_Boots.png?b9a92e",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -64046,8 +64103,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Void_Bag.png?ddd4fe",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Ciervíclope)"
   },
   {
     "id": "4132",
@@ -76342,7 +76401,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Starboard",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Celestial_Starboard.png?67beaf",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Señor de la Luna)"
   },
   {
     "id": "4955",
@@ -76700,7 +76762,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gelatinous_Pillion",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Gelatinous_Pillion.png?6e17a0",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Bolsa del Tesoro (Reina Slime)"
   },
   {
     "id": "4982",
