@@ -125,6 +125,12 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             <a href={item.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip" style={{ marginTop: '1rem' }}>
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
             </a>
+
+            {item.origin_info && (
+              <div className="origin-info-highlight">
+                <strong>{lang === 'es' ? 'Obtención:' : 'Obtaining:'}</strong> {item.origin_info}
+              </div>
+            )}
           </div>
         </div>
       </div>
