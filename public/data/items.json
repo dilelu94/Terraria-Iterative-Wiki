@@ -554,12 +554,19 @@
     "name_en": "Life Crystal",
     "name_es": "Cristal de vida",
     "wiki_url": "https://terraria.wiki.gg/wiki/Life_Crystal",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Vital Crystal",
+        "amount": 1,
+        "is_shimmer": true
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Life_Crystal.png",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "shimmer"
     ],
-    "origin_info": "Encontrado: Subterráneo"
+    "origin_info": "Encontrado: Subterráneo / Des-transmutación de Vital Crystal"
   },
   {
     "id": "30",
@@ -2126,19 +2133,20 @@
     "recipes": [
       {
         "name_en": "Fallen Star",
-        "amount": 5
+        "amount": 3
       },
       {
-        "name_en": "Demonite Bar",
-        "amount": 1
+        "name_en": "Arcane Crystal",
+        "amount": 1,
+        "is_shimmer": true
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mana_Crystal.png",
     "station_ids": [
       "hand",
-      "exploration"
+      "shimmer"
     ],
-    "origin_info": "Fabricado: Estrellas fugaces"
+    "origin_info": "Fabricado con Estrellas Fugaces / Des-transmutación de Arcane Crystal"
   },
   {
     "id": "110",
@@ -22495,12 +22503,19 @@
     "name_en": "Life Fruit",
     "name_es": "Globo de nieve",
     "wiki_url": "https://terraria.wiki.gg/wiki/Life_Fruit",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Aegis Fruit",
+        "amount": 1,
+        "is_shimmer": true
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Life_Fruit.png",
     "station_ids": [
-      "exploration"
+      "exploration",
+      "shimmer"
     ],
-    "origin_info": "Encontrado: Selva Hardmode"
+    "origin_info": "Encontrado: Selva Hardmode / Des-transmutación de Aegis Fruit"
   },
   {
     "id": "1292",
@@ -64331,9 +64346,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Void_Vault.png",
     "station_ids": [
-      "hand",
-      "demon_anvil"
-    ]
+      "demon_altar"
+    ],
+    "origin_info": "Altar demoníaco / carmesí"
   },
   {
     "id": "4077",
@@ -65177,10 +65192,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Void_Bag.png",
     "station_ids": [
-      "hand",
-      "loot"
+      "demon_altar"
     ],
-    "origin_info": "Bolsa del Tesoro (Ciervíclope)"
+    "origin_info": "Altar demoníaco / carmesí"
   },
   {
     "id": "4132",
@@ -77612,8 +77626,6 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Zenith.png",
     "station_ids": [
-      "hand",
-      "ancient_manipulator",
       "mythril_anvil"
     ],
     "origin_info": "Yunque de mitrilo / oricalco"
@@ -80033,7 +80045,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraformer.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraformer.png",
+    "origin_info": "Transmutación: Clentaminator al Fulgor"
   },
   {
     "id": "5135",
@@ -83298,7 +83311,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rod_of_Harmony.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rod_of_Harmony.png",
+    "origin_info": "Transmutación: Rod of Discord al Fulgor"
   },
   {
     "id": "5336",
@@ -83339,7 +83353,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vital_Crystal.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vital_Crystal.png",
+    "origin_info": "Transmutación: Life Crystal al Fulgor"
   },
   {
     "id": "5338",
@@ -83352,17 +83367,13 @@
         "name_en": "Life Fruit",
         "amount": 1,
         "is_shimmer": true
-      },
-      {
-        "name_en": "Mana Crystal",
-        "amount": 1,
-        "is_shimmer": true
       }
     ],
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aegis_Fruit.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aegis_Fruit.png",
+    "origin_info": "Transmutación: Life Fruit al Fulgor"
   },
   {
     "id": "5339",
@@ -83380,7 +83391,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arcane_Crystal.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arcane_Crystal.png",
+    "origin_info": "Transmutación: Mana Crystal al Fulgor"
   },
   {
     "id": "5340",
@@ -83393,17 +83405,13 @@
         "name_en": "Pink Pearl",
         "amount": 1,
         "is_shimmer": true
-      },
-      {
-        "name_en": "Any Fruit",
-        "amount": 1,
-        "is_shimmer": true
       }
     ],
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Galaxy_Pearl.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Galaxy_Pearl.png",
+    "origin_info": "Transmutación: Pink Pearl al Fulgor"
   },
   {
     "id": "5341",
@@ -83421,7 +83429,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gummy_Worm.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gummy_Worm.png",
+    "origin_info": "Transmutación: Gold Worm al Fulgor"
   },
   {
     "id": "5342",
@@ -83439,7 +83448,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ambrosia.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ambrosia.png",
+    "origin_info": "Transmutación: Cualquier fruta de árbol al Fulgor"
   },
   {
     "id": "5343",
@@ -85015,9 +85025,10 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "398"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "5438",
