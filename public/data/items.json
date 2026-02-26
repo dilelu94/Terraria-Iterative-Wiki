@@ -54,7 +54,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/images/Stone_Block.png?ebe88c",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "4",
@@ -2558,7 +2558,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Shiny_Red_Balloon.png?1c222d",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "160",
@@ -7442,7 +7442,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ranger_Emblem.png?17c017",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "492",
@@ -12842,7 +12842,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lucky_Coin.png?1f9630",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "856",
@@ -13342,7 +13342,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "892",
@@ -13357,7 +13357,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Vitamins.png?549dd5",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "893",
@@ -13372,7 +13372,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Trifold_Map.png?e393c1",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "894",
@@ -13595,7 +13595,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lava_Charm.png?743a77",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "907",
@@ -13991,7 +13991,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flying_Carpet.png?7112c4",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "935",
@@ -14206,7 +14206,8 @@
     "name_es": "Garras de escalada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Climbing_Claws",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/es/images/Climbing_Claws.png?62447b"
+    "image_url": "https://terraria.wiki.gg/es/images/Climbing_Claws.png?62447b",
+    "station_id": "shimmer"
   },
   {
     "id": "954",
@@ -42519,7 +42520,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fisherman%27s_Pocket_Guide.png?9f3b93",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3121",
@@ -51727,7 +51728,7 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pocket_Mirror.png?86ff83",
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "3782",
@@ -72082,7 +72083,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5340",
@@ -72136,7 +72137,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5343",
@@ -72198,7 +72199,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5347",
@@ -72212,7 +72213,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5348",
@@ -72226,7 +72227,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5349",
@@ -72288,7 +72289,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5354",
@@ -72350,7 +72351,7 @@
         "amount": 10
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5358",
@@ -72684,7 +72685,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5381",
@@ -72698,7 +72699,7 @@
         "amount": 1
       }
     ],
-    "station_id": "hand"
+    "station_id": "shimmer"
   },
   {
     "id": "5382",
@@ -73984,7 +73985,8 @@
     "name_en": "Magic Shimmer Dropper",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Shimmer_Dropper",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5493",
@@ -74008,7 +74010,8 @@
     "name_en": "Shimmer Gun",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shimmer_Gun",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5496",
@@ -74193,7 +74196,8 @@
     "name_en": "Infused Fertilizer",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Infused_Fertilizer",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5519",
@@ -74201,7 +74205,8 @@
     "name_en": "Axearang",
     "name_es": "Hachaarang",
     "wiki_url": "https://terraria.wiki.gg/wiki/Axearang",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5520",
@@ -74652,7 +74657,8 @@
     "name_en": "Wilted Clover",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wilted_Clover",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5576",
@@ -75285,7 +75291,8 @@
     "name_en": "Aether Pylon",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Aether_Pylon",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5654",
@@ -75293,7 +75300,8 @@
     "name_en": "Friendly Rainbow Boulder",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Friendly_Rainbow_Boulder",
-    "recipes": []
+    "recipes": [],
+    "station_id": "shimmer"
   },
   {
     "id": "5655",
