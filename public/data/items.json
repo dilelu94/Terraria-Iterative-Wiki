@@ -711,7 +711,10 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Silla y mesa (2 Vidrio)"
+    "origin_info": "Fabricado: Silla y mesa (2 Vidrio)",
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "38",
@@ -4249,7 +4252,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wizard_Hat.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "2",
+    "piece_armor": "2",
+    "is_armor": true
   },
   {
     "id": "239",
@@ -7365,7 +7371,10 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: No muerto minero"
+    "origin_info": "Botín: No muerto minero",
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "411",
@@ -7378,7 +7387,10 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: No muerto minero"
+    "origin_info": "Botín: No muerto minero",
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "412",
@@ -11735,7 +11747,9 @@
       "iron_anvil",
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Núcleo de hielo + Lingotes)"
+    "origin_info": "Fabricado: Yunque de mitrilo (Núcleo de hielo + Lingotes)",
+    "piece_defense": "10",
+    "piece_armor": "10"
   },
   {
     "id": "685",
@@ -11764,7 +11778,9 @@
       "iron_anvil",
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Núcleo de hielo + Lingotes)"
+    "origin_info": "Fabricado: Yunque de mitrilo (Núcleo de hielo + Lingotes)",
+    "piece_defense": "20",
+    "piece_armor": "20"
   },
   {
     "id": "686",
@@ -11793,7 +11809,9 @@
       "iron_anvil",
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Núcleo de hielo + Lingotes)"
+    "origin_info": "Fabricado: Yunque de mitrilo (Núcleo de hielo + Lingotes)",
+    "piece_defense": "13",
+    "piece_armor": "13"
   },
   {
     "id": "687",
@@ -13859,7 +13877,10 @@
     "station_ids": [
       "iron_anvil",
       "solidifier"
-    ]
+    ],
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "804",
@@ -13872,7 +13893,10 @@
     "station_ids": [
       "iron_anvil",
       "solidifier"
-    ]
+    ],
+    "piece_defense": "2",
+    "piece_armor": "2",
+    "is_armor": true
   },
   {
     "id": "805",
@@ -13885,7 +13909,10 @@
     "station_ids": [
       "iron_anvil",
       "solidifier"
-    ]
+    ],
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "806",
@@ -16088,7 +16115,9 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Esqueletos"
+    "origin_info": "Botín: Esqueletos",
+    "piece_defense": "2",
+    "piece_armor": "2"
   },
   {
     "id": "955",
@@ -16107,7 +16136,9 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Esqueletos"
+    "origin_info": "Botín: Esqueletos",
+    "piece_defense": "4",
+    "piece_armor": "4"
   },
   {
     "id": "956",
@@ -16132,7 +16163,9 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Zombi esquimal"
+    "origin_info": "Botín: Zombi esquimal",
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "957",
@@ -16151,7 +16184,9 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Zombi esquimal"
+    "origin_info": "Botín: Zombi esquimal",
+    "piece_defense": "7",
+    "piece_armor": "7"
   },
   {
     "id": "958",
@@ -16170,7 +16205,9 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Zombi esquimal"
+    "origin_info": "Botín: Zombi esquimal",
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "959",
@@ -16189,7 +16226,9 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Huesos furiosos (Mazmorra)"
+    "origin_info": "Botín: Huesos furiosos (Mazmorra)",
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "960",
@@ -16208,7 +16247,10 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Devoraalmas (Eater of Souls)"
+    "origin_info": "Botín: Devoraalmas (Eater of Souls)",
+    "piece_defense": "2",
+    "piece_armor": "2",
+    "is_armor": true
   },
   {
     "id": "961",
@@ -16221,7 +16263,10 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Devoraalmas (Eater of Souls)"
+    "origin_info": "Botín: Devoraalmas (Eater of Souls)",
+    "piece_defense": "8",
+    "piece_armor": "8",
+    "is_armor": true
   },
   {
     "id": "962",
@@ -16234,7 +16279,10 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Devoraalmas (Eater of Souls)"
+    "origin_info": "Botín: Devoraalmas (Eater of Souls)",
+    "piece_defense": "7",
+    "piece_armor": "7",
+    "is_armor": true
   },
   {
     "id": "963",
@@ -16485,7 +16533,10 @@
       "iron_anvil",
       "loot"
     ],
-    "origin_info": "Tortuga de hielo"
+    "origin_info": "Tortuga de hielo",
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "979",
@@ -16506,7 +16557,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pink_Snow_Coat.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "2",
+    "piece_armor": "2",
+    "is_armor": true
   },
   {
     "id": "980",
@@ -16527,7 +16581,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pink_Snow_Pants.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "981",
@@ -36973,7 +37030,10 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Recompensa: Pescador (15 misiones)"
+    "origin_info": "Recompensa: Pescador (15 misiones)",
+    "piece_defense": "4",
+    "piece_armor": "4",
+    "is_armor": true
   },
   {
     "id": "2362",
@@ -36991,7 +37051,10 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Recompensa: Pescador (20 misiones)"
+    "origin_info": "Recompensa: Pescador (20 misiones)",
+    "piece_defense": "5",
+    "piece_armor": "5",
+    "is_armor": true
   },
   {
     "id": "2363",
@@ -37009,7 +37072,10 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Recompensa: Pescador (25 misiones)"
+    "origin_info": "Recompensa: Pescador (25 misiones)",
+    "piece_defense": "4",
+    "piece_armor": "4",
+    "is_armor": true
   },
   {
     "id": "2364",
@@ -37110,7 +37176,9 @@
     "set_bonus": "Aumenta el daño de los súbditos.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "2371",
@@ -37133,7 +37201,9 @@
     "set_bonus": "Aumenta el daño de los súbditos.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "8",
+    "piece_armor": "8"
   },
   {
     "id": "2372",
@@ -37156,7 +37226,9 @@
     "set_bonus": "Aumenta el daño de los súbditos.",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "7",
+    "piece_armor": "7"
   },
   {
     "id": "2373",
@@ -58938,7 +59010,9 @@
     "station_ids": [
       "iron_anvil",
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "12",
+    "piece_armor": "12"
   },
   {
     "id": "3779",
@@ -59186,7 +59260,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Apprentice's_Hat.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "8",
+    "piece_armor": "8",
+    "is_armor": true
   },
   {
     "id": "3798",
@@ -59198,7 +59275,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Apprentice's_Robe.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "12",
+    "piece_armor": "12",
+    "is_armor": true
   },
   {
     "id": "3799",
@@ -59210,7 +59290,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Apprentice's_Trousers.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "12",
+    "piece_armor": "12",
+    "is_armor": true
   },
   {
     "id": "3800",
@@ -59224,7 +59307,10 @@
       "iron_anvil",
       "loot"
     ],
-    "origin_info": "Compra: Tabernero (75 Medallas de defensor)"
+    "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
+    "piece_defense": "14",
+    "piece_armor": "14",
+    "is_armor": true
   },
   {
     "id": "3801",
@@ -59237,7 +59323,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Compra: Tabernero (75 Medallas de defensor)"
+    "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
+    "piece_defense": "18",
+    "piece_armor": "18",
+    "is_armor": true
   },
   {
     "id": "3802",
@@ -59250,7 +59339,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Compra: Tabernero (75 Medallas de defensor)"
+    "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
+    "piece_defense": "20",
+    "piece_armor": "20",
+    "is_armor": true
   },
   {
     "id": "3803",
@@ -59263,7 +59355,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Compra: Tabernero (75 Medallas de defensor)"
+    "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
+    "piece_defense": "8",
+    "piece_armor": "8",
+    "is_armor": true
   },
   {
     "id": "3804",
@@ -59276,7 +59371,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Compra: Tabernero (75 Medallas de defensor)"
+    "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
+    "piece_defense": "12",
+    "piece_armor": "12",
+    "is_armor": true
   },
   {
     "id": "3805",
@@ -59289,7 +59387,10 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "origin_info": "Compra: Tabernero (75 Medallas de defensor)"
+    "origin_info": "Compra: Tabernero (75 Medallas de defensor)",
+    "piece_defense": "16",
+    "piece_armor": "16",
+    "is_armor": true
   },
   {
     "id": "3806",
@@ -59301,7 +59402,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Monk's_Bushy_Brow_Bald_Cap.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "12",
+    "piece_armor": "12",
+    "is_armor": true
   },
   {
     "id": "3807",
@@ -59313,7 +59417,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Monk's_Shirt.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "16",
+    "piece_armor": "16",
+    "is_armor": true
   },
   {
     "id": "3808",
@@ -59325,7 +59432,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Monk's_Pants.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "18",
+    "piece_armor": "18",
+    "is_armor": true
   },
   {
     "id": "3809",
@@ -59955,7 +60065,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Valhalla_Knight's_Helm.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "20",
+    "piece_armor": "20",
+    "is_armor": true
   },
   {
     "id": "3872",
@@ -59967,7 +60080,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Valhalla_Knight's_Breastplate.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "24",
+    "piece_armor": "24",
+    "is_armor": true
   },
   {
     "id": "3873",
@@ -59979,7 +60095,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Valhalla_Knight's_Greaves.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "20",
+    "piece_armor": "20",
+    "is_armor": true
   },
   {
     "id": "3874",
@@ -59991,7 +60110,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dark_Artist's_Hat.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "10",
+    "piece_armor": "10",
+    "is_armor": true
   },
   {
     "id": "3875",
@@ -60003,7 +60125,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dark_Artist's_Robes.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "18",
+    "piece_armor": "18",
+    "is_armor": true
   },
   {
     "id": "3876",
@@ -60015,7 +60140,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dark_Artist's_Leggings.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "14",
+    "piece_armor": "14",
+    "is_armor": true
   },
   {
     "id": "3877",
@@ -60027,7 +60155,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Riding_Hood.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "10",
+    "piece_armor": "10",
+    "is_armor": true
   },
   {
     "id": "3878",
@@ -60039,7 +60170,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Riding_Dress.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "18",
+    "piece_armor": "18",
+    "is_armor": true
   },
   {
     "id": "3879",
@@ -60051,7 +60185,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Riding_Leggings.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "20",
+    "piece_armor": "20",
+    "is_armor": true
   },
   {
     "id": "3880",
@@ -60063,7 +60200,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shinobi_Infiltrator's_Helmet.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "10",
+    "piece_armor": "10",
+    "is_armor": true
   },
   {
     "id": "3881",
@@ -60075,7 +60215,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shinobi_Infiltrator's_Torso.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "20",
+    "piece_armor": "20",
+    "is_armor": true
   },
   {
     "id": "3882",
@@ -60087,7 +60230,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shinobi_Infiltrator's_Pants.png",
     "station_ids": [
       "iron_anvil"
-    ]
+    ],
+    "piece_defense": "24",
+    "piece_armor": "24",
+    "is_armor": true
   },
   {
     "id": "3883",
@@ -75653,7 +75799,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hallowed_Mask.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "24",
+    "piece_armor": "24",
+    "is_armor": true
   },
   {
     "id": "4897",
@@ -75670,7 +75819,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hallowed_Helmet.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "9",
+    "piece_armor": "9",
+    "is_armor": true
   },
   {
     "id": "4898",
@@ -75687,7 +75839,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hallowed_Headgear.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "7",
+    "piece_armor": "7",
+    "is_armor": true
   },
   {
     "id": "4899",
@@ -75704,7 +75859,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hallowed_Hood.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "1",
+    "piece_armor": "1",
+    "is_armor": true
   },
   {
     "id": "4900",
@@ -75721,7 +75879,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hallowed_Plate_Mail.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "15",
+    "piece_armor": "15",
+    "is_armor": true
   },
   {
     "id": "4901",
@@ -75738,7 +75899,10 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hallowed_Greaves.png",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_defense": "11",
+    "piece_armor": "11",
+    "is_armor": true
   },
   {
     "id": "4902",
@@ -76714,7 +76878,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Assassin_Hood.png",
     "station_ids": [],
-    "origin_info": "Botín: Reina slime"
+    "origin_info": "Botín: Reina slime",
+    "piece_defense": "6",
+    "piece_armor": "6",
+    "is_armor": true
   },
   {
     "id": "4983",
@@ -76725,7 +76892,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Assassin_Shirt.png",
     "station_ids": [],
-    "origin_info": "Botín: Reina slime"
+    "origin_info": "Botín: Reina slime",
+    "piece_defense": "14",
+    "piece_armor": "14",
+    "is_armor": true
   },
   {
     "id": "4984",
@@ -76736,7 +76906,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crystal_Assassin_Pants.png",
     "station_ids": [],
-    "origin_info": "Botín: Reina slime"
+    "origin_info": "Botín: Reina slime",
+    "piece_defense": "16",
+    "piece_armor": "16",
+    "is_armor": true
   },
   {
     "id": "4985",

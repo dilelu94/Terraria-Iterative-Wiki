@@ -179,7 +179,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
 
         {/* 1. Ingredientes Directos */}
         {normalRecipes.length > 0 && (
-          <div className="recipe-box">
+          <div className="recipe-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Ingredientes Directos' : 'Direct Ingredients'}</h3>
             <div className="ingredients-list">
               {normalRecipes.map((ing, idx) => {
