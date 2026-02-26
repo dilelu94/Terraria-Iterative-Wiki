@@ -460,7 +460,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Door.png?f7bf69",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -540,7 +541,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dirt_Wall.png?3eccf7",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -574,7 +576,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Table.png?442398",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -621,7 +624,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Chair.png?bdd0c8",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "36"
     ]
   },
   {
@@ -656,7 +660,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Work_Bench.png?3cd713",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -2414,7 +2419,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Brick.png?ac0201",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2431,7 +2437,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Brick_Wall.png?2d3798",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2442,7 +2449,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Clay_Block",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Clay_Block.png?782c00",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "134",
@@ -2458,7 +2467,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Brick.png?8884e5",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2615,7 +2625,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Silver_Brick.png?44ac38",
     "station_ids": [
       "hand",
-      "33"
+      "33",
+      "iron_anvil"
     ]
   },
   {
@@ -3043,7 +3054,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Sign.png?ff11db",
     "station_ids": [
       "hand",
-      "33"
+      "33",
+      "36"
     ]
   },
   {
@@ -3936,7 +3948,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bed.png?fc6010",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -4230,7 +4243,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Top_Hat",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Top_Hat.png?b442c0",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "240",
@@ -4250,7 +4265,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tuxedo_Shirt.png?682c19",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -4271,7 +4287,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tuxedo_Pants.png?370810",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -5535,7 +5552,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Moonglow.png?9d1e7a",
     "station_ids": [
-      "33"
+      "33",
+      "hand"
     ]
   },
   {
@@ -5608,7 +5626,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tombstone",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tombstone.png?e86e10",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "322",
@@ -5618,7 +5638,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mime_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mime_Mask.png?f36eb5",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "323",
@@ -5728,7 +5750,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Loom.png?7ab039",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -5960,7 +5983,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chinese_Lantern.png?9c0cfc",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -6020,7 +6044,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Trash_Can.png?1b1351",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -7532,7 +7557,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Torch.png?558f7a",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -7553,7 +7579,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Red_Torch.png?7a8c2d",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -7574,7 +7601,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Torch.png?225227",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -8676,7 +8704,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wire_Cutter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wire_Cutter.png?4a6032",
-    "station_ids": []
+    "station_ids": [
+      "hand"
+    ]
   },
   {
     "id": "511",
@@ -8717,7 +8747,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Inactive_Stone_Block.png?b44270",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -10423,7 +10454,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood.png?586217",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10440,7 +10472,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany.png?e9c36b",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10457,7 +10490,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood.png?2ceb5b",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10474,7 +10508,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood_Wall.png?f71b0d",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10491,7 +10526,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany_Wall.png?1df7c6",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10508,7 +10544,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Wall.png?997510",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10588,7 +10625,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood_Chair.png?289d3d",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10605,7 +10643,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany_Chair.png?49fb52",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10622,7 +10661,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Chair.png?8e2c36",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10639,7 +10679,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood_Platform.png?284ff1",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10656,7 +10697,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany_Platform.png?9b2e15",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10673,7 +10715,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Platform.png?812e36",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10741,7 +10784,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Work_Bench.png?51515a",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10758,7 +10802,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood_Table.png?d0eaf3",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10775,7 +10820,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany_Table.png?2a1825",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10792,7 +10838,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Table.png?4de361",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10817,7 +10864,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ebonwood_Piano.png?bfc481",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -10842,7 +10890,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Rich_Mahogany_Piano.png?af4aaa",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -12828,7 +12877,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Grass_Wall",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Grass_Wall.png?278a11",
-    "station_ids": []
+    "station_ids": [
+      "bone_welder"
+    ]
   },
   {
     "id": "746",
@@ -12838,7 +12889,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Jungle_Wall",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Jungle_Wall.png?1f8135",
-    "station_ids": []
+    "station_ids": [
+      "bone_welder"
+    ]
   },
   {
     "id": "747",
@@ -12848,7 +12901,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flower_Wall",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Flower_Wall.png?7bd504",
-    "station_ids": []
+    "station_ids": [
+      "bone_welder"
+    ]
   },
   {
     "id": "748",
@@ -12858,7 +12913,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Jetpack",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Jetpack.png?2ee987",
-    "station_ids": []
+    "station_ids": [
+      "bone_welder"
+    ]
   },
   {
     "id": "749",
@@ -12878,7 +12935,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Butterfly_Wings.png?6637e9",
     "station_ids": [
-      "hand"
+      "hand",
+      "bone_welder"
     ]
   },
   {
@@ -12895,7 +12953,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cactus_Wall.png?260aca",
     "station_ids": [
-      "hand"
+      "hand",
+      "bone_welder"
     ]
   },
   {
@@ -13633,7 +13692,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Undertaker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Undertaker.png?6102aa",
-    "station_ids": []
+    "station_ids": [
+      "solidifier"
+    ]
   },
   {
     "id": "801",
@@ -13653,7 +13714,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/The_Meatball.png?1c895f",
     "station_ids": [
-      "hand"
+      "hand",
+      "solidifier"
     ]
   },
   {
@@ -13664,7 +13726,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Rotted_Fork",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Rotted_Fork.png?cf30cc",
-    "station_ids": []
+    "station_ids": [
+      "solidifier"
+    ]
   },
   {
     "id": "803",
@@ -13675,7 +13739,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eskimo_Hood.png?7db8de",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "solidifier"
     ]
   },
   {
@@ -13687,7 +13752,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eskimo_Coat.png?c77424",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "solidifier"
     ]
   },
   {
@@ -13699,7 +13765,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Eskimo_Pants.png?5b62fd",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "solidifier"
     ]
   },
   {
@@ -14034,7 +14101,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sunplate_Block.png?b53c88",
     "station_ids": [
-      "hand"
+      "hand",
+      "flesh_cloning_vat"
     ]
   },
   {
@@ -14051,7 +14119,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Disc_Wall.png?1ad85b",
     "station_ids": [
-      "hand"
+      "hand",
+      "flesh_cloning_vat"
     ]
   },
   {
@@ -14068,7 +14137,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Skyware_Chair.png?d2e220",
     "station_ids": [
-      "hand"
+      "hand",
+      "flesh_cloning_vat"
     ]
   },
   {
@@ -14085,7 +14155,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Table.png?8e076b",
     "station_ids": [
-      "hand"
+      "hand",
+      "flesh_cloning_vat"
     ]
   },
   {
@@ -14102,7 +14173,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flesh_Table.png?412730",
     "station_ids": [
-      "hand"
+      "hand",
+      "flesh_cloning_vat"
     ]
   },
   {
@@ -14370,7 +14442,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Actuator",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Actuator.png?f09bd1",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "850",
@@ -18814,7 +18888,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dye_Vat",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dye_Vat.png?b19f22",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "1121",
@@ -18824,7 +18900,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bee_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bee_Gun.png?cb3c58",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "1122",
@@ -18834,7 +18912,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Possessed_Hatchet",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Possessed_Hatchet.png?b18424",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "1123",
@@ -18844,7 +18924,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bee_Keeper",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bee_Keeper.png?d9bd15",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "1124",
@@ -20383,7 +20465,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Palladium_Waraxe.png?cf8beb",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -20400,7 +20483,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Orichalcum_Waraxe.png?136f35",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -21701,7 +21785,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Book_of_Skulls",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Book_of_Skulls.png?e1dde3",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1314",
@@ -21711,7 +21797,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/KO_Cannon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/KO_Cannon.png?ad4e5f",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "1315",
@@ -32876,7 +32964,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Frost_Core",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Frost_Core.png",
-    "station_ids": []
+    "station_ids": [
+      "heavy_workbench"
+    ]
   },
   {
     "id": "2162",
@@ -32896,7 +32986,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bunny_Cage.png?f66950",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -32917,7 +33008,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Squirrel_Cage.png?a4ca54",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -32938,7 +33030,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mallard_Duck_Cage.png?89e139",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -32959,7 +33052,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Duck_Cage.png?a93011",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -32980,7 +33074,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bird_Cage.png?e4f394",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -33001,7 +33096,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Jay_Cage.png?f99baf",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -33022,7 +33118,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cardinal_Cage.png?2734e3",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -33982,7 +34079,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Large_Dynasty_Lantern.png?cd3b4b",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -34003,7 +34101,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dynasty_Lamp.png?6e50c5",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -34024,7 +34123,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dynasty_Lantern.png?468f6c",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -34045,7 +34145,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Large_Dynasty_Candle.png?13760f",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -34062,7 +34163,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dynasty_Chair.png?394d7e",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -34079,7 +34181,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dynasty_Work_Bench.png?bfabd9",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -38104,7 +38207,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Boreal_Wood.png",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -38121,7 +38225,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Palm_Wood.png?70cd88",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -38138,7 +38243,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Boreal_Wood_Wall.png",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -38155,7 +38261,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Palm_Wood_Wall.png?7dd181",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -38172,7 +38279,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/images/Boreal_Wood_Fence.png",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -38189,7 +38297,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Palm_Wood_Fence.png?1f6484",
     "station_ids": [
-      "hand"
+      "hand",
+      "345"
     ]
   },
   {
@@ -39733,7 +39842,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slime_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Hook.png?a5f654",
-    "station_ids": []
+    "station_ids": [
+      "glass_kiln"
+    ]
   },
   {
     "id": "2586",
@@ -39753,7 +39864,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sticky_Grenade.png?790f60",
     "station_ids": [
-      "hand"
+      "hand",
+      "glass_kiln"
     ]
   },
   {
@@ -39764,7 +39876,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Beguiling_Lyre",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tartar_Sauce.png?63fe67",
-    "station_ids": []
+    "station_ids": [
+      "glass_kiln"
+    ]
   },
   {
     "id": "2588",
@@ -39774,7 +39888,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Duke_Fishron_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Duke_Fishron_Mask.png?987198",
-    "station_ids": []
+    "station_ids": [
+      "glass_kiln"
+    ]
   },
   {
     "id": "2589",
@@ -39784,7 +39900,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Duke_Fishron_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Duke_Fishron_Trophy.png?4baf4b",
-    "station_ids": []
+    "station_ids": [
+      "glass_kiln"
+    ]
   },
   {
     "id": "2590",
@@ -39812,7 +39930,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Molotov_Cocktail.png?6e9995",
     "station_ids": [
-      "hand"
+      "hand",
+      "glass_kiln"
     ]
   },
   {
@@ -40197,7 +40316,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Skyware_Clock.png?ab03bf",
     "station_ids": [
-      "hand"
+      "hand",
+      "steampunk_boiler"
     ]
   },
   {
@@ -40208,7 +40328,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spider_Fang",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Spider_Fang.png?2cac05",
-    "station_ids": []
+    "station_ids": [
+      "steampunk_boiler"
+    ]
   },
   {
     "id": "2608",
@@ -40218,7 +40340,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Falcon_Blade",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Falcon_Blade.png?78e07c",
-    "station_ids": []
+    "station_ids": [
+      "steampunk_boiler"
+    ]
   },
   {
     "id": "2609",
@@ -40228,7 +40352,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fishron_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fishron_Wings.png?46d384",
-    "station_ids": []
+    "station_ids": [
+      "steampunk_boiler"
+    ]
   },
   {
     "id": "2610",
@@ -40238,7 +40364,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Slime_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Gun.png?d9501a",
-    "station_ids": []
+    "station_ids": [
+      "steampunk_boiler"
+    ]
   },
   {
     "id": "2611",
@@ -40515,7 +40643,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Steampunk_Platform.png?ce0418",
     "station_ids": [
-      "hand"
+      "hand",
+      "lihzahrd_furnace"
     ]
   },
   {
@@ -40532,7 +40661,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Skyware_Platform.png?190059",
     "station_ids": [
-      "hand"
+      "hand",
+      "lihzahrd_furnace"
     ]
   },
   {
@@ -40549,7 +40679,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Living_Wood_Platform.png?f11102",
     "station_ids": [
-      "hand"
+      "hand",
+      "lihzahrd_furnace"
     ]
   },
   {
@@ -40566,7 +40697,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Honey_Platform.png?9c43b4",
     "station_ids": [
-      "hand"
+      "hand",
+      "lihzahrd_furnace"
     ]
   },
   {
@@ -40769,7 +40901,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin_Lantern.png?6129fb",
     "station_ids": [
-      "hand"
+      "hand",
+      "ice_machine"
     ]
   },
   {
@@ -40780,7 +40913,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Lantern",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Lantern.png?c24588",
-    "station_ids": []
+    "station_ids": [
+      "ice_machine"
+    ]
   },
   {
     "id": "2643",
@@ -40800,7 +40935,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin_Lamp.png?6075dc",
     "station_ids": [
-      "hand"
+      "hand",
+      "ice_machine"
     ]
   },
   {
@@ -40811,7 +40947,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Lamp",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Lamp.png?bc70bf",
-    "station_ids": []
+    "station_ids": [
+      "ice_machine"
+    ]
   },
   {
     "id": "2645",
@@ -40968,7 +41106,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Steampunk_Chandelier.png?2696e7",
     "station_ids": [
-      "hand"
+      "hand",
+      "sky_mill"
     ]
   },
   {
@@ -40993,7 +41132,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin_Chandelier.png?bb5845",
     "station_ids": [
-      "hand"
+      "hand",
+      "sky_mill"
     ]
   },
   {
@@ -41004,7 +41144,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Chandelier",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Chandelier.png?1a95c6",
-    "station_ids": []
+    "station_ids": [
+      "sky_mill"
+    ]
   },
   {
     "id": "2658",
@@ -41014,7 +41156,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Dungeon_Bathtub",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Dungeon_Bathtub.png?a0f207",
-    "station_ids": []
+    "station_ids": [
+      "sky_mill"
+    ]
   },
   {
     "id": "2659",
@@ -41024,7 +41168,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Dungeon_Bathtub",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Dungeon_Bathtub.png?1b2ce5",
-    "station_ids": []
+    "station_ids": [
+      "sky_mill"
+    ]
   },
   {
     "id": "2660",
@@ -41173,7 +41319,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin_Bookcase.png?821cfa",
     "station_ids": [
-      "hand"
+      "hand",
+      "living_loom"
     ]
   },
   {
@@ -41198,7 +41345,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pumpkin_Piano.png?1d0900",
     "station_ids": [
-      "hand"
+      "hand",
+      "living_loom"
     ]
   },
   {
@@ -41209,7 +41357,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shark_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shark_Statue.png?7f7330",
-    "station_ids": []
+    "station_ids": [
+      "living_loom"
+    ]
   },
   {
     "id": "2673",
@@ -41219,7 +41369,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Truffle_Worm",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Truffle_Worm.png?8f5fb3",
-    "station_ids": []
+    "station_ids": [
+      "living_loom"
+    ]
   },
   {
     "id": "2674",
@@ -52599,7 +52751,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Wings.png?7094e4",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -52620,7 +52773,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Vortex_Booster.png?575dff",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -52641,7 +52795,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Nebula_Mantle.png?1f514f",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -52662,7 +52817,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Stardust_Wings.png?35f7a3",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -52679,7 +52835,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Luminite_Brick_Wall.png?1a4cf5",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -52696,7 +52853,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Eruption.png?92d36f",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -75012,7 +75170,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Slime_Trophy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Queen_Slime_Trophy.png?4d2837",
-    "station_ids": []
+    "station_ids": [
+      "heavy_workbench"
+    ]
   },
   {
     "id": "4959",
@@ -75022,7 +75182,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Slime_Mask",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Queen_Slime_Mask.png?52ebbe",
-    "station_ids": []
+    "station_ids": [
+      "heavy_workbench"
+    ]
   },
   {
     "id": "4960",
@@ -75032,7 +75194,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Regal_Delicacy",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Regal_Delicacy.png?e9bf7b",
-    "station_ids": []
+    "station_ids": [
+      "heavy_workbench"
+    ]
   },
   {
     "id": "4961",
@@ -75042,7 +75206,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Prismatic_Lacewing",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Prismatic_Lacewing.png?cc80d1",
-    "station_ids": []
+    "station_ids": [
+      "heavy_workbench"
+    ]
   },
   {
     "id": "4962",
@@ -75058,7 +75224,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Stone_Slab.png?bcfe1e",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {

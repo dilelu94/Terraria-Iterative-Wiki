@@ -22,5 +22,15 @@
   { "id": "autohammer", "name_en": "Autohammer", "name_es": "Martillo automático", "image": "https://terraria.wiki.gg/images/Autohammer.png" },
   { "id": "ancient_manipulator", "name_en": "Ancient Manipulator", "name_es": "Manipulador antiguo", "image": "https://terraria.wiki.gg/images/Ancient_Manipulator.png" },
   { "id": "bookcase", "name_en": "Bookcase", "name_es": "Librería", "image": "https://terraria.wiki.gg/images/Bookcase.png" },
-  { "id": "altar", "name_en": "Demon/Crimson Altar", "name_es": "Altar demoníaco/carmesí", "image": "https://terraria.wiki.gg/images/Demon_Altar.png" }
+  { "id": "altar", "name_en": "Demon/Crimson Altar", "name_es": "Altar demoníaco/carmesí", "image": "https://terraria.wiki.gg/images/Demon_Altar.png" },
+  { "id": "bone_welder", "name_en": "Bone Welder", "name_es": "Soldador de huesos", "image": "https://terraria.wiki.gg/images/Bone_Welder.png" },
+  { "id": "solidifier", "name_en": "Solidifier", "name_es": "Solidificador", "image": "https://terraria.wiki.gg/images/Solidifier.png" },
+  { "id": "flesh_cloning_vat", "name_en": "Flesh Cloning Vat", "name_es": "Tanque de clonación", "image": "https://terraria.wiki.gg/images/Flesh_Cloning_Vat.png" },
+  { "id": "glass_kiln", "name_en": "Glass Kiln", "name_es": "Horno de cristal", "image": "https://terraria.wiki.gg/images/Glass_Kiln.png" },
+  { "id": "steampunk_boiler", "name_en": "Steampunk Boiler", "name_es": "Caldera steampunk", "image": "https://terraria.wiki.gg/images/Steampunk_Boiler.png" },
+  { "id": "lihzahrd_furnace", "name_en": "Lihzahrd Furnace", "name_es": "Horno lihzahrd", "image": "https://terraria.wiki.gg/images/Lihzahrd_Furnace.png" },
+  { "id": "ice_machine", "name_en": "Ice Machine", "name_es": "Máquina de hielo", "image": "https://terraria.wiki.gg/images/Ice_Machine.png" },
+  { "id": "sky_mill", "name_en": "Sky Mill", "name_es": "Molino celestial", "image": "https://terraria.wiki.gg/images/Sky_Mill.png" },
+  { "id": "living_loom", "name_en": "Living Loom", "name_es": "Telar viviente", "image": "https://terraria.wiki.gg/images/Living_Loom.png" },
+  { "id": "heavy_workbench", "name_en": "Heavy Work Bench", "name_es": "Banco de trabajo pesado", "image": "https://terraria.wiki.gg/images/Heavy_Work_Bench.png" }
 ]
