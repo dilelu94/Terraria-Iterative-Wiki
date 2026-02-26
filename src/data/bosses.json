@@ -9,43 +9,38 @@
     "drops": [
       {
         "item_name": "Solidifier",
-        "item_id": "998"
+        "item_id": "997",
+        "chance": "100%"
       },
       {
         "item_name": "Slimy Saddle",
-        "item_id": "2430"
+        "item_id": "2430",
+        "chance": "25% (Clásico) / 50% (Experto)"
       },
       {
         "item_name": "Ninja Hood",
-        "item_id": "256"
+        "item_id": "256",
+        "chance": "33.3%"
       },
       {
         "item_name": "Ninja Shirt",
-        "item_id": "257"
+        "item_id": "257",
+        "chance": "33.3%"
       },
       {
         "item_name": "Ninja Pants",
-        "item_id": "258"
-      },
-      {
-        "item_name": "Slime Gun",
-        "item_id": "2610"
-      },
-      {
-        "item_name": "Slime Hook",
-        "item_id": "2585"
+        "item_id": "258",
+        "chance": "33.3%"
       },
       {
         "item_name": "King Slime Mask",
-        "item_id": "2493"
+        "item_id": "2493",
+        "chance": "14.29%"
       },
       {
         "item_name": "King Slime Trophy",
-        "item_id": "2489"
-      },
-      {
-        "item_name": "Lesser Healing Potion",
-        "item_id": "28"
+        "item_id": "2489",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.png",
@@ -75,25 +70,34 @@
     "drops": [
       {
         "item_name": "Demonite Ore",
-        "item_id": "56"
+        "item_id": "56",
+        "chance": "100% (Mundos Corrupción)"
       },
       {
         "item_name": "Crimtane Ore",
-        "item_id": "880"
-      },
-      {
-        "item_name": "Shield of Cthulhu",
-        "item_id": "3097"
+        "item_id": "880",
+        "chance": "100% (Mundos Carmesí)"
       },
       {
         "item_name": "Binoculars",
-        "item_id": "1299"
+        "item_id": "1301",
+        "chance": "2.5% (Clásico) / 3.3% (Experto)"
+      },
+      {
+        "item_name": "Eye of Cthulhu Mask",
+        "item_id": "2112",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Eye of Cthulhu Trophy",
+        "item_id": "2111",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_Cthulhu.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu",
     "biome_en": "Surface (Night)",
-    "biome_es": "Surface (Night)",
+    "biome_es": "Superficie (Noche)",
     "time_en": "Night",
     "time_es": "Noche",
     "treasure_bag": {
@@ -111,21 +115,34 @@
     "id": "13",
     "name_en": "Eater of Worlds",
     "name_es": "Devoramundos",
-    "health": "10050 1512019296",
-    "defense": "N/A",
-    "damage": "N/A",
+    "health": "10,050 (Clásico) / 15,120 (Experto)",
+    "defense": "2 (Cabeza) / 4 (Cuerpo) / 8 (Cola)",
+    "damage": "22 (Cabeza) / 13 (Cuerpo) / 11 (Cola)",
     "drops": [
       {
         "item_name": "Shadow Scale",
-        "item_id": "86"
+        "item_id": "86",
+        "chance": "100%"
       },
       {
         "item_name": "Demonite Ore",
-        "item_id": "56"
+        "item_id": "56",
+        "chance": "100%"
       },
       {
-        "item_name": "Worm Scarf (Experto)",
-        "item_id": "2002"
+        "item_name": "Eater of Worlds Mask",
+        "item_id": "2113",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Eater of Worlds Trophy",
+        "item_id": "2114",
+        "chance": "10%"
+      },
+      {
+        "item_name": "Eater's Bone",
+        "item_id": "1134",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater_of_Worlds.png",
@@ -149,21 +166,34 @@
     "id": "266",
     "name_en": "Brain of Cthulhu",
     "name_es": "Cerebro de Cthulhu",
-    "health": "1000 / 1700",
+    "health": "1,250 (Clásico) / 2,125 (Experto)",
     "defense": "14",
     "damage": "30 / 54",
     "drops": [
       {
         "item_name": "Tissue Sample",
-        "item_id": "1329"
+        "item_id": "1329",
+        "chance": "100%"
       },
       {
         "item_name": "Crimtane Ore",
-        "item_id": "880"
+        "item_id": "880",
+        "chance": "100%"
       },
       {
-        "item_name": "Brain of Confusion (Experto)",
-        "item_id": "3223"
+        "item_name": "Brain of Cthulhu Mask",
+        "item_id": "2115",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Brain of Cthulhu Trophy",
+        "item_id": "2116",
+        "chance": "10%"
+      },
+      {
+        "item_name": "Bone Rattle",
+        "item_id": "1312",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Cthulhu.png",
@@ -192,20 +222,39 @@
     "damage": "30 / 54",
     "drops": [
       {
-        "item_name": "Bee Gun",
-        "item_id": "1121"
+        "item_name": "Bee Keeper",
+        "item_id": "1124",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Bee Keeper",
-        "item_id": "1123"
+        "item_name": "Bee Gun",
+        "item_id": "1121",
+        "chance": "33.3%"
+      },
+      {
+        "item_name": "The Bee's Knees",
+        "item_id": "3054",
+        "chance": "33.3%"
       },
       {
         "item_name": "Hive Wand",
-        "item_id": "1129"
+        "item_id": "1129",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Hive Pack (Experto)",
-        "item_id": "1124"
+        "item_name": "Queen Bee Mask",
+        "item_id": "2110",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Queen Bee Trophy",
+        "item_id": "2109",
+        "chance": "10%"
+      },
+      {
+        "item_name": "Honeyed Goggles",
+        "item_id": "2488",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Bee.png",
@@ -220,7 +269,7 @@
     },
     "expert_drops": [
       {
-        "item_id": "3333",
+        "item_id": "1130",
         "chance": "100% (Bolsa)"
       }
     ]
@@ -234,20 +283,24 @@
     "damage": "Cabeza: 32-137 / Manos: 20-66 / Cráneos: 68-102",
     "drops": [
       {
-        "item_name": "Book of Skulls",
-        "item_id": "1313"
-      },
-      {
         "item_name": "Skeletron Hand",
-        "item_id": "1284"
+        "item_id": "1273",
+        "chance": "12.5%"
       },
       {
-        "item_name": "Bone Glove",
-        "item_id": "3245"
+        "item_name": "Book of Skulls",
+        "item_id": "1271",
+        "chance": "10.5%"
       },
       {
-        "item_name": "Chippy's Couch",
-        "item_id": "4758"
+        "item_name": "Skeletron Mask",
+        "item_id": "1281",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Skeletron Trophy",
+        "item_id": "1280",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron.png",
@@ -262,32 +315,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1277",
-        "item_name": "Sailor Hat"
-      },
-      {
-        "item_id": "1278",
-        "item_name": "Eye Patch"
-      },
-      {
-        "item_id": "1279",
-        "item_name": "Sailor Shirt"
-      },
-      {
-        "item_id": "1281",
-        "item_name": "Skeletron Mask"
-      },
-      {
-        "item_id": "3304",
-        "item_name": "Pink String"
-      },
-      {
-        "item_id": "4917",
-        "item_name": "Cavern Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "3245",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -375,27 +404,48 @@
     "drops": [
       {
         "item_name": "Pwnhammer",
-        "item_id": "367"
-      },
-      {
-        "item_name": "Breaker Blade",
-        "item_id": "426"
-      },
-      {
-        "item_name": "Clockwork Assault Rifle",
-        "item_id": "434"
-      },
-      {
-        "item_name": "Laser Rifle",
-        "item_id": "435"
-      },
-      {
-        "item_name": "Firecracker",
-        "item_id": "4913"
+        "item_id": "367",
+        "chance": "100%"
       },
       {
         "item_name": "Warrior Emblem",
-        "item_id": "490"
+        "item_id": "493",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Ranger Emblem",
+        "item_id": "492",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Sorcerer Emblem",
+        "item_id": "495",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Summoner Emblem",
+        "item_id": "2108",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Breaker Blade",
+        "item_id": "426",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Clockwork Assault Rifle",
+        "item_id": "434",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Laser Rifle",
+        "item_id": "515",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Firecracker",
+        "item_id": "4654",
+        "chance": "12.5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wall_of_Flesh.png",
@@ -410,48 +460,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "434",
-        "item_name": "Clockwork Assault Rifle"
-      },
-      {
-        "item_id": "435",
-        "item_name": "Cobalt Repeater"
-      },
-      {
-        "item_id": "436",
-        "item_name": "Mythril Repeater"
-      },
-      {
-        "item_id": "1300",
-        "item_name": "Rifle Scope"
-      },
-      {
-        "item_id": "1301",
-        "item_name": "Destroyer Emblem"
-      },
-      {
-        "item_id": "1302",
-        "item_name": "High Velocity Bullet"
-      },
-      {
-        "item_id": "1303",
-        "item_name": "Jellyfish Necklace"
-      },
-      {
-        "item_id": "1297",
-        "item_name": "Golem Fist"
-      },
-      {
-        "item_id": "3305",
-        "item_name": "Brown String"
-      },
-      {
-        "item_id": "4919",
-        "item_name": "Desert Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "3333",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -464,16 +474,39 @@
     "damage": "60 / 120",
     "drops": [
       {
+        "item_name": "Hook of Dissonance",
+        "item_id": "4980",
+        "chance": "33.3%"
+      },
+      {
         "item_name": "Gelatinous Pillion",
-        "item_id": "4981"
+        "item_id": "4981",
+        "chance": "25%"
       },
       {
-        "item_name": "Blade Staff",
-        "item_id": "4758"
+        "item_name": "Crystal Assassin Hood",
+        "item_id": "4982",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Volatile Gelatin (Experto)",
-        "item_id": "23"
+        "item_name": "Crystal Assassin Shirt",
+        "item_id": "4983",
+        "chance": "33.3%"
+      },
+      {
+        "item_name": "Crystal Assassin Pants",
+        "item_id": "4984",
+        "chance": "33.3%"
+      },
+      {
+        "item_name": "Queen Slime Mask",
+        "item_id": "4987",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Queen Slime Trophy",
+        "item_id": "4988",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Slime.png",
@@ -489,39 +522,7 @@
     "expert_drops": [
       {
         "item_id": "4986",
-        "item_name": "Sparkle Slime Balloon"
-      },
-      {
-        "item_id": "4981",
-        "item_name": "Gelatinous Pillion"
-      },
-      {
-        "item_id": "4980",
-        "item_name": "Hook of Dissonance"
-      },
-      {
-        "item_id": "4758",
-        "item_name": "Blade Staff"
-      },
-      {
-        "item_id": "4759",
-        "item_name": "Squirrel Hook"
-      },
-      {
-        "item_id": "4982",
-        "item_name": "Crystal Assassin Hood"
-      },
-      {
-        "item_id": "4983",
-        "item_name": "Crystal Assassin Shirt"
-      },
-      {
-        "item_id": "4984",
-        "item_name": "Crystal Assassin Pants"
-      },
-      {
-        "item_id": "4912",
-        "item_name": "Firecracker"
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -788,19 +789,38 @@
     "drops": [
       {
         "item_name": "Eventide",
-        "item_id": "4953"
+        "item_id": "4722",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Nightglow",
+        "item_id": "4720",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Starlight",
+        "item_id": "4721",
+        "chance": "25%"
       },
       {
         "item_name": "Kaleidoscope",
-        "item_id": "4914"
+        "item_id": "4655",
+        "chance": "25%"
       },
       {
-        "item_name": "Terraprisma (Día)",
-        "item_id": "5005"
+        "item_name": "Terraprisma",
+        "item_id": "4957",
+        "chance": "100% (Muerte de día)"
       },
       {
-        "item_name": "Soaring Insignia (Experto)",
-        "item_id": "171"
+        "item_name": "Empress of Light Mask",
+        "item_id": "4783",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Empress of Light Trophy",
+        "item_id": "4784",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light.png",
@@ -815,36 +835,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "4914",
-        "item_name": "Kaleidoscope"
-      },
-      {
-        "item_id": "4952",
-        "item_name": "Nightglow"
-      },
-      {
-        "item_id": "4953",
-        "item_name": "Eventide"
-      },
-      {
-        "item_id": "4822",
-        "item_name": "Flame Waker Boots"
-      },
-      {
-        "item_id": "4823",
-        "item_name": "Empress Wings"
-      },
-      {
-        "item_id": "4758",
-        "item_name": "Blade Staff"
-      },
-      {
-        "item_id": "4912",
-        "item_name": "Firecracker"
-      },
-      {
-        "item_id": "4950",
-        "item_name": "Queen Slime Relic"
+        "item_id": "4989",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
