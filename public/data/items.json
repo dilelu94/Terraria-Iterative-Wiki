@@ -2537,7 +2537,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Brick.png?778116",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2554,7 +2555,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Brick_Wall.png?5892b3",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2575,7 +2577,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Silver_Brick.png?44ac38",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2592,7 +2595,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Silver_Brick_Wall.png?8f4dd8",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2609,7 +2613,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Copper_Brick.png?4af422",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -2626,7 +2631,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Copper_Brick_Wall.png?1c443e",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -12074,7 +12080,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tin_Brick.png?b7b366",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -12124,7 +12131,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Platinum_Brick.png?62a190",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -12145,7 +12153,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tin_Brick_Wall.png?de64dd",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -12187,7 +12196,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Platinum_Brick_Wall.png?f41b02",
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -81450,7 +81460,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -81466,7 +81477,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -81482,7 +81494,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -81498,7 +81511,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -81514,7 +81528,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
@@ -81530,7 +81545,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "33"
     ]
   },
   {
