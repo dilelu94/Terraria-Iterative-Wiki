@@ -1399,29 +1399,6 @@
     ]
   },
   {
-    "id": "80",
-    "category": "Armor",
-    "name_en": "Copper Chainmail",
-    "name_es": "Cota de malla de cobre",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Copper_Chainmail",
-    "recipes": [
-      {
-        "name_en": "Copper Bar",
-        "amount": 20
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Copper_Chainmail.png",
-    "is_armor": true,
-    "armor_set_en": "Copper Armor",
-    "armor_set_es": "Armadura de cobre",
-    "total_defense": "6",
-    "set_stats": "+Ninguno",
-    "set_bonus": "+2 Defensa extra.",
-    "station_ids": [
-      "iron_anvil"
-    ]
-  },
-  {
     "id": "81",
     "category": "Armor",
     "name_en": "Iron Chainmail",
@@ -1569,46 +1546,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Piggy_Bank.png",
     "station_ids": [
       "merchant_buy"
-    ]
-  },
-  {
-    "id": "88",
-    "category": "Armor",
-    "name_en": "Mining Helmet",
-    "name_es": "Casco de minero",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Mining_Helmet",
-    "recipes": [
-      {
-        "name_en": "Copper Bar",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mining_Helmet.png",
-    "station_ids": [
-      "iron_anvil"
-    ]
-  },
-  {
-    "id": "89",
-    "category": "Armor",
-    "name_en": "Copper Helmet",
-    "name_es": "Casco de cobre",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Copper_Helmet",
-    "recipes": [
-      {
-        "name_en": "Copper Bar",
-        "amount": 12
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Copper_Helmet.png",
-    "is_armor": true,
-    "armor_set_en": "Copper Armor",
-    "armor_set_es": "Armadura de cobre",
-    "total_defense": "6",
-    "set_stats": "+Ninguno",
-    "set_bonus": "+2 Defensa extra.",
-    "station_ids": [
-      "iron_anvil"
     ]
   },
   {
@@ -2983,16 +2920,6 @@
     "origin_info": "Cofre dorado (Mazmorra)"
   },
   {
-    "id": "161",
-    "category": "Weapons (Thrown/Ammo)",
-    "name_en": "Spiky Ball",
-    "name_es": "Bola con pinchos",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Spiky_Ball",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spiky_Ball.png",
-    "station_ids": []
-  },
-  {
     "id": "162",
     "category": "Weapons",
     "name_en": "Ball O' Hurt",
@@ -3005,33 +2932,6 @@
       "iron_anvil"
     ],
     "origin_info": "Botín: Orbe sombrío (Corrupción)"
-  },
-  {
-    "id": "163",
-    "category": "Weapons",
-    "name_en": "Blue Moon",
-    "name_es": "Luna azul",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Moon",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blue_Moon.png",
-    "station_ids": [
-      "exploration"
-    ],
-    "origin_info": "Cofre dorado con llave (Mazmorra)"
-  },
-  {
-    "id": "164",
-    "category": "Weapons",
-    "name_en": "Handgun",
-    "name_es": "Pistola",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Handgun",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Handgun.png",
-    "station_ids": [
-      "hand",
-      "exploration"
-    ],
-    "origin_info": "Cofre dorado con llave (Mazmorra)"
   },
   {
     "id": "165",
@@ -3485,23 +3385,6 @@
     ]
   },
   {
-    "id": "192",
-    "category": "Blocks",
-    "name_en": "Obsidian Brick",
-    "name_es": "Ladrillo de obsidiana",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Brick",
-    "recipes": [
-      {
-        "name_en": "Obsidian Platform",
-        "amount": 2
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Obsidian_Brick.png",
-    "station_ids": [
-      "hand"
-    ]
-  },
-  {
     "id": "193",
     "category": "Accessories",
     "name_en": "Obsidian Skull",
@@ -3860,27 +3743,6 @@
     "origin_info": "Cofre de hiedra (Selva) / Cajas de la selva (Pesca)"
   },
   {
-    "id": "214",
-    "category": "Blocks",
-    "name_en": "Hellstone Brick",
-    "name_es": "Ladrillo de piedra infernal",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Hellstone_Brick",
-    "recipes": [
-      {
-        "name_en": "Hellstone",
-        "amount": 1
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 5
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellstone_Brick.png",
-    "station_ids": [
-      "hand"
-    ]
-  },
-  {
     "id": "215",
     "category": "Miscellaneous",
     "name_en": "Whoopie Cushion",
@@ -3896,19 +3758,6 @@
     "station_ids": [
       "hand"
     ]
-  },
-  {
-    "id": "216",
-    "category": "Accessories",
-    "name_en": "Shackle",
-    "name_es": "Argolla",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shackle",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shackle.png",
-    "station_ids": [
-      "exploration"
-    ],
-    "origin_info": "Wooden Chest (Superficie)"
   },
   {
     "id": "217",
@@ -7167,29 +7016,6 @@
     "origin_info": "Taller de chapuzas"
   },
   {
-    "id": "396",
-    "category": "Accessories",
-    "name_en": "Obsidian Horseshoe",
-    "name_es": "Globo con herradura amarillo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Horseshoe",
-    "recipes": [
-      {
-        "name_en": "Lucky Horseshoe",
-        "amount": 1
-      },
-      {
-        "name_en": "Obsidian Skull",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Obsidian_Horseshoe.png",
-    "station_ids": [
-      "hand",
-      "398"
-    ],
-    "origin_info": "Taller de chapuzas"
-  },
-  {
     "id": "397",
     "category": "Accessories",
     "name_en": "Obsidian Shield",
@@ -7225,21 +7051,6 @@
       "loot",
       "345"
     ]
-  },
-  {
-    "id": "399",
-    "category": "Accessories",
-    "name_en": "Cloud in a Balloon",
-    "name_es": "Nube en un globo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cloud_in_a_Balloon",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud_in_a_Balloon.png",
-    "station_ids": [
-      "hand",
-      "mythril_anvil",
-      "398"
-    ],
-    "origin_info": "Fabricado: Taller de chapuzas (Nube en botella + Globo rojo brillante)"
   },
   {
     "id": "400",
@@ -8009,19 +7820,6 @@
     "origin_info": "Cofres subterráneos"
   },
   {
-    "id": "441",
-    "category": "Statues",
-    "name_en": "Angel Statue",
-    "name_es": "Estatua de ángel",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Goblin_Statue",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin_Statue.png",
-    "station_ids": [
-      "exploration"
-    ],
-    "origin_info": "Cofres subterráneos"
-  },
-  {
     "id": "442",
     "category": "Statues",
     "name_en": "Heart Statue",
@@ -8072,17 +7870,6 @@
       "exploration"
     ],
     "origin_info": "Cofres subterráneos"
-  },
-  {
-    "id": "446",
-    "category": "Statues",
-    "name_en": "Skeleton Statue",
-    "name_es": "Estatua de conejo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Skeleton_Statue",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeleton_Statue.png",
-    "station_ids": [],
-    "origin_info": "Encontrado: Subterráneo (Invoca conejo)"
   },
   {
     "id": "447",
@@ -8276,19 +8063,6 @@
     "origin_info": "Encontrado: Subterráneo (Invoca medusa)"
   },
   {
-    "id": "464",
-    "category": "Statues",
-    "name_en": "Bird Statue",
-    "name_es": "Estatua de cerdragón",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Bird_Statue",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bird_Statue.png",
-    "station_ids": [
-      "hand"
-    ],
-    "origin_info": "Encontrado: Subterráneo (Invoca cerdragón)"
-  },
-  {
     "id": "465",
     "category": "Statues",
     "name_en": "Axe Statue",
@@ -8376,18 +8150,6 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pillar_Statue.png",
     "station_ids": []
-  },
-  {
-    "id": "473",
-    "category": "Statues",
-    "name_en": "Heart Statue",
-    "name_es": "Estatua de corazón",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Heart_Statue",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Heart_Statue.png",
-    "station_ids": [
-      "iron_anvil"
-    ]
   },
   {
     "id": "474",
@@ -8742,63 +8504,6 @@
     "station_ids": [
       "hand"
     ]
-  },
-  {
-    "id": "495",
-    "category": "Weapons",
-    "name_en": "Rainbow Rod",
-    "name_es": "Varita multicolor",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Rainbow_Rod",
-    "recipes": [
-      {
-        "name_en": "Crystal Shard",
-        "amount": 10
-      },
-      {
-        "name_en": "Pixie Dust",
-        "amount": 10
-      },
-      {
-        "name_en": "Soul of Light",
-        "amount": 8
-      },
-      {
-        "name_en": "Soul of Sight",
-        "amount": 15
-      },
-      {
-        "name_en": "Unicorn Horn",
-        "amount": 2
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rainbow_Rod.png",
-    "station_ids": [
-      "hand"
-    ]
-  },
-  {
-    "id": "496",
-    "category": "Tools",
-    "name_en": "Ice Rod",
-    "name_es": "Varita helada",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Rod",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Rod.png",
-    "station_ids": []
-  },
-  {
-    "id": "497",
-    "category": "Accessories",
-    "name_en": "Neptune's Shell",
-    "name_es": "Caparazón de Neptuno",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Neptune's_Shell",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Neptune's_Shell.png",
-    "station_ids": [
-      "loot",
-      "exploration"
-    ],
-    "origin_info": "Botín: Criatura de las profundidades (Eclipse Solar)"
   },
   {
     "id": "498",
@@ -11840,16 +11545,6 @@
     ]
   },
   {
-    "id": "679",
-    "category": "Weapons",
-    "name_en": "Tactical Shotgun",
-    "name_es": "Escopeta táctica",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Tactical_Shotgun",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tactical_Shotgun.png",
-    "station_ids": []
-  },
-  {
     "id": "680",
     "category": "Chests/Crates",
     "name_en": "Ivy Chest",
@@ -12852,90 +12547,6 @@
     ]
   },
   {
-    "id": "727",
-    "category": "Armor",
-    "name_en": "Wood Helmet",
-    "name_es": "Casco de madera",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Helmet",
-    "recipes": [
-      {
-        "name_en": "Wood",
-        "amount": 20
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Helmet.png",
-    "is_armor": true,
-    "armor_set_en": "Wood Armor",
-    "armor_set_es": "Armadura de madera",
-    "total_defense": "3",
-    "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
-    "station_ids": [
-      "36"
-    ],
-    "origin_info": "Fabricado: Mesa de trabajo (20 Madera)"
-  },
-  {
-    "id": "728",
-    "category": "Armor",
-    "name_en": "Wood Breastplate",
-    "name_es": "Coraza de madera",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Breastplate",
-    "recipes": [
-      {
-        "name_en": "Wood",
-        "amount": 30
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Breastplate.png",
-    "is_armor": true,
-    "armor_set_en": "Wood Armor",
-    "armor_set_es": "Armadura de madera",
-    "total_defense": "3",
-    "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
-    "station_ids": [
-      "36"
-    ],
-    "origin_info": "Fabricado: Mesa de trabajo (30 Madera)"
-  },
-  {
-    "id": "729",
-    "category": "Armor",
-    "name_en": "Wood Greaves",
-    "name_es": "Grebas de madera",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Wood_Greaves",
-    "recipes": [
-      {
-        "name_en": "Wood",
-        "amount": 25
-      },
-      {
-        "name_en": "Platinum Bar",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wood_Greaves.png",
-    "is_armor": true,
-    "armor_set_en": "Wood Armor",
-    "armor_set_es": "Armadura de madera",
-    "total_defense": "3",
-    "set_stats": "+Ninguno",
-    "set_bonus": "+1 Defensa extra.",
-    "station_ids": [
-      "36"
-    ],
-    "origin_info": "Fabricado: Mesa de trabajo (25 Madera)"
-  },
-  {
     "id": "730",
     "category": "Armor",
     "name_en": "Ebonwood Helmet",
@@ -13318,97 +12929,6 @@
       "bone_welder",
       "mythril_anvil"
     ]
-  },
-  {
-    "id": "750",
-    "category": "Crafting",
-    "name_en": "Soul of Fright",
-    "name_es": "Alma de terror",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cactus_Wall",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cactus_Wall.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Esqueletrón Prime"
-  },
-  {
-    "id": "751",
-    "category": "Crafting",
-    "name_en": "Soul of Might",
-    "name_es": "Alma de poder",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cloud",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: El Destructor"
-  },
-  {
-    "id": "752",
-    "category": "Crafting",
-    "name_en": "Soul of Sight",
-    "name_es": "Alma de visión",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Cloud_Wall",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud_Wall.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Los Gemelos"
-  },
-  {
-    "id": "753",
-    "category": "Weapons",
-    "name_en": "Gungnir",
-    "name_es": "Gungnir",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Seaweed_(pet)",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Seaweed.png",
-    "station_ids": [
-      "mythril_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes sagrados)"
-  },
-  {
-    "id": "754",
-    "category": "Armor",
-    "name_en": "Hallowed Greaves",
-    "name_es": "Grebas sagradas",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Rune_Hat",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rune_Hat.png",
-    "station_ids": [
-      "mythril_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes sagrados)"
-  },
-  {
-    "id": "755",
-    "category": "Armor",
-    "name_en": "Hallowed Helmet",
-    "name_es": "Casco sagrado",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Rune_Robe",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rune_Robe.png",
-    "station_ids": [
-      "mythril_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes sagrados)"
-  },
-  {
-    "id": "756",
-    "category": "Armor",
-    "name_en": "Hallowed Plate Mail",
-    "name_es": "Cota de placas sagrada",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Mushroom_Spear",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mushroom_Spear.png",
-    "station_ids": [
-      "mythril_anvil"
-    ],
-    "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes sagrados)"
   },
   {
     "id": "757",
@@ -15058,28 +14578,6 @@
     "origin_info": "Botín: Medusa (Subterráneo)"
   },
   {
-    "id": "861",
-    "category": "Accessories",
-    "name_en": "Moon Shell",
-    "name_es": "Equipo de buceo de medusa",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Shell",
-    "recipes": [
-      {
-        "name_en": "Moon Charm",
-        "amount": 1
-      },
-      {
-        "name_en": "Neptune's Shell",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Shell.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Taller de chapuzas"
-  },
-  {
     "id": "862",
     "category": "Accessories",
     "name_en": "Star Veil",
@@ -15093,41 +14591,6 @@
       "exploration"
     ],
     "origin_info": "Cofre helado"
-  },
-  {
-    "id": "863",
-    "category": "Accessories",
-    "name_en": "Water Walking Boots",
-    "name_es": "Botas de flotación",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Water_Walking_Boots",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Walking_Boots.png",
-    "station_ids": [
-      "398",
-      "loot",
-      "exploration"
-    ],
-    "origin_info": "Cofre de agua (Océano) / Cajas del océano (Pesca)"
-  },
-  {
-    "id": "864",
-    "category": "Vanity",
-    "name_en": "Tiara",
-    "name_es": "Tiara",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Tiara",
-    "recipes": [],
-    "station_ids": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tiara.png"
-  },
-  {
-    "id": "865",
-    "category": "Vanity",
-    "name_en": "Princess Dress",
-    "name_es": "Disfraz de princesa",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Princess_Dress",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Princess_Dress.png",
-    "station_ids": []
   },
   {
     "id": "866",
@@ -15292,50 +14755,6 @@
       "loot"
     ],
     "origin_info": "Minado: Carmesí / Botín: Ojo de Cthulhu / Cerebro de Cthulhu"
-  },
-  {
-    "id": "881",
-    "category": "Materials",
-    "name_en": "Tissue Sample",
-    "name_es": "Muestra de tejido",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Tissue_Sample",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tissue_Sample.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Cerebro de Cthulhu / Creepers"
-  },
-  {
-    "id": "882",
-    "category": "Materials",
-    "name_en": "Vertebra",
-    "name_es": "Vértebra",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Vertebra",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vertebra.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Enemigos del Carmesí"
-  },
-  {
-    "id": "883",
-    "category": "Boss Summons",
-    "name_en": "Bloody Spine",
-    "name_es": "Espina sangrienta",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Bloody_Spine",
-    "recipes": [
-      {
-        "name_en": "Ice Brick Wall",
-        "amount": 4
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bloody_Spine.png",
-    "station_ids": [
-      "altar"
-    ],
-    "origin_info": "Fabricado: Altar carmesí (15 Vértebras + 30 Polvo vicioso)"
   },
   {
     "id": "884",
@@ -16313,20 +15732,6 @@
     "station_ids": []
   },
   {
-    "id": "938",
-    "category": "Accessories",
-    "name_en": "Paladin's Shield",
-    "name_es": "Escudo de paladín",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Paladin's_Shield",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin's_Shield.png",
-    "station_ids": [
-      "loot",
-      "exploration"
-    ],
-    "origin_info": "Botín: Paladín (Mazmorra Post-Plantera)"
-  },
-  {
     "id": "939",
     "category": "Tools",
     "name_en": "Web Slinger",
@@ -16410,25 +15815,6 @@
     "station_ids": []
   },
   {
-    "id": "947",
-    "category": "Ore/Bars/Gems",
-    "name_en": "Chlorophyte Ore",
-    "name_es": "Mineral de clorofita",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Chlorophyte_Ore",
-    "recipes": [
-      {
-        "name_en": "Luminite",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Ore.png",
-    "station_ids": [
-      "exploration"
-    ],
-    "origin_info": "Minado: Selva (Hardmode - Tras derrotar a los Jefes Mecánicos)"
-  },
-  {
     "id": "948",
     "category": "Wings",
     "name_en": "Steampunk Wings",
@@ -16457,19 +15843,6 @@
     "station_ids": [
       "hand"
     ]
-  },
-  {
-    "id": "950",
-    "category": "Accessories",
-    "name_en": "Ice Skates",
-    "name_es": "Patines de hielo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Skates",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Skates.png",
-    "station_ids": [
-      "exploration"
-    ],
-    "origin_info": "Cofre helado (Nieve) / Cajas congeladas (Pesca)"
   },
   {
     "id": "951",
@@ -17994,16 +17367,6 @@
     ]
   },
   {
-    "id": "1037",
-    "category": "Dyes",
-    "name_en": "Silver Dye",
-    "name_es": "Tinte plateado",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Silver_Dye",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Dye.png",
-    "station_ids": []
-  },
-  {
     "id": "1038",
     "category": "Dyes",
     "name_en": "Bright Red Dye",
@@ -18255,24 +17618,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bright_Pink_Dye.png",
     "station_ids": [
       "hand"
-    ]
-  },
-  {
-    "id": "1050",
-    "category": "Dyes",
-    "name_en": "Black Dye",
-    "name_es": "Tinte negro",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Black_Dye",
-    "recipes": [
-      {
-        "name_en": "Black Ink",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Black_Dye.png",
-    "station_ids": [
-      "hand",
-      "dye_vat"
     ]
   },
   {
@@ -19116,42 +18461,6 @@
     "station_ids": []
   },
   {
-    "id": "1101",
-    "category": "Blocks",
-    "name_en": "Lihzahrd Brick",
-    "name_es": "Mineral de clorofita",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Brick",
-    "recipes": [
-      {
-        "name_en": "Lihzahrd Platform",
-        "amount": 2
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Brick.png",
-    "station_ids": [
-      "hand",
-      "mining"
-    ],
-    "origin_info": "Minado: Selva (Pico-hacha o superior)"
-  },
-  {
-    "id": "1102",
-    "category": "Walls/Wallpaper",
-    "name_en": "Lihzahrd Brick Wall",
-    "name_es": "Pared de ladrillo de lihzarhd",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Brick_Wall",
-    "recipes": [
-      {
-        "name_en": "Lihzahrd Brick",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Brick_Wall.png",
-    "station_ids": [
-      "hand"
-    ]
-  },
-  {
     "id": "1103",
     "category": "Blocks",
     "name_en": "Slush Block",
@@ -19370,18 +18679,6 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Black_Ink.png",
     "station_ids": []
-  },
-  {
-    "id": "1120",
-    "category": "Crafting Stations",
-    "name_en": "Dye Vat",
-    "name_es": "Tubo para tinte",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Dye_Vat",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Vat.png",
-    "station_ids": [
-      "33"
-    ]
   },
   {
     "id": "1121",
@@ -19882,19 +19179,6 @@
       "exploration"
     ],
     "origin_info": "Compra: Médico brujo (Selva - Hardmode)"
-  },
-  {
-    "id": "1156",
-    "category": "Weapons",
-    "name_en": "Piranha Gun",
-    "name_es": "Papiro de escarabajo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Piranha_Gun",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Piranha_Gun.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Caballero de la muerte (Mourning Wood)"
   },
   {
     "id": "1157",
@@ -21588,18 +20872,6 @@
     "origin_info": "Fabricado: Taller de chapuzas (Nube en un globo + Herradura de la suerte)"
   },
   {
-    "id": "1254",
-    "category": "Weapons",
-    "name_en": "Sniper Rifle",
-    "name_es": "Fusil de francotirador",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Sniper_Rifle",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sniper_Rifle.png",
-    "station_ids": [
-      "loot"
-    ]
-  },
-  {
     "id": "1255",
     "category": "Weapons",
     "name_en": "Venus Magnum",
@@ -21735,19 +21007,6 @@
     "recipes": [],
     "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Uzi.png"
-  },
-  {
-    "id": "1266",
-    "category": "Weapons",
-    "name_en": "Magnet Sphere",
-    "name_es": "Báculo carmesí",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Magnet_Sphere",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magnet_Sphere.png",
-    "station_ids": [
-      "exploration"
-    ],
-    "origin_info": "Botín: Corazón carmesí (Carmesí)"
   },
   {
     "id": "1267",
@@ -24237,39 +23496,6 @@
     "station_ids": []
   },
   {
-    "id": "1444",
-    "category": "Weapons",
-    "name_en": "Shadowbeam Staff",
-    "name_es": "Báculo de haz de sombras",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shadowbeam_Staff",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadowbeam_Staff.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Nigromante (Mazmorra)"
-  },
-  {
-    "id": "1445",
-    "category": "Weapons",
-    "name_en": "Inferno Fork",
-    "name_es": "Tenedor del infierno",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Inferno_Fork",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Inferno_Fork.png",
-    "station_ids": []
-  },
-  {
-    "id": "1446",
-    "category": "Weapons",
-    "name_en": "Spectre Staff",
-    "name_es": "Báculo espectral",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Staff",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Staff.png",
-    "station_ids": []
-  },
-  {
     "id": "1447",
     "category": "Platforms/Fencing",
     "name_en": "Wooden Fence",
@@ -25042,19 +24268,6 @@
       "merchant_buy"
     ],
     "origin_info": "Botín: Mourning Wood (Luna de calabaza)"
-  },
-  {
-    "id": "1513",
-    "category": "Weapons",
-    "name_en": "Paladin's Hammer",
-    "name_es": "Lanzacañas",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Paladin's_Hammer",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin's_Hammer.png",
-    "station_ids": [
-      "merchant_buy"
-    ],
-    "origin_info": "Botín: Mourning Wood (Luna de Calabaza)"
   },
   {
     "id": "1514",
@@ -26455,28 +25668,6 @@
       "398"
     ],
     "origin_info": "Fabricado: Taller de chapuzas (Armadura reforzada + Vendaje medicado + El plan + Mantra de contrahechizo + Venda)"
-  },
-  {
-    "id": "1613",
-    "category": "Accessories",
-    "name_en": "Ankh Shield",
-    "name_es": "Escudo de Ankh",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Ankh_Shield",
-    "recipes": [
-      {
-        "name_en": "Ankh Charm",
-        "amount": 1
-      },
-      {
-        "name_en": "Obsidian Shield",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ankh_Shield.png",
-    "station_ids": [
-      "398"
-    ],
-    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "1614",
@@ -29928,16 +29119,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_and_Yellow_Lights",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blue_and_Yellow_Lights.png",
-    "station_ids": []
-  },
-  {
-    "id": "1906",
-    "category": "Vanity",
-    "name_en": "Giant Bow",
-    "name_es": "Arco gigante",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Giant_Bow",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Giant_Bow.png",
     "station_ids": []
   },
   {
@@ -36026,16 +35207,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Arcane_Rune_Wall",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arcane_Rune_Wall.png",
-    "station_ids": []
-  },
-  {
-    "id": "2272",
-    "category": "Tools",
-    "name_en": "Water Gun",
-    "name_es": "Pistola de agua",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Water_Gun",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Gun.png",
     "station_ids": []
   },
   {
@@ -46975,16 +46146,6 @@
     "station_ids": []
   },
   {
-    "id": "2958",
-    "category": "Banners (Enemy)",
-    "name_en": "Paladin Banner",
-    "name_es": "Estandarte de paladín",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Paladin_Banner",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin_Banner.png",
-    "station_ids": []
-  },
-  {
     "id": "2959",
     "category": "Banners (Enemy)",
     "name_en": "Penguin Banner",
@@ -47855,49 +47016,6 @@
     "station_ids": [
       "hand",
       "398"
-    ]
-  },
-  {
-    "id": "3036",
-    "category": "Accessories",
-    "name_en": "Fish Finder",
-    "name_es": "Localizador de peces",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Fish_Finder",
-    "recipes": [
-      {
-        "name_en": "Fisherman's Pocket Guide",
-        "amount": 1
-      },
-      {
-        "name_en": "Sextant",
-        "amount": 1
-      },
-      {
-        "name_en": "Weather Radio",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fish_Finder.png",
-    "station_ids": [
-      "hand"
-    ]
-  },
-  {
-    "id": "3037",
-    "category": "Accessories",
-    "name_en": "Weather Radio",
-    "name_es": "Radio del clima",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Weather_Radio",
-    "recipes": [
-      {
-        "name_en": "Sextant",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Weather_Radio.png",
-    "station_ids": [
-      "shimmer"
     ]
   },
   {
@@ -48790,26 +47908,6 @@
     "origin_info": "Botín: Enemigos de la mazmorra"
   },
   {
-    "id": "3096",
-    "category": "Accessories",
-    "name_en": "Sextant",
-    "name_es": "Sextante",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Sextant",
-    "recipes": [
-      {
-        "name_en": "Fisherman's Pocket Guide",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sextant.png",
-    "station_ids": [
-      "shimmer",
-      "merchant_buy"
-    ],
-    "origin_info": "Recompensa: Pescador"
-  },
-  {
     "id": "3097",
     "category": "Accessories",
     "name_en": "Shield of Cthulhu",
@@ -48868,19 +47966,6 @@
       "36"
     ],
     "origin_info": "Botín: Enemigos de la Mazmorra (Dungeon)"
-  },
-  {
-    "id": "3102",
-    "category": "Accessories",
-    "name_en": "Metal Detector",
-    "name_es": "Detector de metales",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Metal_Detector",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Metal_Detector.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Ninfa (Nymph)"
   },
   {
     "id": "3103",
@@ -50910,16 +49995,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Moonglow_Planter_Box",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moonglow_Planter_Box.png",
-    "station_ids": []
-  },
-  {
-    "id": "3217",
-    "category": "Plants",
-    "name_en": "Deathweed Planter Box",
-    "name_es": "Macetero de malahierba (corrupción)",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Deathweed_Planter_Box_(Corruption)",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Deathweed_Planter_Box.png",
     "station_ids": []
   },
   {
@@ -59543,34 +58618,6 @@
     ]
   },
   {
-    "id": "3776",
-    "category": "Armor",
-    "name_en": "Forbidden Mask",
-    "name_es": "Máscara prohibida",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Forbidden_Mask",
-    "recipes": [
-      {
-        "name_en": "Forbidden Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Titanium Bar",
-        "amount": 10
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Mask.png",
-    "is_armor": true,
-    "armor_set_en": "Forbidden Armor",
-    "armor_set_es": "Armadura prohibida",
-    "total_defense": "26",
-    "set_stats": "+25% Daño mágico y súbditos / +2 Capacidad súbditos / +80 Maná",
-    "set_bonus": "Doble toque ABAJO para invocar una tormenta de arena en el cursor.",
-    "station_ids": [
-      "iron_anvil",
-      "mythril_anvil"
-    ]
-  },
-  {
     "id": "3777",
     "category": "Armor",
     "name_en": "Forbidden Robes",
@@ -59587,34 +58634,6 @@
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Robes.png",
-    "is_armor": true,
-    "armor_set_en": "Forbidden Armor",
-    "armor_set_es": "Armadura prohibida",
-    "total_defense": "26",
-    "set_stats": "+25% Daño mágico y súbditos / +2 Capacidad súbditos / +80 Maná",
-    "set_bonus": "Doble toque ABAJO para invocar una tormenta de arena en el cursor.",
-    "station_ids": [
-      "iron_anvil",
-      "mythril_anvil"
-    ]
-  },
-  {
-    "id": "3778",
-    "category": "Armor",
-    "name_en": "Forbidden Treads",
-    "name_es": "Bandas prohibidas",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Forbidden_Treads",
-    "recipes": [
-      {
-        "name_en": "Adamantite Bar",
-        "amount": 16
-      },
-      {
-        "name_en": "Forbidden Fragment",
-        "amount": 1
-      }
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Forbidden_Treads.png",
     "is_armor": true,
     "armor_set_en": "Forbidden Armor",
     "armor_set_es": "Armadura prohibida",
@@ -59650,19 +58669,6 @@
     "station_ids": [
       "hand"
     ]
-  },
-  {
-    "id": "3780",
-    "category": "Walls/Wallpaper",
-    "name_en": "Sandstone Brick Wall",
-    "name_es": "Pared de ladrillo de arenisca",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Sandstone_Brick_Wall",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstone_Brick_Wall.png",
-    "station_ids": [
-      "36"
-    ],
-    "origin_info": "Fabricado: Banco de trabajo"
   },
   {
     "id": "3781",
@@ -59743,19 +58749,6 @@
       "loot"
     ],
     "origin_info": "Botín: Elemental de arena"
-  },
-  {
-    "id": "3786",
-    "category": "Banners",
-    "name_en": "Sand Shark Banner",
-    "name_es": "Estandarte de tiburón de arena",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Sand_Shark_Banner",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sand_Shark_Banner.png",
-    "station_ids": [
-      "loot"
-    ],
-    "origin_info": "Botín: Tiburón de arena"
   },
   {
     "id": "3787",
@@ -61575,16 +60568,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Leinfors'_Luxury_Shampoo",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors'_Luxury_Shampoo.png",
-    "station_ids": []
-  },
-  {
-    "id": "3930",
-    "category": "Weapons",
-    "name_en": "Celebration Mk2",
-    "name_es": "Celebración v2",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Celebration_Mk2",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celebration_Mk2.png",
     "station_ids": []
   },
   {
@@ -74020,17 +73003,6 @@
     ]
   },
   {
-    "id": "4715",
-    "category": "Weapons",
-    "name_en": "Stellar Tune",
-    "name_es": "Látigo de cuero",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Stellar_Tune",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stellar_Tune.png",
-    "station_ids": [],
-    "origin_info": "Compra: Zoóloga"
-  },
-  {
     "id": "4716",
     "category": "Pets/Mounts",
     "name_en": "Mollusk Whistle",
@@ -74883,16 +73855,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pogo_Stick",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pogo_Stick.png",
-    "station_ids": []
-  },
-  {
-    "id": "4792",
-    "category": "Pets/Mounts",
-    "name_en": "The Black Spot",
-    "name_es": "El Punto Negro",
-    "wiki_url": "https://terraria.wiki.gg/wiki/The_Black_Spot",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Black_Spot.png",
     "station_ids": []
   },
   {
@@ -77699,18 +76661,6 @@
     "origin_info": "Fabricado: Taller de chapuzas (Botas de chispas heladas + Botas de flotación de lava)"
   },
   {
-    "id": "5001",
-    "category": "Armor",
-    "name_en": "Moon Lord Legs",
-    "name_es": "Máscara de dragón",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord_Legs",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord_Legs.png",
-    "station_ids": [
-      "iron_anvil"
-    ]
-  },
-  {
     "id": "5002",
     "category": "Chests/Crates",
     "name_en": "Ocean Crate",
@@ -77746,18 +76696,6 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Badger's_Hat.png",
     "station_ids": []
-  },
-  {
-    "id": "5005",
-    "category": "Weapons",
-    "name_en": "Terraprisma",
-    "name_es": "Malla de titán",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Terraprisma",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraprisma.png",
-    "station_ids": [
-      "loot"
-    ]
   },
   {
     "id": "5006",
@@ -84557,32 +83495,6 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Hellstone_Brick_Wall.png"
   },
   {
-    "id": "5437",
-    "category": "Tools",
-    "name_en": "Shellphone",
-    "name_es": "",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone",
-    "recipes": [
-      {
-        "name_en": "Cell Phone",
-        "amount": 1
-      },
-      {
-        "name_en": "Demon Conch",
-        "amount": 1
-      },
-      {
-        "name_en": "Magic Conch",
-        "amount": 1
-      }
-    ],
-    "station_ids": [
-      "398"
-    ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
-    "origin_info": "Taller de chapuzas"
-  },
-  {
     "id": "5438",
     "category": "Plants",
     "name_en": "Fertilizer",
@@ -85118,16 +84030,6 @@
     "recipes": [],
     "station_ids": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Electric_Eel.png"
-  },
-  {
-    "id": "5479",
-    "category": "Weapons",
-    "name_en": "Constellation",
-    "name_es": "",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Constellation",
-    "recipes": [],
-    "station_ids": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Constellation.png"
   },
   {
     "id": "5480",
