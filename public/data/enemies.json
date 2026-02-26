@@ -3727,13 +3727,7 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "159",
@@ -3748,13 +3742,7 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "161",
@@ -3790,13 +3778,7 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "163",
@@ -3873,13 +3855,7 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "167",
@@ -4703,13 +4679,7 @@
     "biome_en": "Eclipse Solar",
     "time_es": "Hardmode",
     "time_en": "Hardmode",
-    "drops": [
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
-      }
-    ]
+    "drops": []
   },
   {
     "id": "252",
@@ -4759,11 +4729,6 @@
       {
         "item_name": "Scourge of the Corruptor",
         "item_id": "1571",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
         "chance": "Drops"
       }
     ]
@@ -5527,11 +5492,6 @@
         "item_name": "Shield of Cthulhu",
         "item_id": "3097",
         "chance": "Drops"
-      },
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
       }
     ]
   },
@@ -5552,11 +5512,6 @@
       {
         "item_name": "Butcher's Chainsaw",
         "item_id": "3098",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
         "chance": "Drops"
       }
     ]
@@ -5579,11 +5534,6 @@
         "item_name": "Stopwatch",
         "item_id": "3099",
         "chance": "Drops"
-      },
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
       }
     ]
   },
@@ -5605,11 +5555,6 @@
         "item_name": "Meteorite Brick",
         "item_id": "3100",
         "chance": "Drops"
-      },
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
-        "chance": "Drops"
       }
     ]
   },
@@ -5630,11 +5575,6 @@
       {
         "item_name": "Meteorite Brick Wall",
         "item_id": "3101",
-        "chance": "Drops"
-      },
-      {
-        "item_name": "Staff of the Frost Hydra",
-        "item_id": "1572",
         "chance": "Drops"
       }
     ]
