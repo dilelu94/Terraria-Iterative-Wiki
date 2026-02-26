@@ -341,7 +341,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Watch.png?5830a3",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -7078,7 +7079,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Compass",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Compass.png?2c10fc",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "394",
@@ -48149,7 +48152,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Tally_Counter.png?4765fb",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "loot"
     ]
   },
   {
@@ -48167,7 +48171,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sextant.png?3f702d",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "merchant_buy"
     ]
   },
   {
@@ -48198,7 +48203,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Stopwatch",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Stopwatch.png?914c54",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "3100",
@@ -48242,7 +48249,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Metal_Detector",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Metal_Detector.png?7bfc04",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3103",
@@ -48483,7 +48492,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Peace_Candle.png?f91a54",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -48494,7 +48504,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lifeform_Analyzer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lifeform_Analyzer.png?69ce27",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "3119",
@@ -48504,7 +48516,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/DPS_Meter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/DPS_Meter.png?b015ee",
-    "station_ids": []
+    "station_ids": [
+      "quest"
+    ]
   },
   {
     "id": "3120",
@@ -48548,7 +48562,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Goblin_Tech.png?8c8262",
     "station_ids": [
       "hand",
-      "398"
+      "398",
+      "merchant_buy"
     ]
   },
   {
@@ -48573,7 +48588,8 @@
     ],
     "station_ids": [
       "hand",
-      "398"
+      "398",
+      "merchant_buy"
     ]
   },
   {
@@ -48645,7 +48661,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Granite_Chest.png?508f68",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -48670,7 +48687,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Meteorite_Clock.png?f494dd",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -66420,7 +66438,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Amber_Hook.png?439d36",
     "station_ids": [
-      "hand"
+      "hand",
+      "fishing"
     ]
   },
   {
@@ -72493,7 +72512,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fore!",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Fore!.png",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4661",
@@ -72553,7 +72574,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pretty_Pink_Ribbon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pretty_Pink_Ribbon.png?233627",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4667",
@@ -73762,7 +73785,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sergeant_United_Shield",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sergeant_United_Shield.png?8e1318",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "4761",
@@ -73802,7 +73827,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shroomerang",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shroomerang.png?55af96",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "4765",
@@ -75159,7 +75186,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lava_Absorbant_Sponge",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lava_Absorbant_Sponge.png?7cee4f",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ]
   },
   {
     "id": "4873",
@@ -78244,7 +78273,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Helm",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Helm.png?7d9464",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ]
   },
   {
     "id": "5101",
