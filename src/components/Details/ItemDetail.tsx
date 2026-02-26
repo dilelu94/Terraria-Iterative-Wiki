@@ -130,7 +130,12 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
                   ) : (
                     <div className="item-icon-placeholder tiny">🔨</div>
                   )}
-                  <span className="ing-name" style={{ color: 'var(--accent)' }}>{s.display_name}</span>
+                  <div style={{ display: 'flex', flexDirection: 'column' }}>
+                    <span className="ing-name" style={{ color: 'var(--accent)' }}>{s.display_name}</span>
+                    {s.id === 'exploration' && item.origin_info && (
+                      <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{item.origin_info}</span>
+                    )}
+                  </div>
                 </div>
               ))}
             </div>

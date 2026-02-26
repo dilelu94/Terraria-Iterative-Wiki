@@ -14,6 +14,7 @@ export interface Item {
   image_url?: string;
   recipes?: RecipeIngredient[];
   station_ids?: string[];
+  origin_info?: string;
   // Armor fields
   is_armor?: boolean;
   armor_set_en?: string;

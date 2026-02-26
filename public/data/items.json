@@ -294,8 +294,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Copper_Watch.png?b0bc62",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "exploration"
+    ],
+    "origin_info": "Skyware Chest (Islas Flotantes)"
   },
   {
     "id": "16",
@@ -902,7 +904,8 @@
       "36",
       "heavy_workbench",
       "exploration"
-    ]
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "50",
@@ -930,7 +933,8 @@
       "36",
       "heavy_workbench",
       "exploration"
-    ]
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "51",
@@ -971,7 +975,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloud_in_a_Bottle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cloud_in_a_Bottle.png?278c6a",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "54",
@@ -981,7 +988,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hermes_Boots",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hermes_Boots.png?6cf0b9",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "55",
@@ -1124,7 +1134,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Starfury.png?3758ba",
     "station_ids": [
       "exploration"
-    ]
+    ],
+    "origin_info": "Skyware Chest (Islas Flotantes)"
   },
   {
     "id": "66",
@@ -2114,8 +2125,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Flower_of_Fire.png?515566",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Shadow Chest (Inframundo)"
   },
   {
     "id": "113",
@@ -2885,7 +2898,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Cobalt_Shield",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Cobalt_Shield.png?921a77",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Skyware Chest (Islas Flotantes)"
   },
   {
     "id": "157",
@@ -3322,7 +3338,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Breathing_Reed",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Breathing_Reed.png?87529c",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Water Chest (Océano)"
   },
   {
     "id": "187",
@@ -3332,7 +3351,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flipper",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Flipper.png?b17245",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Water Chest (Océano)"
   },
   {
     "id": "188",
@@ -3777,7 +3799,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Feral_Claws",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Feral_Claws.png?89a522",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Ivy Chest (Selva)"
   },
   {
     "id": "212",
@@ -3788,8 +3813,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Anklet_of_the_Wind.png?d940a8",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Ivy Chest (Selva)"
   },
   {
     "id": "213",
@@ -3800,8 +3827,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Staff_of_Regrowth.png?44fb09",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Ivy Chest (Selva)"
   },
   {
     "id": "214",
@@ -3849,7 +3878,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shackle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Shackle.png?9ae5dd",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Wooden Chest (Superficie)"
   },
   {
     "id": "217",
@@ -3877,7 +3909,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flamelash",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Flamelash.png?fc6def",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Shadow Chest (Inframundo)"
   },
   {
     "id": "219",
@@ -3915,8 +3950,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Sunfury.png?f032d3",
     "station_ids": [
       "hand",
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Shadow Chest (Inframundo)"
   },
   {
     "id": "221",
@@ -4591,8 +4628,10 @@
     "set_stats": "+9% Probabilidad de Crítico",
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Water Chest (Océano)"
   },
   {
     "id": "259",
@@ -4833,8 +4872,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dark_Lance.png?339b24",
     "station_ids": [
-      "330"
-    ]
+      "330",
+      "exploration"
+    ],
+    "origin_info": "Shadow Chest (Inframundo)"
   },
   {
     "id": "275",
@@ -4878,8 +4919,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Trident.png?21738e",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Water Chest (Océano)"
   },
   {
     "id": "278",
@@ -4923,7 +4966,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spear",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Spear.png?f85562",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Wooden Chest (Superficie)"
   },
   {
     "id": "281",
@@ -4974,7 +5020,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wooden_Boomerang",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Boomerang.png?33af86",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Wooden Boomerang (Superficie)"
   },
   {
     "id": "285",
@@ -9180,7 +9229,8 @@
     "station_ids": [
       "mythril_anvil",
       "exploration"
-    ]
+    ],
+    "origin_info": "Ivy Chest (Selva)"
   },
   {
     "id": "535",
@@ -11309,8 +11359,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Sword.png?126113",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Ice Chest (Tundra)"
   },
   {
     "id": "660",
@@ -11326,8 +11378,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pearlwood_Hammer.png?521db1",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Ice Chest (Tundra)"
   },
   {
     "id": "661",
@@ -14652,8 +14706,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lucky_Coin.png?1f9630",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "exploration"
+    ],
+    "origin_info": "Wooden Chest (Superficie)"
   },
   {
     "id": "856",
@@ -15902,7 +15958,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Flare_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Flare_Gun.png?fa6c8d",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "931",
@@ -16158,7 +16217,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Skates",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Skates.png?adadfb",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Ice Chest (Tundra)"
   },
   {
     "id": "951",
@@ -16399,7 +16461,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Boomstick",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Boomstick.png?6b5d44",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Ice Chest (Tundra)"
   },
   {
     "id": "965",
@@ -16558,8 +16623,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Shoe_Spikes.png?4dde27",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "976",
@@ -16732,8 +16799,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Master_Ninja_Gear.png?9de4c2",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Ice Chest (Tundra)"
   },
   {
     "id": "985",
@@ -16781,8 +16850,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Blizzard_in_a_Bottle.png?82d446",
     "station_ids": [
       "hand",
-      "398"
-    ]
+      "398",
+      "exploration"
+    ],
+    "origin_info": "Ice Chest (Tundra)"
   },
   {
     "id": "988",
@@ -16944,7 +17015,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Solidifier",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Solidifier.png?3efa52",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "999",
@@ -19503,7 +19577,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wasp_Gun",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wasp_Gun.png?8eaa41",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Hallowed Chest (Bioma Hardmode)"
   },
   {
     "id": "1156",
@@ -19526,8 +19603,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pygmy_Staff.png?b37d1f",
     "station_ids": [
-      "loot"
-    ]
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Corruption Chest (Bioma Hardmode)"
   },
   {
     "id": "1158",
@@ -19537,7 +19616,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pygmy_Necklace",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pygmy_Necklace.png?d892f6",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Crimson Chest (Bioma Hardmode)"
   },
   {
     "id": "1159",
@@ -19548,8 +19630,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tiki_Mask.png?32f1be",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Jungle Chest (Bioma Hardmode)"
   },
   {
     "id": "1160",
@@ -25339,7 +25423,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Scourge_of_the_Corruptor",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Scourge_of_the_Corruptor.png?95883b",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Frozen Chest (Bioma Hardmode)"
   },
   {
     "id": "1572",
@@ -35508,7 +35595,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanic's_Rod",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanic%27s_Rod.png?bd3152",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Ivy Chest (Selva)"
   },
   {
     "id": "2296",
@@ -46668,7 +46758,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hellwing_Bow",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Hellwing_Bow.png?c20680",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Shadow Chest (Inframundo)"
   },
   {
     "id": "3020",
@@ -47340,7 +47433,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Wand_of_Sparking",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Wand_of_Sparking.png?fd0d05",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Wooden Chest (Superficie)"
   },
   {
     "id": "3070",
@@ -47615,7 +47711,10 @@
     "name_es": "Radar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Radar",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Wooden Chest (Superficie)"
   },
   {
     "id": "3085",
@@ -50858,8 +50957,10 @@
       }
     ],
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Subterráneo)"
   },
   {
     "id": "3284",
@@ -66133,7 +66234,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Vampire_Frog_Staff.png?b749bc",
     "station_ids": [
       "exploration"
-    ]
+    ],
+    "origin_info": "Desert Tiger Staff (Bioma Hardmode)"
   },
   {
     "id": "4274",
@@ -66902,7 +67004,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Chum_Caster",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Chum_Caster.png?1d9e76",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Shadow Chest (Inframundo)"
   },
   {
     "id": "4326",
@@ -68371,7 +68476,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pigron_Minecart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pigron_Minecart.png?7161b3",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Water Chest (Océano)"
   },
   {
     "id": "4429",
@@ -76002,7 +76110,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Fledgling_Wings",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Fledgling_Wings.png?c1fc67",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Skyware Chest (Islas Flotantes)"
   },
   {
     "id": "4979",
