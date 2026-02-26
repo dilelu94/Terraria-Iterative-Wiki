@@ -1672,7 +1672,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Wood_Wall.png?fea86c",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "36"
     ]
   },
   {
@@ -2516,7 +2517,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Brick.png?be65e9",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -2533,7 +2535,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Brick_Wall.png?c048e9",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -2567,7 +2570,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Brick_Wall.png?b1635b",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -2589,7 +2593,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Gold_Brick.png?778116",
     "station_ids": [
       "hand",
-      "33"
+      "33",
+      "36"
     ]
   },
   {
@@ -3759,7 +3764,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Anklet_of_the_Wind",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Anklet_of_the_Wind.png?d940a8",
-    "station_ids": []
+    "station_ids": [
+      "hand"
+    ]
   },
   {
     "id": "213",
@@ -3769,7 +3776,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Staff_of_Regrowth",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Staff_of_Regrowth.png?44fb09",
-    "station_ids": []
+    "station_ids": [
+      "hand"
+    ]
   },
   {
     "id": "214",
@@ -4484,7 +4493,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Black_Thread",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Black_Thread.png?133e94",
-    "station_ids": []
+    "station_ids": [
+      "330"
+    ]
   },
   {
     "id": "255",
@@ -4500,7 +4511,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Green_Thread.png?fa0f86",
     "station_ids": [
-      "hand"
+      "hand",
+      "330"
     ]
   },
   {
@@ -4662,7 +4674,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Hellfire_Arrow.png?f66779",
     "station_ids": [
       "hand",
-      "iron_anvil"
+      "iron_anvil",
+      "330"
     ]
   },
   {
@@ -4709,7 +4722,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Diving_Helmet.png?783018",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "330"
     ]
   },
   {
@@ -4790,7 +4804,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Dark_Lance",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Dark_Lance.png?339b24",
-    "station_ids": []
+    "station_ids": [
+      "330"
+    ]
   },
   {
     "id": "275",
@@ -4799,7 +4815,9 @@
     "name_es": "Coral",
     "wiki_url": "https://terraria.wiki.gg/wiki/Coral",
     "recipes": [],
-    "station_ids": []
+    "station_ids": [
+      "330"
+    ]
   },
   {
     "id": "276",
@@ -4814,7 +4832,8 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "hand",
+      "330"
     ]
   },
   {
@@ -5760,7 +5779,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Loom.png?7ab039",
     "station_ids": [
       "hand",
-      "345"
+      "345",
+      "36"
     ]
   },
   {
@@ -5785,7 +5805,8 @@
     ],
     "station_ids": [
       "hand",
-      "345"
+      "345",
+      "36"
     ]
   },
   {
@@ -6535,7 +6556,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cobalt_Breastplate.png?dee2b7",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "330"
     ]
   },
   {
@@ -6552,7 +6574,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cobalt_Leggings.png?a6fba3",
     "station_ids": [
-      "mythril_anvil"
+      "mythril_anvil",
+      "330"
     ]
   },
   {
@@ -13210,7 +13233,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frozen_Slime_Block.png?73c427",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -13227,7 +13251,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Block_Wall.png?36beb4",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -13244,7 +13269,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Slime_Block_Wall.png?3450e2",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -17796,7 +17822,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bright_Purple_Dye.png?93b07e",
     "station_ids": [
-      "hand"
+      "hand",
+      "330"
     ]
   },
   {
@@ -17817,7 +17844,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bright_Violet_Dye.png?316082",
     "station_ids": [
-      "hand"
+      "hand",
+      "330"
     ]
   },
   {
@@ -20014,7 +20042,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Orichalcum_Chainsaw.png?87123e",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "36"
     ]
   },
   {
@@ -20155,7 +20184,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Titanium_Chainsaw.png?791f61",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "36"
     ]
   },
   {
@@ -21726,7 +21756,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Zombie_Arm",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Zombie_Arm.png?bc4dc9",
-    "station_ids": []
+    "station_ids": [
+      "345"
+    ]
   },
   {
     "id": "1305",
@@ -21736,7 +21768,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Axe",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Axe.png?3e05ee",
-    "station_ids": []
+    "station_ids": [
+      "345"
+    ]
   },
   {
     "id": "1306",
@@ -21746,7 +21780,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Sickle",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Sickle.png?128053",
-    "station_ids": []
+    "station_ids": [
+      "345"
+    ]
   },
   {
     "id": "1307",
@@ -35935,7 +35971,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Minecart.png?24cecb",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -38336,7 +38373,8 @@
     "image_url": "https://terraria.wiki.gg/images/Boreal_Wood_Fence.png",
     "station_ids": [
       "hand",
-      "345"
+      "345",
+      "36"
     ]
   },
   {
@@ -50125,7 +50163,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Outlaw_Hat.png?77d49d",
     "station_ids": [
       "iron_anvil",
-      "330"
+      "330",
+      "36"
     ]
   },
   {
@@ -51388,7 +51427,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Cart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Mechanical_Cart.png?37f68f",
-    "station_ids": []
+    "station_ids": [
+      "mythril_anvil"
+    ]
   },
   {
     "id": "3354",
@@ -55302,7 +55343,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Actuation_Rod.png?c0e8df",
     "station_ids": [
-      "hand"
+      "hand",
+      "heavy_workbench"
     ]
   },
   {
@@ -76657,7 +76699,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Resonance_Scepter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Horn_o%27_plenty.png?fecc9b",
-    "station_ids": []
+    "station_ids": [
+      "330"
+    ]
   },
   {
     "id": "5066",
