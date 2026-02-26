@@ -4790,20 +4790,20 @@
   {
     "id": "273",
     "category": "Weapons",
-    "name_en": "Night's Edge",
+    "name_en": "Nights Edge",
     "name_es": "Filo de la noche",
     "wiki_url": "https://terraria.wiki.gg/wiki/Night's_Edge",
     "recipes": [
       {
-        "name_en": "Blade of Grass",
-        "amount": 1
-      },
-      {
-        "name_en": "Blood Butcherer",
+        "name_en": "Lights Bane",
         "amount": 1
       },
       {
         "name_en": "Muramasa",
+        "amount": 1
+      },
+      {
+        "name_en": "Blade of Grass",
         "amount": 1
       },
       {
@@ -4813,11 +4813,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Night's_Edge.png",
     "station_ids": [
-      "hand",
-      "iron_anvil",
-      "altar"
+      "5532",
+      "5533"
     ],
-    "origin_info": "Altar demoníaco / carmesí"
+    "origin_info": "Fabricado: Altar demoníaco / carmesí"
   },
   {
     "id": "274",
@@ -11620,30 +11619,30 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/True_Excalibur",
     "recipes": [
       {
-        "name_en": "Chlorophyte Bar",
-        "amount": 24
-      },
-      {
         "name_en": "Excalibur",
         "amount": 1
+      },
+      {
+        "name_en": "Chlorophyte Bar",
+        "amount": 24
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/True_Excalibur.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil"
+      "525",
+      "1220"
     ],
     "origin_info": "Yunque de mitrilo / oricalco"
   },
   {
     "id": "675",
     "category": "Weapons",
-    "name_en": "True Night's Edge",
-    "name_es": "Verdadero filo de la noche",
+    "name_en": "True Nights Edge",
+    "name_es": "Verdadero Filo de la noche",
     "wiki_url": "https://terraria.wiki.gg/wiki/True_Night's_Edge",
     "recipes": [
       {
-        "name_en": "Night's Edge",
+        "name_en": "Nights Edge",
         "amount": 1
       },
       {
@@ -11661,8 +11660,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/True_Night's_Edge.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil"
+      "525",
+      "1220"
     ],
     "origin_info": "Yunque de mitrilo / oricalco"
   },
@@ -13217,23 +13216,24 @@
     "id": "757",
     "category": "Weapons",
     "name_en": "Terra Blade",
-    "name_es": "Filo de Terra",
+    "name_es": "Filo de tierra",
     "wiki_url": "https://terraria.wiki.gg/wiki/Terra_Blade",
     "recipes": [
       {
-        "name_en": "True Excalibur",
+        "name_en": "True Nights Edge",
         "amount": 1
       },
       {
-        "name_en": "True Night's Edge",
+        "name_en": "True Excalibur",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terra_Blade.png",
     "station_ids": [
-      "mythril_anvil"
+      "525",
+      "1220"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (Filo de la noche verdadero + Excalibur verdadera)"
+    "origin_info": "Fabricado: Yunque de Mythril/Oricalco (Nota: En 1.4.5 ya no requiere Espada del Héroe Rota)"
   },
   {
     "id": "758",
@@ -15411,7 +15411,7 @@
     "id": "901",
     "category": "Accessories",
     "name_en": "Armor Bracing",
-    "name_es": "Caparazón de luna",
+    "name_es": "Refuerzo para armadura",
     "wiki_url": "https://terraria.wiki.gg/wiki/Armor_Bracing",
     "recipes": [
       {
@@ -15433,12 +15433,21 @@
     "id": "902",
     "category": "Accessories",
     "name_en": "Medicated Bandage",
-    "name_es": "Caparazón de neptuno",
+    "name_es": "Vendaje medicinal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Medicated_Bandage",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Bezoar",
+        "amount": 1
+      },
+      {
+        "name_en": "Adhesive Bandage",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Medicated_Bandage.png",
     "station_ids": [
-      "loot"
+      "398"
     ],
     "origin_info": "Botín: Criatura de las profundidades (Eclipse solar)"
   },
@@ -15446,7 +15455,7 @@
     "id": "903",
     "category": "Accessories",
     "name_en": "The Plan",
-    "name_es": "Herradura de obsidiana",
+    "name_es": "El Plan",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Plan",
     "recipes": [
       {
@@ -15468,7 +15477,7 @@
     "id": "904",
     "category": "Accessories",
     "name_en": "Countercurse Mantra",
-    "name_es": "Escudo de Ankh",
+    "name_es": "Mantra contra maldiciones",
     "wiki_url": "https://terraria.wiki.gg/wiki/Countercurse_Mantra",
     "recipes": [
       {
@@ -15546,17 +15555,17 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lava_Waders",
     "recipes": [
       {
-        "name_en": "Molten Skull Rose",
+        "name_en": "Obsidian Water Walking Boots",
         "amount": 1
       },
       {
-        "name_en": "Water Walking Boots",
+        "name_en": "Lava Charm",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lava_Waders.png",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -22380,12 +22389,13 @@
     "id": "1326",
     "category": "Tools",
     "name_en": "Rod of Discord",
-    "name_es": "Vara de la discordia",
+    "name_es": "Vara de discordia",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rod_of_Discord",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rod_of_Discord.png",
     "station_ids": [],
-    "origin_info": "Botín: Elementales de caos (0.2%)"
+    "origin_info": "Soltado por Elementales de caos en el Hallow Subterráneo (0.2% / 1 en 500)",
+    "piece_effects": "Teletransporte a la posición del cursor (causa Fatiga del Caos si se usa seguido)"
   },
   {
     "id": "1327",
@@ -26144,19 +26154,19 @@
         "amount": 1
       },
       {
-        "name_en": "Countercurse Mantra",
-        "amount": 1
-      },
-      {
         "name_en": "Medicated Bandage",
         "amount": 1
       },
       {
-        "name_en": "Reflective Shades",
+        "name_en": "The Plan",
         "amount": 1
       },
       {
-        "name_en": "The Plan",
+        "name_en": "Countercurse Mantra",
+        "amount": 1
+      },
+      {
+        "name_en": "Pocket Mirror",
         "amount": 1
       }
     ],
@@ -29204,11 +29214,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Stone",
     "recipes": [
       {
-        "name_en": "Moon Stone",
+        "name_en": "Sun Stone",
         "amount": 1
       },
       {
-        "name_en": "Sun Stone",
+        "name_en": "Moon Stone",
         "amount": 1
       }
     ],
@@ -47873,9 +47883,28 @@
     "name_en": "Architect Gizmo Pack",
     "name_es": "Espectro estelar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Architect_Gizmo_Pack",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Extendo Grip",
+        "amount": 1
+      },
+      {
+        "name_en": "Paint Sprayer",
+        "amount": 1
+      },
+      {
+        "name_en": "Brick Layer",
+        "amount": 1
+      },
+      {
+        "name_en": "Portable Cement Mixer",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Architect_Gizmo_Pack.png",
-    "station_ids": [],
+    "station_ids": [
+      "398"
+    ],
     "origin_info": "Botín: Señor de la Luna"
   },
   {
@@ -48619,7 +48648,7 @@
     "id": "3110",
     "category": "Accessories",
     "name_en": "Celestial Shell",
-    "name_es": "Caparazón celestial",
+    "name_es": "Concha celestial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Shell",
     "recipes": [
       {
@@ -48635,7 +48664,8 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Piedra celestial + Caparazón de luna)"
+    "origin_info": "Fabricado: Taller de chapuzas (Piedra celestial + Caparazón de luna)",
+    "piece_effects": "Gran mejora de stats. Transforma en Lobo de noche y en Tritón en el agua."
   },
   {
     "id": "3111",
@@ -48910,19 +48940,15 @@
     "id": "3124",
     "category": "Accessories",
     "name_en": "Cell Phone",
-    "name_es": "Tecnología goblin",
+    "name_es": "Teléfono móvil",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cell_Phone",
     "recipes": [
       {
-        "name_en": "Stopwatch",
+        "name_en": "PDA",
         "amount": 1
       },
       {
-        "name_en": "DPS Meter",
-        "amount": 1
-      },
-      {
-        "name_en": "Metal Detector",
+        "name_en": "Magic Mirror",
         "amount": 1
       }
     ],
@@ -48930,7 +48956,8 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Cronómetro + Medidor de DPS + Detector de metales)"
+    "origin_info": "Fabricado: Taller de chapuzas (Cronómetro + Medidor de DPS + Detector de metales)",
+    "piece_effects": "Muestra toda la información del entorno y teletransporte a casa."
   },
   {
     "id": "3125",
@@ -56426,19 +56453,23 @@
     "id": "3611",
     "category": "Tools",
     "name_en": "The Grand Design",
-    "name_es": "El Gran Diseño",
+    "name_es": "El gran diseño",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Grand_Design",
     "recipes": [
+      {
+        "name_en": "Multicolor Wrench",
+        "amount": 1
+      },
       {
         "name_en": "Mechanical Lens",
         "amount": 1
       },
       {
-        "name_en": "Mechanical Ruler",
+        "name_en": "Ruler",
         "amount": 1
       },
       {
-        "name_en": "Multicolor Wrench",
+        "name_en": "Presserator",
         "amount": 1
       },
       {
@@ -56448,9 +56479,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Grand_Design.png",
     "station_ids": [
-      "hand",
       "398"
-    ]
+    ],
+    "piece_effects": "Control total sobre cables y actuadores. Muestra cables ocultos."
   },
   {
     "id": "3612",
@@ -56684,19 +56715,15 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Multicolor_Wrench",
     "recipes": [
       {
+        "name_en": "Red Wrench",
+        "amount": 1
+      },
+      {
         "name_en": "Blue Wrench",
         "amount": 1
       },
       {
         "name_en": "Green Wrench",
-        "amount": 1
-      },
-      {
-        "name_en": "Red Wrench",
-        "amount": 1
-      },
-      {
-        "name_en": "Wire Cutter",
         "amount": 1
       },
       {
@@ -56706,8 +56733,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Multicolor_Wrench.png",
     "station_ids": [
-      "hand",
-      "merchant_buy"
+      "398"
     ]
   },
   {
@@ -59374,16 +59400,16 @@
     "id": "3787",
     "category": "Weapons",
     "name_en": "Sky Fracture",
-    "name_es": "Fractura celestial",
+    "name_es": "Fractura del cielo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sky_Fracture",
     "recipes": [
       {
-        "name_en": "Light Shard",
-        "amount": 2
-      },
-      {
         "name_en": "Magic Missile",
         "amount": 1
+      },
+      {
+        "name_en": "Light Shard",
+        "amount": 2
       },
       {
         "name_en": "Soul of Light",
@@ -59392,8 +59418,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sky_Fracture.png",
     "station_ids": [
-      "hand"
-    ]
+      "525",
+      "1220"
+    ],
+    "piece_effects": "Lanza espadas de luz con alta probabilidad de crítico."
   },
   {
     "id": "3788",
@@ -64478,9 +64506,11 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Void_Bag.png",
     "station_ids": [
-      "demon_altar"
+      "5532",
+      "5533"
     ],
-    "origin_info": "Altar demoníaco / carmesí"
+    "origin_info": "Altar demoníaco / carmesí",
+    "piece_effects": "Funciona como inventario extra. Recoge objetos automáticamente si el tuyo está lleno."
   },
   {
     "id": "4132",
@@ -76814,19 +76844,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Zenith",
     "recipes": [
       {
-        "name_en": "Bee Keeper",
-        "amount": 1
-      },
-      {
-        "name_en": "Copper Shortsword",
-        "amount": 1
-      },
-      {
-        "name_en": "Enchanted Sword",
-        "amount": 1
-      },
-      {
-        "name_en": "Influx Waver",
+        "name_en": "Terra Blade",
         "amount": 1
       },
       {
@@ -76834,11 +76852,19 @@
         "amount": 1
       },
       {
-        "name_en": "Seedler",
+        "name_en": "Star Wrath",
         "amount": 1
       },
       {
-        "name_en": "Star Wrath",
+        "name_en": "Influx Waver",
+        "amount": 1
+      },
+      {
+        "name_en": "The Horsemans Blade",
+        "amount": 1
+      },
+      {
+        "name_en": "Seedler",
         "amount": 1
       },
       {
@@ -76846,19 +76872,23 @@
         "amount": 1
       },
       {
-        "name_en": "Terra Blade",
+        "name_en": "Bee Keeper",
         "amount": 1
       },
       {
-        "name_en": "The Horseman's Blade",
+        "name_en": "Enchanted Sword",
+        "amount": 1
+      },
+      {
+        "name_en": "Copper Shortsword",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Zenith.png",
     "station_ids": [
-      "ancient_manipulator"
+      "3549"
     ],
-    "origin_info": "Fabricado: Manipulador antiguo"
+    "origin_info": "Fabricado: Manipulador antiguo (Requiere 10 espadas de toda la aventura)"
   },
   {
     "id": "4957",
@@ -77409,7 +77439,8 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas de chispas heladas + Botas de flotación de lava)"
+    "origin_info": "Fabricado: Taller de chapuzas (Botas de chispas heladas + Botas de flotación de lava)",
+    "piece_effects": "Permite volar, correr súper rápido, caminar sobre todos los líquidos e inmunidad a la lava."
   },
   {
     "id": "5002",
@@ -79127,30 +79158,31 @@
     "id": "5126",
     "category": "Accessories",
     "name_en": "Hand Of Creation",
-    "name_es": "",
+    "name_es": "Mano de la creación",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hand_Of_Creation",
     "recipes": [
-      {
-        "name_en": "Ancient Chisel",
-        "amount": 1
-      },
       {
         "name_en": "Architect Gizmo Pack",
         "amount": 1
       },
       {
-        "name_en": "Step Stool",
+        "name_en": "Ancient Chisel",
         "amount": 1
       },
       {
         "name_en": "Treasure Magnet",
         "amount": 1
+      },
+      {
+        "name_en": "Step Stool",
+        "amount": 1
       }
     ],
     "station_ids": [
-      "hand"
+      "398"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hand_Of_Creation.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hand_Of_Creation.png",
+    "piece_effects": "Accesorio de construcción definitivo. Aumenta alcance, velocidad y minería."
   },
   {
     "id": "5127",
@@ -82550,7 +82582,8 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rod_of_Harmony.png",
-    "origin_info": "Transmutación: Vara de la discordia al Fulgor (Post-Moon Lord)"
+    "origin_info": "Transmutación (Fulgor): Lanza una Vara de Discordia al Fulgor (Post-Moon Lord)",
+    "piece_effects": "Teletransporte instantáneo sin cooldown ni daño por Fatiga del Caos"
   },
   {
     "id": "5336",
@@ -82953,8 +82986,8 @@
   {
     "id": "5358",
     "category": "Item States",
-    "name_en": "Shellphone (Home)",
-    "name_es": "Conchófono",
+    "name_en": "Shellphone",
+    "name_es": "Telefonoconcha",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shellphone_(Home)",
     "recipes": [
       {
@@ -82974,7 +83007,8 @@
       "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Home).png",
-    "origin_info": "Fabricado: Taller de chapuzas (Teléfono móvil + Caracola mágica + Caracola de demonio)"
+    "origin_info": "Fabricado: Taller de chapuzas (Teléfono móvil + Caracola mágica + Caracola de demonio)",
+    "piece_effects": "Teletransporte a casa, el océano o el inframundo. Muestra toda la información."
   },
   {
     "id": "5359",
