@@ -16601,7 +16601,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Fabricado: Taller de chapuzas (Cualquier emblema + 5 Almas de poder/vista/terror)"
   },
   {
     "id": "936",
@@ -19990,7 +19990,7 @@
     "id": "1134",
     "category": "Crafting",
     "name_en": "Bottled Honey",
-    "name_es": "Miel embotellada",
+    "name_es": "Hueso de devorador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bottled_Honey",
     "recipes": [
       {
@@ -20002,7 +20002,8 @@
     "station_ids": [
       "hand",
       "exploration"
-    ]
+    ],
+    "origin_info": "Botín: Devoramundos"
   },
   {
     "id": "1135",
@@ -20164,51 +20165,56 @@
     "id": "1145",
     "category": "Furniture (Sets)",
     "name_en": "Lihzahrd Work Bench",
-    "name_es": "Banco de trabajo de lihzahrd",
+    "name_es": "Llave de la selva",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Work_Bench",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Work_Bench.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Enemigos de la selva (Hardmode - 1/2500)"
   },
   {
     "id": "1146",
     "category": "Mechanisms",
     "name_en": "Super Dart Trap",
-    "name_es": "Súper trampa de dardos",
+    "name_es": "Llave de la corrupción",
     "wiki_url": "https://terraria.wiki.gg/wiki/Super_Dart_Trap",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Super_Dart_Trap.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Enemigos de la corrupción (Hardmode - 1/2500)"
   },
   {
     "id": "1147",
     "category": "Mechanisms",
     "name_en": "Flame Trap",
-    "name_es": "Trampa flamígera",
+    "name_es": "Llave del carmesí",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flame_Trap",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flame_Trap.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Enemigos del carmesí (Hardmode - 1/2500)"
   },
   {
     "id": "1148",
     "category": "Mechanisms",
     "name_en": "Spiky Ball Trap",
-    "name_es": "Trampa de bola espinosa",
+    "name_es": "Llave helada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spiky_Ball_Trap",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spiky_Ball_Trap.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Enemigos de la nieve/hielo (Hardmode - 1/2500)"
   },
   {
     "id": "1149",
     "category": "Mechanisms",
     "name_en": "Spear Trap",
-    "name_es": "Trampa de lanzas",
+    "name_es": "Llave bendita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spear_Trap",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spear_Trap.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Botín: Enemigos de la bendición (Hardmode - 1/2500)"
   },
   {
     "id": "1150",
@@ -22239,7 +22245,7 @@
     "id": "1271",
     "category": "Blocks",
     "name_en": "Red Stained Glass",
-    "name_es": "Libro de cráneos",
+    "name_es": "Prismáticos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Stained_Glass",
     "recipes": [
       {
@@ -22255,7 +22261,7 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Skeletron"
+    "origin_info": "Botín: Ojo de Cthulhu"
   },
   {
     "id": "1272",
@@ -23392,7 +23398,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Fabricado: Taller de chapuzas (Guante mecánico + Piedra de magma)"
   },
   {
     "id": "1344",
@@ -36738,7 +36744,7 @@
     "id": "2293",
     "category": "Tools",
     "name_en": "Fisher of Souls",
-    "name_es": "Falcon Blade",
+    "name_es": "Espada de halcón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Fisher_of_Souls",
     "recipes": [
       {
@@ -36750,7 +36756,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cajas de hierro (Pesca)"
+    "origin_info": "Cajas de hierro / Mitrilo"
   },
   {
     "id": "2294",
@@ -37028,21 +37034,23 @@
     "id": "2318",
     "category": "Fish",
     "name_en": "Ebonkoi",
-    "name_es": "Ebonkoi",
+    "name_es": "Pez piedra",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ebonkoi",
     "recipes": [],
     "station_ids": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ebonkoi.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ebonkoi.png",
+    "origin_info": "Pesca: Cavernas"
   },
   {
     "id": "2319",
     "category": "Fish",
     "name_en": "Hemopiranha",
-    "name_es": "Hemopiraña",
+    "name_es": "Pez garrote púrpura",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hemopiranha",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hemopiranha.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Pesca: Corrupción"
   },
   {
     "id": "2320",
@@ -39040,7 +39048,7 @@
     "id": "2425",
     "category": "Food",
     "name_en": "Cooked Fish",
-    "name_es": "Pescado cocinado",
+    "name_es": "Montura resistente",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cooked_Fish",
     "recipes": [
       {
@@ -39052,7 +39060,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Olla (Cualquier pescado)"
+    "origin_info": "Cajas de hierro / Mitrilo"
   },
   {
     "id": "2426",
@@ -49235,7 +49243,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Royal_Gel",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Royal_Gel.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Bolsa del Tesoro (Rey Slime)"
   },
   {
     "id": "3091",
@@ -49346,7 +49355,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Shield_of_Cthulhu",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shield_of_Cthulhu.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Bolsa del Tesoro (Ojo de Cthulhu)"
   },
   {
     "id": "3098",
@@ -49534,7 +49544,7 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Fabricado: Taller de chapuzas (Piedra celestial + Caparazón de luna)"
   },
   {
     "id": "3111",
@@ -51540,21 +51550,23 @@
     "id": "3223",
     "category": "Accessories",
     "name_en": "Brain of Confusion",
-    "name_es": "Cerebro de confusión",
+    "name_es": "Bufanda de gusano",
     "wiki_url": "https://terraria.wiki.gg/wiki/Brain_of_Confusion",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Confusion.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Bolsa del Tesoro (Devoramundos)"
   },
   {
     "id": "3224",
     "category": "Accessories",
     "name_en": "Worm Scarf",
-    "name_es": "Bufanda de gusano",
+    "name_es": "Cerebro de confusión",
     "wiki_url": "https://terraria.wiki.gg/wiki/Worm_Scarf",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Worm_Scarf.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Bolsa del Tesoro (Cerebro de Cthulhu)"
   },
   {
     "id": "3225",
@@ -53041,176 +53053,190 @@
     "id": "3318",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (King Slime)",
-    "name_es": "Bolsa de tesoro (Rey slime)",
+    "name_es": "Bolsa del Tesoro (Rey Slime)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(King_Slime)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(King_Slime).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Rey Slime (Expert)"
   },
   {
     "id": "3319",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Eye of Cthulhu)",
-    "name_es": "Bolsa de tesoro (Ojo de Cthulhu)",
+    "name_es": "Bolsa del Tesoro (Ojo de Cthulhu)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Eye_of_Cthulhu)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Eye_of_Cthulhu).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Ojo de Cthulhu (Expert)"
   },
   {
     "id": "3320",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Eater of Worlds)",
-    "name_es": "Bolsa de tesoro (Devoramundos",
+    "name_es": "Bolsa del Tesoro (Devoramundos)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Eater_of_Worlds)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Eater_of_Worlds).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Devoramundos (Expert)"
   },
   {
     "id": "3321",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Brain of Cthulhu)",
-    "name_es": "Bolsa de tesoro (Cerebro de Cthulhu)",
+    "name_es": "Bolsa del Tesoro (Cerebro de Cthulhu)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Brain_of_Cthulhu)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Brain_of_Cthulhu).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Cerebro de Cthulhu (Expert)"
   },
   {
     "id": "3322",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Queen Bee)",
-    "name_es": "Bolsa de tesoro (Abeja reina)",
+    "name_es": "Bolsa del Tesoro (Reina Abeja)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Queen_Bee)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Queen_Bee).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Reina Abeja (Expert)"
   },
   {
     "id": "3323",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Skeletron)",
-    "name_es": "Bolsa de tesoro (Esqueletrón)",
+    "name_es": "Bolsa del Tesoro (Skeletron)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Skeletron)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Skeletron).png",
     "station_ids": [
       "loot",
       "330"
-    ]
+    ],
+    "origin_info": "Botín: Skeletron (Expert)"
   },
   {
     "id": "3324",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Wall of Flesh)",
-    "name_es": "Bolsa de tesoro (Muro carnoso)",
+    "name_es": "Bolsa del Tesoro (Muro de Carne)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Wall_of_Flesh)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Wall_of_Flesh).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Muro de Carne (Expert)"
   },
   {
     "id": "3325",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (The Destroyer)",
-    "name_es": "Bolsa de tesoro (El Destructor)",
+    "name_es": "Bolsa del Tesoro (Los Gemelos)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(The_Destroyer)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(The_Destroyer).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Los Gemelos (Expert)"
   },
   {
     "id": "3326",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (The Twins)",
-    "name_es": "Bolsa de tesoro (Los Gemelos)",
+    "name_es": "Bolsa del Tesoro (El Destructor)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(The_Twins)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(The_Twins).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: El Destructor (Expert)"
   },
   {
     "id": "3327",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Skeletron Prime)",
-    "name_es": "Bolsa de tesoro (Esqueletrón mayor)",
+    "name_es": "Bolsa del Tesoro (Esqueletrón Prime)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Skeletron_Prime)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Skeletron_Prime).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Esqueletrón Prime (Expert)"
   },
   {
     "id": "3328",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Plantera)",
-    "name_es": "Bolsa de tesoro (Plantera)",
+    "name_es": "Bolsa del Tesoro (Plantera)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Plantera)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Plantera).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Plantera (Expert)"
   },
   {
     "id": "3329",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Golem)",
-    "name_es": "Bolsa de tesoro (Gólem)",
+    "name_es": "Bolsa del Tesoro (Golem)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Golem)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Golem).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Golem (Expert)"
   },
   {
     "id": "3330",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Duke Fishron)",
-    "name_es": "Bolsa de tesoro (Duque Fishron)",
+    "name_es": "Bolsa del Tesoro (Duque Fishron)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Duke_Fishron)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Duke_Fishron).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Duque Fishron (Expert)"
   },
   {
     "id": "3332",
     "category": "Treasure Bags",
     "name_en": "Treasure Bag (Moon Lord)",
-    "name_es": "Bolsa de tesoro (Señor de la Luna)",
+    "name_es": "Bolsa del Tesoro (Señor de la Luna)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Moon_Lord)",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Moon_Lord).png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Señor de la Luna (Expert)"
   },
   {
     "id": "3333",
     "category": "Accessories",
     "name_en": "Hive Pack",
-    "name_es": "Binoculares",
+    "name_es": "Corazón del Demonio",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hive_Pack",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hive_Pack.png",
@@ -53218,7 +53244,7 @@
       "loot",
       "exploration"
     ],
-    "origin_info": "Botín: Ojo de Cthulhu"
+    "origin_info": "Bolsa del Tesoro (Muro de Carne)"
   },
   {
     "id": "3334",
@@ -53237,7 +53263,7 @@
     "id": "3335",
     "category": "Miscellaneous",
     "name_en": "Demon Heart",
-    "name_es": "Corazón de demonio",
+    "name_es": "Saco de esporas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Demon_Heart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Heart.png",
@@ -53245,13 +53271,13 @@
       "398",
       "loot"
     ],
-    "origin_info": "Bolsa del Tesoro (Jefes Mecánicos)"
+    "origin_info": "Bolsa del Tesoro (Plantera)"
   },
   {
     "id": "3336",
     "category": "Accessories",
     "name_en": "Spore Sac",
-    "name_es": "Saco de esporas",
+    "name_es": "Piedra brillante",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spore_Sac",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spore_Sac.png",
@@ -53259,7 +53285,7 @@
       "398",
       "loot"
     ],
-    "origin_info": "Bolsa del Tesoro (Muro de carne)"
+    "origin_info": "Bolsa del Tesoro (Golem)"
   },
   {
     "id": "3337",
@@ -53526,7 +53552,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanical_Wheel_Piece.png",
     "station_ids": [
       "398"
-    ]
+    ],
+    "origin_info": "Bolsa del Tesoro (Los Gemelos)"
   },
   {
     "id": "3355",
@@ -53536,7 +53563,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Wagon_Piece",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanical_Wagon_Piece.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Bolsa del Tesoro (El Destructor)"
   },
   {
     "id": "3356",
@@ -53546,7 +53574,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanical_Battery_Piece",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanical_Battery_Piece.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Bolsa del Tesoro (Esqueletrón Prime)"
   },
   {
     "id": "3357",
@@ -63164,58 +63193,58 @@
     "id": "3980",
     "category": "Chests/Crates",
     "name_en": "Mythril Crate",
-    "name_es": "Caja de zarzas",
+    "name_es": "Caja de mitrilo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mythril_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Crate.png",
     "station_ids": [],
-    "origin_info": "Pesca (Selva - Hardmode)"
+    "origin_info": "Pesca: Cualquier bioma (Hardmode)"
   },
   {
     "id": "3981",
     "category": "Chests/Crates",
     "name_en": "Titanium Crate",
-    "name_es": "Caja azur",
+    "name_es": "Caja de titanio",
     "wiki_url": "https://terraria.wiki.gg/wiki/Titanium_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Crate.png",
     "station_ids": [
       "398"
     ],
-    "origin_info": "Pesca (Islas flotantes / Cielo - Hardmode)"
+    "origin_info": "Pesca: Cualquier bioma (Hardmode)"
   },
   {
     "id": "3982",
     "category": "Chests/Crates",
     "name_en": "Defiled Crate",
-    "name_es": "Caja profanada",
+    "name_es": "Caja bendita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Defiled_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Defiled_Crate.png",
     "station_ids": [],
-    "origin_info": "Pesca (Corrupción - Hardmode)"
+    "origin_info": "Pesca: Bendición (Hardmode)"
   },
   {
     "id": "3983",
     "category": "Chests/Crates",
     "name_en": "Hematic Crate",
-    "name_es": "Caja hemática",
+    "name_es": "Caja corrupta",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hematic_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hematic_Crate.png",
     "station_ids": [],
-    "origin_info": "Pesca (Carmesí - Hardmode)"
+    "origin_info": "Pesca: Corrupción (Hardmode)"
   },
   {
     "id": "3984",
     "category": "Chests/Crates",
     "name_en": "Stockade Crate",
-    "name_es": "Caja divina",
+    "name_es": "Caja carmesí",
     "wiki_url": "https://terraria.wiki.gg/wiki/Stockade_Crate",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stockade_Crate.png",
     "station_ids": [],
-    "origin_info": "Pesca (Bendición - Hardmode)"
+    "origin_info": "Pesca: Carmesí (Hardmode)"
   },
   {
     "id": "3985",
@@ -69175,11 +69204,14 @@
     "id": "4344",
     "category": "Weapons (Thrown/Ammo)",
     "name_en": "White Paper Airplane",
-    "name_es": "Avión de papel blanco",
+    "name_es": "Escudo congelado",
     "wiki_url": "https://terraria.wiki.gg/wiki/White_Paper_Airplane",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/White_Paper_Airplane.png",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ],
+    "origin_info": "Fabricado: Taller de chapuzas (Caparazón de tortuga de hielo + Escudo de paladín)"
   },
   {
     "id": "4345",
@@ -77797,7 +77829,7 @@
     "id": "4954",
     "category": "Wings",
     "name_en": "Celestial Starboard",
-    "name_es": "Tabla estelar celestial",
+    "name_es": "Estribor celestial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Starboard",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celestial_Starboard.png",
