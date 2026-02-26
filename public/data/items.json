@@ -443,7 +443,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Wooden_Sword.png?b1e497",
     "station_ids": [
-      "hand"
+      "hand",
+      "36"
     ]
   },
   {
@@ -1504,7 +1505,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chain.png?78d4db",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -2174,7 +2176,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Hook.png?11c249",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "iron_anvil"
     ]
   },
   {
@@ -3280,7 +3283,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ivy_Whip.png?c5a7b0",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -3669,7 +3673,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bucket.png?7c3e60",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -5682,7 +5687,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Doctor's_Pants",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Doctor%27s_Pants.png?d9acd0",
-    "station_ids": []
+    "station_ids": [
+      "33"
+    ]
   },
   {
     "id": "327",
@@ -6715,7 +6722,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Cobalt_Chainsaw.png?57c567",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "iron_anvil"
     ]
   },
   {
@@ -6733,7 +6741,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Mythril_Chainsaw.png?e14cbc",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "iron_anvil"
     ]
   },
   {
@@ -16294,7 +16303,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Rope",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rope.png?360e2c",
-    "station_ids": []
+    "station_ids": [
+      "hand"
+    ]
   },
   {
     "id": "966",
@@ -16724,7 +16735,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pickaxe_Axe.png?3d9f88",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -19823,7 +19835,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Palladium_Pickaxe.png?d2c5e4",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "iron_anvil"
     ]
   },
   {
@@ -19841,7 +19854,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Palladium_Drill.png?cc8800",
     "station_ids": [
       "hand",
-      "mythril_anvil"
+      "mythril_anvil",
+      "iron_anvil"
     ]
   },
   {
@@ -20614,7 +20628,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chlorophyte_Pickaxe.png?5c8ebf",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -20631,7 +20646,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Chlorophyte_Drill.png?26f925",
     "station_ids": [
-      "hand"
+      "hand",
+      "mythril_anvil"
     ]
   },
   {
@@ -20717,7 +20733,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Amethyst_Hook.png?bd42c5",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -20734,7 +20751,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Topaz_Hook.png?f10d04",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -20751,7 +20769,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sapphire_Hook.png?76fe4e",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -20768,7 +20787,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Emerald_Hook.png?c040e0",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -20785,7 +20805,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ruby_Hook.png?939493",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -20802,7 +20823,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Diamond_Hook.png?aa33ea",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -35066,7 +35088,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tiger_Skin",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tiger_Skin.png?ab3adc",
-    "station_ids": []
+    "station_ids": [
+      "36"
+    ]
   },
   {
     "id": "2282",
@@ -35142,7 +35166,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frozen_Chair.png?420767",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -35159,7 +35184,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Wood_Fishing_Pole.png?1bf437",
     "station_ids": [
-      "hand"
+      "hand",
+      "iron_anvil"
     ]
   },
   {
@@ -35170,7 +35196,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bass",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bass.png?98ef86",
-    "station_ids": []
+    "station_ids": [
+      "iron_anvil"
+    ]
   },
   {
     "id": "2291",
@@ -52721,7 +52749,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Stardust_Drill.png?47deb4",
     "station_ids": [
-      "hand"
+      "hand",
+      "ancient_manipulator"
     ]
   },
   {
@@ -52742,7 +52771,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Stardust_Pickaxe.png?2e1fd6",
     "station_ids": [
-      "hand"
+      "hand",
+      "ancient_manipulator"
     ]
   },
   {
