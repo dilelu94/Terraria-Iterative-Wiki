@@ -3628,9 +3628,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Obsidian_Skull.png",
     "station_ids": [
-      "hand",
       "33"
-    ]
+    ],
+    "origin_info": "Fabricado en Horno"
   },
   {
     "id": "194",
@@ -22962,7 +22962,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Rose",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Obsidian_Rose.png",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Botín: Diablillo de fuego (Inframundo)"
   },
   {
     "id": "1324",
@@ -63270,9 +63273,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magma_Skull.png",
     "station_ids": [
-      "hand",
-      "398"
-    ]
+      "112"
+    ],
+    "origin_info": "Fabricado en Forja infernal"
   },
   {
     "id": "4000",
@@ -63358,8 +63361,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Molten_Skull_Rose.png",
     "station_ids": [
-      "hand"
-    ]
+      "112"
+    ],
+    "origin_info": "Fabricado en Forja infernal"
   },
   {
     "id": "4004",
@@ -64073,7 +64077,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de arenisca (Oasis/Desierto)"
+    "origin_info": "Cofre de arenisca (Desierto)"
   },
   {
     "id": "4057",
@@ -83229,9 +83233,10 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "398"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bundle_of_Horseshoe_Balloons.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bundle_of_Horseshoe_Balloons.png",
+    "origin_info": "Taller de chapuzas"
   },
   {
     "id": "5332",
@@ -83524,7 +83529,8 @@
     "station_ids": [
       "shimmer"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aether_Monolith.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aether_Monolith.png",
+    "origin_info": "Transmutación del Fulgor"
   },
   {
     "id": "5348",
