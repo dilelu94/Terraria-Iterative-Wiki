@@ -4031,7 +4031,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nature's_Gift",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Nature%27s_Gift.png?ffaa7b",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Romper flores de la selva"
   },
   {
     "id": "224",
@@ -7101,7 +7104,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Diving_Gear.png?5138f1",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -7147,7 +7151,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Horseshoe.png?c41de4",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -7168,7 +7173,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Shield.png?c88078",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -7180,7 +7186,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Tinkerer%27s_Workshop.png?2f2ff9",
     "station_ids": [
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -8548,7 +8555,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Sorcerer_Emblem.png?ed690e",
     "station_ids": [
       "shimmer",
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -8572,7 +8580,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Warrior_Emblem.png?9d5612",
     "station_ids": [
       "shimmer",
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -8591,7 +8600,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Ranger_Emblem.png?17c017",
     "station_ids": [
       "shimmer",
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -8726,7 +8736,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Neptune's_Shell",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Neptune%27s_Shell.png?c525ef",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "498",
@@ -14923,7 +14935,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Charm_of_Myths.png?9deca2",
     "station_ids": [
       "shimmer",
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -14945,8 +14958,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Moon_Shell.png?1be8fb",
     "station_ids": [
       "hand",
-      "398"
-    ]
+      "398",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Cavernas)"
   },
   {
     "id": "862",
@@ -14979,7 +14994,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Water_Walking_Boots.png?2bd174",
     "station_ids": [
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -15264,7 +15280,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Adhesive_Bandage.png?1d50a3",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "398"
     ]
   },
   {
@@ -22056,7 +22073,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Destroyer_Emblem.png?494b51",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -22265,7 +22283,8 @@
     "set_stats": "+14% Daño melee / +12% Crítico / Enemigos te atacan más",
     "set_bonus": "Los enemigos reciben el doble del daño que te infligen. Reduce daño recibido un 15%.",
     "station_ids": [
-      "iron_anvil"
+      "iron_anvil",
+      "loot"
     ]
   },
   {
@@ -22351,7 +22370,8 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Magic_Quiver.png?f21062",
     "station_ids": [
-      "398"
+      "398",
+      "loot"
     ]
   },
   {
@@ -22369,7 +22389,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Magma_Stone.png?8fc461",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "loot"
     ]
   },
   {
@@ -22713,7 +22734,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fire_Gauntlet.png?cf9fd2",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -22730,7 +22752,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Cog.png?9e49d7",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -29023,7 +29046,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Sniper_Scope.png?ce6923",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -29173,7 +29197,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Celestial_Stone.png?fb129d",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -46766,7 +46791,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Summoner_Emblem.png?f80298",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "loot"
     ]
   },
   {
@@ -48371,7 +48397,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Pink_Gel",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Gel.png?f80a3c",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3112",
@@ -48391,7 +48419,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bouncy_Glowstick.png?a635ef",
     "station_ids": [
-      "hand"
+      "hand",
+      "loot"
     ]
   },
   {
@@ -50044,7 +50073,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sailfish_Boots",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sailfish_Boots.png?589483",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3201",
@@ -50624,7 +50655,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone_Glove",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Glove.png?2d218b",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3246",
@@ -50634,7 +50667,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Clothier's_Jacket",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Clothier%27s_Jacket.png?9d48ec",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ]
   },
   {
     "id": "3247",
@@ -52424,7 +52459,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Yoyo_Bag.png?25bcff",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62057,7 +62093,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frog_Gear.png?9e2481",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
