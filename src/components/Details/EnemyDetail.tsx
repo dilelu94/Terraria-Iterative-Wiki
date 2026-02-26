@@ -78,8 +78,8 @@ const EnemyDetail: React.FC<EnemyDetailProps> = ({ enemy, lang, onBack, items, s
           </div>
         </div>
 
-        <div className="raw-materials-box">
-          <h3>{lang === 'es' ? 'Botín (Drops)' : 'Drops'}</h3>
+        <div className="boss-loot-container">
+          <h3>🎁 {lang === "es" ? "Botín Completo" : "Complete Loot"}</h3>
           {enemy.drops && enemy.drops.length > 0 ? (
             <div className="ingredients-list">
               {enemy.drops.map((drop, idx) => {

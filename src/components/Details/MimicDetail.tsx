@@ -90,7 +90,7 @@ const MimicDetail: React.FC<MimicDetailProps> = ({ mimic, lang, onBack, items, s
           </div>
         </div>
 
-        <div className="raw-materials-box">
+        <div className="boss-loot-container">
           <h3>{lang === 'es' ? 'Botín Principal (Drops)' : 'Main Drops'}</h3>
           {mimic.drops && mimic.drops.length > 0 ? (
             <div className="ingredients-list">
