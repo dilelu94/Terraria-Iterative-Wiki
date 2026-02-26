@@ -32,7 +32,11 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const mimicsByDrop = findMimicsByDrop(item.id);
   const itemsUsingMaterial = findItemsUsingMaterial(item.name_en);
   const npcsByItem = findNPCsByItem(item.id);
-  const station = item.station_id ? stations.find(s => s.id === item.station_id) : null;
+  
+  // Buscar todas las estaciones vinculadas
+  const itemStations = item.station_ids 
+    ? stations.filter(s => item.station_ids!.includes(s.id))
+    : [];
 
   const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
 
@@ -112,23 +116,21 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* Información de Estación de Trabajo */}
-        {(item.recipes?.length ?? 0) > 0 && (
+        {/* Información de Estación de Trabajo (Múltiple) */}
+        {itemStations.length > 0 && (
           <div className="recipe-box station-box">
-            <h3>{lang === 'es' ? 'Estación de Trabajo' : 'Crafting Station'}</h3>
+            <h3>{lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:'}</h3>
             <div className="info-list">
-              {station ? (
-                <div className="ing-item no-hover">
-                  {station.image ? (
-                    <img src={station.image} alt={station.name_en} className="ing-icon" />
+              {itemStations.map(s => (
+                <div key={s.id} className="ing-item no-hover">
+                  {s.image ? (
+                    <img src={s.image} alt={s.name_en} className="ing-icon" />
                   ) : (
                     <div className="item-icon-placeholder tiny">🔨</div>
                   )}
-                  <span className="ing-name" style={{ color: 'var(--accent)' }}>{station.display_name}</span>
+                  <span className="ing-name" style={{ color: 'var(--accent)' }}>{s.display_name}</span>
                 </div>
-              ) : (
-                <div className="info-item">{lang === 'es' ? 'Desconocida' : 'Unknown'}</div>
-              )}
+              ))}
             </div>
           </div>
         )}

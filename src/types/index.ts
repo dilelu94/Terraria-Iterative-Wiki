@@ -12,7 +12,7 @@ export interface Item {
   wiki_url: string;
   image_url?: string;
   recipes?: RecipeIngredient[];
-  station_id?: string;
+  station_ids?: string[];
   // Armor fields
   is_armor?: boolean;
   armor_set_en?: string;
