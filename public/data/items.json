@@ -331,20 +331,21 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Gold_Watch",
     "recipes": [
       {
-        "name_en": "Chain",
-        "amount": 1
-      },
-      {
         "name_en": "Gold Bar",
         "amount": 10
+      },
+      {
+        "name_en": "Chain",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Watch.png",
     "station_ids": [
-      "hand",
-      "loot"
+      "32",
+      "34"
     ],
-    "origin_info": "Fabricado: Yunque de hierro/plomo (10 lingotes de oro + 1 cadena)"
+    "origin_info": "Fabricado: Mesa y Silla (10 Lingotes de oro + 1 Cadena)",
+    "piece_effects": "Muestra la hora con precisión de 1 minuto"
   },
   {
     "id": "18",
@@ -354,7 +355,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Depth_Meter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Depth_Meter.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Soltado por Murciélagos de cueva, selva e hielo (1%)",
+    "piece_effects": "Muestra la profundidad"
   },
   {
     "id": "19",
@@ -7087,7 +7090,8 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Piraña / Madre Slime / No-muerto vikingo"
+    "origin_info": "Soltado por Pirañas, Slimes nevados y No-muertos vikingos (1-2%)",
+    "piece_effects": "Muestra la posición horizontal"
   },
   {
     "id": "394",
@@ -7120,11 +7124,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/GPS",
     "recipes": [
       {
-        "name_en": "Compass",
+        "name_en": "Depth Meter",
         "amount": 1
       },
       {
-        "name_en": "Depth Meter",
+        "name_en": "Compass",
         "amount": 1
       },
       {
@@ -7136,7 +7140,8 @@
       "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/GPS.png",
-    "origin_info": "Fabricado: Taller de chapuzas (Brújula + Medidor de profundidad + Reloj de oro/platino)"
+    "origin_info": "Fabricado: Taller de chapucero",
+    "piece_effects": "Muestra posición, profundidad y tiempo"
   },
   {
     "id": "397",
@@ -48281,8 +48286,9 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre de madera (Superficie) / Cajas de madera (Pesca)",
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Radar.png"
+    "origin_info": "Encontrado en Cofres de madera (Superficie) y Cajas de madera",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Radar.png",
+    "piece_effects": "Muestra enemigos cercanos"
   },
   {
     "id": "3085",
@@ -48440,19 +48446,14 @@
     "name_en": "Tally Counter",
     "name_es": "Contador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tally_Counter",
-    "recipes": [
-      {
-        "name_en": "Weather Radio",
-        "amount": 1,
-        "is_shimmer": true
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tally_Counter.png",
     "station_ids": [
       "shimmer",
       "loot"
     ],
-    "origin_info": "Botín: Enemigos de la mazmorra"
+    "origin_info": "Soltado por Angry Bones, Cursed Skull y Dark Caster (1%)",
+    "piece_effects": "Muestra el conteo de muertes del último enemigo golpeado"
   },
   {
     "id": "3097",
@@ -48486,7 +48487,8 @@
     "station_ids": [
       "quest"
     ],
-    "origin_info": "Compra: Vendedor ambulante"
+    "origin_info": "Comprado al Mercante Errante (5 Oro)",
+    "piece_effects": "Muestra la velocidad de movimiento"
   },
   {
     "id": "3100",
@@ -48783,7 +48785,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Vendedor ambulante (5 Oro)"
+    "origin_info": "Comprado al Mercante Errante (5 Oro)",
+    "piece_effects": "Muestra criaturas raras cercanas"
   },
   {
     "id": "3119",
@@ -48796,7 +48799,8 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Vendedor ambulante (5 Oro)"
+    "origin_info": "Comprado al Mercante Errante (5 Oro)",
+    "piece_effects": "Muestra el daño por segundo"
   },
   {
     "id": "3120",
@@ -48821,52 +48825,86 @@
     "id": "3121",
     "category": "Accessories",
     "name_en": "Goblin Tech",
-    "name_es": "Radio del clima",
+    "name_es": "Tecnología de duende",
     "wiki_url": "https://terraria.wiki.gg/wiki/Goblin_Tech",
     "recipes": [
       {
-        "name_en": "Fisherman's Pocket Guide",
-        "amount": 1,
-        "is_shimmer": true
+        "name_en": "DPS Meter",
+        "amount": 1
+      },
+      {
+        "name_en": "Stopwatch",
+        "amount": 1
+      },
+      {
+        "name_en": "Metal Detector",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin_Tech.png",
     "station_ids": [
       "398"
     ],
-    "origin_info": "Recompensa: Pescador"
+    "origin_info": "Fabricado: Taller de chapucero",
+    "piece_effects": "Muestra DPS, velocidad y tesoros cercanos"
   },
   {
     "id": "3122",
     "category": "Accessories",
     "name_en": "R.E.K. 3000",
-    "name_es": "Sextante",
+    "name_es": "R.E.K. 3000",
     "wiki_url": "https://terraria.wiki.gg/wiki/R.E.K._3000",
     "recipes": [
       {
-        "name_en": "Weather Radio",
-        "amount": 1,
-        "is_shimmer": true
+        "name_en": "Radar",
+        "amount": 1
+      },
+      {
+        "name_en": "Tally Counter",
+        "amount": 1
+      },
+      {
+        "name_en": "Lifeform Analyzer",
+        "amount": 1
       }
     ],
     "station_ids": [
       "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/R.E.K._3000.png",
-    "origin_info": "Recompensa: Pescador"
+    "origin_info": "Fabricado: Taller de chapucero",
+    "piece_effects": "Muestra enemigos, muertes y criaturas raras"
   },
   {
     "id": "3123",
     "category": "Accessories",
     "name_en": "PDA",
-    "name_es": "Detector de metales",
+    "name_es": "PDA",
     "wiki_url": "https://terraria.wiki.gg/wiki/PDA",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "GPS",
+        "amount": 1
+      },
+      {
+        "name_en": "R.E.K. 3000",
+        "amount": 1
+      },
+      {
+        "name_en": "Goblin Tech",
+        "amount": 1
+      },
+      {
+        "name_en": "Fishermans Pocket Guide",
+        "amount": 1
+      }
+    ],
     "station_ids": [
-      "loot"
+      "398"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/PDA.png",
-    "origin_info": "Botín: Ninfa (Nymph)"
+    "origin_info": "Fabricado: Taller de chapucero",
+    "piece_effects": "Muestra toda la información del entorno"
   },
   {
     "id": "3124",
