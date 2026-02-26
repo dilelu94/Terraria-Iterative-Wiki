@@ -2,7 +2,7 @@
   {
     "id": "491",
     "name_en": "Flying Dutchman",
-    "name_es": "Holandés Volador",
+    "name_es": "Holandés Volante",
     "health": "8000 / 16000",
     "defense": "30",
     "damage": "60 / 120",
@@ -10,7 +10,11 @@
       "Cutlass",
       "Coin Gun",
       "Lucky Coin",
-      "Discount Card"
+      "Discount Card",
+      {
+        "item_id": "4951",
+        "chance": "25%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Flying_Dutchman.png",
     "biome_en": "Invasión Pirata",
@@ -312,14 +316,18 @@
   {
     "id": "471",
     "name_en": "Mothron",
-    "name_es": "Polillrón",
+    "name_es": "Polillón",
     "health": "5000 / 7500",
     "defense": "30",
     "damage": "80 / 160",
     "drops": [
       "Broken Hero Sword",
       "Mothron Wings",
-      "The Eye of Cthulhu (Yoyo)"
+      "The Eye of Cthulhu (Yoyo)",
+      {
+        "item_id": "1321",
+        "chance": "25%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mothron.png",
     "biome_en": "Eclipse Solar",

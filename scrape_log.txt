@@ -403,3 +403,9 @@
 [3:12:21 AM]    -> [ERROR]: Request failed with status code 403
 [3:12:25 AM] ==== PROCESO FINALIZADO ====
 [3:12:25 AM] Total de ítems actualizados con éxito: 0
+[12:12:04 PM] Iniciando fix para error 403. Ítems pendientes: 2947
+[12:12:04 PM] [1/50] Consultando: Depth Meter...
+[12:12:04 PM]    -> [ERROR]: Request failed with status code 403
+[12:12:04 PM]    -> [CRÍTICO] Bloqueo 403 detectado. Abortando para evitar baneo de IP.
+[12:12:04 PM] ==== SESIÓN FINALIZADA ====
+[12:12:04 PM] Actualizados: 0

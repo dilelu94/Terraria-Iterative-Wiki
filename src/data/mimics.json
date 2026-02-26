@@ -176,13 +176,17 @@
       {
         "item_name": "Illuminant Hook",
         "item_id": "3031"
+      },
+      {
+        "item_id": "2882",
+        "chance": "25%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Mimic.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
     "key_item_id": "3092",
     "biome_en": "Hallow",
-    "biome_es": "Bendición",
+    "biome_es": "Bendición subterránea",
     "time_en": "Any",
     "time_es": "Cualquiera"
   },

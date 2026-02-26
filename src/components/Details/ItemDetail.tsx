@@ -31,7 +31,16 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const enemiesByDrop = findEnemiesByDrop(item.id);
   const bossesByDrop = findBossesByDrop(item.id);
   const mimicsByDrop = findMimicsByDrop(item.id);
-  const itemsUsingMaterial = findItemsUsingMaterial(item.name_en);
+  const allItemsUsingMaterial = findItemsUsingMaterial(item.name_en);
+  
+  // Filtrar para no mostrar items que solo usan este material para transmutación de Fulgor (Shimmer)
+  // en la sección de "Se usa para fabricar", para evitar redundancia y seguir la regla de auditoría.
+  const itemsUsingMaterial = allItemsUsingMaterial.filter(targetItem => {
+    const recipesUsingThis = targetItem.recipes?.filter(r => r.name_en === item.name_en) || [];
+    // Si tiene al menos una receta normal (no shimmer), lo mantenemos
+    return recipesUsingThis.some(r => !r.is_shimmer);
+  });
+
   const npcsByItem = findNPCsByItem(item.id);
   
   const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
@@ -274,9 +283,9 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        <div className="recipe-box">
-          <h3>{lang === 'es' ? 'Se usa para fabricar:' : 'Used to craft:'}</h3>
-          {itemsUsingMaterial.length > 0 ? (
+        {itemsUsingMaterial.length > 0 && (
+          <div className="recipe-box">
+            <h3>{lang === 'es' ? 'Se usa para fabricar:' : 'Used to craft:'}</h3>
             <div className="ingredients-list">
               {itemsUsingMaterial.map((targetItem, idx) => (
                 <div key={idx} className="ing-item" onClick={() => selectItem(targetItem)}>
@@ -290,12 +299,8 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
                 </div>
               ))}
             </div>
-          ) : (
-            <p className="base-material" style={{ opacity: 0.6 }}>
-              {lang === 'es' ? 'No se usa en ninguna receta conocida.' : 'Not used in any known recipes.'}
-            </p>
-          )}
-        </div>
+          </div>
+        )}
 
         {Object.keys(totalMaterials).length > 0 && normalRecipes.length > 0 && (
           <div className="raw-materials-box" style={{ gridColumn: '1 / -1' }}>

@@ -93,6 +93,9 @@
       {
         "item_name": "Shark Bait",
         "item_id": "4425"
+      },
+      {
+        "item_id": "197"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Arms_Dealer"
@@ -242,6 +245,9 @@
       {
         "item_name": "Bell",
         "item_id": "507"
+      },
+      {
+        "item_id": "486"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Wizard"
@@ -425,6 +431,9 @@
       {
         "item_name": "Nanites",
         "item_id": "1346"
+      },
+      {
+        "item_id": "759"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Cyborg"
