@@ -207,14 +207,10 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* Material Base / Drops */}
-        {normalRecipes.length === 0 && shimmerRecipes.length === 0 && (
+        {/* Material Base / Drops / Vendedores */}
+        {normalRecipes.length === 0 && shimmerRecipes.length === 0 && (hasDrops || npcsByItem.length > 0) && (
           <div className="recipe-box">
             <div className="base-material-info">
-              <p className="base-material">
-                {lang === 'es' ? 'Este es un material base. No tiene receta de fabricación.' : 'This is a base material. It has no crafting recipe.'}
-              </p>
-              
               {hasDrops && (
                 <div className="dropped-by">
                   <h4>{lang === 'es' ? 'Soltado por:' : 'Dropped by:'}</h4>
@@ -257,7 +253,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
               )}
 
               {npcsByItem.length > 0 && (
-                <div className="dropped-by">
+                <div className="dropped-by" style={{ marginTop: hasDrops ? '1.5rem' : '0' }}>
                   <h4>{lang === 'es' ? 'Vendido por:' : 'Sold by:'}</h4>
                   <div className="ingredients-list">
                     {npcsByItem.map(npc => (
