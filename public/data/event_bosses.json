@@ -2,15 +2,36 @@
   {
     "id": "491",
     "name_en": "Flying Dutchman",
-    "name_es": "Holandés Volador",
+    "name_es": "Holandés Volante",
     "health": "8000 / 16000",
     "defense": "30",
     "damage": "60 / 120",
     "drops": [
-      "Cutlass",
-      "Coin Gun",
-      "Lucky Coin",
-      "Discount Card"
+      {
+        "item_name": "The Black Spot",
+        "item_id": "4951",
+        "chance": "25% (Maestro)"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "903",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_name": "Coin Gun",
+        "item_id": "905",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "904",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_name": "Gold Ring",
+        "item_id": "2293",
+        "chance": "0.1% (Clásico) / 0.2% (Experto)"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Flying_Dutchman.png",
     "biome_en": "Invasión Pirata",
@@ -20,50 +41,39 @@
     "treasure_bag": null,
     "expert_drops": [
       {
-        "item_id": "2797",
-        "item_name": "Xenopopper"
-      },
-      {
-        "item_id": "2798",
-        "item_name": "Laser Drill"
-      },
-      {
-        "item_id": "2800",
-        "item_name": "Anti-Gravity Hook"
-      },
-      {
-        "item_id": "2744",
-        "item_name": "Cactus Platform"
-      },
-      {
-        "item_id": "2555",
-        "item_name": "Boreal Wood Candelabra"
-      },
-      {
-        "item_id": "2556",
-        "item_name": "Boreal Wood Candle"
-      },
-      {
-        "item_id": "3122",
-        "item_name": "R.E.K. 3000"
-      },
-      {
-        "item_id": "4926",
-        "item_name": "Brain of Cthulhu Relic"
+        "item_id": "4951",
+        "chance": "25% (Modo Maestro)"
       }
     ]
   },
   {
-    "id": "297",
+    "id": "325",
     "name_en": "Mourning Wood",
     "name_es": "Madera Lúgubre",
     "health": "12000 / 15000",
     "defense": "28",
     "damage": "120 / 240",
     "drops": [
-      "Spooky Twig",
-      "Stake Launcher",
-      "Necromantic Scroll"
+      {
+        "item_name": "Spooky Twig",
+        "item_id": "1729",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Cursed Sapling",
+        "item_id": "1831",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Stake Launcher",
+        "item_id": "1748",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Necromantic Scroll",
+        "item_id": "1156",
+        "chance": "5-20%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mourning_Wood.png",
     "biome_en": "Luna Calabaza",
@@ -72,16 +82,33 @@
     "time_es": "Cualquiera"
   },
   {
-    "id": "299",
+    "id": "327",
     "name_en": "Pumpking",
     "name_es": "Rey Calabaza",
     "health": "22000 / 26400",
     "defense": "36",
     "damage": "50 / 100",
     "drops": [
-      "The Horseman's Blade",
-      "Bat Scepter",
-      "Black Fairy Dust"
+      {
+        "item_name": "The Horseman's Blade",
+        "item_id": "1829",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Raven Staff",
+        "item_id": "1801",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Candy Corn Rifle",
+        "item_id": "1747",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Jack 'O Lantern Launcher",
+        "item_id": "1749",
+        "chance": "5-20%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Pumpking.png",
     "biome_en": "Luna Calabaza",
@@ -90,7 +117,7 @@
     "time_es": "Cualquiera"
   },
   {
-    "id": "325",
+    "id": "344",
     "name_en": "Everscream",
     "name_es": "Gritoeterno",
     "health": "13000 / 18200",
@@ -110,24 +137,28 @@
     "expert_drops": [
       {
         "item_id": "1920",
-        "item_name": "Gingerbread Cookie"
+        "item_name": "Gingerbread Cookie",
+        "chance": "100%"
       },
       {
         "item_id": "1921",
-        "item_name": "Hand Warmer"
+        "item_name": "Hand Warmer",
+        "chance": "100%"
       },
       {
         "item_id": "1922",
-        "item_name": "Coal"
+        "item_name": "Coal",
+        "chance": "100%"
       },
       {
         "item_id": "1923",
-        "item_name": "Toolbox"
+        "item_name": "Toolbox",
+        "chance": "100%"
       }
     ]
   },
   {
-    "id": "344",
+    "id": "346",
     "name_en": "Santa-NK1",
     "name_es": "Papá Noel-NK1",
     "health": "18000 / 25200",
@@ -147,23 +178,28 @@
     "expert_drops": [
       {
         "item_id": "1924",
-        "item_name": "Pine Door"
+        "item_name": "Pine Door",
+        "chance": "100%"
       },
       {
         "item_id": "1925",
-        "item_name": "Pine Chair"
+        "item_name": "Pine Chair",
+        "chance": "100%"
       },
       {
         "item_id": "1926",
-        "item_name": "Pine Table"
+        "item_name": "Pine Table",
+        "chance": "100%"
       },
       {
         "item_id": "1927",
-        "item_name": "Dog Whistle"
+        "item_name": "Dog Whistle",
+        "chance": "100%"
       },
       {
         "item_id": "1928",
-        "item_name": "Christmas Tree Sword"
+        "item_name": "Christmas Tree Sword",
+        "chance": "100%"
       }
     ]
   },
@@ -175,9 +211,26 @@
     "defense": "38",
     "damage": "120 / 240",
     "drops": [
-      "Snowman Cannon",
-      "Blizzard Staff",
-      "Baby Grinch's Mischief Whistle"
+      {
+        "item_name": "Blizzard Staff",
+        "item_id": "1571",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "North Pole",
+        "item_id": "1902",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Snowman Cannon",
+        "item_id": "1910",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Baby Grinch's Mischief Whistle",
+        "item_id": "1912",
+        "chance": "5-20%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Queen.png",
     "biome_en": "Luna Gélida",
@@ -193,10 +246,31 @@
     "defense": "100",
     "damage": "100 / 200",
     "drops": [
-      "Influx Waver",
-      "Cosmic Car Key",
-      "Laser Machinegun",
-      "Xeno Staff"
+      {
+        "item_name": "Cosmic Car Key",
+        "item_id": "2798",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "item_name": "Xeno Staff",
+        "item_id": "2827",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "item_name": "Laser Drill",
+        "item_id": "2797",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "item_name": "Electrosphere Launcher",
+        "item_id": "2796",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "item_name": "Influx Waver",
+        "item_id": "2880",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Martian_Saucer.png",
     "biome_en": "Locura Marciana",
@@ -205,7 +279,7 @@
     "time_es": "Cualquiera"
   },
   {
-    "id": "551",
+    "id": "564",
     "name_en": "Dark Mage",
     "name_es": "Mago Oscuro",
     "health": "3000 / 9000",
@@ -227,31 +301,38 @@
     "expert_drops": [
       {
         "item_id": "3821",
-        "item_name": "Ale Tosser"
+        "item_name": "Ale Tosser",
+        "chance": "100%"
       },
       {
         "item_id": "3858",
-        "item_name": "Sky Dragon's Fury"
+        "item_name": "Sky Dragon's Fury",
+        "chance": "100%"
       },
       {
         "item_id": "3859",
-        "item_name": "Aerial Bane"
+        "item_name": "Aerial Bane",
+        "chance": "100%"
       },
       {
         "item_id": "3870",
-        "item_name": "Betsy's Wrath"
+        "item_name": "Betsy's Wrath",
+        "chance": "100%"
       },
       {
         "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_name": "Eye of Cthulhu Mask",
+        "chance": "100%"
       },
       {
         "item_id": "4927",
-        "item_name": "Skeletron Relic"
+        "item_name": "Skeletron Relic",
+        "chance": "100%"
       },
       {
         "item_id": "3883",
-        "item_name": "Betsy's Wings"
+        "item_name": "Betsy's Wings",
+        "chance": "100%"
       }
     ]
   },
@@ -274,7 +355,7 @@
     "time_es": "Cualquiera"
   },
   {
-    "id": "563",
+    "id": "551",
     "name_en": "Betsy",
     "name_es": "Betsy",
     "health": "50000 / 75000",
@@ -310,16 +391,28 @@
     "time_es": "Cualquiera"
   },
   {
-    "id": "471",
+    "id": "477",
     "name_en": "Mothron",
-    "name_es": "Polillrón",
+    "name_es": "Polillón",
     "health": "5000 / 7500",
     "defense": "30",
     "damage": "80 / 160",
     "drops": [
-      "Broken Hero Sword",
-      "Mothron Wings",
-      "The Eye of Cthulhu (Yoyo)"
+      {
+        "item_name": "Broken Hero Sword",
+        "item_id": "1570",
+        "chance": "25% (Post-Plantera: 100%)"
+      },
+      {
+        "item_name": "Mothron Wings",
+        "item_id": "2854",
+        "chance": "5%"
+      },
+      {
+        "item_name": "Eye of Cthulhu (Yoyo)",
+        "item_id": "1321",
+        "chance": "25% (Clásico) / 33% (Experto)"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mothron.png",
     "biome_en": "Eclipse Solar",

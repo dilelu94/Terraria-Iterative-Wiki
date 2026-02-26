@@ -3,57 +3,65 @@
     "id": "50",
     "name_en": "King Slime",
     "name_es": "Rey Slime",
-    "biome": "Forest  Slime Rain",
-    "time": "Cualquiera",
     "health": "2000/2800/3570",
     "defense": "10",
     "damage": "40/64/96",
     "drops": [
       {
         "item_name": "Solidifier",
-        "item_id": "998"
+        "item_id": "998",
+        "chance": "100%"
       },
       {
         "item_name": "Slimy Saddle",
-        "item_id": "2430"
+        "item_id": "2430",
+        "chance": "25% (Clásico) / 50% (Experto)"
       },
       {
         "item_name": "Ninja Hood",
-        "item_id": "256"
+        "item_id": "256",
+        "chance": "33.3% (Set 1/3)"
       },
       {
         "item_name": "Ninja Shirt",
-        "item_id": "257"
+        "item_id": "257",
+        "chance": "33.3% (Set 1/3)"
       },
       {
         "item_name": "Ninja Pants",
-        "item_id": "258"
+        "item_id": "258",
+        "chance": "33.3% (Set 1/3)"
       },
       {
         "item_name": "Slime Gun",
-        "item_id": "2610"
+        "item_id": "2610",
+        "chance": "33.3%"
       },
       {
         "item_name": "Slime Hook",
-        "item_id": "2585"
+        "item_id": "2585",
+        "chance": "33.3%"
       },
       {
         "item_name": "King Slime Mask",
-        "item_id": "2493"
+        "item_id": "2493",
+        "chance": "14.29%"
       },
       {
         "item_name": "King Slime Trophy",
-        "item_id": "2489"
+        "item_id": "2489",
+        "chance": "10%"
       },
       {
         "item_name": "Lesser Healing Potion",
-        "item_id": "28"
+        "item_id": "28",
+        "chance": "100% (5-15)"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/King_Slime",
     "biome_en": "Forest",
-    "biome_es": "Bosque",
+    "biome_es": "Bosque (Superficie)",
     "time_en": "Any",
     "time_es": "Cualquiera",
     "treasure_bag": {
@@ -63,31 +71,38 @@
     "expert_drops": [
       {
         "item_name": "Royal Gel",
-        "item_id": "3090"
+        "item_id": "3090",
+        "chance": "100%"
       },
       {
         "item_name": "Slimy Saddle",
-        "item_id": "2430"
+        "item_id": "2430",
+        "chance": "50%"
       },
       {
         "item_name": "Ninja Hood",
-        "item_id": "256"
+        "item_id": "256",
+        "chance": "33.3%"
       },
       {
         "item_name": "Ninja Shirt",
-        "item_id": "257"
+        "item_id": "257",
+        "chance": "33.3%"
       },
       {
         "item_name": "Ninja Pants",
-        "item_id": "258"
+        "item_id": "258",
+        "chance": "33.3%"
       },
       {
         "item_name": "Slime Gun",
-        "item_id": "2610"
+        "item_id": "2610",
+        "chance": "33.3%"
       },
       {
         "item_name": "Slime Hook",
-        "item_id": "2585"
+        "item_id": "2585",
+        "chance": "33.3%"
       }
     ]
   },
@@ -95,33 +110,40 @@
     "id": "4",
     "name_en": "Eye of Cthulhu",
     "name_es": "Ojo de Cthulhu",
-    "biome": "Surface (Night)",
-    "time": "Noche",
     "health": "2,800 / 3,640 / 4,641",
     "defense": "12 (Fase 1) / 0 (Fase 2)",
     "damage": "15-23 (Normal) / 30-40 (Exp) / 45-60 (Mast)",
     "drops": [
       {
         "item_name": "Demonite Ore",
-        "item_id": "56"
+        "item_id": "56",
+        "chance": "100% (Mundos Corrupción)"
       },
       {
         "item_name": "Crimtane Ore",
-        "item_id": "880"
-      },
-      {
-        "item_name": "Shield of Cthulhu",
-        "item_id": "3097"
+        "item_id": "880",
+        "chance": "100% (Mundos Carmesí)"
       },
       {
         "item_name": "Binoculars",
-        "item_id": "1299"
+        "item_id": "1301",
+        "chance": "2.5% (Clásico) / 3.3% (Experto)"
+      },
+      {
+        "item_name": "Eye of Cthulhu Mask",
+        "item_id": "2112",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Eye of Cthulhu Trophy",
+        "item_id": "2111",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_Cthulhu.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu",
     "biome_en": "Surface (Night)",
-    "biome_es": "Surface (Night)",
+    "biome_es": "Superficie (Noche)",
     "time_en": "Night",
     "time_es": "Noche",
     "treasure_bag": {
@@ -130,44 +152,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "3300",
-        "item_name": "Sky Blue String"
-      },
-      {
-        "item_id": "43",
-        "item_name": "Suspicious Looking Eye"
-      },
-      {
-        "item_id": "4913",
-        "item_name": "Snapthorn"
-      },
-      {
-        "item_id": "112",
-        "item_name": "Flower of Fire"
-      },
-      {
-        "item_id": "113",
-        "item_name": "Magic Missile"
-      },
-      {
-        "item_id": "115",
-        "item_name": "Shadow Orb"
-      },
-      {
-        "item_id": "12",
-        "item_name": "Copper Ore"
-      },
-      {
-        "item_id": "11",
-        "item_name": "Iron Ore"
-      },
-      {
-        "item_id": "2361",
-        "item_name": "Bee Headgear"
+        "item_id": "3097",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -175,23 +161,34 @@
     "id": "13",
     "name_en": "Eater of Worlds",
     "name_es": "Devoramundos",
-    "biome": "The Corruption  Underground Corruption",
-    "time": "Cualquiera",
-    "health": "10050 1512019296",
-    "defense": "N/A",
-    "damage": "N/A",
+    "health": "10,050 (Clásico) / 15,120 (Experto)",
+    "defense": "2 (Cabeza) / 4 (Cuerpo) / 8 (Cola)",
+    "damage": "22 (Cabeza) / 13 (Cuerpo) / 11 (Cola)",
     "drops": [
       {
         "item_name": "Shadow Scale",
-        "item_id": "86"
+        "item_id": "86",
+        "chance": "100%"
       },
       {
         "item_name": "Demonite Ore",
-        "item_id": "56"
+        "item_id": "56",
+        "chance": "100%"
       },
       {
-        "item_name": "Worm Scarf (Experto)",
-        "item_id": "2002"
+        "item_name": "Eater of Worlds Mask",
+        "item_id": "2113",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Eater of Worlds Trophy",
+        "item_id": "2114",
+        "chance": "10%"
+      },
+      {
+        "item_name": "Eater's Bone",
+        "item_id": "1134",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater_of_Worlds.png",
@@ -206,28 +203,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "56",
-        "item_name": "Demonite Ore"
-      },
-      {
-        "item_id": "57",
-        "item_name": "Demonite Bar"
-      },
-      {
-        "item_id": "3301",
-        "item_name": "Blue String"
-      },
-      {
-        "item_id": "4914",
-        "item_name": "Kaleidoscope"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1133",
-        "item_name": "Abeemination"
+        "item_id": "3223",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -235,23 +212,34 @@
     "id": "266",
     "name_en": "Brain of Cthulhu",
     "name_es": "Cerebro de Cthulhu",
-    "biome": "Carmesí",
-    "time": "Cualquiera",
-    "health": "1000 / 1700",
+    "health": "1,250 (Clásico) / 2,125 (Experto)",
     "defense": "14",
     "damage": "30 / 54",
     "drops": [
       {
         "item_name": "Tissue Sample",
-        "item_id": "1329"
+        "item_id": "1329",
+        "chance": "100%"
       },
       {
         "item_name": "Crimtane Ore",
-        "item_id": "880"
+        "item_id": "880",
+        "chance": "100%"
       },
       {
-        "item_name": "Brain of Confusion (Experto)",
-        "item_id": "3223"
+        "item_name": "Brain of Cthulhu Mask",
+        "item_id": "2115",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Brain of Cthulhu Trophy",
+        "item_id": "2116",
+        "chance": "10%"
+      },
+      {
+        "item_name": "Bone Rattle",
+        "item_id": "1312",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Cthulhu.png",
@@ -266,28 +254,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "880",
-        "item_name": "Crimtane Ore"
-      },
-      {
-        "item_id": "881",
-        "item_name": "Cactus Sword"
-      },
-      {
-        "item_id": "3302",
-        "item_name": "Purple String"
-      },
-      {
-        "item_id": "4915",
-        "item_name": "Tungsten Bullet"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "3258",
-        "item_name": "Slap Hand"
+        "item_id": "3224",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -295,33 +263,50 @@
     "id": "222",
     "name_en": "Queen Bee",
     "name_es": "Reina abeja",
-    "biome": "Selva",
-    "time": "Cualquiera",
     "health": "3400 / 4760",
     "defense": "8",
     "damage": "30 / 54",
     "drops": [
       {
-        "item_name": "Bee Gun",
-        "item_id": "1121"
+        "item_name": "Bee Keeper",
+        "item_id": "1124",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Bee Keeper",
-        "item_id": "1123"
+        "item_name": "Bee Gun",
+        "item_id": "1121",
+        "chance": "33.3%"
+      },
+      {
+        "item_name": "The Bee's Knees",
+        "item_id": "3054",
+        "chance": "33.3%"
       },
       {
         "item_name": "Hive Wand",
-        "item_id": "1129"
+        "item_id": "1129",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Hive Pack (Experto)",
-        "item_id": "1124"
+        "item_name": "Queen Bee Mask",
+        "item_id": "2110",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Queen Bee Trophy",
+        "item_id": "2109",
+        "chance": "10%"
+      },
+      {
+        "item_name": "Honeyed Goggles",
+        "item_id": "2488",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Bee.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Bee",
     "biome_en": "Jungle",
-    "biome_es": "Selva",
+    "biome_es": "Selva (Colmenas)",
     "time_en": "Any",
     "time_es": "Cualquiera",
     "treasure_bag": {
@@ -330,40 +315,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1121",
-        "item_name": "Bee Gun"
-      },
-      {
-        "item_id": "1123",
-        "item_name": "Bee Keeper"
-      },
-      {
-        "item_id": "1124",
-        "item_name": "Hive"
-      },
-      {
-        "item_id": "1125",
-        "item_name": "Honey Block"
-      },
-      {
-        "item_id": "1132",
-        "item_name": "Honey Comb"
-      },
-      {
-        "item_id": "2430",
-        "item_name": "Slimy Saddle"
-      },
-      {
-        "item_id": "3303",
-        "item_name": "Violet String"
-      },
-      {
-        "item_id": "4916",
-        "item_name": "Hallow Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "1130",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -371,27 +324,29 @@
     "id": "35",
     "name_en": "Skeletron",
     "name_es": "Esqueletrón",
-    "biome": "Dungeon Entrance (Night)",
-    "time": "Noche",
     "health": "Cabeza: 4,400 / 8,800 / 11,220 | Manos: 600 / 1,560",
     "defense": "Cabeza: 10 (+25 por mano) / Manos: 14",
     "damage": "Cabeza: 32-137 / Manos: 20-66 / Cráneos: 68-102",
     "drops": [
       {
-        "item_name": "Book of Skulls",
-        "item_id": "1313"
-      },
-      {
         "item_name": "Skeletron Hand",
-        "item_id": "1284"
+        "item_id": "1273",
+        "chance": "12.5%"
       },
       {
-        "item_name": "Bone Glove",
-        "item_id": "3245"
+        "item_name": "Book of Skulls",
+        "item_id": "1271",
+        "chance": "10.5%"
       },
       {
-        "item_name": "Chippy's Couch",
-        "item_id": "4758"
+        "item_name": "Skeletron Mask",
+        "item_id": "1281",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Skeletron Trophy",
+        "item_id": "1280",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron.png",
@@ -406,32 +361,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1277",
-        "item_name": "Sailor Hat"
-      },
-      {
-        "item_id": "1278",
-        "item_name": "Eye Patch"
-      },
-      {
-        "item_id": "1279",
-        "item_name": "Sailor Shirt"
-      },
-      {
-        "item_id": "1281",
-        "item_name": "Skeletron Mask"
-      },
-      {
-        "item_id": "3304",
-        "item_name": "Pink String"
-      },
-      {
-        "item_id": "4917",
-        "item_name": "Cavern Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "3245",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -439,27 +370,49 @@
     "id": "668",
     "name_en": "Deerclops",
     "name_es": "Ciervíclope",
-    "biome": "Nieve",
-    "time": "Cualquiera",
     "health": "7000 / 11900",
     "defense": "14",
     "damage": "20 / 40",
     "drops": [
       {
         "item_name": "Lucy the Axe",
-        "item_id": "5095"
+        "item_id": "5095",
+        "chance": "25%"
       },
       {
-        "item_name": "Chester",
-        "item_id": "48"
+        "item_name": "Weather Pain",
+        "item_id": "5118",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Houndius Shootius",
+        "item_id": "5119",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Pew-matic Horn",
+        "item_id": "5117",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Eyebrella",
+        "item_id": "5101",
+        "chance": "33.3%"
       },
       {
         "item_name": "Eye Bone",
-        "item_id": "5098"
+        "item_id": "5098",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Bone Helm (Experto)",
-        "item_id": "154"
+        "item_name": "Deerclops Mask",
+        "item_id": "5114",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Deerclops Trophy",
+        "item_id": "5115",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Deerclops.png",
@@ -474,40 +427,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "5098",
-        "item_name": "Eye Bone"
-      },
-      {
-        "item_id": "5099",
-        "item_name": "Garland"
-      },
-      {
-        "item_id": "5100",
-        "item_name": "Bone Helm"
-      },
-      {
-        "item_id": "5101",
-        "item_name": "Eyebrella"
-      },
-      {
-        "item_id": "5117",
-        "item_name": "Pew-matic Horn"
-      },
-      {
-        "item_id": "5118",
-        "item_name": "Weather Pain"
-      },
-      {
-        "item_id": "5119",
-        "item_name": "Houndius Shootius"
-      },
-      {
-        "item_id": "4918",
-        "item_name": "Ocean Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "5112",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -515,35 +436,54 @@
     "id": "113",
     "name_en": "Wall of Flesh",
     "name_es": "Muro de carne",
-    "biome": "The Underworld",
-    "time": "Cualquiera",
     "health": "8,000 / 11,200 / 14,280",
     "defense": "12 (Boca) / 0-6 (Ojos)",
     "damage": "50 (Melee) / 22-90 (Láser) / 30-180 (Hambriento)",
     "drops": [
       {
         "item_name": "Pwnhammer",
-        "item_id": "367"
-      },
-      {
-        "item_name": "Breaker Blade",
-        "item_id": "426"
-      },
-      {
-        "item_name": "Clockwork Assault Rifle",
-        "item_id": "434"
-      },
-      {
-        "item_name": "Laser Rifle",
-        "item_id": "435"
-      },
-      {
-        "item_name": "Firecracker",
-        "item_id": "4913"
+        "item_id": "367",
+        "chance": "100%"
       },
       {
         "item_name": "Warrior Emblem",
-        "item_id": "490"
+        "item_id": "493",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Ranger Emblem",
+        "item_id": "492",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Sorcerer Emblem",
+        "item_id": "495",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Summoner Emblem",
+        "item_id": "2108",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Breaker Blade",
+        "item_id": "426",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Clockwork Assault Rifle",
+        "item_id": "434",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Laser Rifle",
+        "item_id": "515",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Firecracker",
+        "item_id": "4654",
+        "chance": "12.5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wall_of_Flesh.png",
@@ -558,48 +498,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "434",
-        "item_name": "Clockwork Assault Rifle"
-      },
-      {
-        "item_id": "435",
-        "item_name": "Cobalt Repeater"
-      },
-      {
-        "item_id": "436",
-        "item_name": "Mythril Repeater"
-      },
-      {
-        "item_id": "1300",
-        "item_name": "Rifle Scope"
-      },
-      {
-        "item_id": "1301",
-        "item_name": "Destroyer Emblem"
-      },
-      {
-        "item_id": "1302",
-        "item_name": "High Velocity Bullet"
-      },
-      {
-        "item_id": "1303",
-        "item_name": "Jellyfish Necklace"
-      },
-      {
-        "item_id": "1297",
-        "item_name": "Golem Fist"
-      },
-      {
-        "item_id": "3305",
-        "item_name": "Brown String"
-      },
-      {
-        "item_id": "4919",
-        "item_name": "Desert Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "3333",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -607,23 +507,44 @@
     "id": "657",
     "name_en": "Queen Slime",
     "name_es": "Reina slime",
-    "biome": "Bendición",
-    "time": "Cualquiera",
     "health": "18000 / 28800",
     "defense": "26",
     "damage": "60 / 120",
     "drops": [
       {
+        "item_name": "Hook of Dissonance",
+        "item_id": "4980",
+        "chance": "33.3%"
+      },
+      {
         "item_name": "Gelatinous Pillion",
-        "item_id": "4981"
+        "item_id": "4981",
+        "chance": "25%"
       },
       {
-        "item_name": "Blade Staff",
-        "item_id": "4758"
+        "item_name": "Crystal Assassin Hood",
+        "item_id": "4982",
+        "chance": "33.3%"
       },
       {
-        "item_name": "Volatile Gelatin (Experto)",
-        "item_id": "23"
+        "item_name": "Crystal Assassin Shirt",
+        "item_id": "4983",
+        "chance": "33.3%"
+      },
+      {
+        "item_name": "Crystal Assassin Pants",
+        "item_id": "4984",
+        "chance": "33.3%"
+      },
+      {
+        "item_name": "Queen Slime Mask",
+        "item_id": "4987",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Queen Slime Trophy",
+        "item_id": "4988",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Slime.png",
@@ -639,39 +560,7 @@
     "expert_drops": [
       {
         "item_id": "4986",
-        "item_name": "Sparkle Slime Balloon"
-      },
-      {
-        "item_id": "4981",
-        "item_name": "Gelatinous Pillion"
-      },
-      {
-        "item_id": "4980",
-        "item_name": "Hook of Dissonance"
-      },
-      {
-        "item_id": "4758",
-        "item_name": "Blade Staff"
-      },
-      {
-        "item_id": "4759",
-        "item_name": "Squirrel Hook"
-      },
-      {
-        "item_id": "4982",
-        "item_name": "Crystal Assassin Hood"
-      },
-      {
-        "item_id": "4983",
-        "item_name": "Crystal Assassin Shirt"
-      },
-      {
-        "item_id": "4984",
-        "item_name": "Crystal Assassin Pants"
-      },
-      {
-        "item_id": "4912",
-        "item_name": "Firecracker"
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -679,27 +568,29 @@
     "id": "125",
     "name_en": "The Twins",
     "name_es": "Los Gemelos",
-    "biome": "Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night",
-    "time": "Noche",
     "health": "Retinazer: 20,000-38,250 | Spazmatism: 23,000-43,988",
     "defense": "Retinazer: 10-20 | Spazmatism: 10-28",
     "damage": "Retinazer: 40-172 | Spazmatism: 50-192",
     "drops": [
       {
         "item_name": "Soul of Sight",
-        "item_id": "549"
+        "item_id": "549",
+        "chance": "100% (20-40)"
       },
       {
         "item_name": "Hallowed Bar",
-        "item_id": "1225"
-      },
-      {
-        "item_name": "Greater Healing Potion",
-        "item_id": "499"
+        "item_id": "1225",
+        "chance": "100% (15-30)"
       },
       {
         "item_name": "Twin Mask",
-        "item_id": "2111"
+        "item_id": "2105",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "The Twins Trophy",
+        "item_id": "2104",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Twins.png",
@@ -709,33 +600,13 @@
     "time_en": "Night",
     "time_es": "Noche",
     "treasure_bag": {
-      "item_id": "3326",
+      "item_id": "3325",
       "item_name": "Treasure Bag (The Twins)"
     },
     "expert_drops": [
       {
-        "item_id": "549",
-        "item_name": "Soul of Sight"
-      },
-      {
-        "item_id": "947",
-        "item_name": "Chlorophyte Ore"
-      },
-      {
-        "item_id": "3307",
-        "item_name": "Rainbow String"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1225",
-        "item_name": "Hallowed Bar"
-      },
-      {
-        "item_id": "4921",
-        "item_name": "Mushroom Pylon"
+        "item_id": "3354",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -743,27 +614,29 @@
     "id": "134",
     "name_en": "The Destroyer",
     "name_es": "El Destructor",
-    "biome": "Surface / Space (Night)",
-    "time": "Noche",
     "health": "80,000 / 120,000 / 153,000",
     "defense": "0 (Cabeza) / 30 (Cuerpo) / 35 (Cola)",
     "damage": "70-420 (Cabeza) / 55-140 (Cuerpo)",
     "drops": [
       {
         "item_name": "Soul of Might",
-        "item_id": "575"
+        "item_id": "548",
+        "chance": "100% (20-40)"
       },
       {
         "item_name": "Hallowed Bar",
-        "item_id": "1225"
+        "item_id": "1225",
+        "chance": "100% (15-30)"
       },
       {
-        "item_name": "Mechanical Wagon Piece",
-        "item_id": "3355"
+        "item_name": "Destroyer Mask",
+        "item_id": "2107",
+        "chance": "14.29%"
       },
       {
-        "item_name": "Greater Healing Potion",
-        "item_id": "499"
+        "item_name": "Destroyer Trophy",
+        "item_id": "2108",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer.png",
@@ -773,33 +646,13 @@
     "time_en": "Night",
     "time_es": "Noche",
     "treasure_bag": {
-      "item_id": "3325",
+      "item_id": "3326",
       "item_name": "Treasure Bag (The Destroyer)"
     },
     "expert_drops": [
       {
-        "item_id": "548",
-        "item_name": "Soul of Might"
-      },
-      {
-        "item_id": "947",
-        "item_name": "Chlorophyte Ore"
-      },
-      {
-        "item_id": "3306",
-        "item_name": "White String"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1225",
-        "item_name": "Hallowed Bar"
-      },
-      {
-        "item_id": "4920",
-        "item_name": "Snow Pylon"
+        "item_id": "3355",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -807,27 +660,29 @@
     "id": "127",
     "name_en": "Skeletron Prime",
     "name_es": "Esqueletrón Prime",
-    "biome": "Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night",
-    "time": "Noche",
     "health": "Cabeza: 28,000 / 42,000 / 53,550 | Extremidades: 6,000-9,000",
     "defense": "Cabeza: 24 (48 girando) / Sierra: 38 / Vice: 34",
     "damage": "Cabeza: 47-240 / Sierra: 56-143 / Láser: 50-150 / Bombas: 80-240",
     "drops": [
       {
         "item_name": "Soul of Fright",
-        "item_id": "578"
+        "item_id": "547",
+        "chance": "100% (20-40)"
       },
       {
         "item_name": "Hallowed Bar",
-        "item_id": "1225"
-      },
-      {
-        "item_name": "Greater Healing Potion",
-        "item_id": "499"
+        "item_id": "1225",
+        "chance": "100% (15-30)"
       },
       {
         "item_name": "Skeletron Prime Mask",
-        "item_id": "2106"
+        "item_id": "2106",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Skeletron Prime Trophy",
+        "item_id": "2103",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Prime.png",
@@ -842,28 +697,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "547",
-        "item_name": "Soul of Fright"
-      },
-      {
-        "item_id": "947",
-        "item_name": "Chlorophyte Ore"
-      },
-      {
-        "item_id": "3308",
-        "item_name": "Black String"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1225",
-        "item_name": "Hallowed Bar"
-      },
-      {
-        "item_id": "4922",
-        "item_name": "Cavern Water Fountain"
+        "item_id": "3356",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -871,33 +706,60 @@
     "id": "262",
     "name_en": "Plantera",
     "name_es": "Plantera",
-    "biome": "Selva Sub.",
-    "time": "Cualquiera",
     "health": "30000 / 42000",
     "defense": "36",
     "damage": "50 / 100",
     "drops": [
       {
         "item_name": "Temple Key",
-        "item_id": "1141"
+        "item_id": "1141",
+        "chance": "100%"
       },
       {
-        "item_name": "Grenade Launcher",
-        "item_id": "758"
+        "item_name": "The Axe",
+        "item_id": "1294",
+        "chance": "0.5% (Clásico) / 2% (Experto)"
       },
       {
         "item_name": "Seedler",
-        "item_id": "3018"
+        "item_id": "3063",
+        "chance": "14.29%"
       },
       {
-        "item_name": "Spore Sac (Experto)",
-        "item_id": "3336"
+        "item_name": "Flower Pow",
+        "item_id": "1258",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Leaf Blower",
+        "item_id": "1264",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Pygmy Staff",
+        "item_id": "1157",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Wasp Gun",
+        "item_id": "1154",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Plantera Mask",
+        "item_id": "2111",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Plantera Trophy",
+        "item_id": "2112",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Plantera.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Plantera",
     "biome_en": "Jungle",
-    "biome_es": "Selva",
+    "biome_es": "Selva subterránea",
     "time_en": "Any",
     "time_es": "Cualquiera",
     "treasure_bag": {
@@ -906,64 +768,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1141",
-        "item_name": "Temple Key"
-      },
-      {
-        "item_id": "1143",
-        "item_name": "Lihzahrd Chair"
-      },
-      {
-        "item_id": "1144",
-        "item_name": "Lihzahrd Table"
-      },
-      {
-        "item_id": "1145",
-        "item_name": "Lihzahrd Work Bench"
-      },
-      {
-        "item_id": "1146",
-        "item_name": "Super Dart Trap"
-      },
-      {
-        "item_id": "1147",
-        "item_name": "Flame Trap"
-      },
-      {
-        "item_id": "1148",
-        "item_name": "Spiky Ball Trap"
-      },
-      {
-        "item_id": "1149",
-        "item_name": "Spear Trap"
-      },
-      {
-        "item_id": "1150",
-        "item_name": "Wooden Spike"
-      },
-      {
-        "item_id": "1151",
-        "item_name": "Lihzahrd Pressure Plate"
-      },
-      {
-        "item_id": "1152",
-        "item_name": "Lihzahrd Statue"
-      },
-      {
-        "item_id": "1153",
-        "item_name": "Lihzahrd Watcher Statue"
-      },
-      {
-        "item_id": "3309",
-        "item_name": "Black Counterweight"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1121",
-        "item_name": "Bee Gun"
+        "item_id": "3335",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -971,33 +777,50 @@
     "id": "245",
     "name_en": "Golem",
     "name_es": "Gólem",
-    "biome": "Templo de Selva",
-    "time": "Cualquiera",
     "health": "39000 / 58500",
     "defense": "20",
     "damage": "70 / 140",
     "drops": [
       {
         "item_name": "Picksaw",
-        "item_id": "1294"
+        "item_id": "1295",
+        "chance": "12.5% (Clásico) / 25% (Experto)"
+      },
+      {
+        "item_name": "Beetle Husk",
+        "item_id": "1353",
+        "chance": "100% (18-26)"
       },
       {
         "item_name": "Sun Stone",
-        "item_id": "899"
+        "item_id": "899",
+        "chance": "12.5%"
+      },
+      {
+        "item_name": "Eye of the Golem",
+        "item_id": "1248",
+        "chance": "12.5%"
       },
       {
         "item_name": "Possessed Hatchet",
-        "item_id": "1122"
+        "item_id": "1255",
+        "chance": "12.5%"
       },
       {
-        "item_name": "Shiny Stone (Experto)",
-        "item_id": "3337"
+        "item_name": "Golem Mask",
+        "item_id": "2113",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Golem Trophy",
+        "item_id": "2114",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Golem",
     "biome_en": "Jungle",
-    "biome_es": "Selva",
+    "biome_es": "Templo de la selva",
     "time_en": "Any",
     "time_es": "Cualquiera",
     "treasure_bag": {
@@ -1006,40 +829,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1258",
-        "item_name": "Stynger"
-      },
-      {
-        "item_id": "1259",
-        "item_name": "Flower Pow"
-      },
-      {
-        "item_id": "1260",
-        "item_name": "Rainbow Gun"
-      },
-      {
-        "item_id": "1261",
-        "item_name": "Stynger Bolt"
-      },
-      {
-        "item_id": "1294",
-        "item_name": "Picksaw"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "2120",
-        "item_name": "Sandstone Slab"
-      },
-      {
-        "item_id": "3310",
-        "item_name": "Blue Counterweight"
-      },
-      {
-        "item_id": "4924",
-        "item_name": "Eye of Cthulhu Relic"
+        "item_id": "3336",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -1047,27 +838,49 @@
     "id": "370",
     "name_en": "Duke Fishron",
     "name_es": "Duque Fishron",
-    "biome": "Océano",
-    "time": "Cualquiera",
     "health": "50000 / 60000",
     "defense": "50",
     "damage": "100 / 140",
     "drops": [
       {
         "item_name": "Fishron Wings",
-        "item_id": "2609"
+        "item_id": "2609",
+        "chance": "6.67% (Clásico) / 10% (Experto)"
       },
       {
         "item_name": "Tsunami",
-        "item_id": "2624"
+        "item_id": "2611",
+        "chance": "20%"
       },
       {
         "item_name": "Razorblade Typhoon",
-        "item_id": "2622"
+        "item_id": "2621",
+        "chance": "20%"
       },
       {
-        "item_name": "Shrimpy Truffle (Experto)",
-        "item_id": "2316"
+        "item_name": "Bubble Gun",
+        "item_id": "2622",
+        "chance": "20%"
+      },
+      {
+        "item_name": "Flairon",
+        "item_id": "2623",
+        "chance": "20%"
+      },
+      {
+        "item_name": "Tempest Staff",
+        "item_id": "2624",
+        "chance": "20%"
+      },
+      {
+        "item_name": "Duke Fishron Mask",
+        "item_id": "2625",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Duke Fishron Trophy",
+        "item_id": "2626",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Duke_Fishron.png",
@@ -1082,36 +895,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "2611",
-        "item_name": "Flairoon"
-      },
-      {
-        "item_id": "2621",
-        "item_name": "Tempest Staff"
-      },
-      {
-        "item_id": "2622",
-        "item_name": "Razorblade Typhoon"
-      },
-      {
-        "item_id": "2623",
-        "item_name": "Bubble Gun"
-      },
-      {
-        "item_id": "2624",
-        "item_name": "Tsunami"
-      },
-      {
-        "item_id": "1162",
-        "item_name": "Leaf Wings"
-      },
-      {
-        "item_id": "3311",
-        "item_name": "Green Counterweight"
-      },
-      {
-        "item_id": "4925",
-        "item_name": "Eater of Worlds Relic"
+        "item_id": "3367",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -1119,27 +904,44 @@
     "id": "636",
     "name_en": "Empress of Light",
     "name_es": "Emperatriz de la luz",
-    "biome": "Bendición",
-    "time": "Noche (Día)",
     "health": "70000 / 98000",
     "defense": "50",
     "damage": "120 / 240",
     "drops": [
       {
         "item_name": "Eventide",
-        "item_id": "4953"
+        "item_id": "4722",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Nightglow",
+        "item_id": "4720",
+        "chance": "25%"
+      },
+      {
+        "item_name": "Starlight",
+        "item_id": "4721",
+        "chance": "25%"
       },
       {
         "item_name": "Kaleidoscope",
-        "item_id": "4914"
+        "item_id": "4655",
+        "chance": "25%"
       },
       {
-        "item_name": "Terraprisma (Día)",
-        "item_id": "5005"
+        "item_name": "Terraprisma",
+        "item_id": "4957",
+        "chance": "100% (Muerte de día)"
       },
       {
-        "item_name": "Soaring Insignia (Experto)",
-        "item_id": "171"
+        "item_name": "Empress of Light Mask",
+        "item_id": "4783",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Empress of Light Trophy",
+        "item_id": "4784",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light.png",
@@ -1154,36 +956,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "4914",
-        "item_name": "Kaleidoscope"
-      },
-      {
-        "item_id": "4952",
-        "item_name": "Nightglow"
-      },
-      {
-        "item_id": "4953",
-        "item_name": "Eventide"
-      },
-      {
-        "item_id": "4822",
-        "item_name": "Flame Waker Boots"
-      },
-      {
-        "item_id": "4823",
-        "item_name": "Empress Wings"
-      },
-      {
-        "item_id": "4758",
-        "item_name": "Blade Staff"
-      },
-      {
-        "item_id": "4912",
-        "item_name": "Firecracker"
-      },
-      {
-        "item_id": "4950",
-        "item_name": "Queen Slime Relic"
+        "item_id": "4989",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -1191,19 +965,24 @@
     "id": "439",
     "name_en": "Lunatic Cultist",
     "name_es": "Cultista lunático",
-    "biome": "Mazmorra",
-    "time": "Cualquiera",
     "health": "32000 / 40000",
     "defense": "42",
     "damage": "50 / 100",
     "drops": [
       {
         "item_name": "Ancient Manipulator",
-        "item_id": "3549"
+        "item_id": "3467",
+        "chance": "100%"
       },
       {
-        "item_name": "Ancient Light (Bolsa Experto)",
-        "item_id": null
+        "item_name": "Lunatic Cultist Mask",
+        "item_id": "3371",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Lunatic Cultist Trophy",
+        "item_id": "3370",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunatic_Cultist.png",
@@ -1211,44 +990,88 @@
     "biome_en": "Dungeon",
     "biome_es": "Mazmorra",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "3331",
+        "chance": "100% (Bolsa)"
+      }
+    ]
   },
   {
     "id": "396",
     "name_en": "Moon Lord",
     "name_es": "Señor de la Luna",
-    "biome": "Cualquiera",
-    "time": "Cualquiera",
     "health": "145000 / 217500",
     "defense": "50",
     "damage": "150 / 300",
     "drops": [
       {
+        "item_name": "Luminite",
+        "item_id": "3460",
+        "chance": "100% (70-90)"
+      },
+      {
         "item_name": "Meowmere",
-        "item_id": "3063"
+        "item_id": "3065",
+        "chance": "11.1%"
+      },
+      {
+        "item_name": "Star Wrath",
+        "item_id": "3061",
+        "chance": "11.1%"
       },
       {
         "item_name": "Terrarian",
-        "item_id": "3389"
+        "item_id": "3389",
+        "chance": "11.1%"
       },
       {
-        "item_name": "Portal Gun",
-        "item_id": "3384"
+        "item_name": "S.D.M.G.",
+        "item_id": "1552",
+        "chance": "11.1%"
       },
       {
-        "item_name": "Luminite",
-        "item_id": "3460"
+        "item_name": "Last Prism",
+        "item_id": "3475",
+        "chance": "11.1%"
       },
       {
-        "item_name": "Gravity Globe (Experto)",
-        "item_id": "1131"
+        "item_name": "Lunar Flare",
+        "item_id": "3476",
+        "chance": "11.1%"
+      },
+      {
+        "item_name": "Celebration Mk2",
+        "item_id": "4952",
+        "chance": "11.1%"
+      },
+      {
+        "item_name": "Moon Lord Mask",
+        "item_id": "3372",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Moon Lord Trophy",
+        "item_id": "3373",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord",
     "biome_en": "Cualquiera",
-    "biome_es": "Cualquiera",
+    "biome_es": "Evento Lunar / Cualquier bioma",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "4954",
+        "chance": "100% (Bolsa)"
+      },
+      {
+        "item_id": "3360",
+        "chance": "100% (Bolsa)"
+      }
+    ]
   }
 ]

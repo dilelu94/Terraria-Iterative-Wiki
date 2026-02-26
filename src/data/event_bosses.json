@@ -137,19 +137,23 @@
     "expert_drops": [
       {
         "item_id": "1920",
-        "item_name": "Gingerbread Cookie"
+        "item_name": "Gingerbread Cookie",
+        "chance": "100%"
       },
       {
         "item_id": "1921",
-        "item_name": "Hand Warmer"
+        "item_name": "Hand Warmer",
+        "chance": "100%"
       },
       {
         "item_id": "1922",
-        "item_name": "Coal"
+        "item_name": "Coal",
+        "chance": "100%"
       },
       {
         "item_id": "1923",
-        "item_name": "Toolbox"
+        "item_name": "Toolbox",
+        "chance": "100%"
       }
     ]
   },
@@ -174,23 +178,28 @@
     "expert_drops": [
       {
         "item_id": "1924",
-        "item_name": "Pine Door"
+        "item_name": "Pine Door",
+        "chance": "100%"
       },
       {
         "item_id": "1925",
-        "item_name": "Pine Chair"
+        "item_name": "Pine Chair",
+        "chance": "100%"
       },
       {
         "item_id": "1926",
-        "item_name": "Pine Table"
+        "item_name": "Pine Table",
+        "chance": "100%"
       },
       {
         "item_id": "1927",
-        "item_name": "Dog Whistle"
+        "item_name": "Dog Whistle",
+        "chance": "100%"
       },
       {
         "item_id": "1928",
-        "item_name": "Christmas Tree Sword"
+        "item_name": "Christmas Tree Sword",
+        "chance": "100%"
       }
     ]
   },
@@ -292,31 +301,38 @@
     "expert_drops": [
       {
         "item_id": "3821",
-        "item_name": "Ale Tosser"
+        "item_name": "Ale Tosser",
+        "chance": "100%"
       },
       {
         "item_id": "3858",
-        "item_name": "Sky Dragon's Fury"
+        "item_name": "Sky Dragon's Fury",
+        "chance": "100%"
       },
       {
         "item_id": "3859",
-        "item_name": "Aerial Bane"
+        "item_name": "Aerial Bane",
+        "chance": "100%"
       },
       {
         "item_id": "3870",
-        "item_name": "Betsy's Wrath"
+        "item_name": "Betsy's Wrath",
+        "chance": "100%"
       },
       {
         "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_name": "Eye of Cthulhu Mask",
+        "chance": "100%"
       },
       {
         "item_id": "4927",
-        "item_name": "Skeletron Relic"
+        "item_name": "Skeletron Relic",
+        "chance": "100%"
       },
       {
         "item_id": "3883",
-        "item_name": "Betsy's Wings"
+        "item_name": "Betsy's Wings",
+        "chance": "100%"
       }
     ]
   },
