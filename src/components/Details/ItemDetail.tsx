@@ -50,10 +50,14 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
 
   // Filtrar estaciones según la regla: No mostrar "A mano" si no hay recetas o si hay otras fuentes
-  // También filtrar si la estación ya está mencionada en origin_info para evitar redundancia
+  // También filtrar si la estación (en ES o EN) ya está mencionada en origin_info para evitar redundancia
   const itemStations = item.station_ids 
     ? stations.filter(s => {
-        if (item.origin_info?.toLowerCase().includes(s.display_name.toLowerCase())) {
+        const origin = item.origin_info?.toLowerCase() || '';
+        const stationNameEn = s.name_en.toLowerCase();
+        const stationNameEs = (s.name_es || '').toLowerCase();
+
+        if (origin.includes(stationNameEn) || (stationNameEs && origin.includes(stationNameEs))) {
           return false;
         }
 
