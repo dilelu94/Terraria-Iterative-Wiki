@@ -1,0 +1,217 @@
+-65	Hornet (Big Stingy Hornet)	Stingy Hornet.gif
+-64	Hornet (Little Stingy Hornet)	Stingy Hornet.gif
+-63	Hornet (Big Spikey Hornet)	Spikey Hornet.gif
+-62	Hornet (Little Spikey Hornet)	Spikey Hornet.gif
+-61	Hornet (Big Leafy Hornet)	Leafy Hornet.gif
+-60	Hornet (Little Leafy Hornet)	Leafy Hornet.gif
+-59	Hornet (Big Honey Hornet)	Honey Hornet.gif
+-58	Hornet (Little Honey Hornet)	Honey Hornet.gif
+-57	Hornet (Big Fatty Hornet)	Fatty Hornet.gif
+-56	Hornet (Little Fatty Hornet)	Fatty Hornet.gif
+-55	Zombie (Big Raincoat Zombie)	Raincoat Zombie.gif
+-54	Zombie (Small Raincoat Zombie)	Raincoat Zombie.gif
+-53	Skeleton (Big Pantless Skeleton)	Pantless Skeleton.gif
+-52	Skeleton (Small Pantless Skeleton)	Pantless Skeleton.gif
+-51	Skeleton (Big Misassembled Skeleton)	Misassembled Skeleton.gif
+-50	Skeleton (Small Misassembled Skeleton)	Misassembled Skeleton.gif
+-49	Skeleton (Big Headache Skeleton)	Headache Skeleton.gif
+-48	Skeleton (Small Headache Skeleton)	Headache Skeleton.gif
+-47	Skeleton (Big Skeleton)	Skeleton.gif
+-46	Skeleton (Small Skeleton)	Skeleton.gif
+-45	Zombie (Big Female Zombie)	Female Zombie.gif
+-44	Zombie (Small Female Zombie)	Female Zombie.gif
+-43	Demon Eye (Variant 2)	Demon Eye.gif
+-42	Demon Eye (Purple Eye) (Variant 2)	Purple Eye.gif
+-41	Demon Eye (Green Eye) (Variant 2)	Green Eye.gif
+-40	Demon Eye (Dilated Eye) (Variant 2)	Dilated Eye.gif
+-39	Demon Eye (Sleepy Eye) (Variant 2)	Sleepy Eye.gif
+-38	Demon Eye (Cataract Eye) (Variant 2)	Cataract Eye.gif
+-37	Zombie (Big Twiggy Zombie)	Twiggy Zombie.gif
+-36	Zombie (Small Twiggy Zombie)	Twiggy Zombie.gif
+-35	Zombie (Big Swamp Zombie)	Swamp Zombie.gif
+-34	Zombie (Small Swamp Zombie)	Swamp Zombie.gif
+-33	Zombie (Big Slimed Zombie)	Slimed Zombie.gif
+-32	Zombie (Small Slimed Zombie)	Slimed Zombie.gif
+-31	Zombie (Big Pincushion Zombie)	Pincushion Zombie.gif
+-30	Zombie (Small Pincushion Zombie)	Pincushion Zombie.gif
+-29	Zombie (Big Bald Zombie)	Bald Zombie.gif
+-28	Zombie (Small Bald Zombie)	Bald Zombie.gif
+-27	Zombie (Big Zombie)	Zombie.gif
+-26	Zombie (Small Zombie)	Zombie.gif
+-25	Crimslime (Big Crimslime)	Crimslime.gif
+-24	Crimslime (Little Crimslime)	Crimslime.gif
+-23	Crimera (Big Crimera)	Crimera.gif
+-22	Crimera (Little Crimera)	Crimera.gif
+-21	Moss Hornet (Giant Moss Hornet)	Moss Hornet.gif
+-20	Moss Hornet (Big Moss Hornet)	Moss Hornet.gif
+-19	Moss Hornet (Little Moss Hornet)	Moss Hornet.gif
+-18	Moss Hornet (Tiny Moss Hornet)	Moss Hornet.gif
+-17	Hornet (Big Stinger)	Hornet.gif
+-16	Hornet (Little Stinger)	Hornet.gif
+-15	Armored Skeleton (Heavy Skeleton)	Armored Skeleton.gif
+-14	Angry Bones (Big Boned)	Angry Bones 1.gif
+-13	Angry Bones (Short Bones)	Angry Bones 1.gif
+-12	Eater of Souls (Big Eater)	Eater of Souls.png
+-11	Eater of Souls (Little Eater)	Eater of Souls.png
+-10	Jungle Slime	Jungle Slime.gif
+-9	Yellow Slime	Yellow Slime.gif
+-8	Red Slime	Red Slime.gif
+-7	Purple Slime	Purple Slime.gif
+-6	Black Slime	Black Slime.gif
+-5	Baby Slime	Baby Slime.gif
+-4	Pinky	Pinky.gif
+-3	Green Slime	Green Slime.gif
+-2	Slimer (Without Wings)	Corrupt Slime.gif
+-1	Slimeling	Slimeling.gif
+1	Blue Slime	Blue Slime.gif
+2	Demon Eye	Demon Eye.gif
+3	Zombie	Zombie.gif
+4	Eye of Cthulhu	Eye of Cthulhu (Phase 1).gif
+5	Servant of Cthulhu	Servant of Cthulhu.gif
+6	Eater of Souls	Eater of Souls.gif
+7	Devourer (Head)	Devourer Head.png
+8	Devourer (Body)	Devourer Body.png
+9	Devourer (Tail)	Devourer Tail.png
+10	Giant Worm (Head)	Giant Worm Head.png
+11	Giant Worm (Body)	Giant Worm Body.png
+12	Giant Worm (Tail)	Giant Worm Tail.png
+13	Eater of Worlds (Head)	Eater of Worlds Head.png
+14	Eater of Worlds (Body)	Eater of Worlds Body.png
+15	Eater of Worlds (Tail)	Eater of Worlds Tail.png
+16	Mother Slime	Mother Slime.gif
+17	Merchant	Merchant.png
+18	Nurse	Nurse.png
+19	Arms Dealer	Arms Dealer.png
+20	Dryad	Dryad.png
+21	Skeleton	Skeleton.gif
+22	Guide	Guide.png
+23	Meteor Head	Meteor Head.gif
+24	Fire Imp	Fire Imp.gif
+25	Burning Sphere	Burning Sphere.png
+26	Goblin Peon	Goblin Peon.gif
+27	Goblin Thief	Goblin Thief.gif
+28	Goblin Warrior	Goblin Warrior.gif
+29	Goblin Sorcerer	Goblin Sorcerer.png
+30	Chaos Ball	Chaos Ball.png
+31	Angry Bones	Angry Bones 1.gif
+32	Dark Caster	Dark Caster.png
+33	Water Sphere	Water Sphere.png
+34	Cursed Skull	Cursed Skull.gif
+35	Skeletron (Head)	Skeletron Head.png
+36	Skeletron (Hand)	Skeletron Hand (NPC).png
+37	Old Man	Old Man.png
+38	Demolitionist	Demolitionist.png
+39	Bone Serpent (Head)	Bone Serpent Head.png
+40	Bone Serpent (Body)	Bone Serpent Body.png
+41	Bone Serpent (Tail)	Bone Serpent Tail.png
+42	Hornet	Hornet.gif
+43	Man Eater	Man Eater.gif
+44	Undead Miner	Undead Miner.gif
+45	Tim	Tim.png
+46	Bunny	Bunny.gif
+47	Corrupt Bunny	Corrupt Bunny.gif
+48	Harpy	Harpy.gif
+49	Cave Bat	Cave Bat.gif
+50	King Slime	King Slime.gif
+51	Jungle Bat	Jungle Bat.gif
+52	Doctor Bones	Doctor Bones.gif
+53	The Groom	The Groom.gif
+54	Clothier	Clothier.png
+55	Goldfish	Goldfish.gif
+56	Snatcher	Snatcher.gif
+57	Corrupt Goldfish	Corrupt Goldfish.gif
+58	Piranha	Piranha.gif
+59	Lava Slime	Lava Slime.gif
+60	Hellbat	Hellbat.gif
+61	Vulture	Vulture.png
+62	Demon	Demon.gif
+63	Blue Jellyfish	Blue Jellyfish.gif
+64	Pink Jellyfish	Pink Jellyfish.gif
+65	Shark	Shark.gif
+66	Voodoo Demon	Voodoo Demon.gif
+67	Crab	Crab.gif
+68	Dungeon Guardian	Dungeon Guardian.png
+69	Antlion	Antlion.gif
+70	Spike Ball	Spike Ball.png
+71	Dungeon Slime	Dungeon Slime.gif
+72	Blazing Wheel	Blazing Wheel.gif
+73	Goblin Scout	Goblin Scout.gif
+74	Bird	Bird (NPC).png
+75	Pixie	Pixie.gif
+77	Armored Skeleton	Armored Skeleton.gif
+78	Mummy	Mummy.gif
+79	Dark Mummy	Dark Mummy.gif
+80	Light Mummy	Light Mummy.gif
+81	Corrupt Slime	Corrupt Slime.gif
+82	Wraith	Wraith.gif
+83	Cursed Hammer	Cursed Hammer.gif
+84	Enchanted Sword	Enchanted Sword (NPC).gif
+85	Mimic	Mimic.png
+86	Unicorn	Unicorn.gif
+87	Wyvern (Head)	Wyvern Head.png
+88	Wyvern (Legs)	Wyvern Legs.png
+89	Wyvern (Body)	Wyvern Body.png
+90	Wyvern (Body 2)	Wyvern Body 2.png
+91	Wyvern (Body 3)	Wyvern Body 3.png
+92	Wyvern (Tail)	Wyvern Tail.png
+93	Giant Bat	Giant Bat.gif
+94	Corruptor	Corruptor.gif
+95	Digger (Head)	Digger Head.png
+96	Digger (Body)	Digger Body.png
+97	Digger (Tail)	Digger Tail.png
+98	World Feeder (Head)	World Feeder Head.png
+99	World Feeder (Body)	World Feeder Body.png
+100	World Feeder (Tail)	World Feeder Tail.png
+101	Clinger	Clinger.gif
+102	Angler Fish	Angler Fish.gif
+103	Green Jellyfish	Green Jellyfish.gif
+104	Werewolf	Werewolf.gif
+105	Bound Goblin	Bound Goblin.png
+106	Bound Wizard	Bound Wizard.png
+107	Goblin Tinkerer	Goblin Tinkerer.png
+108	Wizard	Wizard.png
+109	Clown	Clown.gif
+110	Skeleton Archer	Skeleton Archer.gif
+111	Goblin Archer	Goblin Archer.gif
+113	Wall of Flesh (Mouth)	Wall of Flesh.gif
+114	Wall of Flesh (Eye)	Wall of Flesh Eye.gif
+115	The Hungry	The Hungry.gif
+116	The Hungry (II)	The Hungry II.gif
+117	Leech (Head)	Leech Head.png
+118	Leech (Body)	Leech Body.png
+119	Leech (Tail)	Leech Tail.png
+120	Chaos Elemental	Chaos Elemental.gif
+121	Slimer	Slimer.gif
+122	Gastropod	Gastropod.gif
+123	Bound Mechanic	Bound Mechanic.png
+124	Mechanic	Mechanic.png
+125	Retinazer	Retinazer (first form).gif
+126	Spazmatism	Spazmatism (first form).gif
+127	Skeletron Prime	Skeletron Prime head.gif
+134	The Destroyer (Head)	The Destroyer Head.png
+142	Santa Claus	Santa Claus.png
+160	Truffle	Truffle.png
+178	Steampunker	Steampunker.png
+207	Dye Trader	Dye Trader.png
+208	Party Girl	Party Girl.png
+209	Cyborg	Cyborg.png
+227	Painter	Painter.png
+228	Witch Doctor	Witch Doctor.png
+229	Pirate	Pirate.png
+353	Stylist	Stylist.png
+368	Traveling Merchant	Traveling Merchant.png
+369	Angler	Angler.png
+370	Duke Fishron	Duke Fishron (First Form).gif
+392	Martian Saucer	Martian Saucer.gif
+396	Moon Lord	Moon Lord's Head.gif
+439	Lunatic Cultist	Lunatic Cultist.gif
+441	Tax Collector	Tax Collector.png
+453	Skeleton Merchant	Skeleton Merchant.png
+550	Tavernkeep	Tavernkeep.png
+551	Betsy	Betsy.gif
+588	Golfer	Golfer.png
+633	Zoologist	Normal Zoologist Werefox Zoologist
+636	Empress of Light	Empress of Light.gif
+657	Queen Slime	Queen Slime.png
+663	Princess	Princess.png
+668	Deerclops	Deerclops.png

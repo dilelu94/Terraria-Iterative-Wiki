@@ -1005,7 +1005,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Subterráneo) / Cajas de hierro (Pesca)"
+    "origin_info": "Cofres de Oro (Bosque)"
   },
   {
     "id": "55",
@@ -2422,7 +2422,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Duende chapucero (5 Oro)"
+    "origin_info": "Comprado al Duende Chapucero"
   },
   {
     "id": "129",
@@ -7312,15 +7312,11 @@
       {
         "name_en": "Rocket Boots",
         "amount": 1
-      },
-      {
-        "name_en": "Adamantite Bar",
-        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Boots.png",
     "station_ids": [
-      "mythril_anvil"
+      "398"
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (24 Lingotes de adamantita)"
   },
@@ -15364,7 +15360,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lightning_Boots",
     "recipes": [
       {
-        "name_en": "Aglet",
+        "name_en": "Spectre Boots",
         "amount": 1
       },
       {
@@ -15372,7 +15368,7 @@
         "amount": 1
       },
       {
-        "name_en": "Spectre Boots",
+        "name_en": "Aglet",
         "amount": 1
       }
     ],
@@ -25713,7 +25709,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre helado (Bioma de nieve)"
+    "origin_info": "Cofres de Hielo (Nieve)"
   },
   {
     "id": "1580",
@@ -29137,11 +29133,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Frostspark_Boots",
     "recipes": [
       {
-        "name_en": "Ice Skates",
+        "name_en": "Lightning Boots",
         "amount": 1
       },
       {
-        "name_en": "Lightning Boots",
+        "name_en": "Ice Skates",
         "amount": 1
       }
     ],
@@ -50344,7 +50340,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sailfish_Boots.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Cajas de Madera/Hierro (Pesca)"
   },
   {
     "id": "3201",
@@ -63329,7 +63326,7 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dunerider_Boots.png",
     "station_ids": [],
-    "origin_info": "Cofre de agua (Water Chest)"
+    "origin_info": "Cofres de Arenisca (Desierto)"
   },
   {
     "id": "4056",

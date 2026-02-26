@@ -58,7 +58,7 @@
         "chance": "100% (5-15)"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King",
     "wiki_url": "https://terraria.wiki.gg/wiki/King_Slime",
     "biome_en": "Forest",
     "biome_es": "Bosque (Superficie)",
@@ -140,7 +140,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_Cthulhu.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye",
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu",
     "biome_en": "Surface (Night)",
     "biome_es": "Superficie (Noche)",
@@ -159,7 +159,7 @@
   },
   {
     "id": "13",
-    "name_en": "Eater of Worlds",
+    "name_en": "Eater of Worlds (Head)",
     "name_es": "Devoramundos",
     "health": "10,050 (Clásico) / 15,120 (Experto)",
     "defense": "2 (Cabeza) / 4 (Cuerpo) / 8 (Cola)",
@@ -191,7 +191,7 @@
         "chance": "5%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater_of_Worlds.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater",
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds",
     "biome_en": "Underground",
     "biome_es": "Subterráneo",
@@ -322,7 +322,7 @@
   },
   {
     "id": "35",
-    "name_en": "Skeletron",
+    "name_en": "Skeletron (Head)",
     "name_es": "Esqueletrón",
     "health": "Cabeza: 4,400 / 8,800 / 11,220 | Manos: 600 / 1,560",
     "defense": "Cabeza: 10 (+25 por mano) / Manos: 14",
@@ -349,7 +349,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron",
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron",
     "biome_en": "Dungeon",
     "biome_es": "Mazmorra",
@@ -434,7 +434,7 @@
   },
   {
     "id": "113",
-    "name_en": "Wall of Flesh",
+    "name_en": "Wall of Flesh (Mouth)",
     "name_es": "Muro de carne",
     "health": "8,000 / 11,200 / 14,280",
     "defense": "12 (Boca) / 0-6 (Ojos)",
@@ -486,7 +486,7 @@
         "chance": "12.5%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wall_of_Flesh.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wall",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wall_of_Flesh",
     "biome_en": "Underworld",
     "biome_es": "Inframundo",
@@ -547,7 +547,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Slime.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen",
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Slime",
     "biome_en": "Hallow",
     "biome_es": "Bendición",
@@ -566,7 +566,7 @@
   },
   {
     "id": "125",
-    "name_en": "The Twins",
+    "name_en": "Retinazer",
     "name_es": "Los Gemelos",
     "health": "Retinazer: 20,000-38,250 | Spazmatism: 23,000-43,988",
     "defense": "Retinazer: 10-20 | Spazmatism: 10-28",
@@ -593,7 +593,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Twins.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Retinazer",
     "wiki_url": "https://terraria.wiki.gg/wiki/Retinazer",
     "biome_en": "Space",
     "biome_es": "Espacio",
@@ -612,7 +612,7 @@
   },
   {
     "id": "134",
-    "name_en": "The Destroyer",
+    "name_en": "The Destroyer (Head)",
     "name_es": "El Destructor",
     "health": "80,000 / 120,000 / 153,000",
     "defense": "0 (Cabeza) / 30 (Cuerpo) / 35 (Cola)",
@@ -639,7 +639,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/The",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Destroyer",
     "biome_en": "Space",
     "biome_es": "Espacio",
@@ -685,7 +685,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Prime.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron",
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Prime",
     "biome_en": "Space",
     "biome_es": "Espacio",
@@ -883,7 +883,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Duke_Fishron.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Duke",
     "wiki_url": "https://terraria.wiki.gg/wiki/Duke_Fishron",
     "biome_en": "Ocean",
     "biome_es": "Océano",
@@ -944,7 +944,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress",
     "wiki_url": "https://terraria.wiki.gg/wiki/Empress_of_Light",
     "biome_en": "Hallow",
     "biome_es": "Bendición",
@@ -985,7 +985,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunatic_Cultist.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunatic",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lunatic_Cultist",
     "biome_en": "Dungeon",
     "biome_es": "Mazmorra",
@@ -1057,7 +1057,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord.png",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon",
     "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord",
     "biome_en": "Cualquiera",
     "biome_es": "Evento Lunar / Cualquier bioma",
