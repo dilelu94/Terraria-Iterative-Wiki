@@ -223,8 +223,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Superficie / Subterráneo"
   },
   {
     "id": "12",
@@ -241,8 +242,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Copper_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Superficie / Subterráneo"
   },
   {
     "id": "13",
@@ -259,8 +261,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Subterráneo / Cavernas"
   },
   {
     "id": "14",
@@ -277,8 +280,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Subterráneo / Cavernas"
   },
   {
     "id": "15",
@@ -379,9 +383,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gold_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (4 Mineral de oro)"
   },
   {
     "id": "20",
@@ -397,9 +401,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Copper_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (3 Mineral de cobre)"
   },
   {
     "id": "21",
@@ -415,9 +419,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (4 Mineral de plata)"
   },
   {
     "id": "22",
@@ -433,9 +437,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Iron_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (3 Mineral de hierro)"
   },
   {
     "id": "23",
@@ -1060,7 +1064,7 @@
     "id": "56",
     "category": "Ore/Bars/Gems",
     "name_en": "Demonite Ore",
-    "name_es": "Mineral endemoniado",
+    "name_es": "Mineral de endemoniado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Demonite_Ore",
     "recipes": [
       {
@@ -1070,8 +1074,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demonite_Ore.png",
     "station_ids": [
-      "hand"
-    ]
+      "exploration",
+      "loot"
+    ],
+    "origin_info": "Minado: Corrupción / Botín: Ojo de Cthulhu / Devoramundos"
   },
   {
     "id": "57",
@@ -2245,8 +2251,9 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite.png",
     "station_ids": [
-      "mining"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Lugar del impacto del meteorito"
   },
   {
     "id": "117",
@@ -2263,7 +2270,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite_Bar.png",
     "station_ids": [
       "33"
-    ]
+    ],
+    "origin_info": "Fabricado: Horno (3 Meteoritos)"
   },
   {
     "id": "118",
@@ -3289,9 +3297,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellstone.png",
     "station_ids": [
-      "hand",
-      "33"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: El Inframundo"
   },
   {
     "id": "175",
@@ -3311,9 +3319,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellstone_Bar.png",
     "station_ids": [
-      "112",
-      "33"
-    ]
+      "112"
+    ],
+    "origin_info": "Fabricado: Horno infernal (3 Piedras infernales + 1 Obsidiana)"
   },
   {
     "id": "176",
@@ -6743,9 +6751,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cobalt_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Minado: Hardmode (Pico de Molten o superior)"
+    "origin_info": "Minado: Hardmode (Pico de piedra infernal o superior)"
   },
   {
     "id": "365",
@@ -6762,9 +6770,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Minado: Hardmode (Pico de Cobalto o superior)"
+    "origin_info": "Minado: Hardmode (Pico de cobalto/paladio o superior)"
   },
   {
     "id": "366",
@@ -6781,9 +6789,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Minado: Hardmode (Pico de Mitrilo o superior)"
+    "origin_info": "Minado: Hardmode (Pico de mitrilo/oricalco o superior)"
   },
   {
     "id": "367",
@@ -7055,7 +7063,7 @@
     "id": "381",
     "category": "Ore/Bars/Gems",
     "name_en": "Cobalt Bar",
-    "name_es": "Capucha de mithril",
+    "name_es": "Lingote de cobalto",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cobalt_Bar",
     "recipes": [
       {
@@ -7070,15 +7078,15 @@
     "piece_effects": "+12% daño a distancia | +7% crítico a distancia",
     "set_bonus": "20% de probabilidad de no consumir munición",
     "station_ids": [
-      "mythril_anvil"
+      "33"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)"
+    "origin_info": "Fabricado: Horno (3 Mineral de cobalto)"
   },
   {
     "id": "382",
     "category": "Ore/Bars/Gems",
     "name_en": "Mythril Bar",
-    "name_es": "Casco de mithril",
+    "name_es": "Lingote de mitrilo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mythril_Bar",
     "recipes": [
       {
@@ -7088,9 +7096,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Bar.png",
     "station_ids": [
-      "mythril_anvil"
+      "adamantite_forge"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)"
+    "origin_info": "Fabricado: Forja de mitrilo/oricalco (2 Mineral de mitrilo)"
   },
   {
     "id": "383",
@@ -7276,10 +7284,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Adamantite_Bar.png",
     "station_ids": [
-      "112",
       "adamantite_forge"
     ],
-    "origin_info": "Forja de adamantita / titanio"
+    "origin_info": "Fabricado: Forja de adamantita/titanio (5 Mineral de adamantita)"
   },
   {
     "id": "392",
@@ -12497,8 +12504,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Superficie / Subterráneo"
   },
   {
     "id": "700",
@@ -12520,8 +12528,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Superficie / Subterráneo"
   },
   {
     "id": "701",
@@ -12543,14 +12552,15 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Ore.png",
     "station_ids": [
-      "shimmer"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Minado: Subterráneo / Cavernas"
   },
   {
     "id": "702",
     "category": "Ore/Bars/Gems",
     "name_en": "Platinum Ore",
-    "name_es": "Lingote de carmesí",
+    "name_es": "Mineral de platino",
     "wiki_url": "https://terraria.wiki.gg/wiki/Platinum_Ore",
     "recipes": [
       {
@@ -12566,9 +12576,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Platinum_Ore.png",
     "station_ids": [
-      "33"
+      "exploration"
     ],
-    "origin_info": "Fabricado: Horno (3 Mineral de carmesí)"
+    "origin_info": "Minado: Subterráneo / Cavernas"
   },
   {
     "id": "703",
@@ -12584,9 +12594,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tin_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (3 Mineral de estaño)"
   },
   {
     "id": "704",
@@ -12602,9 +12612,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lead_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (3 Mineral de plomo)"
   },
   {
     "id": "705",
@@ -12620,9 +12630,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tungsten_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (4 Mineral de tungsteno)"
   },
   {
     "id": "706",
@@ -12638,9 +12648,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Platinum_Bar.png",
     "station_ids": [
-      "33",
-      "mining"
-    ]
+      "33"
+    ],
+    "origin_info": "Fabricado: Horno (4 Mineral de platino)"
   },
   {
     "id": "707",
@@ -15589,8 +15599,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimtane_Ore.png",
     "station_ids": [
-      "hand"
-    ]
+      "exploration",
+      "loot"
+    ],
+    "origin_info": "Minado: Carmesí / Botín: Ojo de Cthulhu / Cerebro de Cthulhu"
   },
   {
     "id": "881",
@@ -16736,7 +16748,7 @@
     "id": "947",
     "category": "Ore/Bars/Gems",
     "name_en": "Chlorophyte Ore",
-    "name_es": "Lingote sagrado",
+    "name_es": "Mineral de clorofita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Chlorophyte_Ore",
     "recipes": [
       {
@@ -16747,9 +16759,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Botín: Jefes Mecánicos"
+    "origin_info": "Minado: Selva (Hardmode - Tras derrotar a los Jefes Mecánicos)"
   },
   {
     "id": "948",
@@ -17766,10 +17778,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Chlorophyte_Bar.png",
     "station_ids": [
-      "33",
       "adamantite_forge"
     ],
-    "origin_info": "Fabricado: Forja infernal / titanio (5 Minerales de clorofita)"
+    "origin_info": "Fabricado: Forja de adamantita/titanio (5-6 Minerales de clorofita)"
   },
   {
     "id": "1007",
@@ -19572,9 +19583,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Minado: Hardmode (Pico de Molten o superior)"
+    "origin_info": "Minado: Hardmode (Pico de piedra infernal o superior)"
   },
   {
     "id": "1105",
@@ -19596,9 +19607,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Minado: Hardmode (Pico de Cobalto o superior)"
+    "origin_info": "Minado: Hardmode (Pico de cobalto/paladio o superior)"
   },
   {
     "id": "1106",
@@ -19620,9 +19631,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Ore.png",
     "station_ids": [
-      "shimmer"
+      "exploration"
     ],
-    "origin_info": "Minado: Hardmode (Pico de Mitrilo o superior)"
+    "origin_info": "Minado: Hardmode (Pico de mitrilo/oricalco o superior)"
   },
   {
     "id": "1107",
@@ -20688,10 +20699,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palladium_Bar.png",
     "station_ids": [
-      "33",
-      "adamantite_forge"
+      "33"
     ],
-    "origin_info": "Horno (Furnace)"
+    "origin_info": "Fabricado: Horno (3 Mineral de paladio)"
   },
   {
     "id": "1185",
@@ -20833,10 +20843,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Orichalcum_Bar.png",
     "station_ids": [
-      "33",
       "adamantite_forge"
     ],
-    "origin_info": "Forja de mitrilo / oricalco"
+    "origin_info": "Fabricado: Forja de mitrilo/oricalco (2 Mineral de oricalco)"
   },
   {
     "id": "1192",
@@ -20976,11 +20985,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Titanium_Bar.png",
     "station_ids": [
-      "112",
-      "adamantite_forge",
-      "merchant_buy"
+      "adamantite_forge"
     ],
-    "origin_info": "Forja de adamantita / titanio"
+    "origin_info": "Fabricado: Forja de adamantita/titanio (5 Mineral de titanio)"
   },
   {
     "id": "1199",
@@ -21494,9 +21501,9 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hallowed_Bar.png",
     "station_ids": [
-      "33",
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Jefes mecánicos"
   },
   {
     "id": "1226",
@@ -22043,7 +22050,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimtane_Bar.png",
     "station_ids": [
       "33"
-    ]
+    ],
+    "origin_info": "Fabricado: Horno (3 Mineral carmesí)"
   },
   {
     "id": "1258",
@@ -26122,7 +26130,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shroomite_Bar.png",
     "station_ids": [
-      "loot"
+      "1553"
     ],
     "origin_info": "Fabricado: Autoham (1 Lingote de clorofita + 15 Champiñones brillantes)"
   },
@@ -52106,10 +52114,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Bar.png",
     "station_ids": [
-      "33",
       "adamantite_forge"
     ],
-    "origin_info": "Forja de adamantita / titanio (Ectoplasma + Clorofita)"
+    "origin_info": "Fabricado: Forja de adamantita/titanio (2 Ectoplasma + 2 Lingote de clorofita)"
   },
   {
     "id": "3262",
@@ -54994,8 +55001,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Luminite_Bar.png",
     "station_ids": [
-      "33",
-      "ancient_manipulator"
+      "3467"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (4 Luminita)"
   },
@@ -83445,7 +83451,7 @@
     "id": "5327",
     "category": "Mechanisms",
     "name_en": "TNT Barrel",
-    "name_es": "TNT Lingoterel",
+    "name_es": "Barril de TNT",
     "wiki_url": "https://terraria.wiki.gg/wiki/TNT_Barrel",
     "recipes": [
       {
@@ -85675,7 +85681,7 @@
     "id": "5460",
     "category": "Weapons",
     "name_en": "Barrel Launcher",
-    "name_es": "Lingoterel Launcher",
+    "name_es": "Lanzabarriles",
     "wiki_url": "https://terraria.wiki.gg/wiki/Barrel_Launcher",
     "recipes": [],
     "station_ids": [
@@ -85707,7 +85713,7 @@
     "id": "5463",
     "category": "Weapons",
     "name_en": "Barnacle Staff",
-    "name_es": "Lingotenacle Staff",
+    "name_es": "Báculo de lapas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Barnacle_Staff",
     "recipes": [],
     "station_ids": [
@@ -86163,7 +86169,7 @@
     "id": "5508",
     "category": "Vanity Accessories",
     "name_en": "Grim Old Barb",
-    "name_es": "Grim Old Lingoteb",
+    "name_es": "Vieja púa sombría",
     "wiki_url": "https://terraria.wiki.gg/wiki/Grim_Old_Barb",
     "recipes": [],
     "station_ids": [

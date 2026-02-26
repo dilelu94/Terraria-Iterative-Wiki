@@ -50,8 +50,13 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
 
   // Filtrar estaciones según la regla: No mostrar "A mano" si no hay recetas o si hay otras fuentes
+  // También filtrar si la estación ya está mencionada en origin_info para evitar redundancia
   const itemStations = item.station_ids 
     ? stations.filter(s => {
+        if (item.origin_info?.toLowerCase().includes(s.display_name.toLowerCase())) {
+          return false;
+        }
+
         if (s.id === 'hand') {
           // Si no hay recetas propias, no tiene sentido decir "A mano"
           if (normalRecipes.length === 0) return false;
