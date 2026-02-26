@@ -69,8 +69,24 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
           </div>
         </div>
 
-        <div className="raw-materials-box">
-          <h3>{lang === 'es' ? 'Botín Principal (Drops)' : 'Main Drops'}</h3>
+        {boss.treasure_bag && (
+          <div className="recipe-box shimmer-recipe-box">
+            <h3>{lang === 'es' ? 'Bolsa de Tesoro (Experto)' : 'Treasure Bag (Expert)'}</h3>
+            <div className="ingredients-list">
+              <div className="ing-item no-hover">
+                <img 
+                  src={`https://terraria.wiki.gg/wiki/Special:FilePath/${boss.treasure_bag.item_name.replace(/ /g, '_')}.png`} 
+                  alt={boss.treasure_bag.item_name} 
+                  className="ing-icon" 
+                />
+                <span className="ing-name" style={{ color: 'var(--accent)' }}>{boss.treasure_bag.item_name}</span>
+              </div>
+            </div>
+          </div>
+        )}
+
+        <div className="raw-materials-box" style={{ gridColumn: boss.treasure_bag ? '1 / -1' : 'auto' }}>
+          <h3>{lang === 'es' ? 'Botín Principal (Normal)' : 'Main Drops (Normal)'}</h3>
           {boss.drops && boss.drops.length > 0 ? (
             <div className="ingredients-list">
               {boss.drops.map((dropName, idx) => {
@@ -94,6 +110,28 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
             </p>
           )}
         </div>
+
+        {boss.expert_drops && (
+          <div className="raw-materials-box" style={{ gridColumn: '1 / -1', borderTop: '1px solid rgba(255,215,0,0.3)' }}>
+            <h3 style={{ color: '#ffd700' }}>{lang === 'es' ? 'Botín de Modo Experto / Maestro' : 'Expert / Master Mode Drops'}</h3>
+            <div className="ingredients-list">
+              {boss.expert_drops.map((drop, idx) => {
+                const itemDetails = items.find(i => i.id === drop.item_id);
+                return (
+                  <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
+                    {itemDetails?.image_url ? (
+                      <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
+                    ) : (
+                      <div className="item-icon-placeholder tiny">📦</div>
+                    )}
+                    <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                    {itemDetails && <span className="can-craft">↗</span>}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

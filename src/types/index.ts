@@ -74,6 +74,8 @@ export interface Boss {
   drops: { item_name: string; item_id: string | null }[];
   image: string;
   wiki_url: string;
+  treasure_bag?: { item_id: string; item_name: string } | null;
+  expert_drops?: { item_id: string; item_name: string }[];
 }
 
 export interface EventBoss {
@@ -89,6 +91,8 @@ export interface EventBoss {
   damage: string;
   drops: string[];
   image: string;
+  treasure_bag?: { item_id: string; item_name: string } | null;
+  expert_drops?: { item_id: string; item_name: string }[];
 }
 
 export interface Mimic {
