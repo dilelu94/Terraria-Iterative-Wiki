@@ -2440,14 +2440,11 @@
     "station_ids": [
       "33"
     ],
-    "origin_info": "Fabricado: Horno (2 Piedras)",
-    "piece_defense": "1",
-    "total_defense": "3",
-    "is_armor": true
+    "origin_info": "Fabricado: Horno (2 Piedras)"
   },
   {
     "id": "130",
-    "category": "Walls/Wallpaper",
+    "category": "Walls",
     "name_en": "Gray Brick Wall",
     "name_es": "Pared de ladrillo gris",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gray_Brick_Wall",
@@ -2461,12 +2458,7 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Fabricado: Banco de trabajo",
-    "piece_defense": "1",
-    "total_defense": "3",
-    "is_armor": true,
-    "armor_set_es": "Armadura de ladrillo gris",
-    "armor_set_en": "Armor of ladrillo gris"
+    "origin_info": "Fabricado: Banco de trabajo"
   },
   {
     "id": "131",
@@ -2484,10 +2476,7 @@
     "station_ids": [
       "33"
     ],
-    "origin_info": "Fabricado: Horno (2 Arcilla)",
-    "piece_defense": "1",
-    "total_defense": "3",
-    "is_armor": true
+    "origin_info": "Fabricado: Horno (2 Arcilla)"
   },
   {
     "id": "132",
@@ -2507,7 +2496,7 @@
     "category": "Accessories",
     "name_en": "Shackle",
     "name_es": "Grilletes",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Shackle",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Clay_Block",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Clay_Block.png",
     "station_ids": [
