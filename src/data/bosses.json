@@ -803,15 +803,38 @@
       },
       {
         "item_name": "Tsunami",
-        "item_id": "2624"
+        "item_id": "2611",
+        "chance": "20%"
       },
       {
         "item_name": "Razorblade Typhoon",
-        "item_id": "2622"
+        "item_id": "2621",
+        "chance": "20%"
       },
       {
-        "item_name": "Shrimpy Truffle (Experto)",
-        "item_id": "2316"
+        "item_name": "Bubble Gun",
+        "item_id": "2622",
+        "chance": "20%"
+      },
+      {
+        "item_name": "Flairon",
+        "item_id": "2623",
+        "chance": "20%"
+      },
+      {
+        "item_name": "Tempest Staff",
+        "item_id": "2624",
+        "chance": "20%"
+      },
+      {
+        "item_name": "Duke Fishron Mask",
+        "item_id": "2625",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Duke Fishron Trophy",
+        "item_id": "2626",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Duke_Fishron.png",
@@ -902,11 +925,18 @@
     "drops": [
       {
         "item_name": "Ancient Manipulator",
-        "item_id": "3549"
+        "item_id": "3467",
+        "chance": "100%"
       },
       {
-        "item_name": "Ancient Light (Bolsa Experto)",
-        "item_id": null
+        "item_name": "Lunatic Cultist Mask",
+        "item_id": "3371",
+        "chance": "14.29%"
+      },
+      {
+        "item_name": "Lunatic Cultist Trophy",
+        "item_id": "3370",
+        "chance": "10%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunatic_Cultist.png",
@@ -914,7 +944,13 @@
     "biome_en": "Dungeon",
     "biome_es": "Mazmorra",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "3331",
+        "chance": "100% (Bolsa)"
+      }
+    ]
   },
   {
     "id": "396",

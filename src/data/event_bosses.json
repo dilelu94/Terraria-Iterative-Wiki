@@ -7,13 +7,30 @@
     "defense": "30",
     "damage": "60 / 120",
     "drops": [
-      "Cutlass",
-      "Coin Gun",
-      "Lucky Coin",
-      "Discount Card",
       {
+        "item_name": "The Black Spot",
         "item_id": "4951",
-        "chance": "25%"
+        "chance": "25% (Maestro)"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "903",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_name": "Coin Gun",
+        "item_id": "905",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "904",
+        "chance": "0.05% (Clásico) / 0.1% (Experto)"
+      },
+      {
+        "item_name": "Gold Ring",
+        "item_id": "2293",
+        "chance": "0.1% (Clásico) / 0.2% (Experto)"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Flying_Dutchman.png",
@@ -37,9 +54,26 @@
     "defense": "28",
     "damage": "120 / 240",
     "drops": [
-      "Spooky Twig",
-      "Stake Launcher",
-      "Necromantic Scroll"
+      {
+        "item_name": "Spooky Twig",
+        "item_id": "1729",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Cursed Sapling",
+        "item_id": "1831",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Stake Launcher",
+        "item_id": "1748",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Necromantic Scroll",
+        "item_id": "1156",
+        "chance": "5-20%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mourning_Wood.png",
     "biome_en": "Luna Calabaza",
@@ -55,9 +89,26 @@
     "defense": "36",
     "damage": "50 / 100",
     "drops": [
-      "The Horseman's Blade",
-      "Bat Scepter",
-      "Black Fairy Dust"
+      {
+        "item_name": "The Horseman's Blade",
+        "item_id": "1829",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Raven Staff",
+        "item_id": "1801",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Candy Corn Rifle",
+        "item_id": "1747",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Jack 'O Lantern Launcher",
+        "item_id": "1749",
+        "chance": "5-20%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Pumpking.png",
     "biome_en": "Luna Calabaza",
@@ -151,9 +202,26 @@
     "defense": "38",
     "damage": "120 / 240",
     "drops": [
-      "Snowman Cannon",
-      "Blizzard Staff",
-      "Baby Grinch's Mischief Whistle"
+      {
+        "item_name": "Blizzard Staff",
+        "item_id": "1571",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "North Pole",
+        "item_id": "1902",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Snowman Cannon",
+        "item_id": "1910",
+        "chance": "5-20%"
+      },
+      {
+        "item_name": "Baby Grinch's Mischief Whistle",
+        "item_id": "1912",
+        "chance": "5-20%"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Queen.png",
     "biome_en": "Luna Gélida",
@@ -170,67 +238,28 @@
     "damage": "100 / 200",
     "drops": [
       {
-        "0": "I",
-        "1": "n",
-        "2": "f",
-        "3": "l",
-        "4": "u",
-        "5": "x",
-        "6": " ",
-        "7": "W",
-        "8": "a",
-        "9": "v",
-        "10": "e",
-        "11": "r",
+        "item_name": "Cosmic Car Key",
+        "item_id": "2798",
         "chance": "11.11% (Clásico) / 16.67% (Experto)"
       },
       {
-        "0": "C",
-        "1": "o",
-        "2": "s",
-        "3": "m",
-        "4": "i",
-        "5": "c",
-        "6": " ",
-        "7": "C",
-        "8": "a",
-        "9": "r",
-        "10": " ",
-        "11": "K",
-        "12": "e",
-        "13": "y",
+        "item_name": "Xeno Staff",
+        "item_id": "2827",
         "chance": "11.11% (Clásico) / 16.67% (Experto)"
       },
       {
-        "0": "L",
-        "1": "a",
-        "2": "s",
-        "3": "e",
-        "4": "r",
-        "5": " ",
-        "6": "M",
-        "7": "a",
-        "8": "c",
-        "9": "h",
-        "10": "i",
-        "11": "n",
-        "12": "e",
-        "13": "g",
-        "14": "u",
-        "15": "n",
+        "item_name": "Laser Drill",
+        "item_id": "2797",
         "chance": "11.11% (Clásico) / 16.67% (Experto)"
       },
       {
-        "0": "X",
-        "1": "e",
-        "2": "n",
-        "3": "o",
-        "4": " ",
-        "5": "S",
-        "6": "t",
-        "7": "a",
-        "8": "f",
-        "9": "f",
+        "item_name": "Electrosphere Launcher",
+        "item_id": "2796",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "item_name": "Influx Waver",
+        "item_id": "2880",
         "chance": "11.11% (Clásico) / 16.67% (Experto)"
       }
     ],
@@ -353,12 +382,20 @@
     "defense": "30",
     "damage": "80 / 160",
     "drops": [
-      "Broken Hero Sword",
-      "Mothron Wings",
-      "The Eye of Cthulhu (Yoyo)",
       {
+        "item_name": "Broken Hero Sword",
+        "item_id": "1570",
+        "chance": "25% (Post-Plantera: 100%)"
+      },
+      {
+        "item_name": "Mothron Wings",
+        "item_id": "2854",
+        "chance": "5%"
+      },
+      {
+        "item_name": "Eye of Cthulhu (Yoyo)",
         "item_id": "1321",
-        "chance": "25%"
+        "chance": "25% (Clásico) / 33% (Experto)"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mothron.png",

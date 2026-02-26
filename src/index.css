@@ -805,3 +805,13 @@ body {
 
 
 
+
+.chance-pill {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  color: #aaa;
+  margin-left: auto;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
