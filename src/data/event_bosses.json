@@ -1,0 +1,269 @@
+[
+  {
+    "id": "491",
+    "name_en": "Flying Dutchman",
+    "name_es": "Holandés Volador",
+    "health": "8000 / 16000",
+    "defense": "30",
+    "damage": "60 / 120",
+    "drops": [
+      "Cutlass",
+      "Coin Gun",
+      "Lucky Coin",
+      "Discount Card"
+    ],
+    "image": "https://terraria.wiki.gg/images/Flying_Dutchman.png",
+    "biome_en": "Invasión Pirata",
+    "biome_es": "Pirate Invasion",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "297",
+    "name_en": "Mourning Wood",
+    "name_es": "Madera Lúgubre",
+    "health": "12000 / 15000",
+    "defense": "28",
+    "damage": "120 / 240",
+    "drops": [
+      "Spooky Twig",
+      "Stake Launcher",
+      "Necromantic Scroll"
+    ],
+    "image": "https://terraria.wiki.gg/images/Mourning_Wood.png",
+    "biome_en": "Luna Calabaza",
+    "biome_es": "Pumpkin Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "299",
+    "name_en": "Pumpking",
+    "name_es": "Rey Calabaza",
+    "health": "22000 / 26400",
+    "defense": "36",
+    "damage": "50 / 100",
+    "drops": [
+      "The Horseman's Blade",
+      "Bat Scepter",
+      "Black Fairy Dust"
+    ],
+    "image": "https://terraria.wiki.gg/images/Pumpking.png",
+    "biome_en": "Luna Calabaza",
+    "biome_es": "Pumpkin Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "325",
+    "name_en": "Everscream",
+    "name_es": "Gritoeterno",
+    "health": "13000 / 18200",
+    "defense": "38",
+    "damage": "110 / 220",
+    "drops": [
+      "Christmas Tree Sword",
+      "Razorpine",
+      "Festive Wings"
+    ],
+    "image": "https://terraria.wiki.gg/images/Everscream.png",
+    "biome_en": "Luna Gélida",
+    "biome_es": "Frost Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "344",
+    "name_en": "Santa-NK1",
+    "name_es": "Papá Noel-NK1",
+    "health": "18000 / 25200",
+    "defense": "56",
+    "damage": "120 / 240",
+    "drops": [
+      "Elf Melter",
+      "Chain Gun",
+      "Elf Missile"
+    ],
+    "image": "https://terraria.wiki.gg/images/Santa-NK1.png",
+    "biome_en": "Luna Gélida",
+    "biome_es": "Frost Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "345",
+    "name_en": "Ice Queen",
+    "name_es": "Reina de Hielo",
+    "health": "34000 / 44200",
+    "defense": "38",
+    "damage": "120 / 240",
+    "drops": [
+      "Snowman Cannon",
+      "Blizzard Staff",
+      "Baby Grinch's Mischief Whistle"
+    ],
+    "image": "https://terraria.wiki.gg/images/Ice_Queen.png",
+    "biome_en": "Luna Gélida",
+    "biome_es": "Frost Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "392",
+    "name_en": "Martian Saucer",
+    "name_es": "Platillo Marciano",
+    "health": "27000 / 36000",
+    "defense": "100",
+    "damage": "100 / 200",
+    "drops": [
+      "Influx Waver",
+      "Cosmic Car Key",
+      "Laser Machinegun",
+      "Xeno Staff"
+    ],
+    "image": "https://terraria.wiki.gg/images/Martian_Saucer.png",
+    "biome_en": "Locura Marciana",
+    "biome_es": "Martian Madness",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "551",
+    "name_en": "Dark Mage",
+    "name_es": "Mago Oscuro",
+    "health": "3000 / 9000",
+    "defense": "10",
+    "damage": "30 / 60",
+    "drops": [
+      "Dragon Egg",
+      "Tome of Infinite Wisdom"
+    ],
+    "image": "https://terraria.wiki.gg/images/Dark_Mage.png",
+    "biome_en": "Ejército del Antiguo",
+    "biome_es": "Old One's Army",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "576",
+    "name_en": "Ogre",
+    "name_es": "Ogro",
+    "health": "4000 / 12000",
+    "defense": "24",
+    "damage": "60 / 120",
+    "drops": [
+      "Huntress's Buckler",
+      "Sleepy Octopod",
+      "Tome of Infinite Wisdom"
+    ],
+    "image": "https://terraria.wiki.gg/images/Ogre.png",
+    "biome_en": "Ejército del Antiguo",
+    "biome_es": "Old One's Army",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "563",
+    "name_en": "Betsy",
+    "name_es": "Betsy",
+    "health": "50000 / 75000",
+    "defense": "38",
+    "damage": "100 / 200",
+    "drops": [
+      "Betsy's Wrath",
+      "Flying Dragon",
+      "Aerial Bane",
+      "Betsy's Wings (Experto)"
+    ],
+    "image": "https://terraria.wiki.gg/images/Betsy.png",
+    "biome_en": "Ejército del Antiguo",
+    "biome_es": "Old One's Army",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "618",
+    "name_en": "Dreadnautilus",
+    "name_es": "Dreadnautilus",
+    "health": "7000 / 14000",
+    "defense": "24",
+    "damage": "55 / 110",
+    "drops": [
+      "Sanguine Staff",
+      "Blood Moon Monolith"
+    ],
+    "image": "https://terraria.wiki.gg/images/Dreadnautilus.png",
+    "biome_en": "Luna de Sangre",
+    "biome_es": "Blood Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "471",
+    "name_en": "Mothron",
+    "name_es": "Polillrón",
+    "health": "5000 / 7500",
+    "defense": "30",
+    "damage": "80 / 160",
+    "drops": [
+      "Broken Hero Sword",
+      "Mothron Wings",
+      "The Eye of Cthulhu (Yoyo)"
+    ],
+    "image": "https://terraria.wiki.gg/images/Mothron.png",
+    "biome_en": "Eclipse Solar",
+    "biome_es": "Solar Eclipse",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "290",
+    "name_en": "Paladin",
+    "name_es": "Paladín",
+    "health": "5000 / 7500",
+    "defense": "50",
+    "damage": "100 / 200",
+    "drops": [
+      "Paladin's Hammer",
+      "Paladin's Shield"
+    ],
+    "image": "https://terraria.wiki.gg/images/Paladin.png",
+    "biome_en": "Dungeon",
+    "biome_es": "Mazmorra",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "243",
+    "name_en": "Ice Golem",
+    "name_es": "Gólem de Hielo",
+    "health": "4000 / 8000",
+    "defense": "32",
+    "damage": "55 / 110",
+    "drops": [
+      "Frost Core",
+      "Ice Feather"
+    ],
+    "image": "https://terraria.wiki.gg/images/Ice_Golem.png",
+    "biome_en": "Snow",
+    "biome_es": "Nieve",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "464",
+    "name_en": "Sand Elemental",
+    "name_es": "Elemental de Arena",
+    "health": "4500 / 9000",
+    "defense": "40",
+    "damage": "60 / 120",
+    "drops": [
+      "Forbidden Fragment"
+    ],
+    "image": "https://terraria.wiki.gg/images/Sand_Elemental.png",
+    "biome_en": "Desert",
+    "biome_es": "Desierto",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  }
+]

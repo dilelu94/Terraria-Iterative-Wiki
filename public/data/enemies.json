@@ -1,0 +1,6006 @@
+[
+  {
+    "id": "-65",
+    "name_en": "Skeleton (Variant 4)",
+    "name_es": "Esqueleto (Variante 4)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-64",
+    "name_en": "Skeleton (Variant 3)",
+    "name_es": "Esqueleto (Variante 3)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-63",
+    "name_en": "Skeleton (Variant 2)",
+    "name_es": "Esqueleto (Variante 2)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-62",
+    "name_en": "Skeleton (Extra Small)",
+    "name_es": "Esqueleto (Extra pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-61",
+    "name_en": "Skeleton (Extra Large)",
+    "name_es": "Esqueleto (Extra grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-60",
+    "name_en": "Skeleton (Large)",
+    "name_es": "Esqueleto (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-59",
+    "name_en": "Skeleton (Medium)",
+    "name_es": "Esqueleto (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-58",
+    "name_en": "Skeleton (Small)",
+    "name_es": "Esqueleto (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-57",
+    "name_en": "Pixie (Large)",
+    "name_es": "Hada (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Pixie.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-56",
+    "name_en": "Pixie (Medium)",
+    "name_es": "Hada (Mediana)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Pixie.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-55",
+    "name_en": "Pixie (Small)",
+    "name_es": "Hada (Pequeña)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Pixie.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-54",
+    "name_en": "Cave Bat (Extra Small)",
+    "name_es": "Murciélago de cueva (Extra pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Cave_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-53",
+    "name_en": "Hellbat (Extra Small)",
+    "name_es": "Murciélago infernal (Extra pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hellbat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-52",
+    "name_en": "Jungle Bat (Extra Small)",
+    "name_es": "Murciélago de selva (Extra pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Jungle_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-51",
+    "name_en": "Hardmode Corrupt Goldfish (Medium)",
+    "name_es": "Pez dorado corrupto difícil (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hardmode_Corrupt_Goldfish.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-50",
+    "name_en": "Hardmode Corrupt Goldfish (Small)",
+    "name_es": "Pez dorado corrupto difícil (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hardmode_Corrupt_Goldfish.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-49",
+    "name_en": "Hardmode Corrupt Bunny (Medium)",
+    "name_es": "Conejito corrupto difícil (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hardmode_Corrupt_Bunny.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-48",
+    "name_en": "Hardmode Corrupt Bunny (Small)",
+    "name_es": "Conejito corrupto difícil (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hardmode_Corrupt_Bunny.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-47",
+    "name_en": "Corrupt Goldfish (Medium)",
+    "name_es": "Pez dorado corrupto (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Goldfish.png",
+    "health": "55",
+    "damage": "",
+    "defense": "00",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-46",
+    "name_en": "Corrupt Goldfish (Small)",
+    "name_es": "Pez dorado corrupto (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Goldfish.png",
+    "health": "100",
+    "damage": "",
+    "defense": "6",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-45",
+    "name_en": "Corrupt Bunny (Medium)",
+    "name_es": "Conejito corrupto (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Bunny.png",
+    "health": "5",
+    "damage": "",
+    "defense": "0",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-44",
+    "name_en": "Corrupt Bunny (Small)",
+    "name_es": "Conejito corrupto (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Bunny.png",
+    "health": "70",
+    "damage": "",
+    "defense": "4",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-43",
+    "name_en": "Slimer (Large)",
+    "name_es": "Slimeador con alas (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimer.png",
+    "health": "60",
+    "damage": "",
+    "defense": "2020",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-42",
+    "name_en": "Slimer (Medium)",
+    "name_es": "Slimeador con alas (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimer.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-41",
+    "name_en": "Slimer (Small)",
+    "name_es": "Slimeador con alas (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimer.png",
+    "health": "60",
+    "damage": "",
+    "defense": "2020",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-40",
+    "name_en": "Slimeling (Large)",
+    "name_es": "Slimeador (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimeling.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-39",
+    "name_en": "Slimeling (Medium)",
+    "name_es": "Slimeador (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimeling.png",
+    "health": "90",
+    "damage": "",
+    "defense": "10",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-38",
+    "name_en": "Slimeling (Small)",
+    "name_es": "Slimeador (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimeling.png",
+    "health": "90",
+    "damage": "",
+    "defense": "10",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-37",
+    "name_en": "Green Slime (Large)",
+    "name_es": "Slime verde (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Green_Slime.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Surface",
+    "biome_en": "Surface",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-36",
+    "name_en": "Green Slime (Medium)",
+    "name_es": "Slime verde (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Green_Slime.png",
+    "health": "14",
+    "damage": "",
+    "defense": "0",
+    "biome_es": "Surface",
+    "biome_en": "Surface",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-35",
+    "name_en": "Green Slime (Small)",
+    "name_es": "Slime verde (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Green_Slime.png",
+    "health": "14",
+    "damage": "",
+    "defense": "0",
+    "biome_es": "Surface",
+    "biome_en": "Surface",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-34",
+    "name_en": "Pinky",
+    "name_es": "Pinky",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Pinky.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-33",
+    "name_en": "Eater of Souls (Extra Small)",
+    "name_es": "Devoraalmas (Extra pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Souls.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-32",
+    "name_en": "Eater of Souls (Extra Large)",
+    "name_es": "Devoraalmas (Extra grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Souls.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-31",
+    "name_en": "Blue Slime (Extra Large)",
+    "name_es": "Slime azul (Extra grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Blue_Slime.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-30",
+    "name_en": "Blue Slime (Large)",
+    "name_es": "Slime azul (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Blue_Slime.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-29",
+    "name_en": "Blue Slime (Medium)",
+    "name_es": "Slime azul (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Blue_Slime.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-28",
+    "name_en": "Blue Slime (Small)",
+    "name_es": "Slime azul (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Blue_Slime.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-27",
+    "name_en": "Eater of Worlds (Tail)",
+    "name_es": "Devoramundos (Cola)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Worlds.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-26",
+    "name_en": "Eater of Worlds (Body)",
+    "name_es": "Devoramundos (Cuerpo)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Worlds.png",
+    "health": "100501512019296",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-25",
+    "name_en": "Eater of Worlds (Head)",
+    "name_es": "Devoramundos (Cabeza)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Worlds.png",
+    "health": "100501512019296",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-24",
+    "name_en": "Giant Worm (Tail)",
+    "name_es": "Gusano gigante (Cola)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Giant_Worm.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-23",
+    "name_en": "Giant Worm (Body)",
+    "name_es": "Gusano gigante (Cuerpo)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Giant_Worm.png",
+    "health": "30",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-22",
+    "name_en": "Giant Worm (Head)",
+    "name_es": "Gusano gigante (Cabeza)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Giant_Worm.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-21",
+    "name_en": "Devourer (Tail)",
+    "name_es": "Devorador (Cola)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Devourer.png",
+    "health": "100",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-20",
+    "name_en": "Devourer (Body)",
+    "name_es": "Devorador (Cuerpo)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Devourer.png",
+    "health": "100",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-19",
+    "name_en": "Devourer (Head)",
+    "name_es": "Devorador (Cabeza)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Devourer.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-18",
+    "name_en": "Eater of Souls (Large)",
+    "name_es": "Devoraalmas (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Souls.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-17",
+    "name_en": "Eater of Souls (Medium)",
+    "name_es": "Devoraalmas (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Souls.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-16",
+    "name_en": "Eater of Souls (Small)",
+    "name_es": "Devoraalmas (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Souls.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-15",
+    "name_en": "Hellbat (Large)",
+    "name_es": "Murciélago infernal (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hellbat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-14",
+    "name_en": "Hellbat (Medium)",
+    "name_es": "Murciélago infernal (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hellbat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-13",
+    "name_en": "Hellbat (Small)",
+    "name_es": "Murciélago infernal (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hellbat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-12",
+    "name_en": "Jungle Bat (Large)",
+    "name_es": "Murciélago de selva (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Jungle_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-11",
+    "name_en": "Jungle Bat (Medium)",
+    "name_es": "Murciélago de selva (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Jungle_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-10",
+    "name_en": "Jungle Bat (Small)",
+    "name_es": "Murciélago de selva (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Jungle_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-9",
+    "name_en": "Cave Bat (Large)",
+    "name_es": "Murciélago de cueva (Grande)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Cave_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-8",
+    "name_en": "Cave Bat (Medium)",
+    "name_es": "Murciélago de cueva (Mediano)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Cave_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-7",
+    "name_en": "Cave Bat (Small)",
+    "name_es": "Murciélago de cueva (Pequeño)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Cave_Bat.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-6",
+    "name_en": "Hardmode Corrupt Goldfish",
+    "name_es": "Pez dorado corrupto (Difícil)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hardmode_Corrupt_Goldfish.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-5",
+    "name_en": "Hardmode Corrupt Bunny",
+    "name_es": "Conejito corrupto (Difícil)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Hardmode_Corrupt_Bunny.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-4",
+    "name_en": "Corrupt Goldfish",
+    "name_es": "Pez dorado corrupto",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Goldfish.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-3",
+    "name_en": "Corrupt Bunny",
+    "name_es": "Conejito corrupto",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Bunny.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-2",
+    "name_en": "Slimer (with wings)",
+    "name_es": "Slimeador (con alas)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimer.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "-1",
+    "name_en": "Slimer (without wings)",
+    "name_es": "Slimeador (sin alas)",
+    "category": "Variante",
+    "image": "https://terraria.wiki.gg/images/Slimer.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "1",
+    "name_en": "Blue Slime",
+    "name_es": "Slime azul",
+    "category": "Slime",
+    "image": "https://terraria.wiki.gg/images/Blue_Slime.png",
+    "health": "25/50›274›330/75›411›495",
+    "damage": "7/14›62›74/21›93›111",
+    "defense": "2/2›10›12",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Slime Staff",
+        "item_id": "1309",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name_en": "Demon Eye",
+    "name_es": "Ojo endemoniado",
+    "category": "Ojo volador",
+    "image": "https://terraria.wiki.gg/images/Demon_Eye.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Surface  +  Night",
+    "biome_en": "Surface  +  Night",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Stone Block",
+        "item_id": "3",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Feral Claws",
+        "item_id": "211",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name_en": "Zombie",
+    "name_es": "Zombi",
+    "category": "Zombi",
+    "image": "https://terraria.wiki.gg/images/Zombie.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Surface  +  Night",
+    "biome_en": "Surface  +  Night",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Shackle",
+        "item_id": "216",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Zombie Arm",
+        "item_id": "1304",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name_en": "Servant of Cthulhu",
+    "name_es": "Siervo de Cthulhu",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Servant_of_Cthulhu.png",
+    "health": "8/12/15",
+    "damage": "12/24/36",
+    "defense": "0",
+    "biome_es": "Espacio",
+    "biome_en": "Space",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Item 58",
+        "item_id": "58",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name_en": "Eater of Souls",
+    "name_es": "Devoraalmas",
+    "category": "Corrupción",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Souls.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Rotten Chunk",
+        "item_id": "68",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Magic Missile",
+        "item_id": "113",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name_en": "Devourer Head",
+    "name_es": "Devorador (Cabeza)",
+    "category": "Gusano / Corrupción",
+    "image": "https://terraria.wiki.gg/images/Devourer_Head.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Rotten Chunk",
+        "item_id": "68",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Magic Missile",
+        "item_id": "113",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name_en": "Devourer Body",
+    "name_es": "Devorador (Cuerpo)",
+    "category": "Gusano / Corrupción",
+    "image": "https://terraria.wiki.gg/images/Devourer_Body.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Rotten Chunk",
+        "item_id": "68",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Magic Missile",
+        "item_id": "113",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name_en": "Devourer Tail",
+    "name_es": "Devorador (Cola)",
+    "category": "Gusano / Corrupción",
+    "image": "https://terraria.wiki.gg/images/Devourer_Tail.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Rotten Chunk",
+        "item_id": "68",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Magic Missile",
+        "item_id": "113",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name_en": "Giant Worm Head",
+    "name_es": "Gusano gigante (Cabeza)",
+    "category": "Gusano / Subterráneo",
+    "image": "https://terraria.wiki.gg/images/Giant_Worm_Head.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Vertebra",
+        "item_id": "1330",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name_en": "Giant Worm Body",
+    "name_es": "Gusano gigante (Cuerpo)",
+    "category": "Gusano / Subterráneo",
+    "image": "https://terraria.wiki.gg/images/Giant_Worm_Body.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Vertebra",
+        "item_id": "1330",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name_en": "Giant Worm Tail",
+    "name_es": "Gusano gigante (Cola)",
+    "category": "Gusano / Subterráneo",
+    "image": "https://terraria.wiki.gg/images/Giant_Worm_Tail.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Vertebra",
+        "item_id": "1330",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name_en": "Eater of Worlds Body",
+    "name_es": "Devoramundos (Cuerpo)",
+    "category": "Jefe",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Worlds_Body.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Demonite Ore",
+        "item_id": "56",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Shadow Scale",
+        "item_id": "86",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name_en": "Eater of Worlds Tail",
+    "name_es": "Devoramundos (Cola)",
+    "category": "Jefe",
+    "image": "https://terraria.wiki.gg/images/Eater_of_Worlds_Tail.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Demonite Ore",
+        "item_id": "56",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Shadow Scale",
+        "item_id": "86",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name_en": "Mother Slime",
+    "name_es": "Madre Slime",
+    "category": "Slime",
+    "image": "https://terraria.wiki.gg/images/Mother_Slime.png",
+    "health": "90/180›198›396/270›297›594",
+    "damage": "20/40›36›72/60›54›108",
+    "defense": "7/7›7›14",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name_en": "Skeleton",
+    "name_es": "Esqueleto",
+    "category": "Subterráneo",
+    "image": "https://terraria.wiki.gg/images/Skeleton.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "The Axe",
+        "item_id": "1305",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name_en": "Meteor Head",
+    "name_es": "Cabeza de meteorito",
+    "category": "Meteorito",
+    "image": "https://terraria.wiki.gg/images/Meteor_Head.png",
+    "health": "26/52›56/78›84",
+    "damage": "40/80›72/120›108",
+    "defense": "6",
+    "biome_es": "Meteorite",
+    "biome_en": "Meteorite",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Meteorite",
+        "item_id": "116",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name_en": "Fire Imp",
+    "name_es": "Diablillo de fuego",
+    "category": "Inframundo",
+    "image": "https://terraria.wiki.gg/images/Fire_Imp.png",
+    "health": "70/140›154/210›231",
+    "damage": "30/60›54/90›81",
+    "defense": "16",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Obsidian Rose",
+        "item_id": "1323",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name_en": "Goblin Peon",
+    "name_es": "Peón duende",
+    "category": "Invasión Duende",
+    "image": "https://terraria.wiki.gg/images/Goblin_Peon.png",
+    "health": "60/120›264›396/180›396›594",
+    "damage": "12/24›42›64/36›63›96",
+    "defense": "4/4›8›12",
+    "biome_es": "Goblin Army",
+    "biome_en": "Goblin Army",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Harpoon",
+        "item_id": "160",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Depth Meter",
+        "item_id": "18",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name_en": "Goblin Thief",
+    "name_es": "Ladrón duende",
+    "category": "Invasión Duende",
+    "image": "https://terraria.wiki.gg/images/Goblin_Thief.png",
+    "health": "80/160›176›352/240›264›528",
+    "damage": "20/40›36›72/60›54›108",
+    "defense": "6/6›6›12",
+    "biome_es": "Goblin Army",
+    "biome_en": "Goblin Army",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Harpoon",
+        "item_id": "160",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Depth Meter",
+        "item_id": "18",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name_en": "Goblin Warrior",
+    "name_es": "Guerrero duende",
+    "category": "Invasión Duende",
+    "image": "https://terraria.wiki.gg/images/Goblin_Warrior.png",
+    "health": "110/220›242/330›363",
+    "damage": "25/50›44/75›66",
+    "defense": "8",
+    "biome_es": "Goblin Army",
+    "biome_en": "Goblin Army",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Harpoon",
+        "item_id": "160",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Depth Meter",
+        "item_id": "18",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name_en": "Goblin Sorcerer",
+    "name_es": "Hechicero duende",
+    "category": "Invasión Duende",
+    "image": "https://terraria.wiki.gg/images/Goblin_Sorcerer.png",
+    "health": "40/80›176›264/120›264›396",
+    "damage": "20/40›72›108/60›108›162",
+    "defense": "2/2›4›6",
+    "biome_es": "Goblin Army",
+    "biome_en": "Goblin Army",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Harpoon",
+        "item_id": "160",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Depth Meter",
+        "item_id": "18",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name_en": "Cursed Skull",
+    "name_es": "Calavera maldita",
+    "category": "Mazmorra",
+    "image": "https://terraria.wiki.gg/images/Cursed_Skull.png",
+    "health": "40/80›88/120›132",
+    "damage": "35/70›62/105›93",
+    "defense": "6",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Golden Key",
+        "item_id": "327",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name_en": "Skeletron Hand",
+    "name_es": "Esqueletrón (Mano)",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Skeletron_Hand.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "39",
+    "name_en": "Bone Serpent",
+    "name_es": "Serpiente huesuda",
+    "category": "Inframundo",
+    "image": "https://terraria.wiki.gg/images/Bone_Serpent_Head.png",
+    "health": "300/600/900",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Ichor",
+        "item_id": "1332",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Moon Lord Relic",
+        "item_id": "4938",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name_en": "Bone Serpent Body",
+    "name_es": "Serpiente huesuda (Cuerpo)",
+    "category": "Inframundo",
+    "image": "https://terraria.wiki.gg/images/Bone_Serpent_Body.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "41",
+    "name_en": "Bone Serpent Tail",
+    "name_es": "Serpiente huesuda (Cola)",
+    "category": "Inframundo",
+    "image": "https://terraria.wiki.gg/images/Bone_Serpent_Tail.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "42",
+    "name_en": "Hornet",
+    "name_es": "Avispón",
+    "category": "Selva",
+    "image": "https://terraria.wiki.gg/images/Hornet.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Stinger",
+        "item_id": "209",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name_en": "Man Eater",
+    "name_es": "Devorahombres",
+    "category": "Selva",
+    "image": "https://terraria.wiki.gg/images/Man_Eater.png",
+    "health": "110/220›242/330›363",
+    "damage": "34/68›60/102›90",
+    "defense": "10",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Vine",
+        "item_id": "210",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name_en": "Undead Miner",
+    "name_es": "Minero no muerto",
+    "category": "Subterráneo",
+    "image": "https://terraria.wiki.gg/images/Undead_Miner.png",
+    "health": "70/140›154›308/210›231›462",
+    "damage": "22/44›38›78/66›57›117",
+    "defense": "9/9›9›18",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Bomb",
+        "item_id": "166",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Mining Shirt",
+        "item_id": "410",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Mining Pants",
+        "item_id": "411",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Pearlstone Brick",
+        "item_id": "412",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name_en": "Tim",
+    "name_es": "Tim",
+    "category": "Minijefe",
+    "image": "https://terraria.wiki.gg/images/Tim.png",
+    "health": "200/400›440/600›660",
+    "damage": "20/40›36/60›54",
+    "defense": "4",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Wizard Hat",
+        "item_id": "238",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name_en": "Bunny",
+    "name_es": "Conejito",
+    "category": "Criatura",
+    "image": "https://terraria.wiki.gg/images/Bunny.png",
+    "health": "5",
+    "damage": "0",
+    "defense": "0",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Always",
+    "time_en": "Always",
+    "drops": [
+      {
+        "item_name": "Bunny Hood",
+        "item_id": "243",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name_en": "Corrupt Bunny",
+    "name_es": "Conejito corrupto",
+    "category": "Corrupción",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Bunny.png",
+    "health": "70/140›154›308/210›231›462",
+    "damage": "20/40›36›72/60›54›108",
+    "defense": "4/4›4›8",
+    "biome_es": "Blood Moon",
+    "biome_en": "Luna de Sangre",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Golden Shower",
+        "item_id": "1336",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name_en": "Harpy",
+    "name_es": "Arpía",
+    "category": "Cielo",
+    "image": "https://terraria.wiki.gg/images/Harpy.png",
+    "health": "100/200›220/300›330",
+    "damage": "25/50›44/75›66 (contact)306090 (Harpy Feather)",
+    "defense": "8",
+    "biome_es": "Espacio",
+    "biome_en": "Space",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Feather",
+        "item_id": "320",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Mushroom Spear",
+        "item_id": "756",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name_en": "Cave Bat",
+    "name_es": "Murciélago de cueva",
+    "category": "Murciélago",
+    "image": "https://terraria.wiki.gg/images/Cave_Bat.png",
+    "health": "16/32›140›176/48›210›264",
+    "damage": "13/26›92›116/39›138›174",
+    "defense": "2/2›8›10",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Ice Sickle",
+        "item_id": "1306",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name_en": "Jungle Bat",
+    "name_es": "Murciélago de selva",
+    "category": "Murciélago",
+    "image": "https://terraria.wiki.gg/images/Jungle_Bat.png",
+    "health": "34/68›148›224/102›222›336",
+    "damage": "20/40›72›108/60›108›162",
+    "defense": "4/4›8›12",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name_en": "Doctor Bones",
+    "name_es": "Doctor Bones",
+    "category": "Zombi Especial",
+    "image": "https://terraria.wiki.gg/images/Doctor_Bones.png",
+    "health": "500/1000/1500",
+    "damage": "20/40/60",
+    "defense": "10",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Archaeologist's Hat",
+        "item_id": "251",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name_en": "The Groom",
+    "name_es": "El Novio",
+    "category": "Zombi Especial",
+    "image": "https://terraria.wiki.gg/images/The_Groom.png",
+    "health": "200/400›440/600›660",
+    "damage": "14/28›24/42›36",
+    "defense": "8",
+    "biome_es": "Graveyard",
+    "biome_en": "Graveyard",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Top Hat",
+        "item_id": "239",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Skull",
+        "item_id": "1274",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name_en": "Goldfish",
+    "name_es": "Pez dorado",
+    "category": "Criatura",
+    "image": "https://terraria.wiki.gg/images/Goldfish.png",
+    "health": "5",
+    "damage": "0",
+    "defense": "0",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Always",
+    "time_en": "Always",
+    "drops": []
+  },
+  {
+    "id": "56",
+    "name_en": "Snatcher",
+    "name_es": "Arrancador",
+    "category": "Selva",
+    "image": "https://terraria.wiki.gg/images/Snatcher.png",
+    "health": "60",
+    "damage": "25",
+    "defense": "10",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Vine",
+        "item_id": "210",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name_en": "Corrupt Goldfish",
+    "name_es": "Pez dorado corrupto",
+    "category": "Corrupción",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Goldfish.png",
+    "health": "100/200›220/300›330",
+    "damage": "30/60›54/90›81",
+    "defense": "6",
+    "biome_es": "Corrupción",
+    "biome_en": "Corruption",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Golden Shower",
+        "item_id": "1336",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name_en": "Piranha",
+    "name_es": "Piraña",
+    "category": "Acuático",
+    "image": "https://terraria.wiki.gg/images/Piranha.png",
+    "health": "30/60›132/90›198",
+    "damage": "25/50›90/75›135",
+    "defense": "2/2›4",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name_en": "Lava Slime",
+    "name_es": "Slime de lava",
+    "category": "Slime / Inframundo",
+    "image": "https://terraria.wiki.gg/images/Lava_Slime.png",
+    "health": "50/100›220/150›330",
+    "damage": "15/30›54/45›81",
+    "defense": "10/10›20",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "name_en": "Hellbat",
+    "name_es": "Murciélago infernal",
+    "category": "Murciélago",
+    "image": "https://terraria.wiki.gg/images/Hellbat.png",
+    "health": "46/92›100/138›150",
+    "damage": "35/70›62/105›93",
+    "defense": "8",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Ichor Arrow",
+        "item_id": "1334",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name_en": "Vulture",
+    "name_es": "Buitre",
+    "category": "Desierto",
+    "image": "https://terraria.wiki.gg/images/Vulture.png",
+    "health": "40/80›176›264/120›264›396",
+    "damage": "15/30›54›80/45›81›120",
+    "defense": "4/4›8›12",
+    "biome_es": "Desierto",
+    "biome_en": "Desert",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "62",
+    "name_en": "Demon",
+    "name_es": "Demonio",
+    "category": "Inframundo",
+    "image": "https://terraria.wiki.gg/images/Demon.png",
+    "health": "120/240›264/360›396",
+    "damage": "32/64›56/96›84 (contact)4284126 (Demon Sickle)",
+    "defense": "8",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Dark Lance",
+        "item_id": "274",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Ichor Bullet",
+        "item_id": "1335",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "name_en": "Blue Jellyfish",
+    "name_es": "Medusa azul",
+    "category": "Acuático",
+    "image": "https://terraria.wiki.gg/images/Blue_Jellyfish.png",
+    "health": "34/68›148/102›22270/140›154/210›231120/240/360150/300/450140/280/420",
+    "damage": "25/50›90/75›13530/60›54/90›8180/160/24075/150/22590/180/270",
+    "defense": "4/4›86302020",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Sticky Bomb",
+        "item_id": "235",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Berserker's Glove",
+        "item_id": "3992",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "name_en": "Pink Jellyfish",
+    "name_es": "Medusa rosa",
+    "category": "Acuático",
+    "image": "https://terraria.wiki.gg/images/Pink_Jellyfish.png",
+    "health": "34/68›148/102›22270/140›154/210›231120/240/360150/300/450140/280/420",
+    "damage": "25/50›90/75›13530/60›54/90›8180/160/24075/150/22590/180/270",
+    "defense": "4/4›86302020",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Sticky Bomb",
+        "item_id": "235",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Fairy Boots",
+        "item_id": "3993",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name_en": "Shark",
+    "name_es": "Tiburón",
+    "category": "Acuático",
+    "image": "https://terraria.wiki.gg/images/Shark.png",
+    "health": "300/600/900",
+    "damage": "40/80/120",
+    "defense": "2",
+    "biome_es": "Océano",
+    "biome_en": "Ocean",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Deathweed",
+        "item_id": "316",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Diving Helmet",
+        "item_id": "268",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Crimson Rod",
+        "item_id": "1256",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "name_en": "Voodoo Demon",
+    "name_es": "Demonio vudú",
+    "category": "Inframundo",
+    "image": "https://terraria.wiki.gg/images/Voodoo_Demon.png",
+    "health": "140/280›308/420›462",
+    "damage": "32/64›56/96›84 (contact)4284126 (Demon Sickle)",
+    "defense": "8",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Guide Voodoo Doll",
+        "item_id": "267",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Dark Lance",
+        "item_id": "274",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Ichor Bullet",
+        "item_id": "1335",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name_en": "Crab",
+    "name_es": "Cangrejo",
+    "category": "Acuático",
+    "image": "https://terraria.wiki.gg/images/Crab.png",
+    "health": "40/80›176/120›264",
+    "damage": "20/40›72/60›108",
+    "defense": "10/10›20",
+    "biome_es": "Océano",
+    "biome_en": "Ocean",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Ichor Torch",
+        "item_id": "1333",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "name_en": "Dungeon Guardian",
+    "name_es": "Guardián de la mazmorra",
+    "category": "Jefe Especial",
+    "image": "https://terraria.wiki.gg/images/Dungeon_Guardian.png",
+    "health": "9999/19998/29997",
+    "damage": "9999",
+    "defense": "9999",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lihzahrd Guardian Statue",
+        "item_id": "1154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "name_en": "Antlion",
+    "name_es": "Hormiga león",
+    "category": "Desierto",
+    "image": "https://terraria.wiki.gg/images/Antlion.png",
+    "health": "45/90›198›296/135›297›444",
+    "damage": "10/20›36›54/30›54›81",
+    "defense": "6/6›12›18",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Sand Block",
+        "item_id": "169",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Marble Bathtub",
+        "item_id": "3160",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name_en": "Spike Ball",
+    "name_es": "Bola de pinchos",
+    "category": "Mazmorra (Trampa)",
+    "image": "https://terraria.wiki.gg/images/Spike_Ball.png",
+    "health": "100",
+    "damage": "32",
+    "defense": "100",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "71",
+    "name_en": "Dungeon Slime",
+    "name_es": "Slime de la mazmorra",
+    "category": "Slime",
+    "image": "https://terraria.wiki.gg/images/Dungeon_Slime.png",
+    "health": "150/300›330/450›495",
+    "damage": "30/60›54/90›81",
+    "defense": "7",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Golden Key",
+        "item_id": "327",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name_en": "Blazing Wheel",
+    "name_es": "Rueda de fuego",
+    "category": "Mazmorra (Trampa)",
+    "image": "https://terraria.wiki.gg/images/Blazing_Wheel.png",
+    "health": "100",
+    "damage": "24",
+    "defense": "100",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "73",
+    "name_en": "Goblin Scout",
+    "name_es": "Explorador duende",
+    "category": "Duende",
+    "image": "https://terraria.wiki.gg/images/Goblin_Scout.png",
+    "health": "80/160›176›352/240›264›528",
+    "damage": "20/40›36›72/60›54›108",
+    "defense": "6/6›6›12",
+    "biome_es": "Bosque",
+    "biome_en": "Forest",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Spiky Ball",
+        "item_id": "161",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name_en": "Bird",
+    "name_es": "Pájaro",
+    "category": "Criatura",
+    "image": "https://terraria.wiki.gg/images/Bird.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Always",
+    "time_en": "Always",
+    "drops": []
+  },
+  {
+    "id": "75",
+    "name_en": "Pixie",
+    "name_es": "Hada",
+    "category": "Bendición",
+    "image": "https://terraria.wiki.gg/images/Pixie.png",
+    "health": "150",
+    "damage": "55",
+    "defense": "20",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Dark Shard",
+        "item_id": "527",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Light Shard",
+        "item_id": "528",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Poison Staff",
+        "item_id": "1308",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name_en": "Armored Skeleton",
+    "name_es": "Esqueleto con armadura",
+    "category": "Cavernas / Difícil",
+    "image": "https://terraria.wiki.gg/images/Armored_Skeleton.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "name_en": "Mummy",
+    "name_es": "Momia",
+    "category": "Desierto",
+    "image": "https://terraria.wiki.gg/images/Mummy.png",
+    "health": "130/260›286/390›429180/360/540180/360/540200/400/600",
+    "damage": "50/100›90/150›13560/120/18060/120/18055/110/165",
+    "defense": "16181818",
+    "biome_es": "Desierto",
+    "biome_en": "Desert",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Chain Knife",
+        "item_id": "1325",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name_en": "Dark Mummy",
+    "name_es": "Momia oscura",
+    "category": "Desierto Corrupto",
+    "image": "https://terraria.wiki.gg/images/Dark_Mummy.png",
+    "health": "130/260›286/390›429180/360/540180/360/540200/400/600",
+    "damage": "50/100›90/150›13560/120/18060/120/18055/110/165",
+    "defense": "16181818",
+    "biome_es": "Desierto",
+    "biome_en": "Desert",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Night",
+        "item_id": "521",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Chain Knife",
+        "item_id": "1325",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "name_en": "Light Mummy",
+    "name_es": "Momia luminosa",
+    "category": "Desierto Bendito",
+    "image": "https://terraria.wiki.gg/images/Light_Mummy.png",
+    "health": "130/260›286/390›429180/360/540180/360/540200/400/600",
+    "damage": "50/100›90/150›13560/120/18060/120/18055/110/165",
+    "defense": "16181818",
+    "biome_es": "Desierto",
+    "biome_en": "Desert",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Chain Knife",
+        "item_id": "1325",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Dark Shard",
+        "item_id": "527",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Light Shard",
+        "item_id": "528",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name_en": "Corrupt Slime",
+    "name_es": "Slime corrupto",
+    "category": "Slime / Corrupción",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Slime.png",
+    "health": "170/340/510",
+    "damage": "55/110/165",
+    "defense": "20",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "name_en": "Wraith",
+    "name_es": "Espectro",
+    "category": "No Muerto / Difícil",
+    "image": "https://terraria.wiki.gg/images/Wraith.png",
+    "health": "160/320/480",
+    "damage": "65/130/195",
+    "defense": "16",
+    "biome_es": "Surface  +  Night",
+    "biome_en": "Surface  +  Night",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Dark Shard",
+        "item_id": "527",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Light Shard",
+        "item_id": "528",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name_en": "Cursed Hammer",
+    "name_es": "Martillo maldito",
+    "category": "Arma Encantada",
+    "image": "https://terraria.wiki.gg/images/Cursed_Hammer.png",
+    "health": "200/400/600",
+    "damage": "80/160/240",
+    "defense": "18",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name_en": "Enchanted Sword",
+    "name_es": "Espada encantada",
+    "category": "Arma Encantada",
+    "image": "https://terraria.wiki.gg/images/Enchanted_Sword.png",
+    "health": "200/400/600",
+    "damage": "80/160/240",
+    "defense": "18",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "name_en": "Unicorn",
+    "name_es": "Unicornio",
+    "category": "Bendición",
+    "image": "https://terraria.wiki.gg/images/Unicorn.png",
+    "health": "400/800/1200",
+    "damage": "65/130/195",
+    "defense": "30",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Poison Staff",
+        "item_id": "1308",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Treasure Bag (Plantera)",
+        "item_id": "3328",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name_en": "Wyvern",
+    "name_es": "Guiverno",
+    "category": "Minijefe / Cielo",
+    "image": "https://terraria.wiki.gg/images/Wyvern_Head.png",
+    "health": "4000/8000/12000",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Espacio",
+    "biome_en": "Space",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Flight",
+        "item_id": "575",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "name_en": "Wyvern Legs",
+    "name_es": "Guiverno (Piernas)",
+    "category": "Minijefe / Cielo",
+    "image": "https://terraria.wiki.gg/images/Wyvern_Legs.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Espacio",
+    "biome_en": "Space",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "89",
+    "name_en": "Wyvern Body",
+    "name_es": "Guiverno (Cuerpo)",
+    "category": "Minijefe / Cielo",
+    "image": "https://terraria.wiki.gg/images/Wyvern_Body.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Espacio",
+    "biome_en": "Space",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "92",
+    "name_en": "Wyvern Tail",
+    "name_es": "Guiverno (Cola)",
+    "category": "Minijefe / Cielo",
+    "image": "https://terraria.wiki.gg/images/Wyvern_Tail.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Espacio",
+    "biome_en": "Space",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "93",
+    "name_en": "Giant Bat",
+    "name_es": "Murciélago gigante",
+    "category": "Murciélago / Difícil",
+    "image": "https://terraria.wiki.gg/images/Giant_Bat.png",
+    "health": "100/200›220/300›330",
+    "damage": "45/90›80/135›120",
+    "defense": "16",
+    "biome_es": "Cavernas",
+    "biome_en": "Cavern",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "name_en": "Corruptor",
+    "name_es": "Corruptor",
+    "category": "Corrupción",
+    "image": "https://terraria.wiki.gg/images/Corruptor.png",
+    "health": "230/460/690",
+    "damage": "60/120/180",
+    "defense": "32",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name_en": "Digger",
+    "name_es": "Excavador",
+    "category": "Gusano / Difícil",
+    "image": "https://terraria.wiki.gg/images/Digger_Head.png",
+    "health": "200/400/600",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "98",
+    "name_en": "World Feeder",
+    "name_es": "Alimentamundos",
+    "category": "Gusano / Corrupción",
+    "image": "https://terraria.wiki.gg/images/World_Feeder_Head.png",
+    "health": "500/1000/1500",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name_en": "Clinger",
+    "name_es": "Aferrador",
+    "category": "Corrupción",
+    "image": "https://terraria.wiki.gg/images/Clinger.png",
+    "health": "320/640/960",
+    "damage": "70/140/210 (contact)4468102 (Cursed Flame)",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name_en": "Angler Fish",
+    "name_es": "Rape",
+    "category": "Acuático / Difícil",
+    "image": "https://terraria.wiki.gg/images/Angler_Fish.png",
+    "health": "90/180/270",
+    "damage": "80/160/240",
+    "defense": "22",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name_en": "Green Jellyfish",
+    "name_es": "Medusa verde",
+    "category": "Acuático / Difícil",
+    "image": "https://terraria.wiki.gg/images/Green_Jellyfish.png",
+    "health": "34/68›148/102›22270/140›154/210›231120/240/360150/300/450140/280/420",
+    "damage": "25/50›90/75›13530/60›54/90›8180/160/24075/150/22590/180/270",
+    "defense": "4/4›86302020",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Sticky Bomb",
+        "item_id": "235",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Frog Flipper",
+        "item_id": "3994",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name_en": "Werewolf",
+    "name_es": "Hombre lobo",
+    "category": "Luna Llena",
+    "image": "https://terraria.wiki.gg/images/Werewolf.png",
+    "health": "350/700/1050",
+    "damage": "70/140/210",
+    "defense": "38",
+    "biome_es": "Surface  +  Night  +  Full Moon",
+    "biome_en": "Surface  +  Night  +  Full Moon",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Moon Charm",
+        "item_id": "485",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Mummy Mask",
+        "item_id": "870",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name_en": "Bound Goblin",
+    "name_es": "Duende atado",
+    "category": "PNJ Rescatable",
+    "image": "https://terraria.wiki.gg/images/Bound_Goblin.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "106",
+    "name_en": "Bound Wizard",
+    "name_es": "Mago atado",
+    "category": "PNJ Rescatable",
+    "image": "https://terraria.wiki.gg/images/Bound_Wizard.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "109",
+    "name_en": "Clown",
+    "name_es": "Payaso",
+    "category": "Luna de Sangre",
+    "image": "https://terraria.wiki.gg/images/Clown.png",
+    "health": "800/1600/2400",
+    "damage": "60/120/180 (contact)120240360 (Happy Bomb)",
+    "defense": "25",
+    "biome_es": "Blood Moon",
+    "biome_en": "Luna de Sangre",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Turtle Shell",
+        "item_id": "1328",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hardened Sand Block",
+        "item_id": "3272",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name_en": "Skeleton Archer",
+    "name_es": "Arquero esqueleto",
+    "category": "Cavernas / Difícil",
+    "image": "https://terraria.wiki.gg/images/Skeleton_Archer.png",
+    "health": "210/420/630",
+    "damage": "45/90/135 (contact)70140210 (Flaming Arrow)",
+    "defense": "14",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Marrow",
+        "item_id": "682",
+        "chance": "0.5%"
+      },
+      {
+        "item_name": "Magic Quiver",
+        "item_id": "1321",
+        "chance": "2.5%"
+      },
+      {
+        "item_name": "Skeleton Archer Banner",
+        "item_id": "2973",
+        "chance": "0.5%"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name_en": "Goblin Archer",
+    "name_es": "Arquero duende",
+    "category": "Invasión Duende",
+    "image": "https://terraria.wiki.gg/images/Goblin_Archer.png",
+    "health": "80/160›176›352/240›264›528",
+    "damage": "20/40›36›72/60›54›108 (contact)224466 (Wooden Arrow)",
+    "defense": "6/6›6›12",
+    "biome_es": "Goblin Army",
+    "biome_en": "Goblin Army",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Harpoon",
+        "item_id": "160",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Depth Meter",
+        "item_id": "18",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name_en": "Wall of Flesh Eye",
+    "name_es": "Muro de carne (Ojo)",
+    "category": "Jefe",
+    "image": "https://terraria.wiki.gg/images/Wall_of_Flesh_Eye.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "115",
+    "name_en": "The Hungry",
+    "name_es": "El Hambriento",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/The_Hungry.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "117",
+    "name_en": "Leech Head",
+    "name_es": "Sanguijuela (Cabeza)",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Leech_Head.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Item 58",
+        "item_id": "58",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name_en": "Chaos Elemental",
+    "name_es": "Elemental del caos",
+    "category": "Bendición Subterránea",
+    "image": "https://terraria.wiki.gg/images/Chaos_Elemental.png",
+    "health": "370/740/1110",
+    "damage": "40/80/120",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Rod of Discord",
+        "item_id": "1326",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Dark Shard",
+        "item_id": "527",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Light Shard",
+        "item_id": "528",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name_en": "Slimer",
+    "name_es": "Slimeador",
+    "category": "Slime / Corrupción",
+    "image": "https://terraria.wiki.gg/images/Slimer.png",
+    "health": "60/120›132/180›19890/180›198/270›297",
+    "damage": "45/90›80/135›12045/90›80/135›120",
+    "defense": "2020",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name_en": "Gastropod",
+    "name_es": "Gasterópodo",
+    "category": "Bendición",
+    "image": "https://terraria.wiki.gg/images/Gastropod.png",
+    "health": "220/440/660",
+    "damage": "60/120/180 (contact)50100150 (Pink Laser)",
+    "defense": "22",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Dark Shard",
+        "item_id": "527",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Light Shard",
+        "item_id": "528",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Poison Staff",
+        "item_id": "1308",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name_en": "Bound Mechanic",
+    "name_es": "Mecánica atada",
+    "category": "PNJ Rescatable",
+    "image": "https://terraria.wiki.gg/images/Bound_Mechanic.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "128",
+    "name_en": "Prime Cannon",
+    "name_es": "Prime (Cañón)",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Prime_Cannon.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "129",
+    "name_en": "Prime Saw",
+    "name_es": "Prime (Sierra)",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Prime_Saw.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "130",
+    "name_en": "Prime Vice",
+    "name_es": "Prime (Tornillo)",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Prime_Vice.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "131",
+    "name_en": "Prime Laser",
+    "name_es": "Prime (Láser)",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Prime_Laser.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "132",
+    "name_en": "Bald Zombie",
+    "name_es": "Zombi calvo",
+    "category": "Zombi",
+    "image": "https://terraria.wiki.gg/images/Bald_Zombie.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Shackle",
+        "item_id": "216",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Zombie Arm",
+        "item_id": "1304",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name_en": "Wandering Eye",
+    "name_es": "Ojo errante",
+    "category": "Ojo volador",
+    "image": "https://terraria.wiki.gg/images/Wandering_Eye.png",
+    "health": "300",
+    "damage": "40",
+    "defense": "20",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Stone Block",
+        "item_id": "3",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Feral Claws",
+        "item_id": "211",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name_en": "The Destroyer Body",
+    "name_es": "El Destructor (Cuerpo)",
+    "category": "Jefe",
+    "image": "https://terraria.wiki.gg/images/The_Destroyer_Body.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "136",
+    "name_en": "The Destroyer Tail",
+    "name_es": "El Destructor (Cola)",
+    "category": "Jefe",
+    "image": "https://terraria.wiki.gg/images/The_Destroyer_Tail.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "137",
+    "name_en": "Illuminant Bat",
+    "name_es": "Murciélago iluminante",
+    "category": "Murciélago / Bendición",
+    "image": "https://terraria.wiki.gg/images/Illuminant_Bat.png",
+    "health": "200/400/600",
+    "damage": "75/150/225",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name_en": "Illuminant Slime",
+    "name_es": "Slime iluminante",
+    "category": "Slime / Bendición",
+    "image": "https://terraria.wiki.gg/images/Illuminant_Slime.png",
+    "health": "180/360/540",
+    "damage": "70/140/210",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Soul of Light",
+        "item_id": "520",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "name_en": "Probe",
+    "name_es": "Sonda",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Probe.png",
+    "health": "200",
+    "damage": "50",
+    "defense": "20",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Item 58",
+        "item_id": "58",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name_en": "Possessed Armor",
+    "name_es": "Armadura poseída",
+    "category": "No Muerto / Difícil",
+    "image": "https://terraria.wiki.gg/images/Possessed_Armor.png",
+    "health": "260/520/780",
+    "damage": "55/110/165",
+    "defense": "28",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "name_en": "Toxic Sludge",
+    "name_es": "Fango tóxico",
+    "category": "Slime / Difícil",
+    "image": "https://terraria.wiki.gg/images/Toxic_Sludge.png",
+    "health": "150/300/450",
+    "damage": "50/100/150",
+    "defense": "18",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Cursed Flame",
+        "item_id": "522",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Unicorn Horn",
+        "item_id": "526",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name_en": "Snowman Gangsta",
+    "name_es": "Muñeco de nieve mafioso",
+    "category": "Legión de Escarcha",
+    "image": "https://terraria.wiki.gg/images/Snowman_Gangsta.png",
+    "health": "200/400/600",
+    "damage": "50/100/150",
+    "defense": "20",
+    "biome_es": "Frost Legion",
+    "biome_en": "Frost Legion",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Snow Globe",
+        "item_id": "602",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name_en": "Mister Stabby",
+    "name_es": "Señor Apuñalador",
+    "category": "Legión de Escarcha",
+    "image": "https://terraria.wiki.gg/images/Mister_Stabby.png",
+    "health": "240/480/720",
+    "damage": "65/130/195",
+    "defense": "26",
+    "biome_es": "Frost Legion",
+    "biome_en": "Frost Legion",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Snow Globe",
+        "item_id": "602",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "name_en": "Snow Balla",
+    "name_es": "Lanzanieves",
+    "category": "Legión de Escarcha",
+    "image": "https://terraria.wiki.gg/images/Snow_Balla.png",
+    "health": "220/440/660",
+    "damage": "55/110/165 (contact)70140210 (Snow Ball)",
+    "defense": "22",
+    "biome_es": "Frost Legion",
+    "biome_en": "Frost Legion",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Snow Globe",
+        "item_id": "602",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "name_en": "Ice Slime",
+    "name_es": "Slime de hielo",
+    "category": "Slime / Nieve",
+    "image": "https://terraria.wiki.gg/images/Ice_Slime.png",
+    "health": "30/60›264›330/90›396›495",
+    "damage": "8/16›56›72/24›84›108",
+    "defense": "4/4›16›20",
+    "biome_es": "Nieve",
+    "biome_en": "Snow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tin Chainmail",
+        "item_id": "688",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "name_en": "Penguin",
+    "name_es": "Pingüino",
+    "category": "Criatura",
+    "image": "https://terraria.wiki.gg/images/Penguin.png",
+    "health": "5",
+    "damage": "0",
+    "defense": "0",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Always",
+    "time_en": "Always",
+    "drops": []
+  },
+  {
+    "id": "150",
+    "name_en": "Ice Bat",
+    "name_es": "Murciélago de hielo",
+    "category": "Murciélago / Nieve",
+    "image": "https://terraria.wiki.gg/images/Murciélago_de_hielo.png",
+    "health": "30/60›132›198/90›198›297",
+    "damage": "18/36›64›96/54›96›144",
+    "defense": "6/6›12›18",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "name_en": "Giant Tortoise",
+    "name_es": "Tortuga gigante",
+    "category": "Selva / Difícil",
+    "image": "https://terraria.wiki.gg/images/Giant_Tortoise.png",
+    "health": "470/940/1410",
+    "damage": "80/160/240 / 160288432 (while spinning)",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Chlorophyte Bar",
+        "item_id": "1006",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "name_en": "Ice Tortoise",
+    "name_es": "Tortuga de hielo",
+    "category": "Nieve / Difícil",
+    "image": "https://terraria.wiki.gg/images/Ice_Tortoise.png",
+    "health": "400/800/1200",
+    "damage": "55/110/165 / 110198297 (while spinning)",
+    "defense": "28",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "155",
+    "name_en": "Wolf",
+    "name_es": "Lobo",
+    "category": "Nieve / Difícil",
+    "image": "https://terraria.wiki.gg/images/Wolf.png",
+    "health": "300/600/900",
+    "damage": "65/130/195",
+    "defense": "30",
+    "biome_es": "Nieve",
+    "biome_en": "Snow",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Crimson Rod",
+        "item_id": "1256",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "name_en": "Red Devil",
+    "name_es": "Diablo rojo",
+    "category": "Inframundo / Difícil",
+    "image": "https://terraria.wiki.gg/images/Red_Devil.png",
+    "health": "600/1200/1800",
+    "damage": "50/100/150 (contact) 160320480 (Unholy Trident)",
+    "defense": "40",
+    "biome_es": "Inframundo",
+    "biome_en": "Underworld",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Ichor Bullet",
+        "item_id": "1335",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Crimtane Bar",
+        "item_id": "1257",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "name_en": "Arapaima",
+    "name_es": "Arapaima",
+    "category": "Acuático / Difícil",
+    "image": "https://terraria.wiki.gg/images/Arapaima.png",
+    "health": "200/400/600",
+    "damage": "75/150/225",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "name_en": "Vampire Bat",
+    "name_es": "Murciélago vampiro",
+    "category": "Eclipse Solar",
+    "image": "https://terraria.wiki.gg/images/Vampire_Bat.png",
+    "health": "750/1500/2250750/1500/2250",
+    "damage": "60/120/18080/160/240",
+    "defense": "3224",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "name_en": "Vampire",
+    "name_es": "Vampiro",
+    "category": "Eclipse Solar",
+    "image": "https://terraria.wiki.gg/images/Vampire.png",
+    "health": "750/1500/2250750/1500/2250",
+    "damage": "60/120/18080/160/240",
+    "defense": "3224",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "name_en": "Frozen Zombie",
+    "name_es": "Zombi congelado",
+    "category": "Nieve",
+    "image": "https://terraria.wiki.gg/images/Frozen_Zombie.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Nieve",
+    "biome_en": "Snow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Zombie Arm",
+        "item_id": "1304",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "name_en": "Frankenstein",
+    "name_es": "Frankenstein",
+    "category": "Eclipse Solar",
+    "image": "https://terraria.wiki.gg/images/Frankenstein.png",
+    "health": "350/700/1050",
+    "damage": "65/130/195",
+    "defense": "18",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "name_en": "Black Recluse",
+    "name_es": "Reclusa negra",
+    "category": "Nido de Arañas / Difícil",
+    "image": "https://terraria.wiki.gg/images/Black_Recluse.png",
+    "health": "350/700/1050",
+    "damage": "90/180/270 (ground)100/200/300 (on wall)36 (Web Spit)",
+    "defense": "40",
+    "biome_es": "Spider Nest",
+    "biome_en": "Spider Nest",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Super Dart Trap",
+        "item_id": "1146",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "name_en": "Wall Creeper",
+    "name_es": "Trepadora de muros",
+    "category": "Nido de Arañas",
+    "image": "https://terraria.wiki.gg/images/Wall_Creeper.png",
+    "health": "80/160›176/240›264",
+    "damage": "30/60›54/90›81",
+    "defense": "10",
+    "biome_es": "Spider Nest",
+    "biome_en": "Spider Nest",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Cobweb",
+        "item_id": "150",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "name_en": "Swamp Thing",
+    "name_es": "Cosa del pantano",
+    "category": "Eclipse Solar",
+    "image": "https://terraria.wiki.gg/images/Swamp_Thing.png",
+    "health": "450/900/1350",
+    "damage": "70/140/210",
+    "defense": "26",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "name_en": "Undead Viking",
+    "name_es": "Vikingo no muerto",
+    "category": "Nieve",
+    "image": "https://terraria.wiki.gg/images/Undead_Viking.png",
+    "health": "70/140›154/210›231",
+    "damage": "24/48›42/72›63",
+    "defense": "10",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "name_en": "Corrupt Penguin",
+    "name_es": "Pingüino corrupto",
+    "category": "Corrupción",
+    "image": "https://terraria.wiki.gg/images/Corrupt_Penguin.png",
+    "health": "70/140›154›308/210›231›462",
+    "damage": "20/40›36›72/60›54›108",
+    "defense": "4/4›4›8",
+    "biome_es": "Nieve",
+    "biome_en": "Snow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Golden Shower",
+        "item_id": "1336",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "name_en": "Ice Elemental",
+    "name_es": "Elemental de hielo",
+    "category": "Nieve / Difícil",
+    "image": "https://terraria.wiki.gg/images/Ice_Elemental.png",
+    "health": "200/400/600",
+    "damage": "55/110/165 (contact)90180270 (Frost Blast)",
+    "defense": "20",
+    "biome_es": "Nieve",
+    "biome_en": "Snow",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Umbrella Hat",
+        "item_id": "1243",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tin Chainmail",
+        "item_id": "688",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "name_en": "Pigron",
+    "name_es": "Dragocerdo",
+    "category": "Biomas Híbridos / Difícil",
+    "image": "https://terraria.wiki.gg/images/Pigron.png",
+    "health": "210/420/630",
+    "damage": "70/140/210",
+    "defense": "16",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Toy Sled",
+        "item_id": "1312",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "name_en": "Crimera",
+    "name_es": "Carmesera",
+    "category": "Carmesí",
+    "image": "https://terraria.wiki.gg/images/Crimera.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Carmesí",
+    "biome_en": "Crimson",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Crimtane Ore",
+        "item_id": "880",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "name_en": "Herpling",
+    "name_es": "Saltarín",
+    "category": "Carmesí / Difícil",
+    "image": "https://terraria.wiki.gg/images/Herpling.png",
+    "health": "220/440/660",
+    "damage": "65/130/195",
+    "defense": "26",
+    "biome_es": "Carmesí",
+    "biome_en": "Crimson",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "name_en": "Angry Trapper",
+    "name_es": "Atrapadora enojada",
+    "category": "Selva / Difícil",
+    "image": "https://terraria.wiki.gg/images/Angry_Trapper.png",
+    "health": "300/600/900",
+    "damage": "100/200/300",
+    "defense": "30",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Vine",
+        "item_id": "210",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Item 3331",
+        "item_id": "3331",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "name_en": "Moss Hornet",
+    "name_es": "Avispón de musgo",
+    "category": "Selva / Difícil",
+    "image": "https://terraria.wiki.gg/images/Moss_Hornet.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Stinger",
+        "item_id": "209",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "name_en": "Derpling",
+    "name_es": "Derpling",
+    "category": "Selva / Difícil",
+    "image": "https://terraria.wiki.gg/images/Derpling.png",
+    "health": "300/600/900",
+    "damage": "80/160/240",
+    "defense": "26",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": []
+  },
+  {
+    "id": "179",
+    "name_en": "Crimson Axe",
+    "name_es": "Hacha carmesí",
+    "category": "Arma Encantada",
+    "image": "https://terraria.wiki.gg/images/Crimson_Axe.png",
+    "health": "200/400/600",
+    "damage": "80/160/240",
+    "defense": "18",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "name_en": "Face Monster",
+    "name_es": "Monstruo de la cara",
+    "category": "Carmesí",
+    "image": "https://terraria.wiki.gg/images/Face_Monster.png",
+    "health": "70/140›154/210›231",
+    "damage": "25/50›44/75›66",
+    "defense": "10",
+    "biome_es": "Carmesí",
+    "biome_en": "Crimson",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Crimtane Ore",
+        "item_id": "880",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "name_en": "Floaty Gross",
+    "name_es": "Masa flotante",
+    "category": "Carmesí / Difícil",
+    "image": "https://terraria.wiki.gg/images/Floaty_Gross.png",
+    "health": "240/480/720",
+    "damage": "65/130/195",
+    "defense": "18",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Soul of Night",
+        "item_id": "521",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "name_en": "Crimslime",
+    "name_es": "Slime carmesí",
+    "category": "Carmesí",
+    "image": "https://terraria.wiki.gg/images/Crimslime.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Carmesí",
+    "biome_en": "Crimson",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "name_en": "Spiked Ice Slime",
+    "name_es": "Slime de hielo con pinchos",
+    "category": "Nieve",
+    "image": "https://terraria.wiki.gg/images/Spiked_Ice_Slime.png",
+    "health": "60/120›264/180›396",
+    "damage": "12/24›42/36›63 (contact)183654 (Ice Spike)",
+    "defense": "8/8›16",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tin Chainmail",
+        "item_id": "688",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "name_en": "Snow Flinx",
+    "name_es": "Flinx de nieve",
+    "category": "Nieve",
+    "image": "https://terraria.wiki.gg/images/Snow_Flinx.png",
+    "health": "70/140›154/210›231",
+    "damage": "26/52›46/78›69",
+    "defense": "12",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Blackcurrant",
+        "item_id": "4284",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "name_en": "Moth",
+    "name_es": "Polilla",
+    "category": "Cavernas / Difícil",
+    "image": "https://terraria.wiki.gg/images/Moth.png",
+    "health": "1000/2000/3000",
+    "damage": "70/140/210",
+    "defense": "28",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Bee Wings",
+        "item_id": "1515",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "name_en": "Icy Merman",
+    "name_es": "Tritón helado",
+    "category": "Nieve / Difícil",
+    "image": "https://terraria.wiki.gg/images/Icy_Merman.png",
+    "health": "280/560/840",
+    "damage": "60/120/180 (contact) 74148222 (Icewater Spit)",
+    "defense": "30",
+    "biome_es": "Hielo",
+    "biome_en": "Ice biome",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Umbrella Hat",
+        "item_id": "1243",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tin Chainmail",
+        "item_id": "688",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "name_en": "Bee",
+    "name_es": "Abeja",
+    "category": "Selva",
+    "image": "https://terraria.wiki.gg/images/Bee.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Stinger",
+        "item_id": "209",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name_en": "Pirate Deckhand",
+    "name_es": "Marinero pirata",
+    "category": "Invasión Pirata",
+    "image": "https://terraria.wiki.gg/images/Pirate_Deckhand.png",
+    "health": "300/600/900 (Desktop, Console and Mobile versions) 200 (Old-gen console and 3DS versions)",
+    "damage": "35/70/105",
+    "defense": "17",
+    "biome_es": "Pirate Invasion",
+    "biome_en": "Invasión Pirata",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "name_en": "Pirate Corsair",
+    "name_es": "Corsario pirata",
+    "category": "Invasión Pirata",
+    "image": "https://terraria.wiki.gg/images/Pirate_Corsair.png",
+    "health": "450/900/1350 (Desktop, Console and Mobile versions)300 (Old-gen console and 3DS versions)",
+    "damage": "50/100/150",
+    "defense": "22",
+    "biome_es": "Pirate Invasion",
+    "biome_en": "Invasión Pirata",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "name_en": "Pirate Deadeye",
+    "name_es": "Tirador pirata",
+    "category": "Invasión Pirata",
+    "image": "https://terraria.wiki.gg/images/Pirate_Deadeye.png",
+    "health": "225/450/675 (Desktop, Console and Mobile versions)150 (Old-gen console and 3DS versions)",
+    "damage": "30/60/90 (contact)50100150 (Bullet)",
+    "defense": "14",
+    "biome_es": "Pirate Invasion",
+    "biome_en": "Invasión Pirata",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "name_en": "Pirate Crossbower",
+    "name_es": "Ballestero pirata",
+    "category": "Invasión Pirata",
+    "image": "https://terraria.wiki.gg/images/Pirate_Crossbower.png",
+    "health": "350/700/1050 (Desktop, Console and Mobile versions)260 (Old-gen console and 3DS versions)",
+    "damage": "35/70/105 (contact)80160240 (Flaming Arrow)",
+    "defense": "20",
+    "biome_es": "Pirate Invasion",
+    "biome_en": "Invasión Pirata",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "name_en": "Pirate Captain",
+    "name_es": "Capitán pirata",
+    "category": "Invasión Pirata",
+    "image": "https://terraria.wiki.gg/images/Pirate_Captain.png",
+    "health": "3000/6000/9000 (Desktop, Console and Mobile versions)2000 (Old-gen console and 3DS versions)",
+    "damage": "70/140/210 (contact)306090 (Bullet)200400600 (Cannonball)",
+    "defense": "30",
+    "biome_es": "Pirate Invasion",
+    "biome_en": "Invasión Pirata",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Book of Skulls",
+        "item_id": "1313",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "name_en": "Flying Fish",
+    "name_es": "Pez volador",
+    "category": "Lluvia",
+    "image": "https://terraria.wiki.gg/images/Flying_Fish.png",
+    "health": "20/40›176›220/60›264›330",
+    "damage": "9/18›64›80/27›96›120",
+    "defense": "4/4›16›20",
+    "biome_es": "Rain",
+    "biome_en": "Rain",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "225",
+    "name_en": "Umbrella Slime",
+    "name_es": "Slime con paraguas",
+    "category": "Lluvia",
+    "image": "https://terraria.wiki.gg/images/Umbrella_Slime.png",
+    "health": "35/70›230›308/105›345›462",
+    "damage": "10/20›54›72/30›81›108",
+    "defense": "5/5›15›20",
+    "biome_es": "Rain",
+    "biome_en": "Rain",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Umbrella",
+        "item_id": "946",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "name_en": "Flying Snake",
+    "name_es": "Serpiente voladora",
+    "category": "Templo de la Selva",
+    "image": "https://terraria.wiki.gg/images/Flying_Snake.png",
+    "health": "260/520/780",
+    "damage": "85/170/255",
+    "defense": "28",
+    "biome_es": "Selva",
+    "biome_en": "Jungle",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lihzahrd Pressure Plate",
+        "item_id": "1151",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "name_en": "Blood Crawler",
+    "name_es": "Reptador sangriento",
+    "category": "Carmesí",
+    "image": "https://terraria.wiki.gg/images/Blood_Crawler.png",
+    "health": "60/120›132/180›198",
+    "damage": "30/60›54/90›81",
+    "defense": "8",
+    "biome_es": "Carmesí",
+    "biome_en": "Crimson",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Crimtane Ore",
+        "item_id": "880",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "name_en": "Blood Feeder",
+    "name_es": "Alimentador de sangre",
+    "category": "Carmesí / Difícil",
+    "image": "https://terraria.wiki.gg/images/Blood_Feeder.png",
+    "health": "150/300/450 (Desktop, Console and Mobile versions) / 20 (Old-gen console and 3DS versions)",
+    "damage": "50/100/150 (Desktop, Console and Mobile versions) / 30 (Old-gen console and 3DS versions)",
+    "defense": "20",
+    "biome_es": "Carmesí",
+    "biome_en": "Crimson",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "name_en": "Blood Jelly",
+    "name_es": "Medusa de sangre",
+    "category": "Carmesí / Acuático",
+    "image": "https://terraria.wiki.gg/images/Blood_Jelly.png",
+    "health": "34/68›148/102›22270/140›154/210›231120/240/360150/300/450140/280/420",
+    "damage": "25/50›90/75›13530/60›54/90›8180/160/24075/150/22590/180/270",
+    "defense": "4/4›86302020",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "name_en": "Rainbow Slime",
+    "name_es": "Slime arcoíris",
+    "category": "Bendición / Lluvia",
+    "image": "https://terraria.wiki.gg/images/Rainbow_Slime.png",
+    "health": "400/800/1200",
+    "damage": "85/170/255",
+    "defense": "26",
+    "biome_es": "Bendición",
+    "biome_en": "Hallow",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Gel",
+        "item_id": "23",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bottled Honey",
+        "item_id": "1134",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "name_en": "Golem Head",
+    "name_es": "Gólem (Cabeza)",
+    "category": "Jefe",
+    "image": "https://terraria.wiki.gg/images/Golem_Head.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "247",
+    "name_en": "Left Golem Fist",
+    "name_es": "Puño izquierdo del Gólem",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Left_Golem_Fist.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "248",
+    "name_en": "Right Golem Fist",
+    "name_es": "Puño derecho del Gólem",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Right_Golem_Fist.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "250",
+    "name_en": "Angry Nimbus",
+    "name_es": "Nimbo enojado",
+    "category": "Lluvia / Difícil",
+    "image": "https://terraria.wiki.gg/images/Angry_Nimbus.png",
+    "health": "300/600/900",
+    "damage": "50/100/150 (contact)4080120 (Rain)",
+    "defense": "24",
+    "biome_es": "Rain",
+    "biome_en": "Rain",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Nimbus Rod",
+        "item_id": "1244",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "name_en": "Eyezor",
+    "name_es": "Ojazos",
+    "category": "Eclipse Solar",
+    "image": "https://terraria.wiki.gg/images/Eyezor.png",
+    "health": "1000/2000/3000",
+    "damage": "50/100/150 (contact)60120180 (Eye Laser)",
+    "defense": "30",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "name_en": "Parrot",
+    "name_es": "Loro",
+    "category": "Invasión Pirata",
+    "image": "https://terraria.wiki.gg/images/Parrot.png",
+    "health": "100/200/300",
+    "damage": "80/160/240",
+    "defense": "12",
+    "biome_es": "Pirate Invasion",
+    "biome_en": "Invasión Pirata",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Lucky Coin",
+        "item_id": "855",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Discount Card",
+        "item_id": "854",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "name_en": "Reaper",
+    "name_es": "Segador",
+    "category": "Eclipse Solar",
+    "image": "https://terraria.wiki.gg/images/Reaper.png",
+    "health": "700/1400/2100",
+    "damage": "80/160/240",
+    "defense": "22",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Scourge of the Corruptor",
+        "item_id": "1571",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "name_en": "Spore Zombie",
+    "name_es": "Zombi de esporas",
+    "category": "Champiñón Brillante",
+    "image": "https://terraria.wiki.gg/images/Spore_Zombie.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Champiñones",
+    "biome_en": "Mushroom",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Glowing Mushroom",
+        "item_id": "183",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "name_en": "Spore Bat",
+    "name_es": "Murciélago de esporas",
+    "category": "Champiñón Brillante",
+    "image": "https://terraria.wiki.gg/images/Spore_Bat.png",
+    "health": "16/32›140›176/48›210›264",
+    "damage": "13/26›92›116/39›138›174",
+    "defense": "2/2›8›10",
+    "biome_es": "Champiñones",
+    "biome_en": "Mushroom",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Glowing Mushroom",
+        "item_id": "183",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "name_en": "Plantera's Hook",
+    "name_es": "Gancho de Plantera",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Plantera's_Hook.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "264",
+    "name_en": "Plantera's Tentacle",
+    "name_es": "Tentáculo de Plantera",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Plantera's_Tentacle.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "267",
+    "name_en": "Creeper",
+    "name_es": "Creeper",
+    "category": "Sirviente de jefe",
+    "image": "https://terraria.wiki.gg/images/Creeper.png",
+    "health": "100",
+    "damage": "20",
+    "defense": "10",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": [
+      {
+        "item_name": "Crimtane Ore",
+        "item_id": "880",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "name_en": "Ichor Sticker",
+    "name_es": "Pegatina de icor",
+    "category": "Carmesí / Difícil",
+    "image": "https://terraria.wiki.gg/images/Ichor_Sticker.png",
+    "health": "340/680/1020",
+    "damage": "55/110/165 (contact)80160240 (Golden Shower)",
+    "defense": "20",
+    "biome_es": "Subterráneo",
+    "biome_en": "Underground",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Ichor",
+        "item_id": "1332",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "name_en": "Rusty Armored Bones",
+    "name_es": "Esqueleto con armadura oxidada",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Rusty_Armored_Bones.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Golden Key",
+        "item_id": "327",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "name_en": "Blue Armored Bones",
+    "name_es": "Esqueleto con armadura azul",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Blue_Armored_Bones.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Golden Key",
+        "item_id": "327",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "name_en": "Hell Armored Bones",
+    "name_es": "Esqueleto con armadura infernal",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Hell_Armored_Bones.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Golden Key",
+        "item_id": "327",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Hook",
+        "item_id": "118",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "name_en": "Ragged Caster",
+    "name_es": "Lanzador en harapos",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Ragged_Caster.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Paladin's Hammer",
+        "item_id": "1513",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "285",
+    "name_en": "Diabolist",
+    "name_es": "Diabolista",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Diabolist.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Paladin's Hammer",
+        "item_id": "1513",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "name_en": "Necromancer",
+    "name_es": "Nigromante",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Necromancer.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Paladin's Hammer",
+        "item_id": "1513",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "288",
+    "name_en": "Skeleton Sniper",
+    "name_es": "Esqueleto francotirador",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Skeleton_Sniper.png",
+    "health": "400/800/1200",
+    "damage": "60/120/180 (contact)200400600 (Sniper Bullet)",
+    "defense": "28",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Piranha Gun",
+        "item_id": "1156",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "289",
+    "name_en": "Tactical Skeleton",
+    "name_es": "Esqueleto táctico",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Tactical_Skeleton.png",
+    "health": "400/800/1200",
+    "damage": "60/120/180 (contact)100200300 (Bullet)",
+    "defense": "28",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Piranha Gun",
+        "item_id": "1156",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "291",
+    "name_en": "Skeleton Commando",
+    "name_es": "Esqueleto comando",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Skeleton_Commando.png",
+    "health": "400/800/1200",
+    "damage": "60/120/180 (contact)120240360 (Rocket)",
+    "defense": "28",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Piranha Gun",
+        "item_id": "1156",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "name_en": "Giant Cursed Skull",
+    "name_es": "Calavera maldita gigante",
+    "category": "Mazmorra / Difícil",
+    "image": "https://terraria.wiki.gg/images/Giant_Cursed_Skull.png",
+    "health": "400/800/1200",
+    "damage": "60/120/180 (contact)50100150 (Shadowflames)",
+    "defense": "20",
+    "biome_es": "Mazmorra",
+    "biome_en": "Dungeon",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "SWAT Helmet",
+        "item_id": "1514",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Bone",
+        "item_id": "154",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "298",
+    "name_en": "Splinterling",
+    "name_es": "Esquirla",
+    "category": "Luna Calabaza",
+    "image": "https://terraria.wiki.gg/images/Splinterling.png",
+    "health": "1200/1800/2700",
+    "damage": "100/150/225",
+    "defense": "32",
+    "biome_es": "Pumpkin Moon",
+    "biome_en": "Luna Calabaza",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Spooky Wood",
+        "item_id": "1729",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "300",
+    "name_en": "Headless Horseman",
+    "name_es": "Jinete sin cabeza",
+    "category": "Luna Calabaza",
+    "image": "https://terraria.wiki.gg/images/Headless_Horseman.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Spooky Wings",
+        "item_id": "1830",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "301",
+    "name_en": "Hellhound",
+    "name_es": "Perro infernal",
+    "category": "Luna Calabaza",
+    "image": "https://terraria.wiki.gg/images/Hellhound.png",
+    "health": "1800 (Desktop, Console and Mobile versions) / 1200 (Old-gen console and 3DS versions)27004050",
+    "damage": "80/120/180",
+    "defense": "38",
+    "biome_es": "Pumpkin Moon",
+    "biome_en": "Luna Calabaza",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Spooky Wings",
+        "item_id": "1830",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "name_en": "Poltergeist",
+    "name_es": "Poltergeist",
+    "category": "Luna Calabaza",
+    "image": "https://terraria.wiki.gg/images/Poltergeist.png",
+    "health": "1250/1875/2812 (Desktop, Console and Mobile versions) / 2000 (Old-gen console and 3DS versions)",
+    "damage": "90/135/202",
+    "defense": "44",
+    "biome_es": "Pumpkin Moon",
+    "biome_en": "Luna Calabaza",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Spooky Wings",
+        "item_id": "1830",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "379",
+    "name_en": "Truffle Worm",
+    "name_es": "Gusano trufa",
+    "category": "Criatura (Cebo)",
+    "image": "https://terraria.wiki.gg/images/Truffle_Worm.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Always",
+    "time_en": "Always",
+    "drops": [
+      {
+        "item_name": "Falcon Blade",
+        "item_id": "2608",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "381",
+    "name_en": "Martian Walker",
+    "name_es": "Caminante marciano",
+    "category": "Locura Marciana",
+    "image": "https://terraria.wiki.gg/images/Martian_Walker.png",
+    "health": "2000/4000/6000",
+    "damage": "60/120/180 (contact)70140210 (Laser Ray)",
+    "defense": "40",
+    "biome_es": "Martian Madness",
+    "biome_en": "Locura Marciana",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Martian Conduit Plating",
+        "item_id": "2860",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "382",
+    "name_en": "Scutlix",
+    "name_es": "Scutlix",
+    "category": "Locura Marciana",
+    "image": "https://terraria.wiki.gg/images/Scutlix.png",
+    "health": "350/700/1050600/1200/1800",
+    "damage": "65/130/195 (contact)60120180 (Laser Ray)85/170/255",
+    "defense": "3030",
+    "biome_es": "Martian Madness",
+    "biome_en": "Locura Marciana",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Martian Conduit Plating",
+        "item_id": "2860",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "385",
+    "name_en": "Ray Gunner",
+    "name_es": "Artillero de rayos",
+    "category": "Locura Marciana",
+    "image": "https://terraria.wiki.gg/images/Ray_Gunner.png",
+    "health": "350/700/1050",
+    "damage": "50/100/150 (melee)60120180 (Laser Ray)",
+    "defense": "25",
+    "biome_es": "Martian Madness",
+    "biome_en": "Locura Marciana",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Martian Conduit Plating",
+        "item_id": "2860",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "386",
+    "name_en": "Martian Drone",
+    "name_es": "Dron marciano",
+    "category": "Locura Marciana",
+    "image": "https://terraria.wiki.gg/images/Martian_Drone.png",
+    "health": "300/600/900",
+    "damage": "60/120/180",
+    "defense": "16",
+    "biome_es": "Martian Madness",
+    "biome_en": "Locura Marciana",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Martian Conduit Plating",
+        "item_id": "2860",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "387",
+    "name_en": "Martian Engineer",
+    "name_es": "Ingeniero marciano",
+    "category": "Locura Marciana",
+    "image": "https://terraria.wiki.gg/images/Martian_Engineer.png",
+    "health": "400/800/1200",
+    "damage": "40/80/120",
+    "defense": "34",
+    "biome_es": "Martian Madness",
+    "biome_en": "Locura Marciana",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Martian Conduit Plating",
+        "item_id": "2860",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "397",
+    "name_en": "Moon Lord (Hand)",
+    "name_es": "Señor de la Luna (Mano)",
+    "category": "Jefe Final",
+    "image": "https://terraria.wiki.gg/images/Moon_Lord.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "398",
+    "name_en": "Moon Lord (Core)",
+    "name_es": "Señor de la Luna (Núcleo)",
+    "category": "Jefe Final",
+    "image": "https://terraria.wiki.gg/images/Moon_Lord.png",
+    "health": "145000",
+    "damage": "120",
+    "defense": "40",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "400",
+    "name_en": "True Eye of Cthulhu",
+    "name_es": "Ojo verdadero de Cthulhu",
+    "category": "Sirviente de Jefe",
+    "image": "https://terraria.wiki.gg/images/True_Eye_of_Cthulhu.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Boss Arena",
+    "biome_en": "Boss Arena",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "422",
+    "name_en": "Vortex Pillar",
+    "name_es": "Pilar de vórtice",
+    "category": "Pilar Celestial",
+    "image": "https://terraria.wiki.gg/images/Vortex_Pillar.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Solar Fragment",
+        "item_id": "3458",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "425",
+    "name_en": "Stardust Pillar",
+    "name_es": "Pilar de polvo estelar",
+    "category": "Pilar Celestial",
+    "image": "https://terraria.wiki.gg/images/Stardust_Pillar.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Stardust Fragment",
+        "item_id": "3459",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "460",
+    "name_en": "Butcher",
+    "name_es": "Carnicero",
+    "category": "Eclipse Solar / Difícil",
+    "image": "https://terraria.wiki.gg/images/Butcher.png",
+    "health": "700/1400/2100",
+    "damage": "70/140/210 (contact) 94189283 (chainsaw)",
+    "defense": "30",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Shield of Cthulhu",
+        "item_id": "3097",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "461",
+    "name_en": "Deadly Sphere",
+    "name_es": "Esfera letal",
+    "category": "Eclipse Solar / Difícil",
+    "image": "https://terraria.wiki.gg/images/Deadly_Sphere.png",
+    "health": "350/700/1050",
+    "damage": "100/200/300",
+    "defense": "80",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Butcher's Chainsaw",
+        "item_id": "3098",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "462",
+    "name_en": "Dr. Man Fly",
+    "name_es": "Dr. Mosca Hombre",
+    "category": "Eclipse Solar / Difícil",
+    "image": "https://terraria.wiki.gg/images/Dr._Man_Fly.png",
+    "health": "500/1000/1500",
+    "damage": "65/130/195 (contact)100200300 (Flask)",
+    "defense": "24",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Stopwatch",
+        "item_id": "3099",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "466",
+    "name_en": "Psycho",
+    "name_es": "Psicópata",
+    "category": "Eclipse Solar / Difícil",
+    "image": "https://terraria.wiki.gg/images/Psycho.png",
+    "health": "550/1100/1650",
+    "damage": "70/140/210 (contact)122245367 (contact while stealthed)",
+    "defense": "40",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Meteorite Brick",
+        "item_id": "3100",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "467",
+    "name_en": "Nailhead",
+    "name_es": "Cabeza de clavo",
+    "category": "Eclipse Solar / Difícil",
+    "image": "https://terraria.wiki.gg/images/Nailhead.png",
+    "health": "4000/8000/12000",
+    "damage": "100/200/300 (contact)30120270 (Nail)",
+    "defense": "34",
+    "biome_es": "Solar Eclipse",
+    "biome_en": "Eclipse Solar",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Meteorite Brick Wall",
+        "item_id": "3101",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Staff of the Frost Hydra",
+        "item_id": "1572",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "493",
+    "name_en": "Solar Pillar",
+    "name_es": "Pilar solar",
+    "category": "Pilar Celestial",
+    "image": "https://terraria.wiki.gg/images/Solar_Pillar.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Vortex Fragment",
+        "item_id": "3456",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "507",
+    "name_en": "Nebula Pillar",
+    "name_es": "Pilar de la nebulosa",
+    "category": "Pilar Celestial",
+    "image": "https://terraria.wiki.gg/images/Nebula_Pillar.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Nebula Fragment",
+        "item_id": "3457",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "548",
+    "name_en": "Etherian Goblin",
+    "name_es": "Duende etéreo",
+    "category": "Ejército del Antiguo",
+    "image": "https://terraria.wiki.gg/images/Etherian_Goblin.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Old One's Army",
+    "biome_en": "Ejército del Antiguo",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "620",
+    "name_en": "Blood Eel",
+    "name_es": "Anguila de sangre",
+    "category": "Luna de Sangre / Difícil",
+    "image": "https://terraria.wiki.gg/images/Blood_Eel.png",
+    "health": "6000/12000/18000",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_es": "Blood Moon",
+    "biome_en": "Luna de Sangre",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Blood Thorn",
+        "item_id": "4270",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Drippler Crippler",
+        "item_id": "4272",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "621",
+    "name_en": "Hemogoblin Shark",
+    "name_es": "Tiburón hemogoblin",
+    "category": "Luna de Sangre / Difícil",
+    "image": "https://terraria.wiki.gg/images/Hemogoblin_Shark.png",
+    "health": "5000/10000/15000",
+    "damage": "70/140/210 (contact)80120180 (Blood Shot) [1]",
+    "defense": "30",
+    "biome_es": "Blood Moon",
+    "biome_en": "Luna de Sangre",
+    "time_es": "Hardmode",
+    "time_en": "Hardmode",
+    "drops": [
+      {
+        "item_name": "Blood Thorn",
+        "item_id": "4270",
+        "chance": "Drops"
+      },
+      {
+        "item_name": "Drippler Crippler",
+        "item_id": "4272",
+        "chance": "Drops"
+      }
+    ]
+  },
+  {
+    "id": "670",
+    "name_en": "Town Slime (Nerdy)",
+    "name_es": "Slime de ciudad (Empollón)",
+    "category": "Mascota de ciudad",
+    "image": "https://terraria.wiki.gg/images/Town_Slime.png",
+    "health": "",
+    "damage": "",
+    "defense": "",
+    "biome_es": "Various",
+    "biome_en": "Various",
+    "time_es": "Pre-Hardmode",
+    "time_en": "Pre-Hardmode",
+    "drops": []
+  },
+  {
+    "id": "388",
+    "name_en": "Martian Officer",
+    "name_es": "Oficial marciano",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Martian_Officer.png",
+    "health": "300/600/9001000",
+    "damage": "75/150/2250",
+    "defense": "5020",
+    "biome_en": "Locura Marciana",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Martian Madness"
+  },
+  {
+    "id": "389",
+    "name_en": "Gigazapper",
+    "name_es": "Gigazapper",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Gigazapper.png",
+    "health": "600/1200/1800",
+    "damage": "75/150/225 (contact)50100150 (Gigazapper Spearhead)",
+    "defense": "38",
+    "biome_en": "Locura Marciana",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Martian Madness"
+  },
+  {
+    "id": "390",
+    "name_en": "Gray Grunt",
+    "name_es": "Gruñidor gris",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Gray_Grunt.png",
+    "health": "750/1500/2250",
+    "damage": "80/160/240",
+    "defense": "30",
+    "biome_en": "Locura Marciana",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Martian Madness"
+  },
+  {
+    "id": "391",
+    "name_en": "Brain Scrambler",
+    "name_es": "Revuelve-cerebros",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Brain_Scrambler.png",
+    "health": "350/700/1050",
+    "damage": "50/100/150 (contact)4896144 (Brain Scrambling Bolt)",
+    "defense": "25",
+    "biome_en": "Locura Marciana",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Martian Madness"
+  },
+  {
+    "id": "516",
+    "name_en": "Corite",
+    "name_es": "Corite",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Corite.png",
+    "health": "600/1200/1800",
+    "damage": "70/140/210",
+    "defense": "26",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "517",
+    "name_en": "Crawltipede",
+    "name_es": "Crawltipede",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Crawltipede.png",
+    "health": "10000/20000/30000",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "519",
+    "name_en": "Drakomire",
+    "name_es": "Drakomire",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Drakomire.png",
+    "health": "800/1600/2400",
+    "damage": "55/110/165",
+    "defense": "32",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "524",
+    "name_en": "Brain Suckler",
+    "name_es": "Chupasangres",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Brain_Suckler.png",
+    "health": "330/660/990",
+    "damage": "70/140/210",
+    "defense": "34",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "525",
+    "name_en": "Evolution Beast",
+    "name_es": "Bestia de la evolución",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Evolution_Beast.png",
+    "health": "850/1700/2550",
+    "damage": "90/180/270 (contact)100140210 (Nebula Sphere)",
+    "defense": "46",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "526",
+    "name_en": "Nebula Floater",
+    "name_es": "Flotador de la nebulosa",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Nebula_Floater.png",
+    "health": "1300/2600/3900",
+    "damage": "75/150/225 (contact)130200300 (Nebula Laser)",
+    "defense": "20",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "527",
+    "name_en": "Predictor",
+    "name_es": "Predictor",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Predictor.png",
+    "health": "700/1400/2100",
+    "damage": "80/160/240 (contact)120180270 (Nebula Piercer)",
+    "defense": "30",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "532",
+    "name_en": "Star Cell",
+    "name_es": "Célula de polvo estelar",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Star_Cell.png",
+    "health": "300/600/900300/600/900",
+    "damage": "120/240/36070/140/210",
+    "defense": "500",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "533",
+    "name_en": "Flow Invader",
+    "name_es": "Invasor de flujo",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Flow_Invader.png",
+    "health": "1500/3000/4500",
+    "damage": "70/140/210 (contact)120240360 (projectile)",
+    "defense": "38",
+    "biome_en": "Lunar Events",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Lunar Events"
+  },
+  {
+    "id": "549",
+    "name_en": "Etherian Goblin Bomber",
+    "name_es": "Bombardero etéreo",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Etherian_Goblin_Bomber.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_en": "Ejército del Antiguo",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Old One's Army"
+  },
+  {
+    "id": "550",
+    "name_en": "Etherian Wyvern",
+    "name_es": "Guiverno etéreo",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Etherian_Wyvern.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_en": "Ejército del Antiguo",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Old One's Army"
+  },
+  {
+    "id": "552",
+    "name_en": "Etherian Javelin Thrower",
+    "name_es": "Lanzabalinas etéreo",
+    "category": "General",
+    "image": "https://terraria.wiki.gg/images/Etherian_Javelin_Thrower.png",
+    "health": "N/A",
+    "damage": "N/A",
+    "defense": "N/A",
+    "biome_en": "Ejército del Antiguo",
+    "drops": [],
+    "time_en": "Any",
+    "time_es": "Cualquiera",
+    "biome_es": "Old One's Army"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "id": "85",
+    "name_en": "Mimic",
+    "name_es": "Mímico",
+    "summon_key": "Aparece natural (No aplica)",
+    "health": "500 / 1000",
+    "defense": "30",
+    "damage": "50 / 100",
+    "drops": [
+      {
+        "item_name": "Dual Hook",
+        "item_id": "436"
+      },
+      {
+        "item_name": "Magic Dagger",
+        "item_id": "535"
+      },
+      {
+        "item_name": "Titan Glove",
+        "item_id": "536"
+      },
+      {
+        "item_name": "Cross Necklace",
+        "item_id": "554"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": null,
+    "biome_en": "Underground",
+    "biome_es": "Subterráneo",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "85_Ice",
+    "name_en": "Ice Mimic",
+    "name_es": "Mímico de Hielo",
+    "summon_key": "Aparece natural (No aplica)",
+    "health": "500 / 1000",
+    "defense": "30",
+    "damage": "50 / 100",
+    "drops": [
+      {
+        "item_name": "Ice Bow",
+        "item_id": "725"
+      },
+      {
+        "item_name": "Frostbrand",
+        "item_id": "676"
+      },
+      {
+        "item_name": "Flower of Frost",
+        "item_id": "726"
+      },
+      {
+        "item_name": "Toy Sled",
+        "item_id": "2673"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Ice_Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": null,
+    "biome_en": "Underground",
+    "biome_es": "Subterráneo",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "341",
+    "name_en": "Present Mimic",
+    "name_es": "Mímico de Regalo",
+    "summon_key": "Aparece natural (No aplica)",
+    "health": "600 / 1200",
+    "defense": "38",
+    "damage": "70 / 140",
+    "drops": [],
+    "image": "https://terraria.wiki.gg/images/Present_Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": null,
+    "biome_en": "Luna Gélida",
+    "biome_es": "Frost Moon",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "473",
+    "name_en": "Corrupt Mimic",
+    "name_es": "Mímico Corrupto",
+    "summon_key": "Key of Night (3091)",
+    "health": "3500 / 7000",
+    "defense": "34",
+    "damage": "90 / 180",
+    "drops": [
+      {
+        "item_name": "Dart Rifle",
+        "item_id": "3053"
+      },
+      {
+        "item_name": "Chain Guillotines",
+        "item_id": "3054"
+      },
+      {
+        "item_name": "Clinger Staff",
+        "item_id": "3012"
+      },
+      {
+        "item_name": "Putrid Scent",
+        "item_id": "3245"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Corrupt_Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": "3091",
+    "biome_en": "Corruption",
+    "biome_es": "Corrupción",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "474",
+    "name_en": "Crimson Mimic",
+    "name_es": "Mímico Carmesí",
+    "summon_key": "Key of Night (3091)",
+    "health": "3500 / 7000",
+    "defense": "34",
+    "damage": "90 / 180",
+    "drops": [
+      {
+        "item_name": "Dart Pistol",
+        "item_id": "3052"
+      },
+      {
+        "item_name": "Fetid Baghnakhs",
+        "item_id": "3055"
+      },
+      {
+        "item_name": "Life Drain",
+        "item_id": "3013"
+      },
+      {
+        "item_name": "Flesh Knuckles",
+        "item_id": "3246"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Crimson_Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": "3091",
+    "biome_en": "Underground",
+    "biome_es": "Subterráneo",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "475",
+    "name_en": "Hallowed Mimic",
+    "name_es": "Mímico Bendito",
+    "summon_key": "Key of Light (3092)",
+    "health": "3500 / 7000",
+    "defense": "34",
+    "damage": "90 / 180",
+    "drops": [
+      {
+        "item_name": "Daedalus Stormbow",
+        "item_id": "3029"
+      },
+      {
+        "item_name": "Flying Knife",
+        "item_id": "3030"
+      },
+      {
+        "item_name": "Crystal Vile Shard",
+        "item_id": "3008"
+      },
+      {
+        "item_name": "Illuminant Hook",
+        "item_id": "3031"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Hallowed_Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": "3092",
+    "biome_en": "Hallow",
+    "biome_es": "Bendición",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "476",
+    "name_en": "Jungle Mimic",
+    "name_es": "Mímico de la Selva",
+    "summon_key": "Aparece natural (No aplica)",
+    "health": "3500 / 7000",
+    "defense": "34",
+    "damage": "90 / 180",
+    "drops": [
+      {
+        "item_name": "Wasp Gun",
+        "item_id": "1121"
+      },
+      {
+        "item_name": "Seedler",
+        "item_id": "3018"
+      },
+      {
+        "item_name": "Terra Toilet",
+        "item_id": "4275"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Jungle_Mimic.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Mimics",
+    "key_item_id": null,
+    "biome_en": "Jungle",
+    "biome_es": "Selva",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  }
+]

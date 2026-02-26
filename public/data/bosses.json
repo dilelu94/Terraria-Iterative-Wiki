@@ -1,0 +1,606 @@
+[
+  {
+    "id": "50",
+    "name_en": "King Slime",
+    "name_es": "Rey Slime",
+    "biome": "Forest  Slime Rain",
+    "time": "Cualquiera",
+    "health": "2000/2800/3570",
+    "defense": "10",
+    "damage": "40/64/96",
+    "drops": [
+      {
+        "item_name": "Slime Hook",
+        "item_id": "2585"
+      },
+      {
+        "item_name": "Ninja Set",
+        "item_id": null
+      },
+      {
+        "item_name": "Slimy Saddle",
+        "item_id": "2430"
+      },
+      {
+        "item_name": "Royal Gel (Experto)",
+        "item_id": "23"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/King_Slime.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/King_Slime",
+    "biome_en": "Forest",
+    "biome_es": "Bosque",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "4",
+    "name_en": "Eye of Cthulhu",
+    "name_es": "Ojo de Cthulhu",
+    "biome": "Surface (Night)",
+    "time": "Noche",
+    "health": "2,800 / 3,640 / 4,641",
+    "defense": "12 (Fase 1) / 0 (Fase 2)",
+    "damage": "15-23 (Normal) / 30-40 (Exp) / 45-60 (Mast)",
+    "drops": [
+      {
+        "item_name": "Demonite Ore",
+        "item_id": "56"
+      },
+      {
+        "item_name": "Crimtane Ore",
+        "item_id": "880"
+      },
+      {
+        "item_name": "Shield of Cthulhu",
+        "item_id": "3097"
+      },
+      {
+        "item_name": "Binoculars",
+        "item_id": "1299"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Eye_of_Cthulhu.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu",
+    "biome_en": "Surface (Night)",
+    "biome_es": "Surface (Night)",
+    "time_en": "Night",
+    "time_es": "Noche"
+  },
+  {
+    "id": "13",
+    "name_en": "Eater of Worlds",
+    "name_es": "Devoramundos",
+    "biome": "The Corruption  Underground Corruption",
+    "time": "Cualquiera",
+    "health": "10050 1512019296",
+    "defense": "N/A",
+    "damage": "N/A",
+    "drops": [
+      {
+        "item_name": "Shadow Scale",
+        "item_id": "86"
+      },
+      {
+        "item_name": "Demonite Ore",
+        "item_id": "56"
+      },
+      {
+        "item_name": "Worm Scarf (Experto)",
+        "item_id": "2002"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Eater_of_Worlds.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Eater_of_Worlds",
+    "biome_en": "Underground",
+    "biome_es": "Subterráneo",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "266",
+    "name_en": "Brain of Cthulhu",
+    "name_es": "Cerebro de Cthulhu",
+    "biome": "Carmesí",
+    "time": "Cualquiera",
+    "health": "1000 / 1700",
+    "defense": "14",
+    "damage": "30 / 54",
+    "drops": [
+      {
+        "item_name": "Tissue Sample",
+        "item_id": "1329"
+      },
+      {
+        "item_name": "Crimtane Ore",
+        "item_id": "880"
+      },
+      {
+        "item_name": "Brain of Confusion (Experto)",
+        "item_id": "3223"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Brain_of_Cthulhu.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Brain_of_Cthulhu",
+    "biome_en": "Crimson",
+    "biome_es": "Carmesí",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "222",
+    "name_en": "Queen Bee",
+    "name_es": "Reina abeja",
+    "biome": "Selva",
+    "time": "Cualquiera",
+    "health": "3400 / 4760",
+    "defense": "8",
+    "damage": "30 / 54",
+    "drops": [
+      {
+        "item_name": "Bee Gun",
+        "item_id": "1121"
+      },
+      {
+        "item_name": "Bee Keeper",
+        "item_id": "1123"
+      },
+      {
+        "item_name": "Hive Wand",
+        "item_id": "1129"
+      },
+      {
+        "item_name": "Hive Pack (Experto)",
+        "item_id": "1124"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Queen_Bee.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Bee",
+    "biome_en": "Jungle",
+    "biome_es": "Selva",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "35",
+    "name_en": "Skeletron",
+    "name_es": "Esqueletrón",
+    "biome": "Dungeon Entrance (Night)",
+    "time": "Noche",
+    "health": "Cabeza: 4,400 / 8,800 / 11,220 | Manos: 600 / 1,560",
+    "defense": "Cabeza: 10 (+25 por mano) / Manos: 14",
+    "damage": "Cabeza: 32-137 / Manos: 20-66 / Cráneos: 68-102",
+    "drops": [
+      {
+        "item_name": "Book of Skulls",
+        "item_id": "1313"
+      },
+      {
+        "item_name": "Skeletron Hand",
+        "item_id": "1284"
+      },
+      {
+        "item_name": "Bone Glove",
+        "item_id": "3245"
+      },
+      {
+        "item_name": "Chippy's Couch",
+        "item_id": "4758"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Skeletron.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron",
+    "biome_en": "Dungeon",
+    "biome_es": "Mazmorra",
+    "time_en": "Night",
+    "time_es": "Noche"
+  },
+  {
+    "id": "668",
+    "name_en": "Deerclops",
+    "name_es": "Ciervíclope",
+    "biome": "Nieve",
+    "time": "Cualquiera",
+    "health": "7000 / 11900",
+    "defense": "14",
+    "damage": "20 / 40",
+    "drops": [
+      {
+        "item_name": "Lucy the Axe",
+        "item_id": "5095"
+      },
+      {
+        "item_name": "Chester",
+        "item_id": "48"
+      },
+      {
+        "item_name": "Eye Bone",
+        "item_id": "5098"
+      },
+      {
+        "item_name": "Bone Helm (Experto)",
+        "item_id": "154"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Deerclops.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Deerclops",
+    "biome_en": "Snow",
+    "biome_es": "Nieve",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "113",
+    "name_en": "Wall of Flesh",
+    "name_es": "Muro de carne",
+    "biome": "The Underworld",
+    "time": "Cualquiera",
+    "health": "8,000 / 11,200 / 14,280",
+    "defense": "12 (Boca) / 0-6 (Ojos)",
+    "damage": "50 (Melee) / 22-90 (Láser) / 30-180 (Hambriento)",
+    "drops": [
+      {
+        "item_name": "Pwnhammer",
+        "item_id": "367"
+      },
+      {
+        "item_name": "Breaker Blade",
+        "item_id": "426"
+      },
+      {
+        "item_name": "Clockwork Assault Rifle",
+        "item_id": "434"
+      },
+      {
+        "item_name": "Laser Rifle",
+        "item_id": "435"
+      },
+      {
+        "item_name": "Firecracker",
+        "item_id": "4913"
+      },
+      {
+        "item_name": "Warrior Emblem",
+        "item_id": "490"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Wall_of_Flesh.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Wall_of_Flesh",
+    "biome_en": "Underworld",
+    "biome_es": "Inframundo",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "657",
+    "name_en": "Queen Slime",
+    "name_es": "Reina slime",
+    "biome": "Bendición",
+    "time": "Cualquiera",
+    "health": "18000 / 28800",
+    "defense": "26",
+    "damage": "60 / 120",
+    "drops": [
+      {
+        "item_name": "Gelatinous Pillion",
+        "item_id": "4981"
+      },
+      {
+        "item_name": "Blade Staff",
+        "item_id": "4758"
+      },
+      {
+        "item_name": "Volatile Gelatin (Experto)",
+        "item_id": "23"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Queen_Slime.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Slime",
+    "biome_en": "Hallow",
+    "biome_es": "Bendición",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "125",
+    "name_en": "The Twins",
+    "name_es": "Los Gemelos",
+    "biome": "Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night",
+    "time": "Noche",
+    "health": "Retinazer: 20,000-38,250 | Spazmatism: 23,000-43,988",
+    "defense": "Retinazer: 10-20 | Spazmatism: 10-28",
+    "damage": "Retinazer: 40-172 | Spazmatism: 50-192",
+    "drops": [
+      {
+        "item_name": "Soul of Sight",
+        "item_id": "549"
+      },
+      {
+        "item_name": "Hallowed Bar",
+        "item_id": "1225"
+      },
+      {
+        "item_name": "Greater Healing Potion",
+        "item_id": "499"
+      },
+      {
+        "item_name": "Twin Mask",
+        "item_id": "2111"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/The_Twins.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Retinazer",
+    "biome_en": "Space",
+    "biome_es": "Espacio",
+    "time_en": "Night",
+    "time_es": "Noche"
+  },
+  {
+    "id": "134",
+    "name_en": "The Destroyer",
+    "name_es": "El Destructor",
+    "biome": "Surface / Space (Night)",
+    "time": "Noche",
+    "health": "80,000 / 120,000 / 153,000",
+    "defense": "0 (Cabeza) / 30 (Cuerpo) / 35 (Cola)",
+    "damage": "70-420 (Cabeza) / 55-140 (Cuerpo)",
+    "drops": [
+      {
+        "item_name": "Soul of Might",
+        "item_id": "575"
+      },
+      {
+        "item_name": "Hallowed Bar",
+        "item_id": "1225"
+      },
+      {
+        "item_name": "Mechanical Wagon Piece",
+        "item_id": "3355"
+      },
+      {
+        "item_name": "Greater Healing Potion",
+        "item_id": "499"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/The_Destroyer.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/The_Destroyer",
+    "biome_en": "Space",
+    "biome_es": "Espacio",
+    "time_en": "Night",
+    "time_es": "Noche"
+  },
+  {
+    "id": "127",
+    "name_en": "Skeletron Prime",
+    "name_es": "Esqueletrón Prime",
+    "biome": "Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night  Surface  +  Night  Space  +  Night",
+    "time": "Noche",
+    "health": "Cabeza: 28,000 / 42,000 / 53,550 | Extremidades: 6,000-9,000",
+    "defense": "Cabeza: 24 (48 girando) / Sierra: 38 / Vice: 34",
+    "damage": "Cabeza: 47-240 / Sierra: 56-143 / Láser: 50-150 / Bombas: 80-240",
+    "drops": [
+      {
+        "item_name": "Soul of Fright",
+        "item_id": "578"
+      },
+      {
+        "item_name": "Hallowed Bar",
+        "item_id": "1225"
+      },
+      {
+        "item_name": "Greater Healing Potion",
+        "item_id": "499"
+      },
+      {
+        "item_name": "Skeletron Prime Mask",
+        "item_id": "2106"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Skeletron_Prime.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Prime",
+    "biome_en": "Space",
+    "biome_es": "Espacio",
+    "time_en": "Night",
+    "time_es": "Noche"
+  },
+  {
+    "id": "262",
+    "name_en": "Plantera",
+    "name_es": "Plantera",
+    "biome": "Selva Sub.",
+    "time": "Cualquiera",
+    "health": "30000 / 42000",
+    "defense": "36",
+    "damage": "50 / 100",
+    "drops": [
+      {
+        "item_name": "Temple Key",
+        "item_id": "1141"
+      },
+      {
+        "item_name": "Grenade Launcher",
+        "item_id": "758"
+      },
+      {
+        "item_name": "Seedler",
+        "item_id": "3018"
+      },
+      {
+        "item_name": "Spore Sac (Experto)",
+        "item_id": "3336"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Plantera.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Plantera",
+    "biome_en": "Jungle",
+    "biome_es": "Selva",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "245",
+    "name_en": "Golem",
+    "name_es": "Gólem",
+    "biome": "Templo de Selva",
+    "time": "Cualquiera",
+    "health": "39000 / 58500",
+    "defense": "20",
+    "damage": "70 / 140",
+    "drops": [
+      {
+        "item_name": "Picksaw",
+        "item_id": "1294"
+      },
+      {
+        "item_name": "Sun Stone",
+        "item_id": "899"
+      },
+      {
+        "item_name": "Possessed Hatchet",
+        "item_id": "1122"
+      },
+      {
+        "item_name": "Shiny Stone (Experto)",
+        "item_id": "3337"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Golem.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Golem",
+    "biome_en": "Jungle",
+    "biome_es": "Selva",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "370",
+    "name_en": "Duke Fishron",
+    "name_es": "Duque Fishron",
+    "biome": "Océano",
+    "time": "Cualquiera",
+    "health": "50000 / 60000",
+    "defense": "50",
+    "damage": "100 / 140",
+    "drops": [
+      {
+        "item_name": "Fishron Wings",
+        "item_id": "2609"
+      },
+      {
+        "item_name": "Tsunami",
+        "item_id": "2624"
+      },
+      {
+        "item_name": "Razorblade Typhoon",
+        "item_id": "2622"
+      },
+      {
+        "item_name": "Shrimpy Truffle (Experto)",
+        "item_id": "2316"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Duke_Fishron.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Duke_Fishron",
+    "biome_en": "Ocean",
+    "biome_es": "Océano",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "636",
+    "name_en": "Empress of Light",
+    "name_es": "Emperatriz de la luz",
+    "biome": "Bendición",
+    "time": "Noche (Día)",
+    "health": "70000 / 98000",
+    "defense": "50",
+    "damage": "120 / 240",
+    "drops": [
+      {
+        "item_name": "Eventide",
+        "item_id": "4953"
+      },
+      {
+        "item_name": "Kaleidoscope",
+        "item_id": "4914"
+      },
+      {
+        "item_name": "Terraprisma (Día)",
+        "item_id": "5005"
+      },
+      {
+        "item_name": "Soaring Insignia (Experto)",
+        "item_id": "171"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Empress_of_Light.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Empress_of_Light",
+    "biome_en": "Hallow",
+    "biome_es": "Bendición",
+    "time_en": "Night",
+    "time_es": "Noche"
+  },
+  {
+    "id": "439",
+    "name_en": "Lunatic Cultist",
+    "name_es": "Cultista lunático",
+    "biome": "Mazmorra",
+    "time": "Cualquiera",
+    "health": "32000 / 40000",
+    "defense": "42",
+    "damage": "50 / 100",
+    "drops": [
+      {
+        "item_name": "Ancient Manipulator",
+        "item_id": "3549"
+      },
+      {
+        "item_name": "Ancient Light (Bolsa Experto)",
+        "item_id": null
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Lunatic_Cultist.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Lunatic_Cultist",
+    "biome_en": "Dungeon",
+    "biome_es": "Mazmorra",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  },
+  {
+    "id": "396",
+    "name_en": "Moon Lord",
+    "name_es": "Señor de la Luna",
+    "biome": "Cualquiera",
+    "time": "Cualquiera",
+    "health": "145000 / 217500",
+    "defense": "50",
+    "damage": "150 / 300",
+    "drops": [
+      {
+        "item_name": "Meowmere",
+        "item_id": "3063"
+      },
+      {
+        "item_name": "Terrarian",
+        "item_id": "3389"
+      },
+      {
+        "item_name": "Portal Gun",
+        "item_id": "3384"
+      },
+      {
+        "item_name": "Luminite",
+        "item_id": "3460"
+      },
+      {
+        "item_name": "Gravity Globe (Experto)",
+        "item_id": "1131"
+      }
+    ],
+    "image": "https://terraria.wiki.gg/images/Moon_Lord.png",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord",
+    "biome_en": "Cualquiera",
+    "biome_es": "Cualquiera",
+    "time_en": "Any",
+    "time_es": "Cualquiera"
+  }
+]
