@@ -1,21 +1,116 @@
 [
-  { "id": "hand", "name_en": "By Hand", "name_es": "A mano", "image": "" },
-  { "id": "shimmer", "name_en": "Shimmer", "name_es": "Fulgor", "image": "https://terraria.wiki.gg/images/Shimmer.png" },
-  { "id": "36", "name_en": "Work Bench", "name_es": "Banco de trabajo", "image": "https://terraria.wiki.gg/images/Work_Bench.png" },
-  { "id": "33", "name_en": "Furnace", "name_es": "Horno", "image": "https://terraria.wiki.gg/images/Furnace.png" },
-  { "id": "112", "name_en": "Hellforge", "name_es": "Forja infernal", "image": "https://terraria.wiki.gg/images/Hellforge.png" },
-  { "id": "35", "name_en": "Iron Anvil", "name_es": "Yunque de hierro", "image": "https://terraria.wiki.gg/images/Iron_Anvil.png" },
-  { "id": "716", "name_en": "Lead Anvil", "name_es": "Yunque de plomo", "image": "https://terraria.wiki.gg/images/Lead_Anvil.png" },
-  { "id": "iron_anvil", "name_en": "Any Iron Anvil", "name_es": "Cualquier Yunque de Hierro/Plomo", "image": "https://terraria.wiki.gg/images/Iron_Anvil.png" },
-  { "id": "mythril_anvil", "name_en": "Any Mythril Anvil", "name_es": "Cualquier Yunque de Mitrilo/Oricalco", "image": "https://terraria.wiki.gg/images/Mythril_Anvil.png" },
-  { "id": "31", "name_en": "Placed Bottle", "name_es": "Botella colocada", "image": "https://terraria.wiki.gg/images/Bottle.png" },
-  { "id": "3001", "name_en": "Alchemy Table", "name_es": "Mesa de alquimia", "image": "https://terraria.wiki.gg/images/Alchemy_Table.png" },
-  { "id": "alch_flask", "name_en": "Alchemy Flask", "name_es": "Frasco de alquimia", "image": "" },
-  { "id": "2840", "name_en": "Metal Sink", "name_es": "Fregadero de metal", "image": "https://terraria.wiki.gg/images/Metal_Sink.png" },
-  { "id": "345", "name_en": "Sawmill", "name_es": "Aserradero", "image": "https://terraria.wiki.gg/images/Sawmill.png" },
-  { "id": "330", "name_en": "Loom", "name_es": "Telar", "image": "https://terraria.wiki.gg/images/Loom.png" },
-  { "id": "346", "name_en": "Cooking Pot", "name_es": "Olla", "image": "https://terraria.wiki.gg/images/Cooking_Pot.png" },
-  { "id": "2209", "name_en": "Cauldron", "name_es": "Caldero", "image": "https://terraria.wiki.gg/images/Cauldron.png" },
-  { "id": "398", "name_en": "Tinkerer's Workshop", "name_es": "Taller de chapuzas", "image": "https://terraria.wiki.gg/images/Tinkerer's_Workshop.png" },
-  { "id": "1551", "name_en": "Imbuing Station", "name_es": "Estación de imbuición", "image": "https://terraria.wiki.gg/images/Imbuing_Station.png" }
+  {
+    "id": "hand",
+    "name_en": "By Hand",
+    "name_es": "A mano",
+    "image": ""
+  },
+  {
+    "id": "shimmer",
+    "name_en": "Shimmer",
+    "name_es": "Fulgor",
+    "image": "https://terraria.wiki.gg/images/Shimmering.png"
+  },
+  {
+    "id": "36",
+    "name_en": "Work Bench",
+    "name_es": "Banco de trabajo",
+    "image": "https://terraria.wiki.gg/images/Work_Bench.png"
+  },
+  {
+    "id": "33",
+    "name_en": "Furnace",
+    "name_es": "Horno",
+    "image": "https://terraria.wiki.gg/images/Furnace.png"
+  },
+  {
+    "id": "112",
+    "name_en": "Hellforge",
+    "name_es": "Forja infernal",
+    "image": "https://terraria.wiki.gg/images/Hellforge.png"
+  },
+  {
+    "id": "35",
+    "name_en": "Iron Anvil",
+    "name_es": "Yunque de hierro",
+    "image": "https://terraria.wiki.gg/images/Iron_Anvil.png"
+  },
+  {
+    "id": "716",
+    "name_en": "Lead Anvil",
+    "name_es": "Yunque de plomo",
+    "image": "https://terraria.wiki.gg/images/Lead_Anvil.png"
+  },
+  {
+    "id": "iron_anvil",
+    "name_en": "Any Iron Anvil",
+    "name_es": "Cualquier Yunque de Hierro/Plomo",
+    "image": "https://terraria.wiki.gg/images/Iron_Anvil.png"
+  },
+  {
+    "id": "mythril_anvil",
+    "name_en": "Any Mythril Anvil",
+    "name_es": "Cualquier Yunque de Mitrilo/Oricalco",
+    "image": "https://terraria.wiki.gg/images/Mythril_Anvil.png"
+  },
+  {
+    "id": "31",
+    "name_en": "Placed Bottle",
+    "name_es": "Botella colocada",
+    "image": "https://terraria.wiki.gg/images/Bottle.png"
+  },
+  {
+    "id": "3001",
+    "name_en": "Alchemy Table",
+    "name_es": "Mesa de alquimia",
+    "image": "https://terraria.wiki.gg/images/Alchemy_Table.png"
+  },
+  {
+    "id": "alch_flask",
+    "name_en": "Alchemy Flask",
+    "name_es": "Frasco de alquimia",
+    "image": ""
+  },
+  {
+    "id": "2840",
+    "name_en": "Metal Sink",
+    "name_es": "Fregadero de metal",
+    "image": "https://terraria.wiki.gg/images/Metal_Sink.png"
+  },
+  {
+    "id": "345",
+    "name_en": "Sawmill",
+    "name_es": "Aserradero",
+    "image": "https://terraria.wiki.gg/images/Sawmill.png"
+  },
+  {
+    "id": "330",
+    "name_en": "Loom",
+    "name_es": "Telar",
+    "image": "https://terraria.wiki.gg/images/Loom.png"
+  },
+  {
+    "id": "346",
+    "name_en": "Cooking Pot",
+    "name_es": "Olla",
+    "image": "https://terraria.wiki.gg/images/Cooking_Pot.png"
+  },
+  {
+    "id": "2209",
+    "name_en": "Cauldron",
+    "name_es": "Caldero",
+    "image": "https://terraria.wiki.gg/images/Cauldron.png"
+  },
+  {
+    "id": "398",
+    "name_en": "Tinkerer's Workshop",
+    "name_es": "Taller de chapuzas",
+    "image": "https://terraria.wiki.gg/images/Tinkerer's_Workshop.png"
+  },
+  {
+    "id": "1551",
+    "name_en": "Imbuing Station",
+    "name_es": "Estación de imbuición",
+    "image": "https://terraria.wiki.gg/images/Imbuing_Station.png"
+  }
 ]
