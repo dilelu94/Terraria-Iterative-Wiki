@@ -2118,8 +2118,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Band_of_Starpower.png?84d901",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Romper Orbes Sombríos"
   },
   {
     "id": "112",
@@ -7365,7 +7367,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Toolbelt",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Toolbelt.png?2f4407",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Regalos de Navidad"
   },
   {
     "id": "408",
@@ -14802,8 +14807,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Discount_Card.png?56c77a",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "loot"
+    ],
+    "origin_info": "Invasión Pirata"
   },
   {
     "id": "855",
@@ -14821,9 +14828,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Lucky_Coin.png?1f9630",
     "station_ids": [
       "shimmer",
-      "exploration"
+      "exploration",
+      "loot"
     ],
-    "origin_info": "Wooden Chest (Superficie)"
+    "origin_info": "Invasión Pirata"
   },
   {
     "id": "856",
@@ -15304,8 +15312,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Armor_Polish.png?133820",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "loot"
+    ],
+    "origin_info": "Reina Abeja"
   },
   {
     "id": "887",
@@ -15321,7 +15331,8 @@
       }
     ],
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "398"
     ]
   },
   {
@@ -15339,7 +15350,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Blindfold.png?659d31",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "398"
     ]
   },
   {
@@ -15357,7 +15369,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Fast_Clock.png?e48b96",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "398"
     ]
   },
   {
@@ -15380,7 +15393,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Megaphone.png?159ace",
     "station_ids": [
-      "shimmer"
+      "shimmer",
+      "398"
     ]
   },
   {
@@ -15397,8 +15411,10 @@
       }
     ],
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "loot"
+    ],
+    "origin_info": "Murciélagos corruptos / Slimes oscuros"
   },
   {
     "id": "892",
@@ -15415,8 +15431,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Vitamins.png?549dd5",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "loot"
+    ],
+    "origin_info": "Diablillo de fuego"
   },
   {
     "id": "893",
@@ -16205,7 +16223,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Paladin's_Shield",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Paladin%27s_Shield.png?af61e6",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Paladín (Mazmorra)"
   },
   {
     "id": "939",
@@ -16811,8 +16832,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pink_Eskimo_Hood.png?afb07a",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "loot"
+    ],
+    "origin_info": "Tortuga de hielo"
   },
   {
     "id": "979",
@@ -20431,8 +20454,10 @@
     "image_url": "https://terraria.wiki.gg/images/Titanium_Bar.png",
     "station_ids": [
       "112",
-      "adamantite_forge"
-    ]
+      "adamantite_forge",
+      "merchant_buy"
+    ],
+    "origin_info": "Goblin Tinkerer"
   },
   {
     "id": "1199",
@@ -21256,7 +21281,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Nimbus_Rod",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Nimbus_Rod.png?85a93a",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ]
   },
   {
     "id": "1245",
@@ -21415,8 +21442,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Yellow_Horseshoe_Balloon.png?24490b",
     "station_ids": [
       "hand",
-      "398"
-    ]
+      "398",
+      "exploration"
+    ],
+    "origin_info": "Romper Corazones Carmesí"
   },
   {
     "id": "1253",
@@ -21980,7 +22009,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Life_Fruit",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Life_Fruit.png?c86213",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ]
   },
   {
     "id": "1292",
@@ -33601,8 +33632,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/images/Frost_Core.png",
     "station_ids": [
-      "heavy_workbench"
-    ]
+      "heavy_workbench",
+      "fishing"
+    ],
+    "origin_info": "Cualquier bioma"
   },
   {
     "id": "2162",
@@ -34590,7 +34623,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Brick_Layer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Brick_Layer.png?c7fcdb",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Traveling Merchant"
   },
   {
     "id": "2215",
@@ -34600,7 +34636,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Extendo_Grip",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Extendo_Grip.png?145d5c",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Traveling Merchant"
   },
   {
     "id": "2216",
@@ -34610,7 +34649,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Paint_Sprayer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Paint_Sprayer.png?6c9cf1",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Steampunker"
   },
   {
     "id": "2217",
@@ -34620,7 +34662,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Portable_Cement_Mixer",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Portable_Cement_Mixer.png?558666",
-    "station_ids": []
+    "station_ids": [
+      "merchant_buy"
+    ],
+    "origin_info": "Traveling Merchant"
   },
   {
     "id": "2218",
@@ -34640,7 +34685,9 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Magnet",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Celestial_Magnet.png?bd8eeb",
-    "station_ids": []
+    "station_ids": [
+      "398"
+    ]
   },
   {
     "id": "2220",
@@ -47260,8 +47307,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Coin_Ring.png?bdced1",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Invasión Pirata"
   },
   {
     "id": "3035",
@@ -47281,7 +47330,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Greedy_Ring.png?b3fb90",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -48320,7 +48370,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Endless_Quiver.png?bb4e31",
     "station_ids": [
       "hand",
-      "crystal_ball"
+      "crystal_ball",
+      "398"
     ]
   },
   {
@@ -58107,8 +58158,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Angler_Tackle_Bag.png?42cb68",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "loot"
+    ],
+    "origin_info": "Medusa"
   },
   {
     "id": "3722",
@@ -62086,7 +62139,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Berserker%27s_Glove.png?de47bb",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62129,7 +62183,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frog_Flipper.png?a992e3",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62193,7 +62248,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Frozen_Shield.png?358220",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62258,7 +62314,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Magnet_Flower.png?966729",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62279,7 +62336,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mana_Cloak.png?937c97",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {
@@ -62300,7 +62358,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Molten_Quiver.png?768248",
     "station_ids": [
-      "hand"
+      "hand",
+      "398"
     ]
   },
   {

@@ -33,15 +33,23 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
   const itemsUsingMaterial = findItemsUsingMaterial(item.name_en);
   const npcsByItem = findNPCsByItem(item.id);
   
-  // Separar recetas normales de Shimmer
-  const normalRecipes = item.recipes?.filter(r => !r.is_shimmer) || [];
-  const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
+  const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
+  const hasChestOrigin = !!item.origin_info;
 
+  // Filtrar estaciones según la regla: No mostrar "A mano" si hay otras fuentes
   const itemStations = item.station_ids 
-    ? stations.filter(s => item.station_ids!.includes(s.id))
+    ? stations.filter(s => {
+        if (s.id === 'hand') {
+          const otherStations = item.station_ids!.filter(id => id !== 'hand');
+          const hasOtherSources = hasDrops || hasChestOrigin || npcsByItem.length > 0;
+          return otherStations.length === 0 && !hasOtherSources;
+        }
+        return item.station_ids!.includes(s.id);
+      })
     : [];
 
-  const hasDrops = enemiesByDrop.length > 0 || bossesByDrop.length > 0 || mimicsByDrop.length > 0;
+  const normalRecipes = item.recipes?.filter(r => !r.is_shimmer) || [];
+  const shimmerRecipes = item.recipes?.filter(r => r.is_shimmer) || [];
 
   return (
     <div className="crafting-view animate-slide">
@@ -118,7 +126,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       </div>
 
       <div className="crafting-grid">
-        {/* 1. Ingredientes Directos (Solo Crafteo Normal) */}
+        {/* 1. Ingredientes Directos */}
         {normalRecipes.length > 0 && (
           <div className="recipe-box">
             <h3>{lang === 'es' ? 'Ingredientes Directos' : 'Direct Ingredients'}</h3>
@@ -142,7 +150,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* 2. Transmutación del Fulgor (Sección Separada) */}
+        {/* 2. Transmutación del Fulgor */}
         {shimmerRecipes.length > 0 && (
           <div className="recipe-box shimmer-recipe-box">
             <h3>{lang === 'es' ? 'Transmutación del Fulgor' : 'Shimmer Transmutation'}</h3>
@@ -166,7 +174,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* Si no tiene recetas normales ni de shimmer, es material base o drop */}
+        {/* Material Base / Drops */}
         {normalRecipes.length === 0 && shimmerRecipes.length === 0 && (
           <div className="recipe-box">
             <div className="base-material-info">
@@ -237,7 +245,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* 3. Se usa para fabricar */}
         <div className="recipe-box">
           <h3>{lang === 'es' ? 'Se usa para fabricar:' : 'Used to craft:'}</h3>
           {itemsUsingMaterial.length > 0 ? (
@@ -261,7 +268,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           )}
         </div>
 
-        {/* 4. Lista de Compras (Solo si tiene recetas normales) */}
         {Object.keys(totalMaterials).length > 0 && normalRecipes.length > 0 && (
           <div className="raw-materials-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Lista de Compras (Total Base)' : 'Shopping List (Total Base)'}</h3>
@@ -277,7 +283,6 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* 5. Información de Armadura (Si aplica) */}
         {item.is_armor && (
           <div className="recipe-box armor-info-box" style={{ gridColumn: '1 / -1' }}>
             <h3>{lang === 'es' ? 'Información de Armadura' : 'Armor Information'}</h3>
@@ -309,10 +314,9 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
           </div>
         )}
 
-        {/* 6. Estación de Trabajo / Obtención */}
         {itemStations.length > 0 && (
           <div className="recipe-box station-box" style={{ gridColumn: '1 / -1' }}>
-            <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal', 'exploration', 'quest', 'mining', 'farming'].includes(s.id)) 
+            <h3>{itemStations.some(s => ['loot', 'fishing', 'merchant_buy', 'seasonal', 'exploration', 'quest', 'mining', 'farming', 'bug_net', 'tree_shaking', 'recording', 'death'].includes(s.id)) 
               ? (lang === 'es' ? 'Método de Obtención' : 'Obtaining Method')
               : (lang === 'es' ? 'Se fabrica en:' : 'Crafting Station:')}</h3>
             <div className="info-list" style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
