@@ -147,20 +147,7 @@
     "name_en": "Torch",
     "name_es": "Antorcha",
     "wiki_url": "https://terraria.wiki.gg/wiki/Torch",
-    "recipes": [
-      {
-        "name_en": "Any Wood",
-        "amount": 1
-      },
-      {
-        "name_en": "Gel",
-        "amount": 1
-      },
-      {
-        "name_en": "Iron Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Torch.png",
     "station_ids": [
       "hand",
@@ -763,16 +750,7 @@
     "name_en": "Wooden Arrow",
     "name_es": "Flecha de madera",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wooden_Arrow",
-    "recipes": [
-      {
-        "name_en": "Any Wood",
-        "amount": 1
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wooden_Arrow.png",
     "station_ids": [
       "hand",
@@ -895,16 +873,7 @@
     "name_en": "Unholy Arrow",
     "name_es": "Flecha impía",
     "wiki_url": "https://terraria.wiki.gg/wiki/Unholy_Arrow",
-    "recipes": [
-      {
-        "name_en": "Vertebra",
-        "amount": 1
-      },
-      {
-        "name_en": "Wooden Arrow",
-        "amount": 5
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Unholy_Arrow.png",
     "station_ids": [
       "hand",
@@ -1041,16 +1010,7 @@
     "name_en": "Enchanted Boomerang",
     "name_es": "Búmeran encantado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Enchanted_Boomerang",
-    "recipes": [
-      {
-        "name_en": "Fallen Star",
-        "amount": 1
-      },
-      {
-        "name_en": "Wooden Boomerang",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Enchanted_Boomerang.png",
     "station_ids": [
       "hand",
@@ -1064,12 +1024,7 @@
     "name_en": "Demonite Ore",
     "name_es": "Mineral de endemoniado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Demonite_Ore",
-    "recipes": [
-      {
-        "name_en": "Crimtane Ore",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demonite_Ore.png",
     "station_ids": [
       "exploration",
@@ -1818,12 +1773,7 @@
     "name_en": "Minishark",
     "name_es": "Minitiburón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Minishark",
-    "recipes": [
-      {
-        "name_en": "Silver Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Minishark.png",
     "station_ids": [
       "exploration"
@@ -2562,12 +2512,7 @@
     "name_en": "Little Shroom",
     "name_es": "Champiñoncito",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Brick_Wall",
-    "recipes": [
-      {
-        "name_en": "Red Brick",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Brick_Wall.png",
     "station_ids": [
       "exploration"
@@ -2876,12 +2821,7 @@
     "name_en": "Bone",
     "name_es": "Hueso",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cobweb",
-    "recipes": [
-      {
-        "name_en": "Spider Wall",
-        "amount": 4
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cobweb.png",
     "station_ids": [
       "loot"
@@ -2894,16 +2834,7 @@
     "name_en": "Muramasa",
     "name_es": "Muramasa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Necro_Helmet",
-    "recipes": [
-      {
-        "name_en": "Bone",
-        "amount": 40
-      },
-      {
-        "name_en": "Cobweb",
-        "amount": 40
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necro_Helmet.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
@@ -2922,16 +2853,7 @@
     "name_en": "Cobalt Shield",
     "name_es": "Escudo de cobalto",
     "wiki_url": "https://terraria.wiki.gg/wiki/Necro_Breastplate",
-    "recipes": [
-      {
-        "name_en": "Bone",
-        "amount": 60
-      },
-      {
-        "name_en": "Cobweb",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necro_Breastplate.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
@@ -2950,16 +2872,7 @@
     "name_en": "Aqua Scepter",
     "name_es": "Cetro de agua",
     "wiki_url": "https://terraria.wiki.gg/wiki/Necro_Greaves",
-    "recipes": [
-      {
-        "name_en": "Bone",
-        "amount": 50
-      },
-      {
-        "name_en": "Cobweb",
-        "amount": 45
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Necro_Greaves.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
@@ -2978,12 +2891,7 @@
     "name_en": "Lucky Horseshoe",
     "name_es": "Herradura de la suerte",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bone",
-    "recipes": [
-      {
-        "name_en": "Bone Block Wall",
-        "amount": 4
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bone.png",
     "station_ids": [
       "exploration"
@@ -3090,12 +2998,7 @@
     "name_en": "Ball O' Hurt",
     "name_es": "Bola de dolor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ball_O'_Hurt",
-    "recipes": [
-      {
-        "name_en": "Demonite Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ball_O'_Hurt.png",
     "station_ids": [
       "hand",
@@ -3122,12 +3025,7 @@
     "name_en": "Handgun",
     "name_es": "Pistola",
     "wiki_url": "https://terraria.wiki.gg/wiki/Handgun",
-    "recipes": [
-      {
-        "name_en": "Meteorite Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Handgun.png",
     "station_ids": [
       "hand",
@@ -3556,20 +3454,7 @@
     "name_en": "Blade of Grass",
     "name_es": "Muramasa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Blade_of_Grass",
-    "recipes": [
-      {
-        "name_en": "Jungle Spores",
-        "amount": 15
-      },
-      {
-        "name_en": "Stinger",
-        "amount": 12
-      },
-      {
-        "name_en": "Vine",
-        "amount": 3
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blade_of_Grass.png",
     "station_ids": [
       "hand",
@@ -3693,20 +3578,7 @@
     "name_en": "Star Cannon",
     "name_es": "Minitiburón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Cannon",
-    "recipes": [
-      {
-        "name_en": "Fallen Star",
-        "amount": 5
-      },
-      {
-        "name_en": "Meteorite Bar",
-        "amount": 20
-      },
-      {
-        "name_en": "Minishark",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Cannon.png",
     "station_ids": [
       "exploration"
@@ -4042,7 +3914,7 @@
     "id": "217",
     "category": "Tools",
     "name_en": "Molten Hamaxe",
-    "name_es": "Trozo podrido",
+    "name_es": "Hacha-martillo fundida",
     "wiki_url": "https://terraria.wiki.gg/wiki/Molten_Hamaxe",
     "recipes": [
       {
@@ -4056,7 +3928,7 @@
       "iron_anvil",
       "exploration"
     ],
-    "origin_info": "Botín: Enemigos de la Corrupción"
+    "origin_info": "Fabricado: Yunque (15 Lingotes de piedra infernal)"
   },
   {
     "id": "218",
@@ -4077,16 +3949,7 @@
     "name_en": "Phoenix Blaster",
     "name_es": "Flor de fuego",
     "wiki_url": "https://terraria.wiki.gg/wiki/Phoenix_Blaster",
-    "recipes": [
-      {
-        "name_en": "Handgun",
-        "amount": 1
-      },
-      {
-        "name_en": "Hellstone Bar",
-        "amount": 10
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Phoenix_Blaster.png",
     "station_ids": [
       "hand",
@@ -4100,12 +3963,7 @@
     "name_en": "Sunfury",
     "name_es": "Furia solar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sunfury",
-    "recipes": [
-      {
-        "name_en": "Meteorite Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sunfury.png",
     "station_ids": [
       "hand",
@@ -4117,15 +3975,10 @@
   {
     "id": "221",
     "category": "Crafting Stations",
-    "name_en": "Hellforge",
+    "name_en": "Mining Helmet",
     "name_es": "Casco de minero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hellforge",
-    "recipes": [
-      {
-        "name_en": "Meteorite Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hellforge.png",
     "station_ids": [
       "exploration",
@@ -5068,12 +4921,7 @@
     "name_en": "Cactus",
     "name_es": "Cactus",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cactus",
-    "recipes": [
-      {
-        "name_en": "Cactus Platform",
-        "amount": 2
-      }
-    ],
+    "recipes": [],
     "station_ids": [
       "hand",
       "330",
@@ -5107,16 +4955,7 @@
     "name_en": "Silver Bullet",
     "name_es": "Bala de plata",
     "wiki_url": "https://terraria.wiki.gg/wiki/Silver_Bullet",
-    "recipes": [
-      {
-        "name_en": "Musket Ball",
-        "amount": 70
-      },
-      {
-        "name_en": "Silver Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Bullet.png",
     "station_ids": [
       "hand",
@@ -5169,12 +5008,7 @@
     "name_en": "Glowstick",
     "name_es": "Bengala",
     "wiki_url": "https://terraria.wiki.gg/wiki/Glowstick",
-    "recipes": [
-      {
-        "name_en": "Iron Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Glowstick.png",
     "station_ids": [
       "hand",
@@ -5593,24 +5427,7 @@
     "name_en": "Night Owl Potion",
     "name_es": "Fruta de vida",
     "wiki_url": "https://terraria.wiki.gg/wiki/Night_Owl_Potion",
-    "recipes": [
-      {
-        "name_en": "Bottled Water",
-        "amount": 1
-      },
-      {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
-        "name_en": "Moonglow",
-        "amount": 1
-      },
-      {
-        "name_en": "Gold Ore",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Night_Owl_Potion.png",
     "station_ids": [
       "31",
@@ -6989,16 +6806,7 @@
     "name_en": "Mythril Hat",
     "name_es": "Escarabajo de Hércules",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mythril_Hat",
-    "recipes": [
-      {
-        "name_en": "Mythril Bar",
-        "amount": 10
-      },
-      {
-        "name_en": "Cobalt Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mythril_Hat.png",
     "station_ids": [
       "mythril_anvil"
@@ -7422,25 +7230,16 @@
     "id": "399",
     "category": "Accessories",
     "name_en": "Cloud in a Balloon",
-    "name_es": "Medidor de profundidad",
+    "name_es": "Nube en un globo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloud_in_a_Balloon",
-    "recipes": [
-      {
-        "name_en": "Cloud in a Bottle",
-        "amount": 1
-      },
-      {
-        "name_en": "Shiny Red Balloon",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud_in_a_Balloon.png",
     "station_ids": [
       "hand",
       "mythril_anvil",
       "398"
     ],
-    "origin_info": "Botín: Murciélago / Cangrejo / Salamandra"
+    "origin_info": "Fabricado: Taller de chapuzas (Nube en botella + Globo rojo brillante)"
   },
   {
     "id": "400",
@@ -7643,12 +7442,7 @@
     "name_en": "Mining Shirt",
     "name_es": "Camisa de minero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mining_Shirt",
-    "recipes": [
-      {
-        "name_en": "Mining Pants",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mining_Shirt.png",
     "station_ids": [
       "loot"
@@ -7661,12 +7455,7 @@
     "name_en": "Mining Pants",
     "name_es": "Pantalones de minero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mining_Pants",
-    "recipes": [
-      {
-        "name_en": "Mining Shirt",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mining_Pants.png",
     "station_ids": [
       "loot"
@@ -8264,16 +8053,7 @@
     "name_en": "Sword Statue",
     "name_es": "Estatua de espada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Fish_Statue",
-    "recipes": [
-      {
-        "name_en": "Goldfish",
-        "amount": 5
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fish_Statue.png",
     "station_ids": [
       "exploration"
@@ -8286,16 +8066,7 @@
     "name_en": "Bird Statue",
     "name_es": "Estatua de pájaro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bunny_Statue",
-    "recipes": [
-      {
-        "name_en": "Bunny",
-        "amount": 5
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bunny_Statue.png",
     "station_ids": [
       "exploration"
@@ -8510,16 +8281,7 @@
     "name_en": "Bird Statue",
     "name_es": "Estatua de cerdragón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bird_Statue",
-    "recipes": [
-      {
-        "name_en": "Any Bird",
-        "amount": 5
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bird_Statue.png",
     "station_ids": [
       "hand"
@@ -9234,16 +8996,7 @@
     "name_en": "Wire Cutter",
     "name_es": "Alicates",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wire_Cutter",
-    "recipes": [
-      {
-        "name_en": "Stone Block",
-        "amount": 1
-      },
-      {
-        "name_en": "Wire",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wire_Cutter.png",
     "station_ids": [
       "exploration"
@@ -9304,16 +9057,7 @@
     "name_en": "Laser Rifle",
     "name_es": "Fusil láser",
     "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Rifle",
-    "recipes": [
-      {
-        "name_en": "Crystal Shard",
-        "amount": 1
-      },
-      {
-        "name_en": "Musket Ball",
-        "amount": 100
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Laser_Rifle.png",
     "station_ids": [
       "loot"
@@ -9825,12 +9569,7 @@
     "name_en": "Soul of Fright",
     "name_es": "Alma de terror",
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Fright",
-    "recipes": [
-      {
-        "name_en": "Hallowed Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soul_of_Fright.png",
     "station_ids": [
       "hand",
@@ -9845,12 +9584,7 @@
     "name_en": "Soul of Might",
     "name_es": "Alma de poder",
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Might",
-    "recipes": [
-      {
-        "name_en": "Hallowed Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soul_of_Might.png",
     "station_ids": [
       "hand",
@@ -9865,12 +9599,7 @@
     "name_en": "Soul of Sight",
     "name_es": "Alma de visión",
     "wiki_url": "https://terraria.wiki.gg/wiki/Soul_of_Sight",
-    "recipes": [
-      {
-        "name_en": "Hallowed Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Soul_of_Sight.png",
     "station_ids": [
       "hand",
@@ -13077,12 +12806,7 @@
     "name_en": "Ice Blade",
     "name_es": "Espada de hielo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Blade",
-    "recipes": [
-      {
-        "name_en": "Tungsten Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Blade.png",
     "station_ids": [
       "hand",
@@ -13601,12 +13325,7 @@
     "name_en": "Soul of Fright",
     "name_es": "Alma de terror",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cactus_Wall",
-    "recipes": [
-      {
-        "name_en": "Cactus",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cactus_Wall.png",
     "station_ids": [
       "loot"
@@ -13619,12 +13338,7 @@
     "name_en": "Soul of Might",
     "name_es": "Alma de poder",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloud",
-    "recipes": [
-      {
-        "name_en": "Cloud Wall",
-        "amount": 4
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud.png",
     "station_ids": [
       "loot"
@@ -13637,12 +13351,7 @@
     "name_en": "Soul of Sight",
     "name_es": "Alma de visión",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cloud_Wall",
-    "recipes": [
-      {
-        "name_en": "Cloud",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cloud_Wall.png",
     "station_ids": [
       "loot"
@@ -15119,12 +14828,7 @@
     "name_en": "Pharaoh's Mask",
     "name_es": "Máscara de faraón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pharaoh's_Mask",
-    "recipes": [
-      {
-        "name_en": "Sandstorm in a Bottle",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh's_Mask.png",
     "station_ids": [
       "hand",
@@ -15381,16 +15085,7 @@
     "name_en": "Star Veil",
     "name_es": "Ventisca en botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Veil",
-    "recipes": [
-      {
-        "name_en": "Cross Necklace",
-        "amount": 1
-      },
-      {
-        "name_en": "Star Cloak",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Veil.png",
     "station_ids": [
       "hand",
@@ -15440,12 +15135,7 @@
     "name_en": "Pharaoh's Robe",
     "name_es": "Túnica de faraón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pharaoh's_Robe",
-    "recipes": [
-      {
-        "name_en": "Flying Carpet",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh's_Robe.png",
     "station_ids": [
       "hand",
@@ -15595,12 +15285,7 @@
     "name_en": "Crimtane Ore",
     "name_es": "Mineral carmesí",
     "wiki_url": "https://terraria.wiki.gg/wiki/Crimtane_Ore",
-    "recipes": [
-      {
-        "name_en": "Demonite Ore",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimtane_Ore.png",
     "station_ids": [
       "exploration",
@@ -15614,12 +15299,7 @@
     "name_en": "Tissue Sample",
     "name_es": "Muestra de tejido",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tissue_Sample",
-    "recipes": [
-      {
-        "name_en": "Cactus",
-        "amount": 10
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tissue_Sample.png",
     "station_ids": [
       "loot"
@@ -15632,12 +15312,7 @@
     "name_en": "Vertebra",
     "name_es": "Vértebra",
     "wiki_url": "https://terraria.wiki.gg/wiki/Vertebra",
-    "recipes": [
-      {
-        "name_en": "Cactus",
-        "amount": 15
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vertebra.png",
     "station_ids": [
       "loot"
@@ -15950,16 +15625,7 @@
     "name_en": "Bezoar",
     "name_es": "Bezoar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Power_Glove",
-    "recipes": [
-      {
-        "name_en": "Feral Claws",
-        "amount": 1
-      },
-      {
-        "name_en": "Titan Glove",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Power_Glove.png",
     "station_ids": [
       "loot"
@@ -15969,8 +15635,8 @@
   {
     "id": "898",
     "category": "Accessories",
-    "name_en": "Vitamins",
-    "name_es": "Vitaminas",
+    "name_en": "Lightning Boots",
+    "name_es": "Botas relámpago",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lightning_Boots",
     "recipes": [
       {
@@ -15988,9 +15654,9 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lightning_Boots.png",
     "station_ids": [
-      "loot"
+      "398"
     ],
-    "origin_info": "Botín: Corruptor / Flotador asqueroso"
+    "origin_info": "Fabricado: Taller de chapuzas (Botas de espectro + Tobillera del viento + Herrete)"
   },
   {
     "id": "899",
@@ -16046,16 +15712,7 @@
     "name_en": "Neptune's Shell",
     "name_es": "Caparazón de neptuno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Medicated_Bandage",
-    "recipes": [
-      {
-        "name_en": "Adhesive Bandage",
-        "amount": 1
-      },
-      {
-        "name_en": "Bezoar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Medicated_Bandage.png",
     "station_ids": [
       "loot"
@@ -16854,12 +16511,7 @@
     "name_en": "Ancient Iron Helmet",
     "name_es": "Casco de hierro antiguo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Iron_Helmet",
-    "recipes": [
-      {
-        "name_en": "Iron Helmet",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Iron_Helmet.png",
     "is_armor": true,
     "armor_set_en": "Iron Armor",
@@ -16878,12 +16530,7 @@
     "name_en": "Ancient Gold Helmet",
     "name_es": "Casco de oro antiguo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Gold_Helmet",
-    "recipes": [
-      {
-        "name_en": "Gold Helmet",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Gold_Helmet.png",
     "is_armor": true,
     "armor_set_en": "Gold Armor",
@@ -16927,12 +16574,7 @@
     "name_en": "Ancient Shadow Scalemail",
     "name_es": "Abrigo de esquimal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Shadow_Scalemail",
-    "recipes": [
-      {
-        "name_en": "Shadow Scalemail",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Shadow_Scalemail.png",
     "is_armor": true,
     "armor_set_en": "Shadow Armor",
@@ -16951,12 +16593,7 @@
     "name_en": "Ancient Shadow Greaves",
     "name_es": "Pantalones de esquimal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Shadow_Greaves",
-    "recipes": [
-      {
-        "name_en": "Shadow Greaves",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Shadow_Greaves.png",
     "is_armor": true,
     "armor_set_en": "Shadow Armor",
@@ -16975,12 +16612,7 @@
     "name_en": "Ancient Necro Helmet",
     "name_es": "Casco de los muertos antiguo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Necro_Helmet",
-    "recipes": [
-      {
-        "name_en": "Necro Helmet",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Necro_Helmet.png",
     "is_armor": true,
     "armor_set_en": "Necro Armor",
@@ -17018,12 +16650,7 @@
     "name_en": "Ancient Cobalt Breastplate",
     "name_es": "Cota de escamas de las sombras antigua",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Cobalt_Breastplate",
-    "recipes": [
-      {
-        "name_en": "Jungle Shirt",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Cobalt_Breastplate.png",
     "station_ids": [
       "loot"
@@ -17036,12 +16663,7 @@
     "name_en": "Ancient Cobalt Leggings",
     "name_es": "Grebas de las sombras antiguas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ancient_Cobalt_Leggings",
-    "recipes": [
-      {
-        "name_en": "Jungle Pants",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ancient_Cobalt_Leggings.png",
     "station_ids": [
       "loot"
@@ -17357,16 +16979,7 @@
     "name_en": "Mana Regeneration Band",
     "name_es": "Báculo de slime",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mana_Regeneration_Band",
-    "recipes": [
-      {
-        "name_en": "Band of Regeneration",
-        "amount": 1
-      },
-      {
-        "name_en": "Band of Starpower",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mana_Regeneration_Band.png",
     "station_ids": [
       "hand"
@@ -17455,16 +17068,7 @@
     "name_en": "Blizzard in a Bottle",
     "name_es": "Ventisca en botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Blizzard_in_a_Bottle",
-    "recipes": [
-      {
-        "name_en": "Cloud in a Bottle",
-        "amount": 1
-      },
-      {
-        "name_en": "Frost Core",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blizzard_in_a_Bottle.png",
     "station_ids": [
       "hand",
@@ -17803,12 +17407,7 @@
     "name_en": "Dye Vat",
     "name_es": "Tintorería",
     "wiki_url": "https://terraria.wiki.gg/wiki/Dye_Vat",
-    "recipes": [
-      {
-        "name_en": "Red Husk",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Vat.png",
     "station_ids": [
       "exploration"
@@ -17821,12 +17420,7 @@
     "name_en": "Silver Dye",
     "name_es": "Tinte plateado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Silver_Dye",
-    "recipes": [
-      {
-        "name_en": "Orange Bloodroot",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Silver_Dye.png",
     "station_ids": [
       "exploration"
@@ -17839,12 +17433,7 @@
     "name_en": "Black Dye",
     "name_es": "Tinte negro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Black_Dye",
-    "recipes": [
-      {
-        "name_en": "Yellow Marigold",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Black_Dye.png",
     "station_ids": [
       "exploration"
@@ -17857,12 +17446,7 @@
     "name_en": "Red Dye",
     "name_es": "Tinte rojo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Dye",
-    "recipes": [
-      {
-        "name_en": "Lime Kelp",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Dye.png",
     "station_ids": [
       "exploration"
@@ -19846,12 +19430,7 @@
     "name_en": "Hive",
     "name_es": "Apicultora",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hive",
-    "recipes": [
-      {
-        "name_en": "Hive Wall",
-        "amount": 4
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hive.png",
     "station_ids": [
       "loot"
@@ -19916,12 +19495,7 @@
     "name_en": "Honey Bucket",
     "name_es": "Llama maldita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Honey_Bucket",
-    "recipes": [
-      {
-        "name_en": "Lava Bucket",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Honey_Bucket.png",
     "station_ids": [
       "hand"
@@ -20018,12 +19592,7 @@
     "name_en": "Bottled Honey",
     "name_es": "Hueso de devorador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bottled_Honey",
-    "recipes": [
-      {
-        "name_en": "Bottle",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bottled_Honey.png",
     "station_ids": [
       "hand",
@@ -22270,16 +21839,7 @@
     "name_en": "Red Stained Glass",
     "name_es": "Prismáticos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red_Stained_Glass",
-    "recipes": [
-      {
-        "name_en": "Glass Wall",
-        "amount": 20
-      },
-      {
-        "name_en": "Ruby",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Stained_Glass.png",
     "station_ids": [
       "loot"
@@ -22565,16 +22125,7 @@
     "name_en": "Panic Necklace",
     "name_es": "Collar del pánico",
     "wiki_url": "https://terraria.wiki.gg/wiki/Panic_Necklace",
-    "recipes": [
-      {
-        "name_en": "Band of Starpower",
-        "amount": 1
-      },
-      {
-        "name_en": "Life Crystal",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Panic_Necklace.png",
     "station_ids": [
       "exploration"
@@ -22724,16 +22275,7 @@
     "name_en": "Binoculars",
     "name_es": "Prismáticos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Binoculars",
-    "recipes": [
-      {
-        "name_en": "Avenger Emblem",
-        "amount": 1
-      },
-      {
-        "name_en": "Eye of the Golem",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Binoculars.png",
     "station_ids": [
       "loot"
@@ -22746,16 +22288,7 @@
     "name_en": "Rifle Scope",
     "name_es": "Mira de fusil",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rifle_Scope",
-    "recipes": [
-      {
-        "name_en": "Cog",
-        "amount": 1
-      },
-      {
-        "name_en": "Empty Bullet",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rifle_Scope.png",
     "station_ids": [
       "loot"
@@ -23152,12 +22685,7 @@
     "name_en": "Tissue Sample",
     "name_es": "Muestra de tejido",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tissue_Sample",
-    "recipes": [
-      {
-        "name_en": "Shadow Scale",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tissue_Sample.png",
     "station_ids": [
       "loot"
@@ -23355,16 +22883,7 @@
     "name_en": "Flask of Venom",
     "name_es": "Mina terrestre",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flask_of_Venom",
-    "recipes": [
-      {
-        "name_en": "Bottled Water",
-        "amount": 1
-      },
-      {
-        "name_en": "Vial of Venom",
-        "amount": 5
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flask_of_Venom.png",
     "station_ids": [
       "hand"
@@ -25413,12 +24932,7 @@
     "name_en": "Spectre Pickaxe",
     "name_es": "Báculo espectral",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Pickaxe",
-    "recipes": [
-      {
-        "name_en": "Spectre Bar",
-        "amount": 18
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Pickaxe.png",
     "station_ids": [
       "loot"
@@ -25431,12 +24945,7 @@
     "name_en": "Spectre Hamaxe",
     "name_es": "Tenedor del infierno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spectre_Hamaxe",
-    "recipes": [
-      {
-        "name_en": "Spectre Bar",
-        "amount": 18
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spectre_Hamaxe.png",
     "station_ids": [
       "loot"
@@ -25449,12 +24958,7 @@
     "name_en": "Ectoplasm",
     "name_es": "Ectoplasma",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ectoplasm",
-    "recipes": [
-      {
-        "name_en": "Spectre Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ectoplasm.png",
     "is_armor": true,
     "armor_class": "Magia (Curación)",
@@ -28262,16 +27766,7 @@
     "name_en": "Fart in a Jar",
     "name_es": "Bolsa de sorpresas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Fart_in_a_Jar",
-    "recipes": [
-      {
-        "name_en": "Cloud in a Bottle",
-        "amount": 1
-      },
-      {
-        "name_en": "Whoopie Cushion",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fart_in_a_Jar.png",
     "station_ids": [
       "hand",
@@ -29516,16 +29011,7 @@
     "name_en": "Spooky Wings",
     "name_es": "Farol de calabaza",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spooky_Wings",
-    "recipes": [
-      {
-        "name_en": "Soul of Flight",
-        "amount": 20
-      },
-      {
-        "name_en": "Spooky Twig",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spooky_Wings.png",
     "station_ids": [
       "hand",
@@ -29903,16 +29389,7 @@
     "name_en": "Heart Lantern",
     "name_es": "Collar de cruz",
     "wiki_url": "https://terraria.wiki.gg/wiki/Heart_Lantern",
-    "recipes": [
-      {
-        "name_en": "Chain",
-        "amount": 4
-      },
-      {
-        "name_en": "Life Crystal",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Heart_Lantern.png",
     "station_ids": [
       "hand",
@@ -31005,20 +30482,7 @@
     "name_en": "Naughty Present",
     "name_es": "Mapa pirata",
     "wiki_url": "https://terraria.wiki.gg/wiki/Naughty_Present",
-    "recipes": [
-      {
-        "name_en": "Ectoplasm",
-        "amount": 5
-      },
-      {
-        "name_en": "Silk",
-        "amount": 20
-      },
-      {
-        "name_en": "Soul of Fright",
-        "amount": 5
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Naughty_Present.png",
     "station_ids": [
       "hand",
@@ -33838,12 +33302,7 @@
     "name_en": "Sandstone Slab",
     "name_es": "Caparazón de escarabajo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sandstone_Slab",
-    "recipes": [
-      {
-        "name_en": "Sand Block",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstone_Slab.png",
     "station_ids": [
       "hand",
@@ -37956,20 +37415,7 @@
     "name_en": "Sonar Potion",
     "name_es": "Poción de retorno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sonar_Potion",
-    "recipes": [
-      {
-        "name_en": "Bottled Water",
-        "amount": 1
-      },
-      {
-        "name_en": "Waterleaf",
-        "amount": 1
-      },
-      {
-        "name_en": "Coral",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sonar_Potion.png",
     "station_ids": [
       "31",
@@ -38131,12 +37577,7 @@
     "name_en": "Hornet Staff",
     "name_es": "Casco de glacial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Hornet_Staff",
-    "recipes": [
-      {
-        "name_en": "Bee Wax",
-        "amount": 14
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hornet_Staff.png",
     "station_ids": [
       "hand"
@@ -38149,12 +37590,7 @@
     "name_en": "Imp Staff",
     "name_es": "Coraza de glacial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Imp_Staff",
-    "recipes": [
-      {
-        "name_en": "Hellstone Bar",
-        "amount": 17
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Imp_Staff.png",
     "station_ids": [
       "hand"
@@ -38167,12 +37603,7 @@
     "name_en": "Queen Spider Staff",
     "name_es": "Grebas de glacial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Spider_Staff",
-    "recipes": [
-      {
-        "name_en": "Spider Fang",
-        "amount": 24
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Spider_Staff.png",
     "station_ids": [
       "hand"
@@ -44114,12 +43545,7 @@
     "name_en": "'K' Statue",
     "name_es": "Tifón de cuchillas",
     "wiki_url": "https://terraria.wiki.gg/wiki/K'_Statue",
-    "recipes": [
-      {
-        "name_en": "Stone Block",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/'K'_Statue.png",
     "station_ids": [
       "hand"
@@ -45006,12 +44432,7 @@
     "name_en": "Solar Tablet",
     "name_es": "Tableta solar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Tablet",
-    "recipes": [
-      {
-        "name_en": "Solar Tablet Fragment",
-        "amount": 8
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Solar_Tablet.png",
     "station_ids": [
       "hand",
@@ -45890,16 +45311,7 @@
     "name_en": "Wooden Sink",
     "name_es": "Xenobáculo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wooden_Sink",
-    "recipes": [
-      {
-        "name_en": "Water Bucket",
-        "amount": 1
-      },
-      {
-        "name_en": "Wood",
-        "amount": 6
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wooden_Sink.png",
     "station_ids": [
       "loot"
@@ -46367,16 +45779,7 @@
     "name_en": "Palm Wood Sink",
     "name_es": "Batería",
     "wiki_url": "https://terraria.wiki.gg/wiki/Palm_Wood_Sink",
-    "recipes": [
-      {
-        "name_en": "Palm Wood",
-        "amount": 6
-      },
-      {
-        "name_en": "Water Bucket",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Palm_Wood_Sink.png",
     "station_ids": [
       "hand"
@@ -46537,12 +45940,7 @@
     "name_en": "Martian Conduit Plating",
     "name_es": "Desintegrador cargado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Martian_Conduit_Plating",
-    "recipes": [
-      {
-        "name_en": "Martian Platform",
-        "amount": 2
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Martian_Conduit_Plating.png",
     "station_ids": [
       "loot"
@@ -48578,16 +47976,7 @@
     "name_en": "Rainbow Torch",
     "name_es": "Manzana bendita",
     "wiki_url": "https://terraria.wiki.gg/wiki/Rainbow_Torch",
-    "recipes": [
-      {
-        "name_en": "Rainbow Brick",
-        "amount": 1
-      },
-      {
-        "name_en": "Torch",
-        "amount": 10
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rainbow_Torch.png",
     "station_ids": [
       "loot"
@@ -48808,24 +48197,7 @@
     "name_en": "Architect Gizmo Pack",
     "name_es": "Espectro estelar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Architect_Gizmo_Pack",
-    "recipes": [
-      {
-        "name_en": "Brick Layer",
-        "amount": 1
-      },
-      {
-        "name_en": "Extendo Grip",
-        "amount": 1
-      },
-      {
-        "name_en": "Paint Sprayer",
-        "amount": 1
-      },
-      {
-        "name_en": "Portable Cement Mixer",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Architect_Gizmo_Pack.png",
     "station_ids": [
       "loot"
@@ -49477,12 +48849,7 @@
     "name_en": "Meteorite Brick",
     "name_es": "Ladrillo de meteorito",
     "wiki_url": "https://terraria.wiki.gg/wiki/Meteorite_Brick",
-    "recipes": [
-      {
-        "name_en": "Meteorite Platform",
-        "amount": 2
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite_Brick.png",
     "station_ids": [
       "33"
@@ -49495,12 +48862,7 @@
     "name_en": "Meteorite Brick Wall",
     "name_es": "Pared de ladrillo de meteorito",
     "wiki_url": "https://terraria.wiki.gg/wiki/Meteorite_Brick_Wall",
-    "recipes": [
-      {
-        "name_en": "Meteorite Brick",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite_Brick_Wall.png",
     "station_ids": [
       "36"
@@ -49876,24 +49238,7 @@
     "name_en": "Metal Detector",
     "name_es": "Detector de metales",
     "wiki_url": "https://terraria.wiki.gg/wiki/PDA",
-    "recipes": [
-      {
-        "name_en": "Fish Finder",
-        "amount": 1
-      },
-      {
-        "name_en": "GPS",
-        "amount": 1
-      },
-      {
-        "name_en": "Goblin Tech",
-        "amount": 1
-      },
-      {
-        "name_en": "R.E.K. 3000",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "station_ids": [
       "loot"
     ],
@@ -50683,16 +50028,7 @@
     "name_en": "Marble Bed",
     "name_es": "Cama de mármol",
     "wiki_url": "https://terraria.wiki.gg/wiki/Marble_Bed",
-    "recipes": [
-      {
-        "name_en": "Silk",
-        "amount": 5
-      },
-      {
-        "name_en": "Smooth Marble Block",
-        "amount": 15
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Marble_Bed.png",
     "station_ids": [
       "hand",
@@ -54888,20 +54224,7 @@
     "name_en": "Vortex Fragment",
     "name_es": "Fragmento de vórtice",
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Fragment",
-    "recipes": [
-      {
-        "name_en": "Nebula Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Solar Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Stardust Fragment",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Fragment.png",
     "station_ids": [
       "loot"
@@ -54914,20 +54237,7 @@
     "name_en": "Nebula Fragment",
     "name_es": "Fragmento de nebulosa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Nebula_Fragment",
-    "recipes": [
-      {
-        "name_en": "Solar Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Stardust Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Vortex Fragment",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Fragment.png",
     "station_ids": [
       "loot"
@@ -54940,24 +54250,7 @@
     "name_en": "Solar Fragment",
     "name_es": "Fragmento solar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Fragment",
-    "recipes": [
-      {
-        "name_en": "Nebula Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Stardust Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Vortex Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Luminite Bar",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Solar_Fragment.png",
     "station_ids": [
       "loot"
@@ -54970,20 +54263,7 @@
     "name_en": "Stardust Fragment",
     "name_es": "Fragmento de polvo estelar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Stardust_Fragment",
-    "recipes": [
-      {
-        "name_en": "Nebula Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Solar Fragment",
-        "amount": 1
-      },
-      {
-        "name_en": "Vortex Fragment",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stardust_Fragment.png",
     "station_ids": [
       "loot"
@@ -55237,12 +54517,7 @@
     "name_en": "Vortex Beater",
     "name_es": "Último prisma",
     "wiki_url": "https://terraria.wiki.gg/wiki/Vortex_Beater",
-    "recipes": [
-      {
-        "name_en": "Vortex Fragment",
-        "amount": 18
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vortex_Beater.png",
     "station_ids": [
       "loot"
@@ -55255,12 +54530,7 @@
     "name_en": "Nebula Arcanum",
     "name_es": "Bengala lunar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Nebula_Arcanum",
-    "recipes": [
-      {
-        "name_en": "Nebula Fragment",
-        "amount": 18
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nebula_Arcanum.png",
     "station_ids": [
       "loot"
@@ -56308,12 +55578,7 @@
     "name_en": "Stardust Dragon Staff",
     "name_es": "Cubo de compañía",
     "wiki_url": "https://terraria.wiki.gg/wiki/Stardust_Dragon_Staff",
-    "recipes": [
-      {
-        "name_en": "Stardust Fragment",
-        "amount": 18
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stardust_Dragon_Staff.png",
     "station_ids": [
       "hand"
@@ -56445,12 +55710,7 @@
     "name_en": "Phantasm",
     "name_es": "Último prisma",
     "wiki_url": "https://terraria.wiki.gg/wiki/Phantasm",
-    "recipes": [
-      {
-        "name_en": "Vortex Fragment",
-        "amount": 18
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Phantasm.png",
     "station_ids": [
       "hand",
@@ -60956,12 +60216,7 @@
     "name_en": "Ballista Rod",
     "name_es": "Báculo de trampa explosiva",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ballista_Rod",
-    "recipes": [
-      {
-        "name_en": "Flameburst Rod",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ballista_Rod.png",
     "station_ids": [
       "hand"
@@ -60974,12 +60229,7 @@
     "name_en": "Ballista Cane",
     "name_es": "Báculo de ráfaga de llamas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ballista_Cane",
-    "recipes": [
-      {
-        "name_en": "Flameburst Cane",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ballista_Cane.png",
     "station_ids": [
       "hand"
@@ -60992,12 +60242,7 @@
     "name_en": "Ballista Staff",
     "name_es": "Báculo de balista",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ballista_Staff",
-    "recipes": [
-      {
-        "name_en": "Flameburst Staff",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ballista_Staff.png",
     "station_ids": [
       "hand"
@@ -67643,16 +66888,7 @@
     "name_en": "Black Golf Ball",
     "name_es": "Petardo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Black_Golf_Ball",
-    "recipes": [
-      {
-        "name_en": "Black Dye",
-        "amount": 1
-      },
-      {
-        "name_en": "Golf Ball",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Black_Golf_Ball.png",
     "station_ids": [
       "hand"
@@ -69271,16 +68507,7 @@
     "name_en": "Dragonfly Statue",
     "name_es": "Piedra de carga",
     "wiki_url": "https://terraria.wiki.gg/wiki/Dragonfly_Statue",
-    "recipes": [
-      {
-        "name_en": "Any Dragonfly",
-        "amount": 5
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 50
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dragonfly_Statue.png",
     "station_ids": [
       "hand",
@@ -69372,12 +68599,7 @@
     "name_en": "Green Moss",
     "name_es": "Cometa de pez dorado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Green_Moss",
-    "recipes": [
-      {
-        "name_en": "Green Mossy Wall",
-        "amount": 4
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Green_Moss.png",
     "station_ids": [
       "hand"
@@ -70998,16 +70220,7 @@
     "name_en": "Jungle Turtle Cage",
     "name_es": "Búmeran de arena",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jungle_Turtle_Cage",
-    "recipes": [
-      {
-        "name_en": "Jungle Turtle",
-        "amount": 1
-      },
-      {
-        "name_en": "Terrarium",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jungle_Turtle_Cage.png",
     "station_ids": [
       "hand",
@@ -73854,16 +73067,7 @@
     "name_en": "Amber Stone Block",
     "name_es": "Látigo de cuero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Amber_Stone_Block",
-    "recipes": [
-      {
-        "name_en": "Amber",
-        "amount": 1
-      },
-      {
-        "name_en": "Stone Block",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Amber_Stone_Block.png",
     "station_ids": [
       "exploration"
@@ -73944,16 +73148,7 @@
     "name_en": "Superhero Mask",
     "name_es": "Cosecha oscura",
     "wiki_url": "https://terraria.wiki.gg/wiki/Superhero_Mask",
-    "recipes": [
-      {
-        "name_en": "Green Thread",
-        "amount": 3
-      },
-      {
-        "name_en": "Silk",
-        "amount": 20
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Superhero_Mask.png",
     "station_ids": [
       "loot"
@@ -73988,16 +73183,7 @@
     "name_en": "Superhero Tights",
     "name_es": "Petardo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Superhero_Tights",
-    "recipes": [
-      {
-        "name_en": "Green Thread",
-        "amount": 3
-      },
-      {
-        "name_en": "Silk",
-        "amount": 20
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Superhero_Tights.png",
     "station_ids": [
       "loot"
@@ -74010,16 +73196,7 @@
     "name_en": "Pink Fairy Jar",
     "name_es": "Caleidoscopio",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pink_Fairy_Jar",
-    "recipes": [
-      {
-        "name_en": "Bottle",
-        "amount": 1
-      },
-      {
-        "name_en": "Pink Fairy",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pink_Fairy_Jar.png",
     "station_ids": [
       "loot"
@@ -74785,16 +73962,7 @@
     "name_en": "Gravedigger's Shovel",
     "name_es": "Tanque de juguete",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gravedigger's_Shovel",
-    "recipes": [
-      {
-        "name_en": "Any Iron Bar",
-        "amount": 12
-      },
-      {
-        "name_en": "Any Wood",
-        "amount": 3
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gravedigger's_Shovel.png",
     "station_ids": [
       "loot"
@@ -74929,12 +74097,7 @@
     "name_en": "Sandstone Column",
     "name_es": "Resplandor nocturno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sandstone_Column",
-    "recipes": [
-      {
-        "name_en": "Smooth Sandstone",
-        "amount": 1
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sandstone_Column.png",
     "station_ids": [
       "loot"
@@ -77476,20 +76639,7 @@
     "name_en": "Snapthorn",
     "name_es": "Estrella de la mañana",
     "wiki_url": "https://terraria.wiki.gg/wiki/Snapthorn",
-    "recipes": [
-      {
-        "name_en": "Jungle Spores",
-        "amount": 12
-      },
-      {
-        "name_en": "Stinger",
-        "amount": 15
-      },
-      {
-        "name_en": "Vine",
-        "amount": 3
-      }
-    ],
+    "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Snapthorn.png",
     "station_ids": [
       "hand",
