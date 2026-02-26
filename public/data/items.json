@@ -1488,7 +1488,7 @@
     "id": "84",
     "category": "Tools",
     "name_en": "Grappling Hook",
-    "name_es": "Gancho de escalada",
+    "name_es": "Gancho",
     "wiki_url": "https://terraria.wiki.gg/wiki/Grappling_Hook",
     "recipes": [
       {
@@ -1866,7 +1866,7 @@
     "id": "104",
     "category": "Tools",
     "name_en": "The Breaker",
-    "name_es": "La Despedazadora",
+    "name_es": "El triturador",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Breaker",
     "recipes": [
       {
@@ -3647,7 +3647,7 @@
     "id": "204",
     "category": "Tools",
     "name_en": "Meteor Hamaxe",
-    "name_es": "Hacha-martillo de meteorito",
+    "name_es": "Hahamartillo de meteorito",
     "wiki_url": "https://terraria.wiki.gg/wiki/Meteor_Hamaxe",
     "recipes": [
       {
@@ -3806,7 +3806,7 @@
     "id": "217",
     "category": "Tools",
     "name_en": "Molten Hamaxe",
-    "name_es": "Hacha-martillo fundida",
+    "name_es": "Hahamartillo fundido",
     "wiki_url": "https://terraria.wiki.gg/wiki/Molten_Hamaxe",
     "recipes": [
       {
@@ -8802,9 +8802,9 @@
   },
   {
     "id": "510",
-    "category": "Weapons",
+    "category": "Tools",
     "name_en": "Wire Cutter",
-    "name_es": "Vara de hielo",
+    "name_es": "Cortacables",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wire_Cutter",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wire_Cutter.png",
@@ -9958,7 +9958,7 @@
     "id": "579",
     "category": "Tools",
     "name_en": "Drax",
-    "name_es": "Taladro hacha",
+    "name_es": "Drax",
     "wiki_url": "https://terraria.wiki.gg/wiki/Drax",
     "recipes": [
       {
@@ -13492,7 +13492,7 @@
     "id": "777",
     "category": "Tools",
     "name_en": "Mythril Pickaxe",
-    "name_es": "Pico de mithril",
+    "name_es": "Pico de mythril",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mythril_Pickaxe",
     "recipes": [
       {
@@ -13526,7 +13526,7 @@
     "id": "779",
     "category": "Tools",
     "name_en": "Clentaminator",
-    "name_es": "Clentaminator",
+    "name_es": "Clentaminador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Clentaminator",
     "recipes": [],
     "station_ids": [],
@@ -13805,7 +13805,7 @@
     "id": "797",
     "category": "Tools",
     "name_en": "Flesh Grinder",
-    "name_es": "Azote de carne",
+    "name_es": "Moledor de carne",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flesh_Grinder",
     "recipes": [
       {
@@ -13848,7 +13848,7 @@
     "id": "799",
     "category": "Tools",
     "name_en": "Blood Lust Cluster",
-    "name_es": "Hacha sed de sangre",
+    "name_es": "Cúmulo de sed de sangre",
     "wiki_url": "https://terraria.wiki.gg/wiki/Blood_Lust_Cluster",
     "recipes": [
       {
@@ -16016,7 +16016,7 @@
     "id": "939",
     "category": "Tools",
     "name_en": "Web Slinger",
-    "name_es": "Alfombra voladora",
+    "name_es": "Lanzatelarañas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Web_Slinger",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Web_Slinger.png",
@@ -16808,7 +16808,7 @@
     "id": "990",
     "category": "Tools",
     "name_en": "Pickaxe Axe",
-    "name_es": "Pico hacha",
+    "name_es": "Pico-hacha",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pickaxe_Axe",
     "recipes": [
       {
@@ -21853,7 +21853,7 @@
     "id": "1294",
     "category": "Tools",
     "name_en": "Picksaw",
-    "name_es": "El hacha",
+    "name_es": "Picosierra",
     "wiki_url": "https://terraria.wiki.gg/wiki/Picksaw",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Picksaw.png",
@@ -44310,7 +44310,7 @@
     "id": "2786",
     "category": "Tools",
     "name_en": "Solar Flare Pickaxe",
-    "name_es": "Pico de bengala solar",
+    "name_es": "Pico de llamarada solar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Flare_Pickaxe",
     "recipes": [
       {
@@ -47324,7 +47324,7 @@
     "id": "3020",
     "category": "Tools",
     "name_en": "Tendon Hook",
-    "name_es": "Gancho de tendones",
+    "name_es": "Gancho de tendón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tendon_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tendon_Hook.png",
@@ -47344,7 +47344,7 @@
     "id": "3022",
     "category": "Tools",
     "name_en": "Illuminant Hook",
-    "name_es": "Gancho iluminador",
+    "name_es": "Gancho iluminado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Illuminant_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Illuminant_Hook.png",
