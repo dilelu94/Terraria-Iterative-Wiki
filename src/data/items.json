@@ -503,22 +503,23 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lesser_Healing_Potion",
     "recipes": [
       {
-        "name_en": "Bottle",
-        "amount": 2
+        "name_en": "Mushroom",
+        "amount": 1
       },
       {
         "name_en": "Gel",
-        "amount": 2
+        "amount": 1
       },
       {
-        "name_en": "Mushroom",
-        "amount": 1
+        "name_en": "Bottle",
+        "amount": 2
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Lesser_Healing_Potion.png?440d67",
     "station_ids": [
       "31",
-      "hand"
+      "hand",
+      "3001"
     ]
   },
   {
@@ -2138,7 +2139,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Missile",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Magic_Missile.png?b93dc5",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "114",
@@ -2888,7 +2892,8 @@
     "station_ids": [
       "iron_anvil",
       "exploration"
-    ]
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "156",
@@ -2901,7 +2906,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Skyware Chest (Islas Flotantes)"
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "157",
@@ -2949,7 +2954,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Harpoon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Harpoon.png?d72b84",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "161",
@@ -2987,7 +2995,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Moon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Blue_Moon.png?e73cf9",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "164",
@@ -3005,7 +3016,8 @@
     "station_ids": [
       "hand",
       "exploration"
-    ]
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "165",
@@ -3364,12 +3376,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Healing_Potion",
     "recipes": [
       {
-        "name_en": "Glowing Mushroom",
-        "amount": 1
-      },
-      {
         "name_en": "Lesser Healing Potion",
         "amount": 2
+      },
+      {
+        "name_en": "Glowing Mushroom",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Healing_Potion.png?9e912f",
@@ -3386,12 +3398,12 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mana_Potion",
     "recipes": [
       {
-        "name_en": "Glowing Mushroom",
-        "amount": 1
-      },
-      {
         "name_en": "Lesser Mana Potion",
         "amount": 2
+      },
+      {
+        "name_en": "Fallen Star",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mana_Potion.png?ce1ac1",
@@ -5089,15 +5101,11 @@
         "amount": 1
       },
       {
-        "name_en": "Fireblossom",
+        "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Obsidian",
-        "amount": 1
-      },
-      {
-        "name_en": "Waterleaf",
+        "name_en": "Iron Ore",
         "amount": 1
       }
     ],
@@ -5141,11 +5149,11 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Swiftness_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
+        "name_en": "Bottled Water",
         "amount": 1
       },
       {
-        "name_en": "Bottled Water",
+        "name_en": "Blinkroot",
         "amount": 1
       },
       {
@@ -5171,11 +5179,11 @@
         "amount": 1
       },
       {
-        "name_en": "Coral",
+        "name_en": "Waterleaf",
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
+        "name_en": "Coral",
         "amount": 1
       }
     ],
@@ -5201,13 +5209,22 @@
         "amount": 1
       },
       {
-        "name_en": "Iron Ore",
+        "name_en": "Waterleaf",
+        "amount": 1
+      },
+      {
+        "name_en": "Deathweed",
+        "amount": 1
+      },
+      {
+        "name_en": "Obsidian",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ironskin_Potion.png?6fc31c",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5222,21 +5239,18 @@
         "amount": 1
       },
       {
-        "name_en": "Daybloom",
+        "name_en": "Waterleaf",
         "amount": 1
       },
       {
-        "name_en": "Fallen Star",
-        "amount": 1
-      },
-      {
-        "name_en": "Moonglow",
+        "name_en": "Shark Fin",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Mana_Regeneration_Potion.png?bca09a",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5251,21 +5265,18 @@
         "amount": 1
       },
       {
-        "name_en": "Deathweed",
+        "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Fallen Star",
-        "amount": 1
-      },
-      {
-        "name_en": "Moonglow",
+        "name_en": "Lens",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Magic_Power_Potion.png?8da6ab",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5276,10 +5287,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Featherfall_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
@@ -5288,13 +5295,18 @@
         "amount": 1
       },
       {
-        "name_en": "Feather",
+        "name_en": "Blinkroot",
+        "amount": 1
+      },
+      {
+        "name_en": "Cobweb",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Featherfall_Potion.png?e8f70d",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5305,25 +5317,30 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Spelunker_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
       {
-        "name_en": "Gold Ore",
+        "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Moonglow",
+        "name_en": "Waterleaf",
+        "amount": 1
+      },
+      {
+        "name_en": "Blinkroot",
+        "amount": 1
+      },
+      {
+        "name_en": "Feather",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Spelunker_Potion.png?b49846",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5334,21 +5351,26 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Invisibility_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
       {
         "name_en": "Moonglow",
         "amount": 1
+      },
+      {
+        "name_en": "Deathweed",
+        "amount": 1
+      },
+      {
+        "name_en": "Fallen Star",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Invisibility_Potion.png?41b181",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5363,11 +5385,15 @@
         "amount": 1
       },
       {
+        "name_en": "Moonglow",
+        "amount": 1
+      },
+      {
         "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Glowing Mushroom",
+        "name_en": "Fallen Star",
         "amount": 1
       }
     ],
@@ -5385,21 +5411,26 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Night_Owl_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
       {
-        "name_en": "Daybloom",
+        "name_en": "Blinkroot",
+        "amount": 1
+      },
+      {
+        "name_en": "Moonglow",
+        "amount": 1
+      },
+      {
+        "name_en": "Gold Ore",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Night_Owl_Potion.png?f15ad2",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5414,17 +5445,18 @@
         "amount": 1
       },
       {
-        "name_en": "Deathweed",
+        "name_en": "Blinkroot",
         "amount": 1
       },
       {
-        "name_en": "Vertebra",
+        "name_en": "Moonglow",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Battle_Potion.png?e0baa5",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5439,17 +5471,18 @@
         "amount": 1
       },
       {
-        "name_en": "Cactus",
+        "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Deathweed",
+        "name_en": "Glowing Mushroom",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Thorns_Potion.png?1ce835",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5464,17 +5497,18 @@
         "amount": 1
       },
       {
-        "name_en": "Shark Fin",
+        "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
+        "name_en": "Blinkroot",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Water_Walking_Potion.png?e3a81e",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5489,17 +5523,18 @@
         "amount": 1
       },
       {
-        "name_en": "Daybloom",
+        "name_en": "Deathweed",
         "amount": 1
       },
       {
-        "name_en": "Lens",
+        "name_en": "Vertebrae",
         "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Archery_Potion.png?ee0a24",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -5510,19 +5545,19 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Hunter_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
       {
-        "name_en": "Daybloom",
+        "name_en": "Deathweed",
         "amount": 1
       },
       {
-        "name_en": "Shark Fin",
+        "name_en": "Cactus",
+        "amount": 1
+      },
+      {
+        "name_en": "Stinger",
         "amount": 1
       }
     ],
@@ -5802,7 +5837,8 @@
     "station_ids": [
       "345",
       "exploration"
-    ]
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "328",
@@ -8701,17 +8737,18 @@
         "amount": 3
       },
       {
-        "name_en": "Crystal Shard",
-        "amount": 1
-      },
-      {
         "name_en": "Pixie Dust",
         "amount": 3
+      },
+      {
+        "name_en": "Crystal Shard",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Greater_Healing_Potion.png?1718d7",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -14613,8 +14650,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Pharaoh%27s_Mask.png?34e596",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Pirámide del Desierto)"
   },
   {
     "id": "849",
@@ -14625,8 +14664,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Actuator.png?f09bd1",
     "station_ids": [
-      "mythril_anvil"
-    ]
+      "mythril_anvil",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Pirámide del Desierto)"
   },
   {
     "id": "850",
@@ -14726,8 +14767,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Unicorn_on_a_Stick.png?a2c07a",
     "station_ids": [
-      "shimmer"
-    ]
+      "shimmer",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Pirámide del Desierto)"
   },
   {
     "id": "857",
@@ -14755,8 +14798,10 @@
     "image_url": "https://terraria.wiki.gg/es/images/Sandstorm_in_a_Bottle.png?917537",
     "station_ids": [
       "shimmer",
-      "398"
-    ]
+      "398",
+      "exploration"
+    ],
+    "origin_info": "Gold Chest (Pirámide del Desierto)"
   },
   {
     "id": "858",
@@ -21802,7 +21847,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Power_Cell",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Lihzahrd_Power_Cell.png?f0ded4",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Lihzahrd Chest (Templo de la Selva)"
   },
   {
     "id": "1294",
@@ -21948,8 +21996,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/The_Axe.png?3e05ee",
     "station_ids": [
-      "345"
-    ]
+      "345",
+      "exploration"
+    ],
+    "origin_info": "Living Wood Chest (Árbol Gigante)"
   },
   {
     "id": "1306",
@@ -21960,8 +22010,10 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Sickle.png?128053",
     "station_ids": [
-      "345"
-    ]
+      "345",
+      "exploration"
+    ],
+    "origin_info": "Living Wood Chest (Árbol Gigante)"
   },
   {
     "id": "1307",
@@ -32863,7 +32915,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Golden_Lamp",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Golden_Lamp.png?c2ac26",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Rich Mahogany Chest (Árbol Gigante de Selva)"
   },
   {
     "id": "2134",
@@ -32883,8 +32938,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Bone_Lamp.png?28cba2",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Rich Mahogany Leaf Wand (Árbol Gigante de Selva)"
   },
   {
     "id": "2135",
@@ -34042,7 +34099,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Machine",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Ice_Machine.png?f1c373",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Living Wood Chest (Árbol Gigante)"
   },
   {
     "id": "2199",
@@ -34140,7 +34200,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Steampunk_Boiler",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Steampunk_Boiler.png?a77ab2",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "2204",
@@ -34218,8 +34281,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Terrarium.png?4b2a89",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Lihzahrd Chest (Templo de la Selva)"
   },
   {
     "id": "2209",
@@ -35849,7 +35914,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Rockfish",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Rockfish.png?22a92e",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Web Covered Chest (Cueva de Arañas)"
   },
   {
     "id": "2321",
@@ -35869,7 +35937,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Mining_Potion",
     "recipes": [
       {
-        "name_en": "Antlion Mandible",
+        "name_en": "Bottled Water",
         "amount": 1
       },
       {
@@ -35877,7 +35945,7 @@
         "amount": 1
       },
       {
-        "name_en": "Bottled Water",
+        "name_en": "Armored Cavefish",
         "amount": 1
       }
     ],
@@ -35899,11 +35967,19 @@
         "amount": 1
       },
       {
-        "name_en": "Crimson Tigerfish",
+        "name_en": "Waterleaf",
+        "amount": 1
+      },
+      {
+        "name_en": "Moonglow",
         "amount": 1
       },
       {
         "name_en": "Daybloom",
+        "amount": 1
+      },
+      {
+        "name_en": "Prismite",
         "amount": 1
       }
     ],
@@ -35925,11 +36001,11 @@
         "amount": 1
       },
       {
-        "name_en": "Damselfish",
+        "name_en": "Deathweed",
         "amount": 1
       },
       {
-        "name_en": "Daybloom",
+        "name_en": "Ebonkoi",
         "amount": 1
       }
     ],
@@ -35947,19 +36023,15 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Builder_Potion",
     "recipes": [
       {
-        "name_en": "Blinkroot",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
       {
-        "name_en": "Moonglow",
+        "name_en": "Deathweed",
         "amount": 1
       },
       {
-        "name_en": "Shiverthorn",
+        "name_en": "Hemopiranha",
         "amount": 1
       }
     ],
@@ -35977,19 +36049,15 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Titan_Potion",
     "recipes": [
       {
-        "name_en": "Bone",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
       {
-        "name_en": "Deathweed",
+        "name_en": "Daybloom",
         "amount": 1
       },
       {
-        "name_en": "Shiverthorn",
+        "name_en": "Variegated Lardfish",
         "amount": 1
       }
     ],
@@ -36011,11 +36079,11 @@
         "amount": 1
       },
       {
-        "name_en": "Shiverthorn",
+        "name_en": "Deathweed",
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
+        "name_en": "Cobweb",
         "amount": 1
       }
     ],
@@ -36041,7 +36109,7 @@
         "amount": 1
       },
       {
-        "name_en": "Variegated Lardfish",
+        "name_en": "Double Cod",
         "amount": 1
       }
     ],
@@ -36063,11 +36131,15 @@
         "amount": 1
       },
       {
-        "name_en": "Cobweb",
-        "amount": 10
+        "name_en": "Blinkroot",
+        "amount": 1
       },
       {
-        "name_en": "Shiverthorn",
+        "name_en": "Moonglow",
+        "amount": 1
+      },
+      {
+        "name_en": "Daybloom",
         "amount": 1
       }
     ],
@@ -36097,7 +36169,24 @@
     "name_en": "Obsidian Swordfish",
     "name_es": "Pez espada de obsidiana",
     "wiki_url": "https://terraria.wiki.gg/wiki/Obsidian_Swordfish",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Bottled Water",
+        "amount": 1
+      },
+      {
+        "name_en": "Deathweed",
+        "amount": 1
+      },
+      {
+        "name_en": "Flarefin Koi",
+        "amount": 1
+      },
+      {
+        "name_en": "Obsidian",
+        "amount": 2
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Swordfish.png?265581",
     "station_ids": [
       "31",
@@ -36110,7 +36199,20 @@
     "name_en": "Swordfish",
     "name_es": "Pez espada",
     "wiki_url": "https://terraria.wiki.gg/wiki/Swordfish",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Bottled Water",
+        "amount": 1
+      },
+      {
+        "name_en": "Daybloom",
+        "amount": 1
+      },
+      {
+        "name_en": "Crimson Tigerfish",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/es/images/Swordfish.png?69d074",
     "station_ids": [
       "31",
@@ -36566,11 +36668,11 @@
         "amount": 1
       },
       {
-        "name_en": "Crispy Honey Block",
+        "name_en": "Waterleaf",
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
+        "name_en": "Shiverthorn",
         "amount": 1
       }
     ],
@@ -36592,11 +36694,11 @@
         "amount": 1
       },
       {
-        "name_en": "Coral",
+        "name_en": "Waterleaf",
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
+        "name_en": "Coral",
         "amount": 1
       }
     ],
@@ -36614,10 +36716,6 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Crate_Potion",
     "recipes": [
       {
-        "name_en": "Amber",
-        "amount": 1
-      },
-      {
         "name_en": "Bottled Water",
         "amount": 1
       },
@@ -36626,11 +36724,15 @@
         "amount": 1
       },
       {
-        "name_en": "Shiverthorn",
+        "name_en": "Waterleaf",
         "amount": 1
       },
       {
-        "name_en": "Waterleaf",
+        "name_en": "Deathweed",
+        "amount": 1
+      },
+      {
+        "name_en": "Amber",
         "amount": 1
       }
     ],
@@ -43560,7 +43662,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Solar_Tablet_Fragment",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Solar_Tablet_Fragment.png?5b789b",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Lihzahrd Chest (Templo de la Selva)"
   },
   {
     "id": "2767",
@@ -50972,7 +51077,8 @@
     "image_url": "https://terraria.wiki.gg/es/images/Code_2.png?206eda",
     "station_ids": [
       "exploration"
-    ]
+    ],
+    "origin_info": "Locked Gold Chest (Mazmorra)"
   },
   {
     "id": "3285",
@@ -54786,25 +54892,26 @@
         "amount": 4
       },
       {
-        "name_en": "Nebula Fragment",
-        "amount": 1
-      },
-      {
         "name_en": "Solar Fragment",
         "amount": 1
       },
       {
-        "name_en": "Stardust Fragment",
+        "name_en": "Nebula Fragment",
         "amount": 1
       },
       {
         "name_en": "Vortex Fragment",
         "amount": 1
+      },
+      {
+        "name_en": "Stardust Fragment",
+        "amount": 1
       }
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Super_Healing_Potion.png?38f36a",
     "station_ids": [
-      "31"
+      "31",
+      "3001"
     ]
   },
   {
@@ -54813,9 +54920,29 @@
     "name_en": "Detonator",
     "name_es": "Detonador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Detonator",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Greater Mana Potion",
+        "amount": 15
+      },
+      {
+        "name_en": "Fallen Star",
+        "amount": 1
+      },
+      {
+        "name_en": "Crystal Shard",
+        "amount": 3
+      },
+      {
+        "name_en": "Unicorn Horn",
+        "amount": 1
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/es/images/Detonator.png?25bb33",
-    "station_ids": []
+    "station_ids": [
+      "31",
+      "3001"
+    ]
   },
   {
     "id": "3546",
@@ -65988,8 +66115,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Amber_Robe.png?b25101",
     "station_ids": [
-      "iron_anvil"
-    ]
+      "iron_anvil",
+      "exploration"
+    ],
+    "origin_info": "Sandstone Chest (Desierto Subterráneo)"
   },
   {
     "id": "4257",
@@ -66276,7 +66405,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Bast_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Bast_Statue.png?2d552c",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Sandstone Chest (Desierto Subterráneo)"
   },
   {
     "id": "4277",
@@ -67251,7 +67383,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Step_Stool",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Step_Stool.png?acfd16",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Sandstone Chest (Desierto Subterráneo)"
   },
   {
     "id": "4342",
@@ -67271,8 +67406,10 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Dragonfly_Statue.png?8039f5",
     "station_ids": [
-      "hand"
-    ]
+      "hand",
+      "exploration"
+    ],
+    "origin_info": "Sandstone Chest (Desierto Subterráneo)"
   },
   {
     "id": "4343",
@@ -67282,7 +67419,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Paper_Airplane",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Paper_Airplane.png?726c9c",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Ancient Chisel (Desierto Subterráneo)"
   },
   {
     "id": "4344",
@@ -68489,7 +68629,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Sunflower_Minecart",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Sunflower_Minecart.png?a3e429",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Sandstone Chest (Desierto Subterráneo)"
   },
   {
     "id": "4430",
@@ -71175,7 +71318,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Desert_Tiger_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/es/images/Desert_Tiger_Staff.png?29c975",
-    "station_ids": []
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Living Wood Chest (Árbol Gigante)"
   },
   {
     "id": "4608",
