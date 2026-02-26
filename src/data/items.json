@@ -2398,7 +2398,7 @@
   },
   {
     "id": "127",
-    "category": "Blocks",
+    "category": "Magic Weapons",
     "name_en": "Space Gun",
     "name_es": "Pistola de mano espacial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Space_Gun",
@@ -2410,9 +2410,8 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Space_Gun.png",
     "station_ids": [
-      "112"
-    ],
-    "origin_info": "Fabricado: Horno infernal (2 Piedras + 1 Piedra infernal)"
+      "35"
+    ]
   },
   {
     "id": "128",
@@ -2991,7 +2990,7 @@
   },
   {
     "id": "165",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Water Bolt",
     "name_es": "Proyectil de agua",
     "wiki_url": "https://terraria.wiki.gg/wiki/Water_Bolt",
@@ -3000,7 +2999,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Encontrado: Mazmorra (En librerías)"
+    "origin_info": "Encontrado en librerías de la Mazmorra (Libro azul)"
   },
   {
     "id": "166",
@@ -4777,7 +4776,7 @@
   },
   {
     "id": "272",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Demon Scythe",
     "name_es": "Guadaña demoníaca",
     "wiki_url": "https://terraria.wiki.gg/wiki/Demon_Scythe",
@@ -4785,7 +4784,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Demon_Scythe.png",
     "station_ids": [
       "exploration"
-    ]
+    ],
+    "origin_info": "Soltado por Demonios en el Inframundo (2.86%)"
   },
   {
     "id": "273",
@@ -8896,7 +8896,7 @@
   },
   {
     "id": "514",
-    "category": "Mechanisms",
+    "category": "Magic Weapons",
     "name_en": "Laser Rifle",
     "name_es": "Fusil láser",
     "wiki_url": "https://terraria.wiki.gg/wiki/Laser_Rifle",
@@ -8905,7 +8905,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Compra: Mecánica (30 Plata)"
+    "origin_info": "Soltado por el Muro de Carne (25% Expert / 12.5% Classic)"
   },
   {
     "id": "515",
@@ -22117,7 +22117,7 @@
   },
   {
     "id": "1309",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Slime Staff",
     "name_es": "Báculo de slime",
     "wiki_url": "https://terraria.wiki.gg/wiki/Slime_Staff",
@@ -22126,7 +22126,7 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Slimes (Extremadamente raro)"
+    "origin_info": "Soltado raramente por Slimes (0.01% / 1 en 10,000)"
   },
   {
     "id": "1310",
@@ -39901,7 +39901,7 @@
   },
   {
     "id": "2535",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Optic Staff",
     "name_es": "Báculo óptico",
     "wiki_url": "https://terraria.wiki.gg/wiki/Optic_Staff",
@@ -39911,12 +39911,12 @@
         "amount": 1
       },
       {
-        "name_en": "Hallowed Bar",
-        "amount": 12
-      },
-      {
         "name_en": "Lens",
         "amount": 2
+      },
+      {
+        "name_en": "Hallowed Bar",
+        "amount": 12
       },
       {
         "name_en": "Soul of Sight",
@@ -39925,8 +39925,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Optic_Staff.png",
     "station_ids": [
-      "hand",
-      "mythril_anvil"
+      "525"
     ]
   },
   {
@@ -40234,7 +40233,7 @@
   },
   {
     "id": "2551",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Spider Staff",
     "name_es": "Báculo de araña",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spider_Staff",
@@ -40246,8 +40245,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spider_Staff.png",
     "station_ids": [
-      "hand",
-      "iron_anvil"
+      "35"
     ]
   },
   {
@@ -41671,14 +41669,14 @@
   },
   {
     "id": "2622",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Razorblade Typhoon",
     "name_es": "Tifón de cuchillas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Razorblade_Typhoon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Razorblade_Typhoon.png",
     "station_ids": [],
-    "origin_info": "Botín: Duque Fishron"
+    "origin_info": "Soltado por Duke Fishron (20%)"
   },
   {
     "id": "2623",
@@ -48011,7 +48009,7 @@
   },
   {
     "id": "3069",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Wand of Sparking",
     "name_es": "Varita de chispas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wand_of_Sparking",
@@ -48020,7 +48018,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Wooden Chest (Superficie)"
+    "origin_info": "Encontrado en Cofres de madera (Superficie)"
   },
   {
     "id": "3070",
@@ -55433,7 +55431,7 @@
   },
   {
     "id": "3541",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Last Prism",
     "name_es": "Último prisma",
     "wiki_url": "https://terraria.wiki.gg/wiki/Last_Prism",
@@ -55441,7 +55439,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Last_Prism.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Soltado por Moon Lord (11.11%)"
   },
   {
     "id": "3542",
@@ -55906,7 +55905,7 @@
   },
   {
     "id": "3570",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Lunar Flare",
     "name_es": "Bengala lunar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lunar_Flare",
@@ -55914,7 +55913,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunar_Flare.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Soltado por Moon Lord (11.11%)"
   },
   {
     "id": "3571",
@@ -59398,7 +59398,7 @@
   },
   {
     "id": "3787",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Sky Fracture",
     "name_es": "Fractura del cielo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sky_Fracture",
@@ -59418,8 +59418,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sky_Fracture.png",
     "station_ids": [
-      "525",
-      "1220"
+      "525"
     ],
     "piece_effects": "Lanza espadas de luz con alta probabilidad de crítico."
   },
@@ -67181,7 +67180,7 @@
   },
   {
     "id": "4273",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Vampire Frog Staff",
     "name_es": "Báculo de rana vampiro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Vampire_Frog_Staff",
@@ -67190,7 +67189,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Desert Tiger Staff (Bioma Hardmode)"
+    "origin_info": "Soltado por Zombie Merman / Wandering Eye Fish durante Luna de Sangre"
   },
   {
     "id": "4274",
@@ -73136,7 +73135,7 @@
   },
   {
     "id": "4672",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Leather Whip",
     "name_es": "Látigo de cuero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Leather_Whip",
@@ -73144,7 +73143,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leather_Whip.png",
     "station_ids": [
       "merchant_buy"
-    ]
+    ],
+    "origin_info": "Comprado a la Zoóloga (10 Oro)"
   },
   {
     "id": "4673",
@@ -73206,7 +73206,7 @@
   },
   {
     "id": "4678",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Durendal",
     "name_es": "Durendal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Durendal",
@@ -73217,14 +73217,13 @@
       }
     ],
     "station_ids": [
-      "hand",
-      "mythril_anvil"
+      "525"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Durendal.png"
   },
   {
     "id": "4679",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Morning Star",
     "name_es": "Lucero del alba",
     "wiki_url": "https://terraria.wiki.gg/wiki/Morning_Star",
@@ -73232,11 +73231,12 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Morning_Star.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Soltado por enemigos de la Mazmorra (Post-Plantera)"
   },
   {
     "id": "4680",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Dark Harvest",
     "name_es": "Cosecha oscura",
     "wiki_url": "https://terraria.wiki.gg/wiki/Dark_Harvest",
@@ -73244,7 +73244,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Dark_Harvest.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Soltado por Pumpking (Moon de Calabaza)"
   },
   {
     "id": "4681",
@@ -76339,7 +76340,7 @@
   },
   {
     "id": "4911",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Cool Whip",
     "name_es": "Látigo molón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cool_Whip",
@@ -76359,36 +76360,48 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cool_Whip.png",
     "station_ids": [
-      "hand"
+      "525"
     ]
   },
   {
     "id": "4912",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Firecracker",
     "name_es": "Petardo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Firecracker",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Firecracker.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Soltado por el Muro de Carne (25% Expert / 12.5% Classic)"
   },
   {
     "id": "4913",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Snapthorn",
     "name_es": "Estrella de la mañana",
     "wiki_url": "https://terraria.wiki.gg/wiki/Snapthorn",
-    "recipes": [],
+    "recipes": [
+      {
+        "name_en": "Jungle Spores",
+        "amount": 12
+      },
+      {
+        "name_en": "Stinger",
+        "amount": 3
+      },
+      {
+        "name_en": "Vine",
+        "amount": 3
+      }
+    ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Snapthorn.png",
     "station_ids": [
-      "hand",
-      "loot"
-    ],
-    "origin_info": "Botín: Enemigos de la Mazmorra (Post-Plantera)"
+      "35"
+    ]
   },
   {
     "id": "4914",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Kaleidoscope",
     "name_es": "Caleidoscopio",
     "wiki_url": "https://terraria.wiki.gg/wiki/Kaleidoscope",
@@ -76397,7 +76410,7 @@
     "station_ids": [
       "36"
     ],
-    "origin_info": "Botín: Emperatriz de la luz"
+    "origin_info": "Soltado por la Emperatriz de la Luz (25%)"
   },
   {
     "id": "4915",
@@ -78418,7 +78431,7 @@
   },
   {
     "id": "5069",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Flinx Staff",
     "name_es": "Lederweste",
     "wiki_url": "https://terraria.wiki.gg/wiki/Flinx_Staff",
@@ -78434,7 +78447,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Flinx_Staff.png",
     "station_ids": [
-      "hand"
+      "35"
     ]
   },
   {
@@ -78479,7 +78492,7 @@
   },
   {
     "id": "5074",
-    "category": "Weapons",
+    "category": "Summon Weapons",
     "name_en": "Spinal Tap",
     "name_es": "Wiesnbräu",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spinal_Tap",
@@ -78495,7 +78508,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spinal_Tap.png",
     "station_ids": [
-      "hand"
+      "36"
     ]
   },
   {
@@ -79537,22 +79550,22 @@
   },
   {
     "id": "5147",
-    "category": "Weapons",
+    "category": "Magic Weapons",
     "name_en": "Wand of Frosting",
     "name_es": "",
     "wiki_url": "https://terraria.wiki.gg/wiki/Wand_of_Frosting",
     "recipes": [
       {
-        "name_en": "Ice Torch",
-        "amount": 99
-      },
-      {
         "name_en": "Wand of Sparking",
         "amount": 1
+      },
+      {
+        "name_en": "Ice Torch",
+        "amount": 99
       }
     ],
     "station_ids": [
-      "hand"
+      "32"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Wand_of_Frosting.png"
   },
