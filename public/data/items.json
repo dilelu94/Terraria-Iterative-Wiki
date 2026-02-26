@@ -31403,12 +31403,12 @@
     "id": "1991",
     "category": "Tools",
     "name_en": "Bug Net",
-    "name_es": "Conejo",
+    "name_es": "Red para insectos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bug_Net",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bug_Net.png",
     "station_ids": [],
-    "origin_info": "Bosque / Superficie"
+    "origin_info": "Compra: Mercader (25 Plata)"
   },
   {
     "id": "1992",
@@ -31420,11 +31420,12 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Firefly.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos (Noche)"
   },
   {
     "id": "1993",
-    "category": "Critters",
+    "category": "Furniture",
     "name_en": "Firefly in a Bottle",
     "name_es": "Luciérnaga en una botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Firefly_in_a_Bottle",
@@ -31441,19 +31442,21 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Firefly_in_a_Bottle.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Fabricado: A mano (Luciérnaga + Botella)"
   },
   {
     "id": "1994",
     "category": "Critters",
     "name_en": "Monarch Butterfly",
-    "name_es": "Mariposa monárquica",
+    "name_es": "Mariposa monarca",
     "wiki_url": "https://terraria.wiki.gg/wiki/Monarch_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Monarch_Butterfly.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "1995",
@@ -31463,7 +31466,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Purple_Emperor_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Purple_Emperor_Butterfly.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "1996",
@@ -31475,7 +31479,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red_Admiral_Butterfly.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "1997",
@@ -31485,17 +31490,19 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ulysses_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ulysses_Butterfly.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "1998",
     "category": "Critters",
     "name_en": "Sulphur Butterfly",
-    "name_es": "Mariposa de sulfuro",
+    "name_es": "Mariposa de azufre",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sulphur_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sulphur_Butterfly.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "1999",
@@ -31505,7 +31512,8 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Tree_Nymph_Butterfly",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tree_Nymph_Butterfly.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2000",
@@ -31517,7 +31525,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Zebra_Swallowtail_Butterfly.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2001",
@@ -31529,7 +31538,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Julia_Butterfly.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2002",
@@ -31541,7 +31551,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Worm.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2003",
@@ -31553,7 +31564,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mouse.png",
     "station_ids": [
       "bug_net"
-    ]
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2004",
@@ -31563,13 +31575,14 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Lightning_Bug",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lightning_Bug.png",
-    "station_ids": []
+    "station_ids": [],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2005",
-    "category": "Critters",
+    "category": "Furniture",
     "name_en": "Lightning Bug in a Bottle",
-    "name_es": "Ardilla",
+    "name_es": "Insecto rayo en una botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lightning_Bug_in_a_Bottle",
     "recipes": [
       {
@@ -31586,7 +31599,7 @@
       "hand",
       "bug_net"
     ],
-    "origin_info": "Bosque / Superficie"
+    "origin_info": "Fabricado: A mano (Insecto rayo + Botella)"
   },
   {
     "id": "2006",
@@ -31683,52 +31696,67 @@
   {
     "id": "2015",
     "category": "Critters",
-    "name_en": "Bird",
-    "name_es": "Pájaro",
+    "name_en": "Bunny",
+    "name_es": "Conejo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bird",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bird.png",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2016",
     "category": "Critters",
-    "name_en": "Blue Jay",
-    "name_es": "Jota azul",
+    "name_en": "Squirrel",
+    "name_es": "Ardilla",
     "wiki_url": "https://terraria.wiki.gg/wiki/Blue_Jay",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Blue_Jay.png",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2017",
     "category": "Critters",
-    "name_en": "Cardinal",
-    "name_es": "Cardenal",
+    "name_en": "Blue Jay",
+    "name_es": "Arrendajo azul",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cardinal",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cardinal.png",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2018",
     "category": "Critters",
-    "name_en": "Squirrel",
-    "name_es": "Ardilla",
+    "name_en": "Cardinal",
+    "name_es": "Cardenal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Squirrel",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Squirrel.png",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2019",
     "category": "Critters",
-    "name_en": "Bunny",
-    "name_es": "Conejo",
+    "name_en": "Bird",
+    "name_es": "Pájaro",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bunny",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bunny.png",
-    "station_ids": []
+    "station_ids": [
+      "bug_net"
+    ],
+    "origin_info": "Capturado: Red para insectos"
   },
   {
     "id": "2020",
