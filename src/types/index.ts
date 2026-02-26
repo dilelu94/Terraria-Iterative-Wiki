@@ -21,6 +21,7 @@ export interface Item {
   armor_set_es?: string;
   total_defense?: string;
   piece_defense?: string;
+  piece_armor?: string;
   piece_effects?: string;
   set_stats?: string;
   set_bonus?: string;

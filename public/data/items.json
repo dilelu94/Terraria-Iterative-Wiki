@@ -1319,14 +1319,15 @@
     "is_armor": true,
     "armor_set_en": "Copper Armor",
     "armor_set_es": "Armadura de cobre",
-    "total_defense": "4",
+    "total_defense": "6",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil",
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "77",
@@ -1344,14 +1345,15 @@
     "is_armor": true,
     "armor_set_en": "Iron Armor",
     "armor_set_es": "Armadura de hierro",
-    "total_defense": "7",
+    "total_defense": "9",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil",
       "36"
     ],
-    "piece_defense": "2"
+    "piece_defense": "2",
+    "piece_armor": "2"
   },
   {
     "id": "78",
@@ -1369,14 +1371,15 @@
     "is_armor": true,
     "armor_set_en": "Silver Armor",
     "armor_set_es": "Armadura de plata",
-    "total_defense": "10",
+    "total_defense": "13",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil",
       "36"
     ],
-    "piece_defense": "3"
+    "piece_defense": "3",
+    "piece_armor": "3"
   },
   {
     "id": "79",
@@ -1394,13 +1397,14 @@
     "is_armor": true,
     "armor_set_en": "Gold Armor",
     "armor_set_es": "Armadura de oro",
-    "total_defense": "13",
+    "total_defense": "16",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "4"
+    "piece_defense": "4",
+    "piece_armor": "4"
   },
   {
     "id": "81",
@@ -1422,13 +1426,14 @@
     "is_armor": true,
     "armor_set_en": "Iron Armor",
     "armor_set_es": "Armadura de hierro",
-    "total_defense": "7",
+    "total_defense": "9",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "3"
+    "piece_defense": "3",
+    "piece_armor": "3"
   },
   {
     "id": "82",
@@ -1450,13 +1455,14 @@
     "is_armor": true,
     "armor_set_en": "Silver Armor",
     "armor_set_es": "Armadura de plata",
-    "total_defense": "10",
+    "total_defense": "13",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "4"
+    "piece_defense": "4",
+    "piece_armor": "4"
   },
   {
     "id": "83",
@@ -1478,13 +1484,14 @@
     "is_armor": true,
     "armor_set_en": "Gold Armor",
     "armor_set_es": "Armadura de oro",
-    "total_defense": "13",
+    "total_defense": "16",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "84",
@@ -1575,13 +1582,14 @@
     "is_armor": true,
     "armor_set_en": "Iron Armor",
     "armor_set_es": "Armadura de hierro",
-    "total_defense": "7",
+    "total_defense": "9",
     "set_stats": "+Ninguno",
     "set_bonus": "+2 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "2"
+    "piece_defense": "2",
+    "piece_armor": "2"
   },
   {
     "id": "91",
@@ -1599,13 +1607,14 @@
     "is_armor": true,
     "armor_set_en": "Silver Armor",
     "armor_set_es": "Armadura de plata",
-    "total_defense": "10",
+    "total_defense": "13",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "3"
+    "piece_defense": "3",
+    "piece_armor": "3"
   },
   {
     "id": "92",
@@ -1627,13 +1636,14 @@
     "is_armor": true,
     "armor_set_en": "Gold Armor",
     "armor_set_es": "Armadura de oro",
-    "total_defense": "13",
+    "total_defense": "16",
     "set_stats": "+Ninguno",
     "set_bonus": "+3 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "4"
+    "piece_defense": "4",
+    "piece_armor": "4"
   },
   {
     "id": "93",
@@ -1784,7 +1794,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 12 Escamas de las sombras)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "101",
@@ -1817,7 +1828,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de endemoniado + 15 Escamas de las sombras)",
-    "piece_defense": "7"
+    "piece_defense": "7",
+    "piece_armor": "7"
   },
   {
     "id": "102",
@@ -1850,7 +1862,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de endemoniado + 10 Escamas de las sombras)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "103",
@@ -2304,7 +2317,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (10 Lingotes de meteorito)",
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "124",
@@ -2329,7 +2343,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "125",
@@ -2354,7 +2369,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de meteorito)",
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "126",
@@ -2424,7 +2440,8 @@
     "origin_info": "Fabricado: Banco de trabajo (30 Madera)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "130",
@@ -2445,7 +2462,8 @@
     "origin_info": "Fabricado: Banco de trabajo (20 Madera)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "131",
@@ -2466,7 +2484,8 @@
     "origin_info": "Fabricado: Banco de trabajo (25 Madera)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "132",
@@ -2512,8 +2531,9 @@
     ],
     "origin_info": "Fabricado: Yunque (25 Lingotes de cobre)",
     "piece_defense": "2",
-    "total_defense": "4",
-    "is_armor": true
+    "total_defense": "6",
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "135",
@@ -2533,8 +2553,9 @@
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de cobre)",
     "piece_defense": "1",
-    "total_defense": "4",
-    "is_armor": true
+    "total_defense": "6",
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "136",
@@ -2814,7 +2835,8 @@
       "exploration"
     ],
     "origin_info": "Cofre dorado (Mazmorra)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "152",
@@ -2834,7 +2856,8 @@
       "exploration"
     ],
     "origin_info": "Cofre dorado (Mazmorra)",
-    "piece_defense": "7"
+    "piece_defense": "7",
+    "piece_armor": "7"
   },
   {
     "id": "153",
@@ -2854,7 +2877,8 @@
       "exploration"
     ],
     "origin_info": "Cofre dorado (Mazmorra)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "154",
@@ -3997,7 +4021,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (1 Espora de selva + 10 Aguijón)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "229",
@@ -4030,7 +4055,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (1 Espora de selva + 1 Enredadera)",
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "230",
@@ -4063,7 +4089,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (1 Espora de selva + 2 Enredadera)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "231",
@@ -4088,7 +4115,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de meteorito)",
-    "piece_defense": "8"
+    "piece_defense": "8",
+    "piece_armor": "8"
   },
   {
     "id": "232",
@@ -4112,7 +4140,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "9"
+    "piece_defense": "9",
+    "piece_armor": "9"
   },
   {
     "id": "233",
@@ -4136,7 +4165,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "8"
+    "piece_defense": "8",
+    "piece_armor": "8"
   },
   {
     "id": "234",
@@ -4502,7 +4532,8 @@
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [],
     "origin_info": "Botín: Rey Slime",
-    "piece_defense": "2"
+    "piece_defense": "2",
+    "piece_armor": "2"
   },
   {
     "id": "257",
@@ -4520,7 +4551,8 @@
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [],
     "origin_info": "Botín: Rey Slime",
-    "piece_defense": "4"
+    "piece_defense": "4",
+    "piece_armor": "4"
   },
   {
     "id": "258",
@@ -4538,7 +4570,8 @@
     "set_bonus": "+20% Velocidad de movimiento. Deja rastro al moverse.",
     "station_ids": [],
     "origin_info": "Botín: Rey Slime",
-    "piece_defense": "3"
+    "piece_defense": "3",
+    "piece_armor": "3"
   },
   {
     "id": "259",
@@ -4558,7 +4591,8 @@
       "330"
     ],
     "piece_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "260",
@@ -4702,7 +4736,8 @@
       "330"
     ],
     "piece_defense": "2",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "269",
@@ -6568,7 +6603,8 @@
     "set_bonus": "-14% de coste de Maná",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "2"
   },
   {
     "id": "372",
@@ -6590,7 +6626,8 @@
     "set_bonus": "+15% vel. ataque cuerpo a cuerpo (Total: +27%)",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "12"
   },
   {
     "id": "373",
@@ -6612,7 +6649,8 @@
     "set_bonus": "20% de probabilidad de no consumir munición",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "4"
   },
   {
     "id": "374",
@@ -6632,7 +6670,8 @@
       "330"
     ],
     "piece_defense": "8",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "8"
   },
   {
     "id": "375",
@@ -6652,7 +6691,8 @@
       "330"
     ],
     "piece_defense": "7",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "7"
   },
   {
     "id": "376",
@@ -6675,7 +6715,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "2",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "377",
@@ -6698,7 +6739,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "15",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "15"
   },
   {
     "id": "378",
@@ -6713,7 +6755,8 @@
     ],
     "origin_info": "Compra: Médico brujo (Selva)",
     "piece_defense": "6",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "6"
   },
   {
     "id": "379",
@@ -6735,7 +6778,8 @@
     "set_bonus": "-17% de coste de Maná",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "12"
   },
   {
     "id": "380",
@@ -6757,7 +6801,8 @@
     "set_bonus": "+5% crítico cuerpo a cuerpo",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "10"
   },
   {
     "id": "381",
@@ -6780,7 +6825,8 @@
     "station_ids": [
       "33"
     ],
-    "origin_info": "Fabricado: Horno (3 Mineral de cobalto)"
+    "origin_info": "Fabricado: Horno (3 Mineral de cobalto)",
+    "piece_armor": "6"
   },
   {
     "id": "382",
@@ -7125,7 +7171,8 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Minado: Bendición (Hallow)"
+    "origin_info": "Minado: Bendición (Hallow)",
+    "piece_armor": "4"
   },
   {
     "id": "401",
@@ -7148,7 +7195,8 @@
     "station_ids": [
       "398"
     ],
-    "origin_info": "Fabricado: Taller de chapuzas (Botas cohete + Botas de Hermes/Ráfaga/Pez vela/Caminadunas)"
+    "origin_info": "Fabricado: Taller de chapuzas (Botas cohete + Botas de Hermes/Ráfaga/Pez vela/Caminadunas)",
+    "piece_armor": "22"
   },
   {
     "id": "402",
@@ -7170,7 +7218,8 @@
     "set_bonus": "25% de probabilidad de no consumir munición",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "8"
   },
   {
     "id": "403",
@@ -7190,7 +7239,8 @@
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "16",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "16"
   },
   {
     "id": "404",
@@ -7210,7 +7260,8 @@
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "12",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "12"
   },
   {
     "id": "405",
@@ -9401,7 +9452,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "15",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "15"
   },
   {
     "id": "552",
@@ -9420,7 +9472,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "11",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "11"
   },
   {
     "id": "553",
@@ -9442,7 +9495,8 @@
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "9"
   },
   {
     "id": "554",
@@ -9555,7 +9609,8 @@
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "7"
   },
   {
     "id": "559",
@@ -9577,7 +9632,8 @@
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "24"
   },
   {
     "id": "560",
@@ -11756,8 +11812,9 @@
       "iron_anvil"
     ],
     "piece_defense": "2",
-    "total_defense": "5",
-    "is_armor": true
+    "total_defense": "7",
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "688",
@@ -11776,8 +11833,9 @@
       "iron_anvil"
     ],
     "piece_defense": "2",
-    "total_defense": "5",
-    "is_armor": true
+    "total_defense": "7",
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "689",
@@ -11796,8 +11854,9 @@
       "iron_anvil"
     ],
     "piece_defense": "1",
-    "total_defense": "5",
-    "is_armor": true
+    "total_defense": "7",
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "690",
@@ -11816,8 +11875,9 @@
       "iron_anvil"
     ],
     "piece_defense": "3",
-    "total_defense": "8",
-    "is_armor": true
+    "total_defense": "11",
+    "is_armor": true,
+    "piece_armor": "3"
   },
   {
     "id": "691",
@@ -11836,8 +11896,9 @@
       "iron_anvil"
     ],
     "piece_defense": "3",
-    "total_defense": "8",
-    "is_armor": true
+    "total_defense": "11",
+    "is_armor": true,
+    "piece_armor": "3"
   },
   {
     "id": "692",
@@ -11856,8 +11917,9 @@
       "iron_anvil"
     ],
     "piece_defense": "2",
-    "total_defense": "8",
-    "is_armor": true
+    "total_defense": "11",
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "693",
@@ -11876,8 +11938,9 @@
       "iron_anvil"
     ],
     "piece_defense": "4",
-    "total_defense": "12",
-    "is_armor": true
+    "total_defense": "15",
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "694",
@@ -11896,8 +11959,9 @@
       "iron_anvil"
     ],
     "piece_defense": "5",
-    "total_defense": "12",
-    "is_armor": true
+    "total_defense": "15",
+    "is_armor": true,
+    "piece_armor": "5"
   },
   {
     "id": "695",
@@ -11916,8 +11980,9 @@
       "iron_anvil"
     ],
     "piece_defense": "3",
-    "total_defense": "12",
-    "is_armor": true
+    "total_defense": "15",
+    "is_armor": true,
+    "piece_armor": "3"
   },
   {
     "id": "696",
@@ -11935,13 +12000,14 @@
     "is_armor": true,
     "armor_set_en": "Platinum Armor",
     "armor_set_es": "Armadura de platino",
-    "total_defense": "16",
+    "total_defense": "20",
     "set_stats": "+Ninguno",
     "set_bonus": "+4 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "697",
@@ -11959,13 +12025,14 @@
     "is_armor": true,
     "armor_set_en": "Platinum Armor",
     "armor_set_es": "Armadura de platino",
-    "total_defense": "16",
+    "total_defense": "20",
     "set_stats": "+Ninguno",
     "set_bonus": "+4 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "698",
@@ -11983,13 +12050,14 @@
     "is_armor": true,
     "armor_set_en": "Platinum Armor",
     "armor_set_es": "Armadura de platino",
-    "total_defense": "16",
+    "total_defense": "20",
     "set_stats": "+Ninguno",
     "set_bonus": "+4 Defensa extra.",
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "699",
@@ -12656,7 +12724,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (20 Madera de ébano)",
     "piece_defense": "1",
     "total_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "731",
@@ -12681,7 +12750,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (30 Madera de ébano)",
     "piece_defense": "2",
     "total_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "732",
@@ -12706,7 +12776,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (25 Madera de ébano)",
     "piece_defense": "1",
     "total_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "733",
@@ -12731,7 +12802,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (20 Madera rica)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "734",
@@ -12752,7 +12824,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (30 Madera rica)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "735",
@@ -12773,7 +12846,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (25 Madera rica)",
     "piece_defense": "1",
     "total_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "1"
   },
   {
     "id": "736",
@@ -12793,7 +12867,8 @@
     ],
     "piece_defense": "2",
     "total_defense": "8",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "2"
   },
   {
     "id": "737",
@@ -12813,7 +12888,8 @@
     ],
     "piece_defense": "3",
     "total_defense": "8",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "3"
   },
   {
     "id": "738",
@@ -12833,7 +12909,8 @@
     ],
     "piece_defense": "3",
     "total_defense": "8",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "3"
   },
   {
     "id": "739",
@@ -13563,7 +13640,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 10 Muestra de tejido)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "793",
@@ -13592,7 +13670,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (20 Lingotes de carmesí + 15 Muestra de tejido)",
-    "piece_defense": "7"
+    "piece_defense": "7",
+    "piece_armor": "7"
   },
   {
     "id": "794",
@@ -13621,7 +13700,8 @@
       "iron_anvil"
     ],
     "origin_info": "Fabricado: Yunque (15 Lingotes de carmesí + 12 Muestra de tejido)",
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "795",
@@ -16783,7 +16863,8 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)"
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
+    "piece_armor": "25"
   },
   {
     "id": "1002",
@@ -16806,7 +16887,8 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)"
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
+    "piece_armor": "13"
   },
   {
     "id": "1003",
@@ -16829,7 +16911,8 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)"
+    "origin_info": "Fabricado: Yunque de mitrilo (12 Lingotes de clorofita)",
+    "piece_armor": "7"
   },
   {
     "id": "1004",
@@ -16849,7 +16932,8 @@
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (24 Lingotes de clorofita)",
     "piece_defense": "18",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "18"
   },
   {
     "id": "1005",
@@ -16869,7 +16953,8 @@
     ],
     "origin_info": "Fabricado: Yunque de mitrilo (18 Lingotes de clorofita)",
     "piece_defense": "13",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "13"
   },
   {
     "id": "1006",
@@ -19332,7 +19417,8 @@
     "origin_info": "Witch Doctor",
     "piece_defense": "6",
     "total_defense": "35",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "6"
   },
   {
     "id": "1160",
@@ -19349,7 +19435,8 @@
     "origin_info": "Mourning Wood (Luna Calabaza)",
     "piece_defense": "17",
     "total_defense": "35",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "17"
   },
   {
     "id": "1161",
@@ -19365,7 +19452,8 @@
     ],
     "piece_defense": "12",
     "total_defense": "35",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "12"
   },
   {
     "id": "1162",
@@ -19711,7 +19799,8 @@
       "hand",
       "mythril_anvil",
       "exploration"
-    ]
+    ],
+    "piece_armor": "3"
   },
   {
     "id": "1186",
@@ -19734,7 +19823,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "5"
   },
   {
     "id": "1187",
@@ -19757,7 +19847,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "14"
   },
   {
     "id": "1188",
@@ -19854,7 +19945,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "4"
   },
   {
     "id": "1193",
@@ -19877,7 +19969,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "7"
   },
   {
     "id": "1194",
@@ -19900,7 +19993,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "19"
   },
   {
     "id": "1195",
@@ -19996,7 +20090,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "4"
   },
   {
     "id": "1200",
@@ -20019,7 +20114,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "8"
   },
   {
     "id": "1201",
@@ -20042,7 +20138,8 @@
     "station_ids": [
       "hand",
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "23"
   },
   {
     "id": "1202",
@@ -20120,7 +20217,8 @@
       "iron_anvil"
     ],
     "piece_defense": "14",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "14"
   },
   {
     "id": "1206",
@@ -20143,7 +20241,8 @@
       "iron_anvil"
     ],
     "piece_defense": "5",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "5"
   },
   {
     "id": "1207",
@@ -20166,7 +20265,8 @@
       "iron_anvil"
     ],
     "piece_defense": "3",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "3"
   },
   {
     "id": "1208",
@@ -20189,7 +20289,8 @@
       "iron_anvil"
     ],
     "piece_defense": "10",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "10"
   },
   {
     "id": "1209",
@@ -20212,7 +20313,8 @@
       "iron_anvil"
     ],
     "piece_defense": "8",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "8"
   },
   {
     "id": "1210",
@@ -20235,7 +20337,8 @@
       "iron_anvil"
     ],
     "piece_defense": "19",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "19"
   },
   {
     "id": "1211",
@@ -20258,7 +20361,8 @@
       "iron_anvil"
     ],
     "piece_defense": "7",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "7"
   },
   {
     "id": "1212",
@@ -20277,7 +20381,8 @@
       "iron_anvil"
     ],
     "piece_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "1213",
@@ -20296,7 +20401,8 @@
       "iron_anvil"
     ],
     "piece_defense": "13",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "13"
   },
   {
     "id": "1214",
@@ -20316,7 +20422,8 @@
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (10 Lingotes de mithril)",
     "piece_defense": "11",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "11"
   },
   {
     "id": "1215",
@@ -20336,7 +20443,8 @@
     ],
     "origin_info": "Fabricado: Yunque de mitrilo/oricalco (12 Lingotes de adamantita)",
     "piece_defense": "23",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "23"
   },
   {
     "id": "1216",
@@ -20357,7 +20465,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (20 Madera sombría)",
     "piece_defense": "8",
     "total_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "8"
   },
   {
     "id": "1217",
@@ -20378,7 +20487,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (30 Madera sombría)",
     "piece_defense": "4",
     "total_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "1218",
@@ -20399,7 +20509,8 @@
     "origin_info": "Fabricado: Mesa de trabajo (25 Madera sombría)",
     "piece_defense": "18",
     "total_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "18"
   },
   {
     "id": "1219",
@@ -20418,7 +20529,8 @@
       "iron_anvil"
     ],
     "piece_defense": "13",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "13"
   },
   {
     "id": "1220",
@@ -24255,7 +24367,8 @@
     ],
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "6",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "6"
   },
   {
     "id": "1504",
@@ -24275,7 +24388,8 @@
     ],
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "14",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "14"
   },
   {
     "id": "1505",
@@ -24295,7 +24409,8 @@
     ],
     "origin_info": "Fabricado: Mesa de trabajo (Pieza esquimal + Tinte rosa)",
     "piece_defense": "10",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "10"
   },
   {
     "id": "1506",
@@ -24342,7 +24457,8 @@
       "merchant_buy",
       "loot"
     ],
-    "origin_info": "Botín: Espíritu de la mazmorra (Post-Plantera)"
+    "origin_info": "Botín: Espíritu de la mazmorra (Post-Plantera)",
+    "piece_armor": "6"
   },
   {
     "id": "1509",
@@ -24885,7 +25001,8 @@
     "piece_effects": "+15% daño de flechas | +5% crítico a distancia",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "11"
   },
   {
     "id": "1547",
@@ -24911,7 +25028,8 @@
     "piece_effects": "+15% daño de balas | +5% crítico a distancia",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "11"
   },
   {
     "id": "1548",
@@ -24937,7 +25055,8 @@
     "piece_effects": "+15% daño de cohetes/lanzadores | +5% crítico a distancia",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "11"
   },
   {
     "id": "1549",
@@ -24961,7 +25080,8 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_defense": "24"
+    "piece_defense": "24",
+    "piece_armor": "24"
   },
   {
     "id": "1550",
@@ -24985,7 +25105,8 @@
     "station_ids": [
       "mythril_anvil"
     ],
-    "piece_defense": "16"
+    "piece_defense": "16",
+    "piece_armor": "16"
   },
   {
     "id": "1551",
@@ -28383,7 +28504,8 @@
       "iron_anvil",
       "36"
     ],
-    "piece_defense": "8"
+    "piece_defense": "8",
+    "piece_armor": "8"
   },
   {
     "id": "1833",
@@ -28408,7 +28530,8 @@
       "iron_anvil",
       "36"
     ],
-    "piece_defense": "11"
+    "piece_defense": "11",
+    "piece_armor": "11"
   },
   {
     "id": "1834",
@@ -28433,7 +28556,8 @@
       "iron_anvil",
       "36"
     ],
-    "piece_defense": "11"
+    "piece_defense": "11",
+    "piece_armor": "11"
   },
   {
     "id": "1835",
@@ -33886,7 +34010,8 @@
     "set_bonus": "El daño mágico genera orbes rastreadores que dañan enemigos",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "14"
   },
   {
     "id": "2190",
@@ -34056,7 +34181,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "14",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "14"
   },
   {
     "id": "2200",
@@ -34080,7 +34206,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "20",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "20"
   },
   {
     "id": "2201",
@@ -34104,7 +34231,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "32",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "32"
   },
   {
     "id": "2202",
@@ -34128,7 +34256,8 @@
       "mythril_anvil"
     ],
     "piece_defense": "15",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "15"
   },
   {
     "id": "2203",
@@ -38978,7 +39107,8 @@
     "station_ids": [
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "2510",
@@ -39002,7 +39132,8 @@
     "station_ids": [
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "2511",
@@ -39026,7 +39157,8 @@
     "station_ids": [
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "2512",
@@ -39050,7 +39182,8 @@
     "station_ids": [
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "2513",
@@ -39074,7 +39207,8 @@
     "station_ids": [
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "2514",
@@ -39098,7 +39232,8 @@
     "station_ids": [
       "36"
     ],
-    "piece_defense": "1"
+    "piece_defense": "1",
+    "piece_armor": "1"
   },
   {
     "id": "2515",
@@ -43498,7 +43633,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de vórtice + 8 Luminita)",
-    "piece_defense": "14"
+    "piece_defense": "14",
+    "piece_armor": "14"
   },
   {
     "id": "2758",
@@ -43527,7 +43663,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de vórtice + 16 Luminita)",
-    "piece_defense": "28"
+    "piece_defense": "28",
+    "piece_armor": "28"
   },
   {
     "id": "2759",
@@ -43556,7 +43693,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de vórtice + 12 Luminita)",
-    "piece_defense": "20"
+    "piece_defense": "20",
+    "piece_armor": "20"
   },
   {
     "id": "2760",
@@ -43585,7 +43723,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de nebulosa + 8 Luminita)",
-    "piece_defense": "14"
+    "piece_defense": "14",
+    "piece_armor": "14"
   },
   {
     "id": "2761",
@@ -43614,7 +43753,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de nebulosa + 16 Luminita)",
-    "piece_defense": "18"
+    "piece_defense": "18",
+    "piece_armor": "18"
   },
   {
     "id": "2762",
@@ -43643,7 +43783,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de nebulosa + 12 Luminita)",
-    "piece_defense": "14"
+    "piece_defense": "14",
+    "piece_armor": "14"
   },
   {
     "id": "2763",
@@ -43672,7 +43813,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos solares + 8 Luminita)",
-    "piece_defense": "24"
+    "piece_defense": "24",
+    "piece_armor": "24"
   },
   {
     "id": "2764",
@@ -43701,7 +43843,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos solares + 16 Luminita)",
-    "piece_defense": "34"
+    "piece_defense": "34",
+    "piece_armor": "34"
   },
   {
     "id": "2765",
@@ -43730,7 +43873,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos solares + 12 Luminita)",
-    "piece_defense": "20"
+    "piece_defense": "20",
+    "piece_armor": "20"
   },
   {
     "id": "2766",
@@ -48198,7 +48342,8 @@
     ],
     "origin_info": "Cofre de granito (Subterráneo)",
     "piece_defense": "4",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "3110",
@@ -49724,7 +49869,8 @@
     ],
     "piece_defense": "4",
     "total_defense": "13",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "3188",
@@ -49739,7 +49885,8 @@
     ],
     "piece_defense": "5",
     "total_defense": "13",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "5"
   },
   {
     "id": "3189",
@@ -49754,7 +49901,8 @@
     ],
     "piece_defense": "4",
     "total_defense": "13",
-    "is_armor": true
+    "is_armor": true,
+    "piece_armor": "4"
   },
   {
     "id": "3190",
@@ -52512,7 +52660,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "5"
+    "piece_defense": "5",
+    "piece_armor": "5"
   },
   {
     "id": "3375",
@@ -52536,7 +52685,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "6"
+    "piece_defense": "6",
+    "piece_armor": "6"
   },
   {
     "id": "3376",
@@ -52560,7 +52710,8 @@
     "station_ids": [
       "iron_anvil"
     ],
-    "piece_defense": "4"
+    "piece_defense": "4",
+    "piece_armor": "4"
   },
   {
     "id": "3377",
@@ -52659,7 +52810,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (10 Fragmentos de polvo estelar + 8 Luminita)",
-    "piece_defense": "10"
+    "piece_defense": "10",
+    "piece_armor": "10"
   },
   {
     "id": "3382",
@@ -52688,7 +52840,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (20 Fragmentos de polvo estelar + 16 Luminita)",
-    "piece_defense": "16"
+    "piece_defense": "16",
+    "piece_armor": "16"
   },
   {
     "id": "3383",
@@ -52717,7 +52870,8 @@
       "ancient_manipulator"
     ],
     "origin_info": "Fabricado: Manipulador antiguo (15 Fragmentos de polvo estelar + 12 Luminita)",
-    "piece_defense": "12"
+    "piece_defense": "12",
+    "piece_armor": "12"
   },
   {
     "id": "3384",
@@ -75089,7 +75243,8 @@
     "set_bonus": "Inmunidad temporal al dañar enemigos (Holy Protection)",
     "station_ids": [
       "mythril_anvil"
-    ]
+    ],
+    "piece_armor": "1"
   },
   {
     "id": "4874",

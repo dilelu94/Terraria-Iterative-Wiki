@@ -128,7 +128,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             {item.is_armor && (
               <div className="enemy-stats-row hero-stats">
                 <div className="stat-pill" title={lang === 'es' ? 'Defensa de esta pieza' : 'Piece Defense'}>
-                  🛡️ {item.piece_defense || '?'}
+                  🛡️ {item.piece_defense || (item as any).piece_armor || '?'}
                 </div>
                 {item.total_defense && (
                   <div className="stat-pill" title={lang === 'es' ? 'Defensa total del set' : 'Total Set Defense'}>
