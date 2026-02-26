@@ -10,19 +10,33 @@
     "drops": [
       {
         "item_name": "Dual Hook",
-        "item_id": "436"
+        "item_id": "437",
+        "chance": "16.67%"
       },
       {
         "item_name": "Magic Dagger",
-        "item_id": "535"
+        "item_id": "535",
+        "chance": "16.67%"
       },
       {
         "item_name": "Titan Glove",
-        "item_id": "536"
+        "item_id": "536",
+        "chance": "16.67%"
+      },
+      {
+        "item_name": "Star Cloak",
+        "item_id": "537",
+        "chance": "16.67%"
       },
       {
         "item_name": "Cross Necklace",
-        "item_id": "554"
+        "item_id": "554",
+        "chance": "16.67%"
+      },
+      {
+        "item_name": "Philosopher's Stone",
+        "item_id": "555",
+        "chance": "16.67%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mimic.png",
@@ -44,19 +58,23 @@
     "drops": [
       {
         "item_name": "Ice Bow",
-        "item_id": "725"
+        "item_id": "725",
+        "chance": "25%"
       },
       {
         "item_name": "Frostbrand",
-        "item_id": "676"
+        "item_id": "676",
+        "chance": "25%"
       },
       {
         "item_name": "Flower of Frost",
-        "item_id": "726"
+        "item_id": "726",
+        "chance": "25%"
       },
       {
         "item_name": "Toy Sled",
-        "item_id": "2673"
+        "item_id": "1312",
+        "chance": "5%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Mimic.png",
@@ -95,19 +113,23 @@
     "drops": [
       {
         "item_name": "Dart Rifle",
-        "item_id": "3053"
+        "item_id": "3053",
+        "chance": "25%"
       },
       {
         "item_name": "Chain Guillotines",
-        "item_id": "3054"
+        "item_id": "3054",
+        "chance": "25%"
       },
       {
         "item_name": "Clinger Staff",
-        "item_id": "3012"
+        "item_id": "3012",
+        "chance": "25%"
       },
       {
         "item_name": "Putrid Scent",
-        "item_id": "3245"
+        "item_id": "3245",
+        "chance": "25%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Corrupt_Mimic.png",
@@ -129,19 +151,23 @@
     "drops": [
       {
         "item_name": "Dart Pistol",
-        "item_id": "3052"
+        "item_id": "3052",
+        "chance": "25%"
       },
       {
         "item_name": "Fetid Baghnakhs",
-        "item_id": "3055"
+        "item_id": "3055",
+        "chance": "25%"
       },
       {
         "item_name": "Life Drain",
-        "item_id": "3013"
+        "item_id": "3013",
+        "chance": "25%"
       },
       {
         "item_name": "Flesh Knuckles",
-        "item_id": "3246"
+        "item_id": "3246",
+        "chance": "25%"
       }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Crimson_Mimic.png",
@@ -163,22 +189,22 @@
     "drops": [
       {
         "item_name": "Daedalus Stormbow",
-        "item_id": "3029"
+        "item_id": "2882",
+        "chance": "25%"
       },
       {
         "item_name": "Flying Knife",
-        "item_id": "3030"
+        "item_id": "3030",
+        "chance": "25%"
       },
       {
         "item_name": "Crystal Vile Shard",
-        "item_id": "3008"
+        "item_id": "3008",
+        "chance": "25%"
       },
       {
         "item_name": "Illuminant Hook",
-        "item_id": "3031"
-      },
-      {
-        "item_id": "2882",
+        "item_id": "3028",
         "chance": "25%"
       }
     ],

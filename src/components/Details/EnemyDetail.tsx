@@ -86,13 +86,13 @@ const EnemyDetail: React.FC<EnemyDetailProps> = ({ enemy, lang, onBack, items, s
                 const itemDetails = items.find(i => i.id === drop.item_id);
                 return (
                   <div key={idx} className="ing-item" onClick={() => itemDetails && setSelectedItem(itemDetails)}>
-                    <span className="ing-count total">{drop.chance}</span>
                     {itemDetails?.image_url ? (
                       <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
                     ) : (
                       <div className="item-icon-placeholder tiny">📦</div>
                     )}
                     <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                    {drop.chance && <span className="chance-pill">{drop.chance}</span>}
                     {itemDetails && <span className="can-craft">↗</span>}
                   </div>
                 );

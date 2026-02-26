@@ -52,7 +52,7 @@ export interface NPC {
   display_name: string;
   image: string;
   wiki_url: string;
-  items_sold: { item_name: string; item_id: string | null }[];
+  items_sold: { item_name: string; item_id: string | null; condition?: string; is_hardmode?: boolean }[];
 }
 
 export interface Boss {
@@ -71,11 +71,11 @@ export interface Boss {
   health: string;
   defense: string;
   damage: string;
-  drops: { item_name: string; item_id: string | null }[];
+  drops: { item_name: string; item_id: string | null; chance?: string }[];
   image: string;
   wiki_url: string;
   treasure_bag?: { item_id: string; item_name: string } | null;
-  expert_drops?: { item_id: string; item_name: string }[];
+  expert_drops?: { item_id: string; item_name: string; chance?: string }[];
 }
 
 export interface EventBoss {
@@ -89,10 +89,10 @@ export interface EventBoss {
   health: string;
   defense: string;
   damage: string;
-  drops: string[];
+  drops: { item_name: string; item_id: string | null; chance?: string }[];
   image: string;
   treasure_bag?: { item_id: string; item_name: string } | null;
-  expert_drops?: { item_id: string; item_name: string }[];
+  expert_drops?: { item_id: string; item_name: string; chance?: string }[];
 }
 
 export interface Mimic {
@@ -108,7 +108,7 @@ export interface Mimic {
   health: string;
   defense: string;
   damage: string;
-  drops: { item_name: string; item_id: string | null }[];
+  drops: { item_name: string; item_id: string | null; chance?: string }[];
   image: string;
   wiki_url: string;
 }

@@ -70,16 +70,17 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
           
           <div className="loot-grid" style={{ marginBottom: boss.treasure_bag ? '1.5rem' : '0' }}>
             {boss.drops && boss.drops.length > 0 ? (
-              boss.drops.map((dropName, idx) => {
-                const itemDetails = items.find(i => i.name_en.toLowerCase() === dropName.toLowerCase() || i.name_es.toLowerCase() === dropName.toLowerCase());
+              boss.drops.map((drop, idx) => {
+                const itemDetails = drop.item_id ? items.find(i => i.id === drop.item_id) : null;
                 return (
                   <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
                     {itemDetails?.image_url ? (
-                      <img src={itemDetails.image_url} alt={dropName} className="ing-icon" />
+                      <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
                     ) : (
                       <div className="item-icon-placeholder tiny">📦</div>
                     )}
-                    <span className="ing-name">{itemDetails?.display_name || dropName}</span>
+                    <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                    {drop.chance && <span className="chance-pill">{drop.chance}</span>}
                     {itemDetails && <span className="can-craft">↗</span>}
                   </div>
                 );
@@ -120,6 +121,7 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
                           <div className="item-icon-placeholder tiny">📦</div>
                         )}
                         <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                        {drop.chance && <span className="chance-pill">{drop.chance}</span>}
                         {itemDetails && <span className="can-craft">↗</span>}
                       </div>
                     );

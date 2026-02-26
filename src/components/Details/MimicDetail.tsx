@@ -104,6 +104,7 @@ const MimicDetail: React.FC<MimicDetailProps> = ({ mimic, lang, onBack, items, s
                       <div className="item-icon-placeholder tiny">📦</div>
                     )}
                     <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                    {drop.chance && <span className="chance-pill">{drop.chance}</span>}
                     {itemDetails && <span className="can-craft">↗</span>}
                   </div>
                 );
