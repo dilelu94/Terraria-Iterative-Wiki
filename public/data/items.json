@@ -22569,12 +22569,13 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Panic_Necklace.png",
     "station_ids": [
-      "hand"
-    ]
+      "exploration"
+    ],
+    "origin_info": "Botín: Corazón carmesí"
   },
   {
     "id": "1291",
-    "category": "Miscellaneous",
+    "category": "Materials",
     "name_en": "Life Fruit",
     "name_es": "Fruto de la vida",
     "wiki_url": "https://terraria.wiki.gg/wiki/Life_Fruit",
@@ -22587,125 +22588,134 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Life_Fruit.png",
     "station_ids": [
-      "exploration",
-      "shimmer"
+      "exploration"
     ],
     "origin_info": "Encontrado: Selva (Hardmode)"
   },
   {
     "id": "1292",
-    "category": "Furniture (Other)",
-    "name_en": "Lihzahrd Altar",
+    "category": "Accessories",
+    "name_en": "Ice Skates",
     "name_es": "Patines de hielo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Altar",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Skates",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Altar.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Skates.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre helado (Nieve) / Cajas congeladas (Pesca)"
+    "origin_info": "Cofre helado (Nieve)"
   },
   {
     "id": "1293",
-    "category": "Keys/Boss Summons",
-    "name_en": "Lihzahrd Power Cell",
-    "name_es": "Célula de poder de lihzahrd",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Power_Cell",
+    "category": "Accessories",
+    "name_en": "Giant Bow",
+    "name_es": "Moño gigante",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Giant_Bow",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Power_Cell.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Giant_Bow.png",
     "station_ids": [
-      "exploration",
       "loot"
     ],
-    "origin_info": "Cofre de lihzahrd (Templo de la selva)"
+    "origin_info": "Botín: Enemigos de la Mazmorra"
   },
   {
     "id": "1294",
     "category": "Tools",
-    "name_en": "Picksaw",
+    "name_en": "The Axe",
     "name_es": "El hacha",
+    "wiki_url": "https://terraria.wiki.gg/wiki/The_Axe",
+    "recipes": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Axe.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Plantera (0.5% - 2%)"
+  },
+  {
+    "id": "1295",
+    "category": "Tools",
+    "name_en": "Picksaw",
+    "name_es": "Pico-sierra",
     "wiki_url": "https://terraria.wiki.gg/wiki/Picksaw",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Picksaw.png",
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Plantera (0.5% - 2% probabilidad)"
+    "origin_info": "Botín: Golem"
   },
   {
-    "id": "1295",
+    "id": "1296",
     "category": "Weapons",
     "name_en": "Heat Ray",
-    "name_es": "Pico-sierra",
+    "name_es": "Rayo de calor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Heat_Ray",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Heat_Ray.png",
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Gólem"
-  },
-  {
-    "id": "1296",
-    "category": "Weapons",
-    "name_en": "Staff of Earth",
-    "name_es": "Báculo de la Tierra",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Staff_of_Earth",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Staff_of_Earth.png",
-    "station_ids": []
+    "origin_info": "Botín: Golem"
   },
   {
     "id": "1297",
-    "category": "Weapons",
-    "name_en": "Golem Fist",
+    "category": "Furniture",
+    "name_en": "Lihzahrd Altar",
     "name_es": "Altar Lihzahrd",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Golem_Fist",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Altar",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem_Fist.png",
-    "station_ids": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Altar.png",
+    "station_ids": [
+      "exploration"
+    ],
     "origin_info": "Templo de la selva"
   },
   {
     "id": "1298",
-    "category": "Chests/Crates",
-    "name_en": "Water Chest",
-    "name_es": "Cofre de agua",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Water_Chest",
+    "category": "Materials",
+    "name_en": "Lihzahrd Power Cell",
+    "name_es": "Célula de poder de lihzahrd",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Lihzahrd_Power_Cell",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Chest.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lihzahrd_Power_Cell.png",
+    "station_ids": [
+      "loot",
+      "exploration"
+    ],
+    "origin_info": "Cofre de Lihzahrd / Botín: Lihzahrd"
   },
   {
     "id": "1299",
-    "category": "Tools",
-    "name_en": "Binoculars",
-    "name_es": "Pergamino nigromántico",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Binoculars",
+    "category": "Weapons",
+    "name_en": "Golem Fist",
+    "name_es": "Puño de Golem",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Golem_Fist",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Binoculars.png",
-    "station_ids": [],
-    "origin_info": "Botín: Mourning Wood (Luna de calabaza)"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem_Fist.png",
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Golem"
   },
   {
     "id": "1300",
-    "category": "Accessories",
-    "name_en": "Rifle Scope",
-    "name_es": "Escarabajo de papiro",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Rifle_Scope",
+    "category": "Miscellaneous",
+    "name_en": "Water Gun",
+    "name_es": "Pistola de agua",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Water_Gun",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rifle_Scope.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Water_Gun.png",
     "station_ids": [
-      "exploration"
+      "loot"
     ],
-    "origin_info": "Botín: Esqueleto francotirador"
+    "origin_info": "Botín: Vendedor ambulante"
   },
   {
     "id": "1301",
     "category": "Accessories",
-    "name_en": "Destroyer Emblem",
-    "name_es": "Emblema de hechicero",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Emblem",
+    "name_en": "Binoculars",
+    "name_es": "Prismáticos",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Binoculars",
     "recipes": [
       {
         "name_en": "Avenger Emblem",
@@ -22716,19 +22726,18 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Destroyer_Emblem.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Binoculars.png",
     "station_ids": [
-      "hand",
-      "398"
+      "loot"
     ],
-    "origin_info": "Taller de chapuzas"
+    "origin_info": "Botín: Ojo de Cthulhu"
   },
   {
     "id": "1302",
-    "category": "Weapons (Thrown/Ammo)",
-    "name_en": "High Velocity Bullet",
-    "name_es": "Bala de alta velocidad",
-    "wiki_url": "https://terraria.wiki.gg/wiki/High_Velocity_Bullet",
+    "category": "Accessories",
+    "name_en": "Rifle Scope",
+    "name_es": "Mira de fusil",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Rifle_Scope",
     "recipes": [
       {
         "name_en": "Cog",
@@ -22739,24 +22748,53 @@
         "amount": 50
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/High_Velocity_Bullet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rifle_Scope.png",
     "station_ids": [
-      "hand",
-      "36"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Esqueleto francotirador"
   },
   {
     "id": "1303",
+    "category": "Accessories",
+    "name_en": "Destroyer Emblem",
+    "name_es": "Emblema de destructor",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Destroyer_Emblem",
+    "recipes": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Destroyer_Emblem.png",
+    "station_ids": [
+      "398"
+    ],
+    "origin_info": "Fabricado: Taller de chapuzas (Emblema de vengador + Ojo del Golem)"
+  },
+  {
+    "id": "1304",
+    "category": "Ammunition",
+    "name_en": "High Velocity Bullet",
+    "name_es": "Bala de alta velocidad",
+    "wiki_url": "https://terraria.wiki.gg/wiki/High_Velocity_Bullet",
+    "recipes": [],
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/High_Velocity_Bullet.png",
+    "station_ids": [
+      "iron_anvil"
+    ],
+    "origin_info": "Fabricado: Yunque (50 Balas de mosquete + 1 Engranaje)"
+  },
+  {
+    "id": "1305",
     "category": "Accessories",
     "name_en": "Jellyfish Necklace",
     "name_es": "Collar de medusa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jellyfish_Necklace",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jellyfish_Necklace.png",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Medusas"
   },
   {
-    "id": "1304",
+    "id": "1306",
     "category": "Weapons",
     "name_en": "Zombie Arm",
     "name_es": "Brazo de zombi",
@@ -22764,40 +22802,13 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Zombie_Arm.png",
     "station_ids": [
-      "345"
-    ]
-  },
-  {
-    "id": "1305",
-    "category": "Tools",
-    "name_en": "The Axe",
-    "name_es": "El hacha",
-    "wiki_url": "https://terraria.wiki.gg/wiki/The_Axe",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Axe.png",
-    "station_ids": [
-      "345",
-      "exploration"
+      "loot"
     ],
-    "origin_info": "Living Wood Chest (Árbol Gigante)"
-  },
-  {
-    "id": "1306",
-    "category": "Weapons",
-    "name_en": "Ice Sickle",
-    "name_es": "Hoz de hielo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Ice_Sickle",
-    "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Sickle.png",
-    "station_ids": [
-      "345",
-      "exploration"
-    ],
-    "origin_info": "Living Wood Chest (Árbol Gigante)"
+    "origin_info": "Botín: Zombi"
   },
   {
     "id": "1307",
-    "category": "Keys/Boss Summons",
+    "category": "Accessories",
     "name_en": "Clothier Voodoo Doll",
     "name_es": "Muñeco vudú del buhonero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Clothier_Voodoo_Doll",
@@ -22806,7 +22817,7 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Enemigos de la Mazmorra (Dungeon)"
+    "origin_info": "Botín: Enemigos de la Mazmorra"
   },
   {
     "id": "1308",
@@ -22816,7 +22827,10 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Poison_Staff",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Poison_Staff.png",
-    "station_ids": []
+    "station_ids": [
+      "loot"
+    ],
+    "origin_info": "Botín: Araña reclusa negra"
   },
   {
     "id": "1309",
@@ -22827,13 +22841,13 @@
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Slime_Staff.png",
     "station_ids": [
-      "loot",
-      "extractinator"
-    ]
+      "loot"
+    ],
+    "origin_info": "Botín: Slimes (Extremadamente raro)"
   },
   {
     "id": "1310",
-    "category": "Weapons (Thrown/Ammo)",
+    "category": "Ammunition",
     "name_en": "Poison Dart",
     "name_es": "Dardo venenoso",
     "wiki_url": "https://terraria.wiki.gg/wiki/Poison_Dart",
@@ -22846,7 +22860,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Poison_Dart.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Fabricado: A mano (Aguijón)"
   },
   {
     "id": "1311",
