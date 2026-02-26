@@ -51,7 +51,7 @@
       },
       {
         "item_name": "Anvil",
-        "item_id": null
+        "item_id": "35"
       },
       {
         "item_name": "Copper Pickaxe",
@@ -254,7 +254,7 @@
     "items_sold": [
       {
         "item_name": "Wrench",
-        "item_id": null
+        "item_id": "509"
       },
       {
         "item_name": "Wire",
@@ -495,7 +495,7 @@
     "items_sold": [
       {
         "item_name": "Hair Dye",
-        "item_id": null
+        "item_id": "1977"
       },
       {
         "item_name": "Hair Dye Remover",
@@ -569,7 +569,7 @@
       },
       {
         "item_name": "Squire's Plated Coat",
-        "item_id": null
+        "item_id": "3801"
       },
       {
         "item_name": "Squire's Greaves",
