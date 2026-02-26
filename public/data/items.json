@@ -79311,7 +79311,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraformer.png",
-    "origin_info": "Transmutación: Clentaminator al Fulgor (Post-Moon Lord)"
+    "origin_info": "Transmutación (Fulgor): Lanza Clentaminator al Fulgor"
   },
   {
     "id": "5135",
@@ -82582,7 +82582,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rod_of_Harmony.png",
-    "origin_info": "Transmutación (Fulgor): Lanza una Vara de Discordia al Fulgor (Post-Moon Lord)",
+    "origin_info": "Transmutación (Fulgor): Lanza Rod of Discord al Fulgor",
     "piece_effects": "Teletransporte instantáneo sin cooldown ni daño por Fatiga del Caos"
   },
   {
@@ -82626,7 +82626,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Vital_Crystal.png",
-    "origin_info": "Transmutación: Cristal de vida al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Life Crystal al Fulgor"
   },
   {
     "id": "5338",
@@ -82645,7 +82645,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Aegis_Fruit.png",
-    "origin_info": "Transmutación: Fruto de la vida al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Life Fruit al Fulgor"
   },
   {
     "id": "5339",
@@ -82664,7 +82664,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arcane_Crystal.png",
-    "origin_info": "Transmutación: Cristal de maná al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Mana Crystal al Fulgor"
   },
   {
     "id": "5340",
@@ -82683,7 +82683,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Galaxy_Pearl.png",
-    "origin_info": "Transmutación: Perla rosa al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Pink Pearl al Fulgor"
   },
   {
     "id": "5341",
@@ -82702,7 +82702,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gummy_Worm.png",
-    "origin_info": "Transmutación: Gusano de oro al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Gold Worm al Fulgor"
   },
   {
     "id": "5342",
@@ -82712,7 +82712,7 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Ambrosia",
     "recipes": [
       {
-        "name_en": "Any Fruit",
+        "name_en": "Apple",
         "amount": 1,
         "is_shimmer": true
       }
@@ -82721,7 +82721,7 @@
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ambrosia.png",
-    "origin_info": "Transmutación: Cualquier fruta al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Apple al Fulgor"
   },
   {
     "id": "5343",
@@ -83099,18 +83099,13 @@
         "name_en": "Bottomless Water Bucket",
         "amount": 1,
         "is_shimmer": true
-      },
-      {
-        "name_en": "Luminite Bar",
-        "amount": 10,
-        "is_shimmer": true
       }
     ],
     "station_ids": [
       "shimmer"
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bottomless_Shimmer_Bucket.png",
-    "origin_info": "Transmutación: Cubo de agua sin fondo al Fulgor"
+    "origin_info": "Transmutación (Fulgor): Lanza Bottomless Water Bucket al Fulgor"
   },
   {
     "id": "5365",
