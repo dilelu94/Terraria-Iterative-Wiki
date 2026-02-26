@@ -60,32 +60,8 @@
     },
     "expert_drops": [
       {
-        "item_name": "Royal Gel",
-        "item_id": "3090"
-      },
-      {
-        "item_name": "Slimy Saddle",
-        "item_id": "2430"
-      },
-      {
-        "item_name": "Ninja Hood",
-        "item_id": "256"
-      },
-      {
-        "item_name": "Ninja Shirt",
-        "item_id": "257"
-      },
-      {
-        "item_name": "Ninja Pants",
-        "item_id": "258"
-      },
-      {
-        "item_name": "Slime Gun",
-        "item_id": "2610"
-      },
-      {
-        "item_name": "Slime Hook",
-        "item_id": "2585"
+        "item_id": "3090",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -126,44 +102,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "3300",
-        "item_name": "Sky Blue String"
-      },
-      {
-        "item_id": "43",
-        "item_name": "Suspicious Looking Eye"
-      },
-      {
-        "item_id": "4913",
-        "item_name": "Snapthorn"
-      },
-      {
-        "item_id": "112",
-        "item_name": "Flower of Fire"
-      },
-      {
-        "item_id": "113",
-        "item_name": "Magic Missile"
-      },
-      {
-        "item_id": "115",
-        "item_name": "Shadow Orb"
-      },
-      {
-        "item_id": "12",
-        "item_name": "Copper Ore"
-      },
-      {
-        "item_id": "11",
-        "item_name": "Iron Ore"
-      },
-      {
-        "item_id": "2361",
-        "item_name": "Bee Headgear"
+        "item_id": "3097",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -200,28 +140,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "56",
-        "item_name": "Demonite Ore"
-      },
-      {
-        "item_id": "57",
-        "item_name": "Demonite Bar"
-      },
-      {
-        "item_id": "3301",
-        "item_name": "Blue String"
-      },
-      {
-        "item_id": "4914",
-        "item_name": "Kaleidoscope"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1133",
-        "item_name": "Abeemination"
+        "item_id": "3223",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -258,28 +178,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "880",
-        "item_name": "Crimtane Ore"
-      },
-      {
-        "item_id": "881",
-        "item_name": "Cactus Sword"
-      },
-      {
-        "item_id": "3302",
-        "item_name": "Purple String"
-      },
-      {
-        "item_id": "4915",
-        "item_name": "Tungsten Bullet"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "3258",
-        "item_name": "Slap Hand"
+        "item_id": "3224",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -320,40 +220,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1121",
-        "item_name": "Bee Gun"
-      },
-      {
-        "item_id": "1123",
-        "item_name": "Bee Keeper"
-      },
-      {
-        "item_id": "1124",
-        "item_name": "Hive"
-      },
-      {
-        "item_id": "1125",
-        "item_name": "Honey Block"
-      },
-      {
-        "item_id": "1132",
-        "item_name": "Honey Comb"
-      },
-      {
-        "item_id": "2430",
-        "item_name": "Slimy Saddle"
-      },
-      {
-        "item_id": "3303",
-        "item_name": "Violet String"
-      },
-      {
-        "item_id": "4916",
-        "item_name": "Hallow Pylon"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
+        "item_id": "3333",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -694,28 +562,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "549",
-        "item_name": "Soul of Sight"
-      },
-      {
-        "item_id": "947",
-        "item_name": "Chlorophyte Ore"
-      },
-      {
-        "item_id": "3307",
-        "item_name": "Rainbow String"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1225",
-        "item_name": "Hallowed Bar"
-      },
-      {
-        "item_id": "4921",
-        "item_name": "Mushroom Pylon"
+        "item_id": "3354",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -756,28 +604,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "548",
-        "item_name": "Soul of Might"
-      },
-      {
-        "item_id": "947",
-        "item_name": "Chlorophyte Ore"
-      },
-      {
-        "item_id": "3306",
-        "item_name": "White String"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1225",
-        "item_name": "Hallowed Bar"
-      },
-      {
-        "item_id": "4920",
-        "item_name": "Snow Pylon"
+        "item_id": "3355",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -818,28 +646,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "547",
-        "item_name": "Soul of Fright"
-      },
-      {
-        "item_id": "947",
-        "item_name": "Chlorophyte Ore"
-      },
-      {
-        "item_id": "3308",
-        "item_name": "Black String"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1225",
-        "item_name": "Hallowed Bar"
-      },
-      {
-        "item_id": "4922",
-        "item_name": "Cavern Water Fountain"
+        "item_id": "3356",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -880,64 +688,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1141",
-        "item_name": "Temple Key"
-      },
-      {
-        "item_id": "1143",
-        "item_name": "Lihzahrd Chair"
-      },
-      {
-        "item_id": "1144",
-        "item_name": "Lihzahrd Table"
-      },
-      {
-        "item_id": "1145",
-        "item_name": "Lihzahrd Work Bench"
-      },
-      {
-        "item_id": "1146",
-        "item_name": "Super Dart Trap"
-      },
-      {
-        "item_id": "1147",
-        "item_name": "Flame Trap"
-      },
-      {
-        "item_id": "1148",
-        "item_name": "Spiky Ball Trap"
-      },
-      {
-        "item_id": "1149",
-        "item_name": "Spear Trap"
-      },
-      {
-        "item_id": "1150",
-        "item_name": "Wooden Spike"
-      },
-      {
-        "item_id": "1151",
-        "item_name": "Lihzahrd Pressure Plate"
-      },
-      {
-        "item_id": "1152",
-        "item_name": "Lihzahrd Statue"
-      },
-      {
-        "item_id": "1153",
-        "item_name": "Lihzahrd Watcher Statue"
-      },
-      {
-        "item_id": "3309",
-        "item_name": "Black Counterweight"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "1121",
-        "item_name": "Bee Gun"
+        "item_id": "3335",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -978,40 +730,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "1258",
-        "item_name": "Stynger"
-      },
-      {
-        "item_id": "1259",
-        "item_name": "Flower Pow"
-      },
-      {
-        "item_id": "1260",
-        "item_name": "Rainbow Gun"
-      },
-      {
-        "item_id": "1261",
-        "item_name": "Stynger Bolt"
-      },
-      {
-        "item_id": "1294",
-        "item_name": "Picksaw"
-      },
-      {
-        "item_id": "2112",
-        "item_name": "Eye of Cthulhu Mask"
-      },
-      {
-        "item_id": "2120",
-        "item_name": "Sandstone Slab"
-      },
-      {
-        "item_id": "3310",
-        "item_name": "Blue Counterweight"
-      },
-      {
-        "item_id": "4924",
-        "item_name": "Eye of Cthulhu Relic"
+        "item_id": "3336",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -1025,7 +745,8 @@
     "drops": [
       {
         "item_name": "Fishron Wings",
-        "item_id": "2609"
+        "item_id": "2609",
+        "chance": "6.67% (Clásico) / 10% (Experto)"
       },
       {
         "item_name": "Tsunami",
@@ -1052,36 +773,8 @@
     },
     "expert_drops": [
       {
-        "item_id": "2611",
-        "item_name": "Flairoon"
-      },
-      {
-        "item_id": "2621",
-        "item_name": "Tempest Staff"
-      },
-      {
-        "item_id": "2622",
-        "item_name": "Razorblade Typhoon"
-      },
-      {
-        "item_id": "2623",
-        "item_name": "Bubble Gun"
-      },
-      {
-        "item_id": "2624",
-        "item_name": "Tsunami"
-      },
-      {
-        "item_id": "1162",
-        "item_name": "Leaf Wings"
-      },
-      {
-        "item_id": "3311",
-        "item_name": "Green Counterweight"
-      },
-      {
-        "item_id": "4925",
-        "item_name": "Eater of Worlds Relic"
+        "item_id": "3367",
+        "chance": "100% (Bolsa)"
       }
     ]
   },
@@ -1213,6 +906,16 @@
     "biome_en": "Cualquiera",
     "biome_es": "Evento Lunar / Cualquier bioma",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "expert_drops": [
+      {
+        "item_id": "4954",
+        "chance": "100% (Bolsa)"
+      },
+      {
+        "item_id": "3360",
+        "chance": "100% (Bolsa)"
+      }
+    ]
   }
 ]

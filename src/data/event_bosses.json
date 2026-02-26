@@ -24,36 +24,8 @@
     "treasure_bag": null,
     "expert_drops": [
       {
-        "item_id": "2797",
-        "item_name": "Xenopopper"
-      },
-      {
-        "item_id": "2798",
-        "item_name": "Laser Drill"
-      },
-      {
-        "item_id": "2800",
-        "item_name": "Anti-Gravity Hook"
-      },
-      {
-        "item_id": "2744",
-        "item_name": "Cactus Platform"
-      },
-      {
-        "item_id": "2555",
-        "item_name": "Boreal Wood Candelabra"
-      },
-      {
-        "item_id": "2556",
-        "item_name": "Boreal Wood Candle"
-      },
-      {
-        "item_id": "3122",
-        "item_name": "R.E.K. 3000"
-      },
-      {
-        "item_id": "4926",
-        "item_name": "Brain of Cthulhu Relic"
+        "item_id": "4951",
+        "chance": "25% (Modo Maestro)"
       }
     ]
   },
@@ -197,10 +169,70 @@
     "defense": "100",
     "damage": "100 / 200",
     "drops": [
-      "Influx Waver",
-      "Cosmic Car Key",
-      "Laser Machinegun",
-      "Xeno Staff"
+      {
+        "0": "I",
+        "1": "n",
+        "2": "f",
+        "3": "l",
+        "4": "u",
+        "5": "x",
+        "6": " ",
+        "7": "W",
+        "8": "a",
+        "9": "v",
+        "10": "e",
+        "11": "r",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "0": "C",
+        "1": "o",
+        "2": "s",
+        "3": "m",
+        "4": "i",
+        "5": "c",
+        "6": " ",
+        "7": "C",
+        "8": "a",
+        "9": "r",
+        "10": " ",
+        "11": "K",
+        "12": "e",
+        "13": "y",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "0": "L",
+        "1": "a",
+        "2": "s",
+        "3": "e",
+        "4": "r",
+        "5": " ",
+        "6": "M",
+        "7": "a",
+        "8": "c",
+        "9": "h",
+        "10": "i",
+        "11": "n",
+        "12": "e",
+        "13": "g",
+        "14": "u",
+        "15": "n",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      },
+      {
+        "0": "X",
+        "1": "e",
+        "2": "n",
+        "3": "o",
+        "4": " ",
+        "5": "S",
+        "6": "t",
+        "7": "a",
+        "8": "f",
+        "9": "f",
+        "chance": "11.11% (Clásico) / 16.67% (Experto)"
+      }
     ],
     "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Martian_Saucer.png",
     "biome_en": "Locura Marciana",

@@ -1604,7 +1604,7 @@
       {
         "item_name": "Stinger",
         "item_id": "209",
-        "chance": "Drops"
+        "chance": "66% (Clásico) / 100% (Experto)"
       },
       {
         "item_name": "Hook",
@@ -2969,17 +2969,17 @@
       {
         "item_name": "Marrow",
         "item_id": "682",
-        "chance": "0.5%"
+        "chance": "0.5% (Clásico) / 0.75% (Experto)"
       },
       {
         "item_name": "Magic Quiver",
         "item_id": "1321",
-        "chance": "2.5%"
+        "chance": "2.5% (Clásico) / 3.75% (Experto)"
       },
       {
         "item_name": "Skeleton Archer Banner",
         "item_id": "2973",
-        "chance": "0.5%"
+        "chance": "0.5% (Clásico) / 0.75% (Experto)"
       }
     ]
   },
@@ -4848,7 +4848,7 @@
       {
         "item_name": "Ichor",
         "item_id": "1332",
-        "chance": "Drops"
+        "chance": "100% (1-3 Clásico / 2-5 Experto)"
       },
       {
         "item_name": "Tissue Sample",
