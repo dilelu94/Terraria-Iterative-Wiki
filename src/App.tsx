@@ -399,128 +399,154 @@ function App() {
         resetSelections={resetAllSelections}
       />
 
-      {!selectedItem && !selectedEnemy && !selectedNPC && !selectedBoss && !selectedEventBoss && !selectedMimic ? (
-        <div className="search-section animate-fade">
-          <SearchFilters 
-            view={view}
-            lang={lang}
-            searchTerm={searchTerm}
-            setSearchTerm={setSearchTerm}
-            selectedCategory={selectedCategory}
-            setSelectedCategory={setSelectedCategory}
-            categories={categories}
-            selectedBiome={selectedBiome}
-            setSelectedBiome={setSelectedBiome}
-            enemyBiomes={enemyBiomes}
-            selectedTime={selectedTime}
-            setSelectedTime={setSelectedTime}
-            enemyTimes={enemyTimes}
-            clearFilters={() => {
-              setSearchTerm('');
-              setSelectedCategory('All');
-              setSelectedBiome('All');
-              setSelectedTime('All');
-            }}
-          />
-
-          {view === 'shimmer' ? (
-            <ShimmerView 
-              items={items}
-              lang={lang}
-              onSelect={selectItem}
-              selectedCategory={selectedCategory}
-            />
-          ) : (
-            <ItemList 
+      <Routes>
+        <Route path="/" element={
+          <div className="search-section animate-fade">
+            <SearchFilters 
               view={view}
-              results={paginatedResults}
               lang={lang}
-              onSelect={(entity) => {
-                if (view === 'items') selectItem(entity);
-                else if (view === 'enemies') selectEnemy(entity);
-                else if (view === 'npcs') selectNPC(entity);
-                else if (view === 'bosses') selectBoss(entity);
-                else if (view === 'event_bosses') selectEventBoss(entity);
-                else if (view === 'mimics') selectMimic(entity);
+              searchTerm={searchTerm}
+              setSearchTerm={setSearchTerm}
+              selectedCategory={selectedCategory}
+              setSelectedCategory={setSelectedCategory}
+              categories={categories}
+              selectedBiome={selectedBiome}
+              setSelectedBiome={setSelectedBiome}
+              enemyBiomes={enemyBiomes}
+              selectedTime={selectedTime}
+              setSelectedTime={setSelectedTime}
+              enemyTimes={enemyTimes}
+              clearFilters={() => {
+                setSearchTerm('');
+                setSelectedCategory('All');
+                setSelectedBiome('All');
+                setSelectedTime('All');
               }}
             />
-          )}
 
-          {filteredResults.length === 0 && (searchTerm.length >= 2 || selectedCategory !== 'All' || selectedBiome !== 'All' || selectedTime !== 'All') && (
-            <div className="empty-results">
-              {lang === 'es' ? 'No se encontraron resultados.' : 'No results found.'}
-            </div>
-          )}
+            {view === 'shimmer' ? (
+              <ShimmerView 
+                items={items}
+                lang={lang}
+                onSelect={selectItem}
+                selectedCategory={selectedCategory}
+              />
+            ) : (
+              <ItemList 
+                view={view}
+                results={paginatedResults}
+                lang={lang}
+                onSelect={(entity) => {
+                  if (view === 'items') selectItem(entity as Item);
+                  else if (view === 'enemies') selectEnemy(entity as Enemy);
+                  else if (view === 'npcs') selectNPC(entity as NPC);
+                  else if (view === 'bosses') selectBoss(entity as Boss);
+                  else if (view === 'event_bosses') selectEventBoss(entity as EventBoss);
+                  else if (view === 'mimics') selectMimic(entity as Mimic);
+                }}
+              />
+            )}
 
-          <Pagination 
-            currentPage={currentPage}
-            totalPages={totalPages}
-            setCurrentPage={setCurrentPage}
-            lang={lang}
-          />
-        </div>
-      ) : selectedItem ? (
-        <ItemDetail 
-          item={selectedItem}
-          lang={lang}
-          navigationHistory={navigationHistory}
-          goBackInHistory={goBackInHistory}
-          selectItem={selectItem}
-          findItemByName={findItemByName}
-          totalMaterials={totalMaterials}
-          findEnemiesByDrop={findEnemiesByDrop}
-          findBossesByDrop={findBossesByDrop}
-          findMimicsByDrop={findMimicsByDrop}
-          findItemsUsingMaterial={findItemsUsingMaterial}
-          findNPCsByItem={findNPCsByItem}
-          stations={stations}
-          selectEnemy={selectEnemy}
-          selectBoss={selectBoss}
-          selectNPC={selectNPC}
-          selectMimic={selectMimic}
-          setNavigationHistory={setNavigationHistory}
-        />
-      ) : selectedEnemy ? (
-        <EnemyDetail 
-          enemy={selectedEnemy}
-          lang={lang}
-          onBack={() => selectEnemy(null)}
-          items={items}
-          setSelectedItem={selectItem}
-        />
-      ) : selectedNPC ? (
-        <NPCDetail 
-          npc={selectedNPC}
-          lang={lang}
-          onBack={() => selectNPC(null)}
-          items={items}
-          selectItem={selectItem}
-        />
-      ) : selectedBoss ? (
-        <BossDetail 
-          boss={selectedBoss}
-          lang={lang}
-          onBack={() => selectBoss(null)}
-          items={items}
-          selectItem={selectItem}
-        />
-      ) : selectedEventBoss ? (
-        <EventBossDetail 
-          boss={selectedEventBoss}
-          lang={lang}
-          onBack={() => selectEventBoss(null)}
-          items={items}
-          selectItem={selectItem}
-        />
-      ) : selectedMimic ? (
-        <MimicDetail 
-          mimic={selectedMimic}
-          lang={lang}
-          onBack={() => selectMimic(null)}
-          items={items}
-          selectItem={selectItem}
-        />
-      ) : null}
+            {filteredResults.length === 0 && (searchTerm.length >= 2 || selectedCategory !== 'All' || selectedBiome !== 'All' || selectedTime !== 'All') && (
+              <div className="empty-results">
+                {lang === 'es' ? 'No se encontraron resultados.' : 'No results found.'}
+              </div>
+            )}
+
+            <Pagination 
+              currentPage={currentPage}
+              totalPages={totalPages}
+              setCurrentPage={setCurrentPage}
+              lang={lang}
+            />
+          </div>
+        } />
+
+        <Route path="/item/:id" element={
+          selectedItem ? (
+            <ItemDetail 
+              item={selectedItem}
+              lang={lang}
+              navigationHistory={navigationHistory}
+              goBackInHistory={goBackInHistory}
+              selectItem={selectItem}
+              findItemByName={findItemByName}
+              totalMaterials={totalMaterials}
+              findEnemiesByDrop={findEnemiesByDrop}
+              findBossesByDrop={findBossesByDrop}
+              findMimicsByDrop={findMimicsByDrop}
+              findItemsUsingMaterial={findItemsUsingMaterial}
+              findNPCsByItem={findNPCsByItem}
+              stations={stations}
+              selectEnemy={selectEnemy}
+              selectBoss={selectBoss}
+              selectNPC={selectNPC}
+              selectMimic={selectMimic}
+              setNavigationHistory={setNavigationHistory}
+            />
+          ) : <div className="loading-screen">Cargando ítem...</div>
+        } />
+
+        <Route path="/enemy/:id" element={
+          selectedEnemy ? (
+            <EnemyDetail 
+              enemy={selectedEnemy}
+              lang={lang}
+              onBack={() => selectEnemy(null)}
+              items={items}
+              setSelectedItem={selectItem}
+            />
+          ) : <div className="loading-screen">Cargando enemigo...</div>
+        } />
+
+        <Route path="/npc/:id" element={
+          selectedNPC ? (
+            <NPCDetail 
+              npc={selectedNPC}
+              lang={lang}
+              onBack={() => selectNPC(null)}
+              items={items}
+              selectItem={selectItem}
+            />
+          ) : <div className="loading-screen">Cargando NPC...</div>
+        } />
+
+        <Route path="/boss/:id" element={
+          selectedBoss ? (
+            <BossDetail 
+              boss={selectedBoss}
+              lang={lang}
+              onBack={() => selectBoss(null)}
+              items={items}
+              selectItem={selectItem}
+            />
+          ) : <div className="loading-screen">Cargando Jefe...</div>
+        } />
+
+        <Route path="/event-boss/:id" element={
+          selectedEventBoss ? (
+            <EventBossDetail 
+              boss={selectedEventBoss}
+              lang={lang}
+              onBack={() => selectEventBoss(null)}
+              items={items}
+              selectItem={selectItem}
+            />
+          ) : <div className="loading-screen">Cargando Jefe de Evento...</div>
+        } />
+
+        <Route path="/mimic/:id" element={
+          selectedMimic ? (
+            <MimicDetail 
+              mimic={selectedMimic}
+              lang={lang}
+              onBack={() => selectMimic(null)}
+              items={items}
+              selectItem={selectItem}
+            />
+          ) : <div className="loading-screen">Cargando Mímico...</div>
+        } />
+      </Routes>
     </div>
   );
 }
