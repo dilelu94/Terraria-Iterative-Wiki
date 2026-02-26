@@ -398,9 +398,9 @@
     "time_es": "Cualquiera",
     "expert_drops": [
       {
-        "item_id": "3860",
-        "item_name": "Treasure Bag (Betsy)",
-        "chance": "100%"
+        "item_id": "3863",
+        "item_name": "Betsy Mask",
+        "chance": "14.29%"
       },
       {
         "item_id": "3859",
@@ -413,14 +413,24 @@
         "chance": "25%"
       },
       {
+        "item_id": "3870",
+        "item_name": "Betsys Wrath",
+        "chance": "25%"
+      },
+      {
         "item_id": "3858",
         "item_name": "Sky Dragons Fury",
         "chance": "25%"
       },
       {
-        "item_id": "3870",
-        "item_name": "Betsys Wrath",
+        "item_id": "3883",
+        "item_name": "Betsys Wings",
         "chance": "25%"
+      },
+      {
+        "item_id": "3817",
+        "item_name": "Defender Medal",
+        "chance": "100% (30-49)"
       }
     ]
   },

@@ -75,6 +75,11 @@
         "chance": "100%"
       },
       {
+        "item_id": "2493",
+        "item_name": "King Slime Mask",
+        "chance": "14.29%"
+      },
+      {
         "item_id": "2430",
         "item_name": "Slimy Saddle",
         "chance": "50%"
@@ -82,27 +87,32 @@
       {
         "item_id": "256",
         "item_name": "Ninja Hood",
-        "chance": "33.3% (Set 1/3)"
+        "chance": "66%"
       },
       {
         "item_id": "257",
         "item_name": "Ninja Shirt",
-        "chance": "33.3% (Set 1/3)"
+        "chance": "66%"
       },
       {
         "item_id": "258",
         "item_name": "Ninja Pants",
-        "chance": "33.3% (Set 1/3)"
-      },
-      {
-        "item_id": "2585",
-        "item_name": "Slime Hook",
-        "chance": "33.3%"
+        "chance": "66%"
       },
       {
         "item_id": "2610",
         "item_name": "Slime Gun",
-        "chance": "33.3%"
+        "chance": "50%"
+      },
+      {
+        "item_id": "2585",
+        "item_name": "Slime Hook",
+        "chance": "50%"
+      },
+      {
+        "item_id": "998",
+        "item_name": "Solidifier",
+        "chance": "100%"
       }
     ]
   },
@@ -157,6 +167,11 @@
         "chance": "100%"
       },
       {
+        "item_id": "2112",
+        "item_name": "Eye of Cthulhu Mask",
+        "chance": "14.29%"
+      },
+      {
         "item_id": "1299",
         "item_name": "Binoculars",
         "chance": "3.3%"
@@ -164,12 +179,27 @@
       {
         "item_id": "56",
         "item_name": "Demonite Ore",
-        "chance": "100% (30-90)"
+        "chance": "100% (30–87)"
       },
       {
         "item_id": "880",
         "item_name": "Crimtane Ore",
-        "chance": "100% (30-90)"
+        "chance": "100% (30–87)"
+      },
+      {
+        "item_id": "59",
+        "item_name": "Corrupt Seeds",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2171",
+        "item_name": "Crimson Seeds",
+        "chance": "100%"
+      },
+      {
+        "item_id": "47",
+        "item_name": "Unholy Arrow",
+        "chance": "100% (20–49)"
       }
     ]
   },
@@ -275,19 +305,19 @@
         "chance": "100%"
       },
       {
+        "item_id": "2104",
+        "item_name": "Brain of Cthulhu Mask",
+        "chance": "14.29%"
+      },
+      {
         "item_id": "880",
         "item_name": "Crimtane Ore",
-        "chance": "100% (40-120)"
+        "chance": "100% (80–135)"
       },
       {
         "item_id": "1329",
         "item_name": "Tissue Sample",
-        "chance": "100% (10-30)"
-      },
-      {
-        "item_id": "2104",
-        "item_name": "Brain of Cthulhu Mask",
-        "chance": "14.29%"
+        "chance": "100% (20–50)"
       },
       {
         "item_id": "3060",
@@ -357,39 +387,69 @@
         "chance": "100%"
       },
       {
-        "item_id": "1121",
-        "item_name": "Bee Gun",
-        "chance": "33.3%"
-      },
-      {
-        "item_id": "1123",
-        "item_name": "Bee Keeper",
-        "chance": "33.3%"
-      },
-      {
-        "item_id": "2888",
-        "item_name": "The Bees Knees",
-        "chance": "33.3%"
-      },
-      {
-        "item_id": "1132",
-        "item_name": "Honey Comb",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1130",
-        "item_name": "Beenade",
-        "chance": "100% (10-30)"
-      },
-      {
         "item_id": "2108",
         "item_name": "Queen Bee Mask",
         "chance": "14.29%"
       },
       {
+        "item_id": "1121",
+        "item_name": "Bee Gun",
+        "chance": "33%"
+      },
+      {
+        "item_id": "1123",
+        "item_name": "Bee Keeper",
+        "chance": "33%"
+      },
+      {
+        "item_id": "2888",
+        "item_name": "The Bees Knees",
+        "chance": "33%"
+      },
+      {
+        "item_id": "1132",
+        "item_name": "Honey Comb",
+        "chance": "33%"
+      },
+      {
         "item_id": "1170",
         "item_name": "Nectar",
-        "chance": "6.7%"
+        "chance": "11%"
+      },
+      {
+        "item_id": "2502",
+        "item_name": "Honeyed Goggles",
+        "chance": "11%"
+      },
+      {
+        "item_id": "1129",
+        "item_name": "Hive Wand",
+        "chance": "100%"
+      },
+      {
+        "item_id": "842",
+        "item_name": "Bee Hat",
+        "chance": "33%"
+      },
+      {
+        "item_id": "843",
+        "item_name": "Bee Shirt",
+        "chance": "33%"
+      },
+      {
+        "item_id": "844",
+        "item_name": "Bee Pants",
+        "chance": "33%"
+      },
+      {
+        "item_id": "1130",
+        "item_name": "Beenade",
+        "chance": "100% (10–29)"
+      },
+      {
+        "item_id": "2431",
+        "item_name": "Bee Wax",
+        "chance": "100% (17–29)"
       }
     ]
   },
@@ -500,24 +560,34 @@
     },
     "expert_drops": [
       {
-        "item_id": "5090",
-        "item_name": "Deerclops Eyeball",
+        "item_id": "5100",
+        "item_name": "Bone Helm",
         "chance": "100%"
       },
       {
-        "item_id": "5095",
-        "item_name": "Lucy the Axe",
-        "chance": "25%"
+        "item_id": "5109",
+        "item_name": "Deerclops Mask",
+        "chance": "14.29%"
       },
       {
         "item_id": "5098",
         "item_name": "Eye Bone",
-        "chance": "33.3%"
+        "chance": "33.33%"
       },
       {
-        "item_id": "5118",
-        "item_name": "Weather Pain",
-        "chance": "25%"
+        "item_id": "5101",
+        "item_name": "Eyebrella",
+        "chance": "33.33%"
+      },
+      {
+        "item_id": "5113",
+        "item_name": "Radio Thing",
+        "chance": "33.33%"
+      },
+      {
+        "item_id": "5385",
+        "item_name": "Dizzys Rare Gecko Chester",
+        "chance": "7.14%"
       },
       {
         "item_id": "5117",
@@ -525,8 +595,18 @@
         "chance": "25%"
       },
       {
+        "item_id": "5118",
+        "item_name": "Weather Pain",
+        "chance": "25%"
+      },
+      {
         "item_id": "5119",
         "item_name": "Houndius Shootius",
+        "chance": "25%"
+      },
+      {
+        "item_id": "5095",
+        "item_name": "Lucy the Axe",
         "chance": "25%"
       }
     ]
@@ -663,29 +743,44 @@
         "chance": "100%"
       },
       {
+        "item_id": "4986",
+        "item_name": "Sparkle Slime Balloon",
+        "chance": "100% (25-74)"
+      },
+      {
+        "item_id": "4959",
+        "item_name": "Queen Slime Mask",
+        "chance": "14.29%"
+      },
+      {
         "item_id": "4981",
         "item_name": "Gelatinous Pillion",
-        "chance": "33.3%"
+        "chance": "50%"
       },
       {
         "item_id": "4980",
         "item_name": "Hook of Dissonance",
-        "chance": "33.3%"
+        "chance": "50%"
+      },
+      {
+        "item_id": "4758",
+        "item_name": "Blade Staff",
+        "chance": "33.33%"
       },
       {
         "item_id": "4982",
         "item_name": "Crystal Assassin Hood",
-        "chance": "33.3%"
+        "chance": "67%"
       },
       {
         "item_id": "4983",
         "item_name": "Crystal Assassin Shirt",
-        "chance": "33.3%"
+        "chance": "67%"
       },
       {
         "item_id": "4984",
         "item_name": "Crystal Assassin Pants",
-        "chance": "33.3%"
+        "chance": "67%"
       }
     ]
   },
@@ -822,9 +917,14 @@
     },
     "expert_drops": [
       {
-        "item_id": "3327",
-        "item_name": "Treasure Bag (Skeletron Prime)",
+        "item_id": "3356",
+        "item_name": "Mechanical Battery Piece",
         "chance": "100%"
+      },
+      {
+        "item_id": "2107",
+        "item_name": "Skeletron Prime Mask",
+        "chance": "14.29%"
       },
       {
         "item_id": "547",
@@ -835,11 +935,6 @@
         "item_id": "1225",
         "item_name": "Hallowed Bar",
         "chance": "100% (20-35)"
-      },
-      {
-        "item_id": "2107",
-        "item_name": "Skeletron Prime Mask",
-        "chance": "14.29%"
       }
     ]
   },
@@ -914,54 +1009,74 @@
         "chance": "100%"
       },
       {
-        "item_id": "1141",
-        "item_name": "Temple Key",
-        "chance": "100%"
-      },
-      {
-        "item_id": "3018",
-        "item_name": "Seedler",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "1255",
-        "item_name": "Venus Magnum",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "1178",
-        "item_name": "Leaf Blower",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "1259",
-        "item_name": "Flower Pow",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "1258",
-        "item_name": "Stynger",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "1260",
-        "item_name": "Rainbow Gun",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "1156",
-        "item_name": "Piranha Gun",
-        "chance": "14.29%"
-      },
-      {
         "item_id": "2109",
         "item_name": "Plantera Mask",
         "chance": "14.29%"
       },
       {
+        "item_id": "1141",
+        "item_name": "Temple Key",
+        "chance": "100%"
+      },
+      {
+        "item_id": "1182",
+        "item_name": "Seedling",
+        "chance": "6.67%"
+      },
+      {
         "item_id": "1305",
         "item_name": "The Axe",
-        "chance": "2%"
+        "chance": "5%"
+      },
+      {
+        "item_id": "1157",
+        "item_name": "Pygmy Staff",
+        "chance": "50%"
+      },
+      {
+        "item_id": "3021",
+        "item_name": "Thorn Hook",
+        "chance": "10%"
+      },
+      {
+        "item_id": "758",
+        "item_name": "Grenade Launcher",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "1255",
+        "item_name": "Venus Magnum",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "788",
+        "item_name": "Nettle Burst",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "1178",
+        "item_name": "Leaf Blower",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "3018",
+        "item_name": "Seedler",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "1259",
+        "item_name": "Flower Pow",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "1155",
+        "item_name": "Wasp Gun",
+        "chance": "12.5%"
+      },
+      {
+        "item_id": "5477",
+        "item_name": "Vulgar Display of Flower",
+        "chance": "12.5%"
       }
     ]
   },
@@ -1026,24 +1141,54 @@
         "chance": "100%"
       },
       {
+        "item_id": "2110",
+        "item_name": "Golem Mask",
+        "chance": "14.29%"
+      },
+      {
         "item_id": "1294",
         "item_name": "Picksaw",
-        "chance": "25%"
+        "chance": "33.33%"
       },
       {
         "item_id": "1258",
         "item_name": "Stynger",
-        "chance": "12.5%"
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "1122",
+        "item_name": "Possessed Hatchet",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "899",
+        "item_name": "Sun Stone",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "1248",
+        "item_name": "Eye of the Golem",
+        "chance": "14.29%"
       },
       {
         "item_id": "1295",
         "item_name": "Heat Ray",
-        "chance": "12.5%"
+        "chance": "14.29%"
       },
       {
         "item_id": "1296",
         "item_name": "Staff of Earth",
-        "chance": "12.5%"
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "1297",
+        "item_name": "Golem Fist",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "2218",
+        "item_name": "Beetle Husk",
+        "chance": "100% (18-23)"
       }
     ]
   },
@@ -1108,34 +1253,49 @@
     },
     "expert_drops": [
       {
+        "item_id": "3367",
+        "item_name": "Shrimpy Truffle",
+        "chance": "100%"
+      },
+      {
+        "item_id": "2588",
+        "item_name": "Duke Fishron Mask",
+        "chance": "14.29%"
+      },
+      {
         "item_id": "2609",
         "item_name": "Fishron Wings",
-        "chance": "6.67%"
+        "chance": "10%"
+      },
+      {
+        "item_id": "5478",
+        "item_name": "Electric Eel",
+        "chance": "16.67%"
       },
       {
         "item_id": "2611",
         "item_name": "Flairon",
-        "chance": "20%"
-      },
-      {
-        "item_id": "2622",
-        "item_name": "Razorblade Typhoon",
-        "chance": "20%"
+        "chance": "16.67%"
       },
       {
         "item_id": "2624",
         "item_name": "Tsunami",
-        "chance": "20%"
+        "chance": "16.67%"
+      },
+      {
+        "item_id": "2622",
+        "item_name": "Razorblade Typhoon",
+        "chance": "16.67%"
       },
       {
         "item_id": "2621",
         "item_name": "Tempest Staff",
-        "chance": "20%"
+        "chance": "16.67%"
       },
       {
         "item_id": "2623",
         "item_name": "Bubble Gun",
-        "chance": "20%"
+        "chance": "16.67%"
       }
     ]
   },
@@ -1200,6 +1360,36 @@
         "chance": "100%"
       },
       {
+        "item_id": "4784",
+        "item_name": "Empress of Light Mask",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "4823",
+        "item_name": "Empress Wings",
+        "chance": "10%"
+      },
+      {
+        "item_id": "4715",
+        "item_name": "Stellar Tune",
+        "chance": "5%"
+      },
+      {
+        "item_id": "4778",
+        "item_name": "Prismatic Dye",
+        "chance": "25%"
+      },
+      {
+        "item_id": "5075",
+        "item_name": "Rainbow Cursor",
+        "chance": "5%"
+      },
+      {
+        "item_id": "4923",
+        "item_name": "Starlight",
+        "chance": "25%"
+      },
+      {
         "item_id": "4952",
         "item_name": "Nightglow",
         "chance": "25%"
@@ -1210,14 +1400,9 @@
         "chance": "25%"
       },
       {
-        "item_id": "4923",
-        "item_name": "Starlight",
+        "item_id": "4914",
+        "item_name": "Kaleidoscope",
         "chance": "25%"
-      },
-      {
-        "item_id": "4715",
-        "item_name": "Stellar Tune",
-        "chance": "5%"
       }
     ]
   },
@@ -1325,39 +1510,89 @@
     "time_es": "Cualquiera",
     "expert_drops": [
       {
-        "item_id": "3332",
-        "item_name": "Treasure Bag (Moon Lord)",
+        "item_id": "1131",
+        "item_name": "Gravity Globe",
+        "chance": "100%"
+      },
+      {
+        "item_id": "3577",
+        "item_name": "Suspicious Looking Tentacle",
+        "chance": "100%"
+      },
+      {
+        "item_id": "4954",
+        "item_name": "Celestial Starboard",
+        "chance": "100%"
+      },
+      {
+        "item_id": "3373",
+        "item_name": "Moon Lord Mask",
+        "chance": "14.29%"
+      },
+      {
+        "item_id": "3460",
+        "item_name": "Luminite",
+        "chance": "100% (90-110)"
+      },
+      {
+        "item_id": "4469",
+        "item_name": "Meowmere Minecart",
+        "chance": "10%"
+      },
+      {
+        "item_id": "3384",
+        "item_name": "Portal Gun",
         "chance": "100%"
       },
       {
         "item_id": "3063",
         "item_name": "Meowmere",
-        "chance": "11.1%"
+        "chance": "20%"
+      },
+      {
+        "item_id": "3389",
+        "item_name": "Terrarian",
+        "chance": "20%"
       },
       {
         "item_id": "3065",
         "item_name": "Star Wrath",
-        "chance": "11.1%"
+        "chance": "20%"
       },
       {
         "item_id": "1553",
         "item_name": "S.D.M.G.",
-        "chance": "11.1%"
+        "chance": "20%"
       },
       {
-        "item_id": "3473",
-        "item_name": "Solar Eruption",
-        "chance": "11.1%"
+        "item_id": "3930",
+        "item_name": "Celebration Mk2",
+        "chance": "20%"
       },
       {
         "item_id": "3541",
         "item_name": "Last Prism",
-        "chance": "11.1%"
+        "chance": "20%"
       },
       {
-        "item_id": "3540",
-        "item_name": "Phantasm",
-        "chance": "11.1%"
+        "item_id": "3570",
+        "item_name": "Lunar Flare",
+        "chance": "20%"
+      },
+      {
+        "item_id": "3571",
+        "item_name": "Rainbow Crystal Staff",
+        "chance": "20%"
+      },
+      {
+        "item_id": "3569",
+        "item_name": "Lunar Portal Staff",
+        "chance": "20%"
+      },
+      {
+        "item_id": "5480",
+        "item_name": "Possession",
+        "chance": "20%"
       }
     ]
   }
