@@ -62,15 +62,6 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
       </div>
 
       <div className="crafting-grid">
-        <div className="recipe-box">
-          <h3>{lang === 'es' ? 'Información' : 'Information'}</h3>
-          <div className="info-list">
-            <div className="info-item">
-              <strong>{lang === 'es' ? 'Evento / Bioma:' : 'Event / Biome:'}</strong> {boss.display_biome}
-            </div>
-          </div>
-        </div>
-
         {/* Caja de Botín Unificada */}
         <div className="boss-loot-container">
           <h3 className="loot-section-title">
@@ -137,6 +128,15 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
               </div>
             </div>
           )}
+        </div>
+
+        <div className="recipe-box" style={{ gridColumn: '1 / -1' }}>
+          <h3>{lang === 'es' ? 'Información' : 'Information'}</h3>
+          <div className="info-list">
+            <div className="info-item">
+              <strong>{lang === 'es' ? 'Evento / Bioma:' : 'Event / Biome:'}</strong> {boss.display_biome}
+            </div>
+          </div>
         </div>
       </div>
     </div>
