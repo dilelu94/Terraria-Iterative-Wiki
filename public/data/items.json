@@ -77840,25 +77840,25 @@
   },
   {
     "id": "4951",
-    "category": "Furniture (Other)",
-    "name_en": "Universal Pylon",
+    "category": "Mounts",
+    "name_en": "The Black Spot",
     "name_es": "El Punto Negro",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Universal_Pylon",
+    "wiki_url": "https://terraria.wiki.gg/wiki/The_Black_Spot",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Universal_Pylon.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Black_Spot.png",
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Holandés Volante (Flying Dutchman - Modo Maestro)"
+    "origin_info": "Botín: Holandés Volante (Maestro)"
   },
   {
     "id": "4952",
     "category": "Weapons",
-    "name_en": "Nightglow",
+    "name_en": "Celebration Mk2",
     "name_es": "Celebración v2",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Nightglow",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Celebration_Mk2",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Nightglow.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Celebration_Mk2.png",
     "station_ids": [
       "loot"
     ],
@@ -77867,11 +77867,11 @@
   {
     "id": "4953",
     "category": "Weapons",
-    "name_en": "Eventide",
-    "name_es": "Guitarra estelar",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Eventide",
+    "name_en": "Stellar Tune",
+    "name_es": "Melodía estelar",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Stellar_Tune",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eventide.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Stellar_Tune.png",
     "station_ids": [
       "loot"
     ],
@@ -77879,7 +77879,7 @@
   },
   {
     "id": "4954",
-    "category": "Wings",
+    "category": "Accessories",
     "name_en": "Celestial Starboard",
     "name_es": "Estribor celestial",
     "wiki_url": "https://terraria.wiki.gg/wiki/Celestial_Starboard",
@@ -77888,17 +77888,20 @@
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Bolsa del Tesoro (Señor de la Luna)"
+    "origin_info": "Botín: Señor de la Luna (Experto)"
   },
   {
     "id": "4955",
-    "category": "Vanity",
-    "name_en": "Rabbit Perch",
-    "name_es": "Look de conejo",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Rabbit_Perch",
+    "category": "Social",
+    "name_en": "Moon Lord Legs",
+    "name_es": "Piernas del Señor de la Luna",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord_Legs",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Rabbit_Perch.png",
-    "station_ids": []
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord_Legs.png",
+    "station_ids": [
+      "exploration"
+    ],
+    "origin_info": "Cofre de madera (Semilla específica)"
   },
   {
     "id": "4956",
@@ -77950,22 +77953,22 @@
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Zenith.png",
     "station_ids": [
-      "mythril_anvil"
+      "ancient_manipulator"
     ],
-    "origin_info": "Yunque de mitrilo / oricalco"
+    "origin_info": "Fabricado: Manipulador antiguo"
   },
   {
     "id": "4957",
-    "category": "Treasure Bags",
-    "name_en": "Treasure Bag (Queen Slime)",
+    "category": "Weapons",
+    "name_en": "Terraprisma",
     "name_es": "Terraprisma",
-    "wiki_url": "https://terraria.wiki.gg/wiki/Treasure_Bag_(Queen_Slime)",
+    "wiki_url": "https://terraria.wiki.gg/wiki/Terraprisma",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Treasure_Bag_(Queen_Slime).png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Terraprisma.png",
     "station_ids": [
       "loot"
     ],
-    "origin_info": "Botín: Emperatriz de la Luz (100% de daño infligido de día)"
+    "origin_info": "Botín: Emperatriz de la Luz (100% de daño de día)"
   },
   {
     "id": "4958",
