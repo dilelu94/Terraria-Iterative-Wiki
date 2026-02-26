@@ -962,26 +962,24 @@
     "wiki_url": "https://terraria.wiki.gg/wiki/Magic_Mirror",
     "recipes": [
       {
-        "name_en": "Diamond",
-        "amount": 3
-      },
-      {
         "name_en": "Glass",
         "amount": 10
       },
       {
-        "name_en": "Gold Bar",
+        "name_en": "Any Gold Bar",
         "amount": 8
+      },
+      {
+        "name_en": "Diamond",
+        "amount": 3
       }
     ],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Magic_Mirror.png",
     "station_ids": [
-      "hand",
-      "36",
-      "heavy_workbench",
+      "33",
       "exploration"
     ],
-    "origin_info": "Cofre dorado (Subterráneo)"
+    "origin_info": "Cofre dorado (Subterráneo) / Fabricado en Horno"
   },
   {
     "id": "51",
