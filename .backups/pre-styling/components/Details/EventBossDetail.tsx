@@ -119,7 +119,8 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
                         ) : (
                           <div className="item-icon-placeholder tiny">📦</div>
                         )}
-                        <div className="ing-info"><span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>{drop.chance && <span className="chance-pill">{drop.chance}</span>}</div>
+                        <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+                        {drop.chance && <span className="chance-pill">{drop.chance}</span>}
                         {itemDetails && <span className="can-craft">↗</span>}
                       </div>
                     );

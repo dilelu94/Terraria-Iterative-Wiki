@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { EventBoss, Language, Item } from '../../types';
+import { Boss, Language, Item } from '../../types';
 import ShareButton from '../ShareButton';
 
-interface EventBossDetailProps {
-  boss: EventBoss;
+interface BossDetailProps {
+  boss: Boss;
   lang: Language;
   onBack: () => void;
   items: Item[];
@@ -30,8 +30,27 @@ const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
   return <span>{value}</span>;
 };
 
-const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, items, selectItem }) => {
+const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, selectItem }) => {
   const [isExpertOpen, setIsExpertOpen] = useState(false);
+
+  const renderLootItem = (drop: { item_name: string; item_id: string | null; chance?: string }, idx: number) => {
+    const itemDetails = drop.item_id ? items.find(i => String(i.id) === String(drop.item_id)) : null;
+    
+    return (
+      <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
+        {itemDetails?.image_url ? (
+          <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
+        ) : (
+          <div className="item-icon-placeholder tiny">📦</div>
+        )}
+        <div className="ing-info">
+          <span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>
+          {drop.chance && <span className="chance-pill">{drop.chance}</span>}
+        </div>
+        {itemDetails && <span className="can-craft">↗</span>}
+      </div>
+    );
+  };
 
   return (
     <div className="crafting-view animate-slide">
@@ -44,7 +63,7 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
           {boss.image ? (
             <img src={boss.image} alt={boss.name_en} className="item-icon-large" />
           ) : (
-            <div className="item-icon-placeholder large">👹</div>
+            <div className="item-icon-placeholder large">👑</div>
           )}
           <div className="hero-text">
             <div className="detail-header-row">
@@ -57,6 +76,9 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
               <div className="stat-pill">⚔️ <StatWithIcons value={boss.damage} /></div>
               <div className="stat-pill">🛡️ {boss.defense}</div>
             </div>
+            <a href={boss.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip" style={{ marginTop: '1rem' }}>
+              {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
+            </a>
           </div>
         </div>
       </div>
@@ -69,26 +91,7 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
           </h3>
           
           <div className="loot-grid" style={{ marginBottom: boss.treasure_bag ? '1.5rem' : '0' }}>
-            {boss.drops && boss.drops.length > 0 ? (
-              boss.drops.map((drop, idx) => {
-                const itemDetails = drop.item_id ? items.find(i => i.id === drop.item_id) : null;
-                return (
-                  <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
-                    {itemDetails?.image_url ? (
-                      <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
-                    ) : (
-                      <div className="item-icon-placeholder tiny">📦</div>
-                    )}
-                    <div className="ing-info"><span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>{drop.chance && <span className="chance-pill">{drop.chance}</span>}</div>
-                    {itemDetails && <span className="can-craft">↗</span>}
-                  </div>
-                );
-              })
-            ) : (
-              <p className="base-material">
-                {lang === 'es' ? 'No hay información de botín.' : 'No drop information available.'}
-              </p>
-            )}
+            {boss.drops.map((drop, idx) => renderLootItem(drop, idx))}
           </div>
 
           {boss.treasure_bag && (
@@ -110,20 +113,7 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
               
               <div className={`accordion-content ${isExpertOpen ? 'open' : ''}`}>
                 <div className="loot-grid">
-                  {boss.expert_drops && boss.expert_drops.map((drop, idx) => {
-                    const itemDetails = items.find(i => i.id === drop.item_id);
-                    return (
-                      <div key={idx} className="ing-item" onClick={() => itemDetails && selectItem(itemDetails)}>
-                        {itemDetails?.image_url ? (
-                          <img src={itemDetails.image_url} alt={drop.item_name} className="ing-icon" />
-                        ) : (
-                          <div className="item-icon-placeholder tiny">📦</div>
-                        )}
-                        <div className="ing-info"><span className="ing-name">{itemDetails?.display_name || drop.item_name}</span>{drop.chance && <span className="chance-pill">{drop.chance}</span>}</div>
-                        {itemDetails && <span className="can-craft">↗</span>}
-                      </div>
-                    );
-                  })}
+                  {boss.expert_drops && boss.expert_drops.map((drop, idx) => renderLootItem(drop, idx))}
                 </div>
               </div>
             </div>
@@ -134,7 +124,10 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
           <h3>{lang === 'es' ? 'Información' : 'Information'}</h3>
           <div className="info-list">
             <div className="info-item">
-              <strong>{lang === 'es' ? 'Evento / Bioma:' : 'Event / Biome:'}</strong> {boss.display_biome}
+              <strong>{lang === 'es' ? 'Bioma:' : 'Biome:'}</strong> {boss.display_biome}
+            </div>
+            <div className="info-item">
+              <strong>{lang === 'es' ? 'Tiempo:' : 'Time:'}</strong> {boss.display_time}
             </div>
           </div>
         </div>
@@ -143,4 +136,4 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
   );
 };
 
-export default EventBossDetail;
+export default BossDetail;
