@@ -12,6 +12,7 @@ import NPCDetail from './components/Details/NPCDetail';
 import BossDetail from './components/Details/BossDetail';
 import EventBossDetail from './components/Details/EventBossDetail';
 import MimicDetail from './components/Details/MimicDetail';
+import ShimmerView from './components/ShimmerView';
 
 function App() {
   const { items: rawItems, enemies: rawEnemies, npcs: rawNPCs, bosses: rawBosses, eventBosses: rawEventBosses, mimics: rawMimics, stations: rawStations, loading, error } = useData();
@@ -339,19 +340,28 @@ function App() {
             }}
           />
 
-          <ItemList 
-            view={view === 'shimmer' ? 'items' : view}
-            results={paginatedResults}
-            lang={lang}
-            onSelect={(entity) => {
-              if (view === 'items' || view === 'shimmer') selectItem(entity);
-              else if (view === 'enemies') selectEnemy(entity);
-              else if (view === 'npcs') selectNPC(entity);
-              else if (view === 'bosses') selectBoss(entity);
-              else if (view === 'event_bosses') selectEventBoss(entity);
-              else if (view === 'mimics') selectMimic(entity);
-            }}
-          />
+          {view === 'shimmer' ? (
+            <ShimmerView 
+              items={items}
+              lang={lang}
+              onSelect={selectItem}
+              selectedCategory={selectedCategory}
+            />
+          ) : (
+            <ItemList 
+              view={view}
+              results={paginatedResults}
+              lang={lang}
+              onSelect={(entity) => {
+                if (view === 'items') selectItem(entity);
+                else if (view === 'enemies') selectEnemy(entity);
+                else if (view === 'npcs') selectNPC(entity);
+                else if (view === 'bosses') selectBoss(entity);
+                else if (view === 'event_bosses') selectEventBoss(entity);
+                else if (view === 'mimics') selectMimic(entity);
+              }}
+            />
+          )}
 
           {filteredResults.length === 0 && (searchTerm.length >= 2 || selectedCategory !== 'All' || selectedBiome !== 'All' || selectedTime !== 'All') && (
             <div className="empty-results">

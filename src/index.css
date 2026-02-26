@@ -544,6 +544,92 @@ body {
   font-size: 0.9rem;
 }
 
+/* Shimmer View */
+.shimmer-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.shimmer-row {
+  display: grid;
+  grid-template-columns: 1fr 100px 1fr;
+  align-items: center;
+  background: var(--panel-bg);
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.2s;
+}
+
+.shimmer-row:hover {
+  border-color: var(--accent);
+  background: var(--card-bg);
+}
+
+.shimmer-item-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+
+.shimmer-item-card:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.shimmer-item-card.disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.shimmer-item-card h4 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.shimmer-arrow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.shimmer-sparkle {
+  font-size: 1.2rem;
+  z-index: 1;
+  background: var(--panel-bg);
+  padding: 0 5px;
+}
+
+.shimmer-line {
+  position: absolute;
+  width: 60%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+  top: 50%;
+}
+
+@media (max-width: 768px) {
+  .shimmer-row {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    text-align: center;
+  }
+  .shimmer-item-card {
+    flex-direction: column;
+    text-align: center;
+  }
+  .shimmer-arrow-container {
+    transform: rotate(90deg);
+    padding: 1rem 0;
+  }
+}
+
 .loading-screen, .error-screen {
   display: flex;
   justify-content: center;
