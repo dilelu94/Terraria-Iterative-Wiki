@@ -43,7 +43,7 @@
         "chance": "33.3%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/King_Slime.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/King_Slime",
     "biome_en": "Forest",
     "biome_es": "Bosque (Superficie)",
@@ -135,7 +135,7 @@
         "chance": "2.5%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_Cthulhu.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Eye_of_Cthulhu.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Eye_of_Cthulhu",
     "biome_en": "Surface (Night)",
     "biome_es": "Superficie (Noche)",
@@ -294,7 +294,7 @@
         "chance": "5%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Cthulhu.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Brain_of_Cthulhu.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Brain_of_Cthulhu",
     "biome_en": "Crimson",
     "biome_es": "Carmesí",
@@ -376,7 +376,7 @@
         "chance": "5%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Bee.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Queen_Bee.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Queen_Bee",
     "biome_en": "Jungle",
     "biome_es": "Selva (Colmenas)",
@@ -1010,7 +1010,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Prime.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeletron_Prime.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Skeletron_Prime",
     "biome_en": "Space",
     "biome_es": "Espacio",
@@ -1092,7 +1092,7 @@
         "chance": "14.29%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Plantera.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Plantera.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Plantera",
     "biome_en": "Jungle",
     "biome_es": "Selva subterránea",
@@ -1224,7 +1224,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golem.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Golem",
     "biome_en": "Jungle",
     "biome_es": "Templo de la selva",
@@ -1341,7 +1341,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Duke_Fishron.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Duke_Fishron.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Duke_Fishron",
     "biome_en": "Ocean",
     "biome_es": "Océano",
@@ -1443,7 +1443,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Empress_of_Light.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Empress_of_Light",
     "biome_en": "Hallow",
     "biome_es": "Bendición",
@@ -1530,7 +1530,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunatic_Cultist.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Lunatic_Cultist.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lunatic_Cultist",
     "biome_en": "Dungeon",
     "biome_es": "Mazmorra",
@@ -1602,7 +1602,7 @@
         "chance": "10%"
       }
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord.gif",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Moon_Lord.png",
     "wiki_url": "https://terraria.wiki.gg/wiki/Moon_Lord",
     "biome_en": "Cualquiera",
     "biome_es": "Evento Lunar / Cualquier bioma",

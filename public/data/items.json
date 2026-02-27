@@ -23804,7 +23804,7 @@
     "name_es": "El Destructor",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Destroyer",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer.gif",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer.png",
     "station_ids": []
   },
   {
@@ -28085,7 +28085,7 @@
     "name_es": "Linterna calabaza explosiva",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jack_'O_Lantern",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jack_'O_Lantern.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jack_%27O_Lantern.png",
     "station_ids": []
   },
   {
@@ -28410,7 +28410,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jack_'O_Lantern.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jack_%27O_Lantern.png",
     "station_ids": [
       "hand"
     ]
