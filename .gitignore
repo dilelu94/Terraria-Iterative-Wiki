@@ -5,6 +5,12 @@ dist/
 # Project management
 .planning/
 scripts/
+.backups/
+
+# Data & Scraping
+*.txt
+sync_enemies.cjs
+sync_master.cjs
 
 # IDE & OS
 .vscode/
