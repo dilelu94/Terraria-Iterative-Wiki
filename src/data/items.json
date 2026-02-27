@@ -805,7 +805,7 @@
         "amount": 6
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Suspicious_Looking_Eye.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Suspicious_Looking_Eye_(item).png",
     "station_ids": [
       "hand",
       "iron_anvil",
@@ -861,7 +861,7 @@
         "amount": 10
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Light's_Bane.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Light%27s_Bane.png",
     "station_ids": [
       "iron_anvil"
     ],
@@ -2111,7 +2111,7 @@
     "name_es": "Tormenta de arena en botella",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shadow_Orb",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Orb.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shadow_Orb_(item).png",
     "station_ids": [
       "mythril_anvil",
       "exploration"
@@ -9196,7 +9196,7 @@
     "name_es": "Piedra filosofal",
     "wiki_url": "https://terraria.wiki.gg/wiki/Philosopher's_Stone",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Philosopher's_Stone.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Philosopher%27s_Stone.png",
     "station_ids": [
       "exploration"
     ],
@@ -23804,7 +23804,7 @@
     "name_es": "El Destructor",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Destroyer",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Destroyer_(Painting).png",
     "station_ids": []
   },
   {
@@ -23864,7 +23864,7 @@
     "name_es": "La mirada del Guardián",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Guardian's_Gaze",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Guardian's_Gaze.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Guardian%27s_Gaze.png",
     "station_ids": []
   },
   {
@@ -25699,7 +25699,7 @@
     "name_es": "Alas de Will",
     "wiki_url": "https://terraria.wiki.gg/wiki/Will's_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Will's_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Will%27s_Wings.png",
     "station_ids": [
       "exploration"
     ],
@@ -25712,7 +25712,7 @@
     "name_es": "Alas de Red",
     "wiki_url": "https://terraria.wiki.gg/wiki/Crowno's_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crowno's_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Crowno%27s_Wings.png",
     "station_ids": [
       "loot"
     ],
@@ -28577,7 +28577,7 @@
     "name_es": "La espada del Jinete",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Horseman's_Blade",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Horseman's_Blade.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Horseman%27s_Blade.png",
     "station_ids": [
       "loot"
     ]
@@ -45913,7 +45913,7 @@
     "name_es": "Rodillas de la abeja",
     "wiki_url": "https://terraria.wiki.gg/wiki/The_Bee's_Knees",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Bee's_Knees.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/The_Bee%27s_Knees.png",
     "station_ids": []
   },
   {
@@ -51609,7 +51609,7 @@
     "name_es": "Lanzamiento de Red",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Throw",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red's_Throw.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red%27s_Throw.png",
     "station_ids": [
       "merchant_buy"
     ],
@@ -56014,7 +56014,7 @@
     "name_es": "Alas de Jim",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim%27s_Wings.png",
     "station_ids": [
       "loot"
     ]
@@ -73825,7 +73825,7 @@
     "name_es": "Ocho infinito de Ghostar",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ghostar's_Infinity_Eight",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ghostar's_Infinity_Eight.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ghostar%27s_Infinity_Eight.png",
     "station_ids": []
   },
   {
@@ -74016,7 +74016,7 @@
     "name_es": "Capa de manta de Safeman",
     "wiki_url": "https://terraria.wiki.gg/wiki/Safeman's_Blanket_Cape",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Safeman's_Blanket_Cape.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Safeman%27s_Blanket_Cape.png",
     "station_ids": []
   },
   {
@@ -74058,7 +74058,7 @@
     "name_es": "Alas de dragón andrajosas de FoodBarbarian",
     "wiki_url": "https://terraria.wiki.gg/wiki/FoodBarbarian's_Tattered_Dragon_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/FoodBarbarian's_Tattered_Dragon_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/FoodBarbarian%27s_Tattered_Dragon_Wings.png",
     "station_ids": [
       "33"
     ]
@@ -74107,7 +74107,7 @@
     "name_es": "Alas de Grox el Grande",
     "wiki_url": "https://terraria.wiki.gg/wiki/Grox_The_Great's_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Grox_The_Great's_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Grox_The_Great%27s_Wings.png",
     "station_ids": [
       "exploration"
     ],
@@ -78908,7 +78908,7 @@
     "name_es": "Flor de Abigail",
     "wiki_url": "https://terraria.wiki.gg/wiki/Abigail's_Flower",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Abigail's_Flower.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Abigail%27s_Flower.png",
     "station_ids": [],
     "origin_info": "Botín: Ciervíclope"
   },
