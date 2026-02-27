@@ -16,7 +16,42 @@
     "biome_en": "Invasión Pirata",
     "biome_es": "Pirate Invasion",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "treasure_bag": null,
+    "expert_drops": [
+      {
+        "item_id": "2797",
+        "item_name": "Xenopopper"
+      },
+      {
+        "item_id": "2798",
+        "item_name": "Laser Drill"
+      },
+      {
+        "item_id": "2800",
+        "item_name": "Anti-Gravity Hook"
+      },
+      {
+        "item_id": "2744",
+        "item_name": "Cactus Platform"
+      },
+      {
+        "item_id": "2555",
+        "item_name": "Boreal Wood Candelabra"
+      },
+      {
+        "item_id": "2556",
+        "item_name": "Boreal Wood Candle"
+      },
+      {
+        "item_id": "3122",
+        "item_name": "R.E.K. 3000"
+      },
+      {
+        "item_id": "4926",
+        "item_name": "Brain of Cthulhu Relic"
+      }
+    ]
   },
   {
     "id": "297",
@@ -70,7 +105,26 @@
     "biome_en": "Luna Gélida",
     "biome_es": "Frost Moon",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "treasure_bag": null,
+    "expert_drops": [
+      {
+        "item_id": "1920",
+        "item_name": "Gingerbread Cookie"
+      },
+      {
+        "item_id": "1921",
+        "item_name": "Hand Warmer"
+      },
+      {
+        "item_id": "1922",
+        "item_name": "Coal"
+      },
+      {
+        "item_id": "1923",
+        "item_name": "Toolbox"
+      }
+    ]
   },
   {
     "id": "344",
@@ -88,7 +142,30 @@
     "biome_en": "Luna Gélida",
     "biome_es": "Frost Moon",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "treasure_bag": null,
+    "expert_drops": [
+      {
+        "item_id": "1924",
+        "item_name": "Pine Door"
+      },
+      {
+        "item_id": "1925",
+        "item_name": "Pine Chair"
+      },
+      {
+        "item_id": "1926",
+        "item_name": "Pine Table"
+      },
+      {
+        "item_id": "1927",
+        "item_name": "Dog Whistle"
+      },
+      {
+        "item_id": "1928",
+        "item_name": "Christmas Tree Sword"
+      }
+    ]
   },
   {
     "id": "345",
@@ -142,7 +219,41 @@
     "biome_en": "Ejército del Antiguo",
     "biome_es": "Old One's Army",
     "time_en": "Any",
-    "time_es": "Cualquiera"
+    "time_es": "Cualquiera",
+    "treasure_bag": {
+      "item_id": "3860",
+      "item_name": "Treasure Bag (Betsy)"
+    },
+    "expert_drops": [
+      {
+        "item_id": "3821",
+        "item_name": "Ale Tosser"
+      },
+      {
+        "item_id": "3858",
+        "item_name": "Sky Dragon's Fury"
+      },
+      {
+        "item_id": "3859",
+        "item_name": "Aerial Bane"
+      },
+      {
+        "item_id": "3870",
+        "item_name": "Betsy's Wrath"
+      },
+      {
+        "item_id": "2112",
+        "item_name": "Eye of Cthulhu Mask"
+      },
+      {
+        "item_id": "4927",
+        "item_name": "Skeletron Relic"
+      },
+      {
+        "item_id": "3883",
+        "item_name": "Betsy's Wings"
+      }
+    ]
   },
   {
     "id": "576",

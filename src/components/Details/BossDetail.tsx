@@ -12,7 +12,10 @@ interface BossDetailProps {
 
 
 const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
-  const parts = value.split(' / ');
+  // Eliminar texto en paréntesis y dividir por '/'
+  const cleanValue = value.replace(/\s*\([^)]*\)/g, '');
+  const parts = cleanValue.split('/').map(p => p.trim());
+  
   if (parts.length >= 2) {
     return (
       <div className="stat-with-icons">
@@ -28,7 +31,7 @@ const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
       </div>
     );
   }
-  return <span>{value}</span>;
+  return <span>{cleanValue}</span>;
 };
 
 const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, selectItem }) => {

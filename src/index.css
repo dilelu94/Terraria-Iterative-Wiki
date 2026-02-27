@@ -150,9 +150,15 @@ body {
 /* --- Grid & Loot --- */
 .loot-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
-  gap: 15px !important;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)) !important;
+  gap: 1rem !important;
   width: 100% !important;
+  padding: 20px 25px !important;
+}
+
+.boss-loot-container {
+  grid-column: 1 / -1; /* Boss loot always takes full width */
+  padding: 0 !important;
 }
 
 .ing-item {
@@ -165,9 +171,6 @@ body {
   gap: 12px;
   cursor: pointer;
 }
-
-@media (max-width: 1100px) { .loot-grid { grid-template-columns: repeat(2, 1fr) !important; } }
-@media (max-width: 650px) { .loot-grid { grid-template-columns: 1fr !important; } }
 
 /* --- Accordion --- */
 .treasure-bag-accordion {
