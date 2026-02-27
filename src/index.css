@@ -572,5 +572,45 @@ body {
   }
 }
 
-.boss-loot-container .ingredients-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; padding: 0; }
+
 .boss-loot-container .ing-item { border-bottom: none; background: rgba(255,255,255,0.03); border-radius: 8px; }
+
+/* Final Optimized Loot Grid */
+.loot-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Forzar 3 columnas en escritorio */
+  gap: 15px;
+  width: 100%;
+}
+
+.boss-loot-container .ingredients-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  padding: 0;
+}
+
+@media (max-width: 1100px) {
+  .loot-grid, .boss-loot-container .ingredients-list {
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas en tablets */
+  }
+}
+
+@media (max-width: 650px) {
+  .loot-grid, .boss-loot-container .ingredients-list {
+    grid-template-columns: 1fr; /* 1 columna en móviles */
+  }
+}
+
+.ing-item {
+  min-width: 0; /* Evitar que el contenido desborde la celda */
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 12px;
+  border-radius: 12px;
+}
+
+.ing-name {
+  font-size: 0.9rem;
+  word-break: break-word; /* Romper palabras largas si es necesario */
+}
