@@ -35944,7 +35944,7 @@
     "name_es": "Caña mecánica",
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanic's_Rod",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanic's_Rod.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanic%27s_Rod.png",
     "station_ids": [
       "exploration",
       "quest"
@@ -35958,7 +35958,7 @@
     "name_es": "Anzuelo directo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sitting_Duck's_Fishing_Pole",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sitting_Duck's_Fishing_Pole.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sitting_Duck%27s_Fishing_Pole.png",
     "station_ids": [
       "exploration"
     ],
@@ -48406,7 +48406,7 @@
     "name_es": "Motosierra de carnicero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Butcher's_Chainsaw",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Butcher's_Chainsaw.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Butcher%27s_Chainsaw.png",
     "station_ids": []
   },
   {
@@ -56305,7 +56305,7 @@
     "name_es": "Puerta lógica (NAND)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(NAND)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_(NAND).png",
     "station_ids": []
   },
   {
@@ -56315,7 +56315,7 @@
     "name_es": "Puerta lógica (NOR)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(NOR)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_(NOR).png",
     "station_ids": []
   },
   {
@@ -56335,7 +56335,7 @@
     "name_es": "Puerta lógica (XNOR)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(XNOR)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_(XNOR).png",
     "station_ids": []
   },
   {
@@ -58399,7 +58399,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor_(Water).png",
     "station_ids": [
       "hand"
     ]
@@ -58424,7 +58424,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor_(Lava).png",
     "station_ids": [
       "hand"
     ]
@@ -58449,7 +58449,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor_(Honey).png",
     "station_ids": [
       "hand"
     ]
@@ -58482,7 +58482,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Liquid_Sensor_(Any).png",
     "station_ids": [
       "hand"
     ]
@@ -70245,7 +70245,7 @@
     "name_es": "Temporizador de 1/2 segundos",
     "wiki_url": "https://terraria.wiki.gg/wiki/1/2_Second_Timer",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/1/2_Second_Timer.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/1-2_Second_Timer.png",
     "station_ids": []
   },
   {
@@ -70255,7 +70255,7 @@
     "name_es": "Temporizador de 1/4 segundos",
     "wiki_url": "https://terraria.wiki.gg/wiki/1/4_Second_Timer",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/1/4_Second_Timer.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/1-4_Second_Timer.png",
     "station_ids": []
   },
   {
