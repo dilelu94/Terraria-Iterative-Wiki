@@ -3360,7 +3360,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Skull.png?92dbd6",
     "station_ids": [
-      "hand"
+      "33"
     ]
   },
   {
@@ -6862,7 +6862,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Obsidian_Shield.png?c88078",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -15020,7 +15020,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Armor_Bracing.png?ab5e90",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -15041,7 +15041,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Medicated_Bandage.png?f22652",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -15062,7 +15062,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/The_Plan.png?fdc359",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -15083,7 +15083,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Countercurse_Mantra.png?b580f3",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -25280,7 +25280,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ankh_Charm.png?547f2f",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -25301,7 +25301,7 @@
     ],
     "image_url": "https://terraria.wiki.gg/es/images/Ankh_Shield.png?3c61d1",
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
@@ -80407,7 +80407,7 @@
       }
     ],
     "station_ids": [
-      "hand"
+      "398"
     ]
   },
   {
