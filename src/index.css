@@ -219,7 +219,6 @@ body {
   object-fit: contain;
   image-rendering: pixelated;
   flex-shrink: 0;
-  background: rgba(0,0,0,0.3);
   padding: 4px;
   border-radius: 8px;
   display: block;
@@ -242,7 +241,6 @@ body {
 .item-icon-large {
   width: 100px;
   height: 100px;
-  background: rgba(0,0,0,0.4);
   padding: 1rem;
   border: 2px solid var(--t-border);
   border-radius: 12px;
@@ -254,7 +252,6 @@ body {
   max-height: 200px;
   width: auto;
   height: auto;
-  background: rgba(0,0,0,0.4);
   padding: 1rem;
   border: 2px solid var(--t-border);
   border-radius: 12px;
