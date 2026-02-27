@@ -380,7 +380,7 @@
     "id": "20",
     "category": "Materials",
     "name_en": "Copper Bar",
-    "name_es": "Lingote de cobre",
+    "name_es": "Mineral de cobre",
     "wiki_url": "https://terraria.wiki.gg/wiki/Copper_Bar",
     "recipes": [
       {
@@ -963,7 +963,7 @@
         "amount": 10
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jester's_Arrow.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jester%27s_Arrow.png",
     "station_ids": [
       "hand"
     ]
@@ -1141,7 +1141,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Encontrado: Cofre celeste (Islas flotantes)"
+    "origin_info": "Cofre de isla flotante"
   },
   {
     "id": "66",
@@ -2125,7 +2125,7 @@
     "name_es": "Meteorito",
     "wiki_url": "https://terraria.wiki.gg/wiki/Meteorite",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meteorite_(item).png",
     "station_ids": [
       "exploration"
     ],
@@ -2880,13 +2880,13 @@
     "id": "155",
     "category": "Accessories",
     "name_en": "Muramasa",
-    "name_es": "Globo rojo brillante",
+    "name_es": "Muramasa",
     "wiki_url": "https://terraria.wiki.gg/wiki/Muramasa",
     "recipes": [],
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Cofre celeste (Islas flotantes)",
+    "origin_info": "Cofre dorado (Mazmorra)",
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Muramasa.png"
   },
   {
@@ -2933,14 +2933,14 @@
     "id": "159",
     "category": "Accessories",
     "name_en": "Shiny Red Balloon",
-    "name_es": "Luna azul",
+    "name_es": "Globo rojo brillante",
     "wiki_url": "https://terraria.wiki.gg/wiki/Shiny_Red_Balloon",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shiny_Red_Balloon.png",
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Encontrado en Cofres de las Islas Flotantes"
+    "origin_info": "Cofre de isla flotante"
   },
   {
     "id": "160",
@@ -4357,7 +4357,7 @@
         "amount": 20
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero's_Hat.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero%27s_Hat.png",
     "station_ids": [
       "hand"
     ]
@@ -4378,7 +4378,7 @@
         "amount": 20
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero's_Shirt.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero%27s_Shirt.png",
     "station_ids": [
       "hand",
       "iron_anvil"
@@ -4400,7 +4400,7 @@
         "amount": 20
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero's_Pants.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Hero%27s_Pants.png",
     "station_ids": [
       "hand"
     ]
@@ -4433,7 +4433,7 @@
     "name_es": "Sombrero de arqueólogo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Archaeologist's_Hat",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Archaeologist's_Hat.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Archaeologist%27s_Hat.png",
     "station_ids": []
   },
   {
@@ -4448,7 +4448,7 @@
         "amount": 15
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Archaeologist's_Jacket.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Archaeologist%27s_Jacket.png",
     "station_ids": [
       "hand"
     ]
@@ -4465,7 +4465,7 @@
         "amount": 15
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Archaeologist's_Pants.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Archaeologist%27s_Pants.png",
     "station_ids": [
       "hand"
     ]
@@ -7135,7 +7135,7 @@
     "name_es": "Taller de chapucero",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tinkerer's_Workshop",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tinkerer's_Workshop.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tinkerer%27s_Workshop.png",
     "station_ids": [
       "loot",
       "345"
@@ -8030,7 +8030,7 @@
     "id": "451",
     "category": "Statues",
     "name_en": "Gloom Statue",
-    "name_es": "Estatua de cangrejo",
+    "name_es": "Espada larga de plomo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Gloom_Statue",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gloom_Statue.png",
@@ -9696,7 +9696,7 @@
     "name_es": "Caja de música (Superficie de día)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Overworld_Day)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Overworld_Day).png",
     "station_ids": []
   },
   {
@@ -9716,7 +9716,7 @@
     "name_es": "Caja de música (Noche)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Night)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Night).png",
     "station_ids": []
   },
   {
@@ -9797,7 +9797,7 @@
     "name_es": "Caja de música (Jefe final 1)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Boss_1)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Boss_1).png",
     "station_ids": []
   },
   {
@@ -9807,7 +9807,7 @@
     "name_es": "Caja de música (Selva)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Jungle)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Jungle).png",
     "station_ids": []
   },
   {
@@ -9817,7 +9817,7 @@
     "name_es": "Caja de música (Corrupción)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Corruption)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Corruption).png",
     "station_ids": []
   },
   {
@@ -9847,7 +9847,7 @@
     "name_es": "Caja de música (Jefe final 2)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Boss_2)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Boss_2).png",
     "station_ids": []
   },
   {
@@ -9867,7 +9867,7 @@
     "name_es": "Caja de música (Jefe final 3)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Boss_3)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Boss_3).png",
     "station_ids": []
   },
   {
@@ -11390,7 +11390,7 @@
     "id": "661",
     "category": "Weapons",
     "name_en": "Pearlwood Bow",
-    "name_es": "Arco de madera perlada",
+    "name_es": "Generadora de flujos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pearlwood_Bow",
     "recipes": [
       {
@@ -11401,7 +11401,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pearlwood_Bow.png",
     "station_ids": [
       "hand"
-    ]
+    ],
+    "origin_info": "Botín: Platillo marciano"
   },
   {
     "id": "662",
@@ -11462,7 +11463,7 @@
     "name_es": "Bloque de hielo púrpura",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red's_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red%27s_Wings.png",
     "station_ids": [
       "loot"
     ],
@@ -11475,7 +11476,7 @@
     "name_es": "Bloque de hielo rojo",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Helmet",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red's_Helmet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red%27s_Helmet.png",
     "station_ids": [
       "iron_anvil"
     ],
@@ -11489,7 +11490,7 @@
     "name_es": "Coraza de Red",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Breastplate",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red's_Breastplate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red%27s_Breastplate.png",
     "station_ids": [
       "iron_anvil"
     ],
@@ -11502,7 +11503,7 @@
     "name_es": "Bloque de lodo helado",
     "wiki_url": "https://terraria.wiki.gg/wiki/Red's_Leggings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red's_Leggings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Red%27s_Leggings.png",
     "station_ids": [
       "exploration"
     ],
@@ -14608,7 +14609,7 @@
     "name_es": "Máscara de faraón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pharaoh's_Mask",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh's_Mask.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh%27s_Mask.png",
     "station_ids": [
       "hand",
       "exploration"
@@ -14837,7 +14838,7 @@
     "name_es": "Túnica de faraón",
     "wiki_url": "https://terraria.wiki.gg/wiki/Pharaoh's_Robe",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh's_Robe.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Pharaoh%27s_Robe.png",
     "station_ids": [
       "hand",
       "exploration"
@@ -16782,7 +16783,7 @@
     "station_ids": [
       "exploration"
     ],
-    "origin_info": "Encontrado: Santuario de la espada / Cajas de pesca"
+    "origin_info": "Santuario de la espada encantada"
   },
   {
     "id": "990",
@@ -16872,7 +16873,7 @@
     "name_es": "Hueso del devorador",
     "wiki_url": "https://terraria.wiki.gg/wiki/Eater's_Bone",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater's_Bone.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Eater%27s_Bone.png",
     "station_ids": []
   },
   {
@@ -19025,7 +19026,7 @@
     "id": "1123",
     "category": "Weapons",
     "name_en": "Bee Keeper",
-    "name_es": "Cuchillos de vampiro",
+    "name_es": "Apicultora",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bee_Keeper",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bee_Keeper.png",
@@ -19033,7 +19034,7 @@
       "36",
       "loot"
     ],
-    "origin_info": "Cofre carmesí (Mazmorra)"
+    "origin_info": "Botín: Reina abeja"
   },
   {
     "id": "1124",
@@ -23710,7 +23711,7 @@
     "name_es": "Girasoles",
     "wiki_url": "https://terraria.wiki.gg/wiki/Sunflowers",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sunflowers.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Sunflowers_(painting).png",
     "station_ids": []
   },
   {
@@ -25322,7 +25323,7 @@
     "name_es": "Esfera magnética",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cenx's_Tiara",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx's_Tiara.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx%27s_Tiara.png",
     "station_ids": [
       "loot"
     ],
@@ -25335,7 +25336,7 @@
     "name_es": "Coraza de Cenx",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cenx's_Breastplate",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx's_Breastplate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx%27s_Breastplate.png",
     "station_ids": [
       "iron_anvil"
     ],
@@ -25348,7 +25349,7 @@
     "name_es": "Perneras de Cenx",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cenx's_Leggings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx's_Leggings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx%27s_Leggings.png",
     "station_ids": []
   },
   {
@@ -25430,7 +25431,7 @@
     "name_es": "Báculo de haz de sombras",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Helmet",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Helmet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim%27s_Helmet.png",
     "station_ids": [
       "loot"
     ],
@@ -25443,7 +25444,7 @@
     "name_es": "Tenedor del infierno",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Breastplate",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Breastplate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim%27s_Breastplate.png",
     "station_ids": [
       "loot"
     ],
@@ -25456,7 +25457,7 @@
     "name_es": "Báculo espectral",
     "wiki_url": "https://terraria.wiki.gg/wiki/Jim's_Leggings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim's_Leggings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Jim%27s_Leggings.png",
     "station_ids": [
       "loot"
     ],
@@ -25724,7 +25725,7 @@
     "name_es": "Alas de Cenx",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cenx's_Wings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx's_Wings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cenx%27s_Wings.png",
     "station_ids": [
       "loot"
     ],
@@ -25893,7 +25894,7 @@
     "name_es": "Caja de música (Nieve)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Snow)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Snow).png",
     "station_ids": []
   },
   {
@@ -25913,7 +25914,7 @@
     "name_es": "Caja de música (Carmesí)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Crimson)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Crimson).png",
     "station_ids": []
   },
   {
@@ -25923,7 +25924,7 @@
     "name_es": "Caja de música (Jefe final 4)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Boss_4)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Boss_4).png",
     "station_ids": []
   },
   {
@@ -25933,7 +25934,7 @@
     "name_es": "Caja de música (Superficie de día, alternativa)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Alt_Overworld_Day)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Alt_Overworld_Day).png",
     "station_ids": []
   },
   {
@@ -25943,7 +25944,7 @@
     "name_es": "Caja de música (Lluvia)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Rain)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Rain).png",
     "station_ids": []
   },
   {
@@ -25963,7 +25964,7 @@
     "name_es": "Caja de música (Desierto)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Desert)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Desert).png",
     "station_ids": []
   },
   {
@@ -25993,7 +25994,7 @@
     "name_es": "Caja de música (Plantera)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Plantera)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Plantera).png",
     "station_ids": [
       "recording"
     ]
@@ -26005,7 +26006,7 @@
     "name_es": "Caja de música (Jefe final 5)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Music_Box_(Boss_5)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(Boss_5).png",
     "station_ids": [
       "recording"
     ]
@@ -28605,12 +28606,12 @@
     "id": "1829",
     "category": "Tools",
     "name_en": "Spooky Hook",
-    "name_es": "Espada del Jinete",
+    "name_es": "The Horseman's Blade",
     "wiki_url": "https://terraria.wiki.gg/wiki/Spooky_Hook",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Spooky_Hook.png",
     "station_ids": [],
-    "origin_info": "Botín: Rey calabaza (Pumpking)"
+    "origin_info": "Botín: Pumpking"
   },
   {
     "id": "1830",
@@ -38463,7 +38464,7 @@
     "name_es": "Timón de barco",
     "wiki_url": "https://terraria.wiki.gg/wiki/Ship's_Wheel",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ship's_Wheel.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Ship%27s_Wheel.png",
     "station_ids": []
   },
   {
@@ -38893,7 +38894,7 @@
     "name_es": "Capitán Barbatún",
     "wiki_url": "https://terraria.wiki.gg/wiki/Cap'n_Tunabeard",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cap'n_Tunabeard.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Cap%27n_Tunabeard.png",
     "station_ids": [
       "quest"
     ]
@@ -38944,7 +38945,7 @@
     "station_ids": [
       "quest"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fishron.png"
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fishron_(item).png"
   },
   {
     "id": "2485",
@@ -47267,7 +47268,8 @@
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Seedler.png",
     "station_ids": [
       "loot"
-    ]
+    ],
+    "origin_info": "Botín: Plantera"
   },
   {
     "id": "3019",
@@ -47826,12 +47828,12 @@
     "id": "3063",
     "category": "Weapons",
     "name_en": "Meowmere",
-    "name_es": "Semillera",
+    "name_es": "Filomiau",
     "wiki_url": "https://terraria.wiki.gg/wiki/Meowmere",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Meowmere.png",
     "station_ids": [],
-    "origin_info": "Botín: Plantera"
+    "origin_info": "Botín: Señor de la Luna"
   },
   {
     "id": "3064",
@@ -47857,7 +47859,7 @@
     "id": "3065",
     "category": "Weapons",
     "name_en": "Star Wrath",
-    "name_es": "Filomiau",
+    "name_es": "Ira de estrellas",
     "wiki_url": "https://terraria.wiki.gg/wiki/Star_Wrath",
     "recipes": [],
     "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Star_Wrath.png",
@@ -48747,7 +48749,7 @@
         "is_shimmer": true
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fisherman's_Pocket_Guide.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Fisherman%27s_Pocket_Guide.png",
     "station_ids": [
       "exploration"
     ],
@@ -50626,7 +50628,7 @@
     "name_es": "Diadema de valquiria de Lazure",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lazure's_Valkyrie_Circlet",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lazure's_Valkyrie_Circlet.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lazure%27s_Valkyrie_Circlet.png",
     "station_ids": []
   },
   {
@@ -50636,7 +50638,7 @@
     "name_es": "Capa de valquiria de Lazure",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lazure's_Valkyrie_Cloak",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lazure's_Valkyrie_Cloak.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lazure%27s_Valkyrie_Cloak.png",
     "station_ids": []
   },
   {
@@ -50646,7 +50648,7 @@
     "name_es": "Plataforma de barrera de Lazure",
     "wiki_url": "https://terraria.wiki.gg/wiki/Lazure's_Barrier_Platform",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lazure's_Barrier_Platform.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Lazure%27s_Barrier_Platform.png",
     "station_ids": [
       "33"
     ]
@@ -50857,7 +50859,7 @@
     "name_es": "Sombrero de recaudador de impuestos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector's_Hat",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector's_Hat.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector%27s_Hat.png",
     "station_ids": [
       "loot"
     ]
@@ -50869,7 +50871,7 @@
     "name_es": "Traje de recaudador de impuestos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector's_Suit",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector's_Suit.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector%27s_Suit.png",
     "station_ids": [
       "loot"
     ]
@@ -50881,7 +50883,7 @@
     "name_es": "Pantalones de recaudador de impuestos",
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector's_Pants",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector's_Pants.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector%27s_Pants.png",
     "station_ids": [
       "loot"
     ]
@@ -52817,7 +52819,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Music_Box_(The_Towers).png",
     "station_ids": [
       "hand",
       "ancient_manipulator"
@@ -55963,7 +55965,7 @@
     "name_es": "Uniforme de Yoraiz0r",
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Uniform",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yoraiz0r's_Uniform.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yoraiz0r%27s_Uniform.png",
     "station_ids": [
       "loot"
     ]
@@ -55975,7 +55977,7 @@
     "name_es": "Falda de Yoraiz0r",
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Skirt",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yoraiz0r's_Skirt.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yoraiz0r%27s_Skirt.png",
     "station_ids": [
       "loot"
     ]
@@ -55987,7 +55989,7 @@
     "name_es": "Hechizo de Yoraiz0r",
     "wiki_url": "https://terraria.wiki.gg/wiki/Yoraiz0r's_Spell",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yoraiz0r's_Spell.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Yoraiz0r%27s_Spell.png",
     "station_ids": [
       "loot"
     ]
@@ -56269,7 +56271,7 @@
     "name_es": "Interruptor de puerta lógica (desactivado)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_Lamp_(Off)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_Lamp.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_Lamp_(Off).png",
     "station_ids": []
   },
   {
@@ -56279,7 +56281,7 @@
     "name_es": "Puerta lógica (AND)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(AND)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_(AND).png",
     "station_ids": [
       "merchant_buy"
     ]
@@ -56291,7 +56293,7 @@
     "name_es": "Puerta lógica (OR)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(OR)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_(OR).png",
     "station_ids": [
       "merchant_buy"
     ]
@@ -56323,7 +56325,7 @@
     "name_es": "Puerta lógica (XOR)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_(XOR)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_(XOR).png",
     "station_ids": []
   },
   {
@@ -56343,7 +56345,7 @@
     "name_es": "Cinta transportadora (sentido de las agujas del reloj)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Conveyor_Belt_(Clockwise)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Conveyor_Belt.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Conveyor_Belt_(Clockwise).png",
     "station_ids": []
   },
   {
@@ -56353,7 +56355,7 @@
     "name_es": "Cinta transportadora (sentido contrario de las agujas del reloj)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Conveyor_Belt_(Counter_Clockwise)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Conveyor_Belt.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Conveyor_Belt_(Counter_Clockwise).png",
     "station_ids": []
   },
   {
@@ -56522,7 +56524,7 @@
     "name_es": "Interruptor de puerta lógica (activado)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_Lamp_(On)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_Lamp.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_Lamp_(On).png",
     "station_ids": [
       "merchant_buy"
     ]
@@ -57297,7 +57299,7 @@
     "name_es": "Interruptor de puerta lógica (defectuoso)",
     "wiki_url": "https://terraria.wiki.gg/wiki/Logic_Gate_Lamp_(Faulty)",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_Lamp.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Logic_Gate_Lamp_(Faulty).png",
     "station_ids": []
   },
   {
@@ -59692,7 +59694,7 @@
     "name_es": "Forja del Defensor",
     "wiki_url": "https://terraria.wiki.gg/wiki/Defender's_Forge",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Defender's_Forge.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Defender%27s_Forge.png",
     "station_ids": []
   },
   {
@@ -61139,7 +61141,7 @@
     "name_es": "Caperuza de Arkhalis",
     "wiki_url": "https://terraria.wiki.gg/wiki/Arkhalis'_Hood",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis'_Hood.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis%27_Hood.png",
     "station_ids": []
   },
   {
@@ -61149,7 +61151,7 @@
     "name_es": "Corpiño de Arkhalis",
     "wiki_url": "https://terraria.wiki.gg/wiki/Arkhalis'_Bodice",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis'_Bodice.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis%27_Bodice.png",
     "station_ids": []
   },
   {
@@ -61159,7 +61161,7 @@
     "name_es": "Mallas de Arkhalis",
     "wiki_url": "https://terraria.wiki.gg/wiki/Arkhalis'_Tights",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis'_Tights.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis%27_Tights.png",
     "station_ids": []
   },
   {
@@ -61169,7 +61171,7 @@
     "name_es": "Alas ligeras de Arkhalis",
     "wiki_url": "https://terraria.wiki.gg/wiki/Arkhalis'_Lightwings",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis'_Lightwings.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Arkhalis%27_Lightwings.png",
     "station_ids": [
       "exploration"
     ],
@@ -61182,7 +61184,7 @@
     "name_es": "Protector capilar de Leinfors",
     "wiki_url": "https://terraria.wiki.gg/wiki/Leinfors'_Hair_Protector",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors'_Hair_Protector.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors%27_Hair_Protector.png",
     "station_ids": []
   },
   {
@@ -61192,7 +61194,7 @@
     "name_es": "Estilo excesivo de Leinfors",
     "wiki_url": "https://terraria.wiki.gg/wiki/Leinfors'_Excessive_Style",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors'_Excessive_Style.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors%27_Excessive_Style.png",
     "station_ids": []
   },
   {
@@ -61202,7 +61204,7 @@
     "name_es": "Pantalones molones de Leinfors",
     "wiki_url": "https://terraria.wiki.gg/wiki/Leinfors'_Fancypants",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors'_Fancypants.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors%27_Fancypants.png",
     "station_ids": []
   },
   {
@@ -61212,7 +61214,7 @@
     "name_es": "Capa prensil de Leinfors",
     "wiki_url": "https://terraria.wiki.gg/wiki/Leinfors'_Prehensile_Cloak",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors'_Prehensile_Cloak.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors%27_Prehensile_Cloak.png",
     "station_ids": []
   },
   {
@@ -61222,7 +61224,7 @@
     "name_es": "Champú de lujo de Leinfors",
     "wiki_url": "https://terraria.wiki.gg/wiki/Leinfors'_Luxury_Shampoo",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors'_Luxury_Shampoo.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Leinfors%27_Luxury_Shampoo.png",
     "station_ids": []
   },
   {
@@ -69551,7 +69553,7 @@
     "name_es": "Escoba de bruja",
     "wiki_url": "https://terraria.wiki.gg/wiki/Witch's_Broom",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Witch's_Broom.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Witch%27s_Broom.png",
     "station_ids": []
   },
   {
@@ -77961,7 +77963,7 @@
         "amount": 10
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Timeless_Traveler's_Hood.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Timeless_Traveler%27s_Hood.png",
     "station_ids": [
       "hand"
     ]
@@ -77986,7 +77988,7 @@
         "amount": 20
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Timeless_Traveler's_Cloak.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Timeless_Traveler%27s_Cloak.png",
     "station_ids": [
       "hand"
     ]
@@ -78011,7 +78013,7 @@
         "amount": 20
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Timeless_Traveler's_Footwear.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Timeless_Traveler%27s_Footwear.png",
     "station_ids": [
       "hand"
     ]
@@ -78549,7 +78551,7 @@
     "name_es": "Botón de Bernie",
     "wiki_url": "https://terraria.wiki.gg/wiki/Bernie's_Button",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bernie's_Button.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Bernie%27s_Button.png",
     "station_ids": []
   },
   {
@@ -78559,7 +78561,7 @@
     "name_es": "Flor de Glommer",
     "wiki_url": "https://terraria.wiki.gg/wiki/Glommer's_Flower",
     "recipes": [],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Glommer's_Flower.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Glommer%27s_Flower.png",
     "station_ids": []
   },
   {
@@ -78761,7 +78763,7 @@
         "amount": 20
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gentleman's_Trousers.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gentleman%27s_Trousers.png",
     "station_ids": [
       "hand"
     ]
@@ -78778,7 +78780,7 @@
         "amount": 1
       }
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gentleman's_Beard.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Gentleman%27s_Beard.png",
     "station_ids": [
       "hand",
       "loot"
@@ -82950,7 +82952,7 @@
     "station_ids": [
       "hand"
     ],
-    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone.png",
+    "image_url": "https://terraria.wiki.gg/wiki/Special:FilePath/Shellphone_(Ocean).png",
     "origin_info": "Alternar estado del Telefonoconcha"
   },
   {
