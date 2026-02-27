@@ -72,7 +72,7 @@
     "id": "19",
     "name_en": "Arms Dealer",
     "name_es": "Traficante de armas",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Arms",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Arms_Dealer.png",
     "items_sold": [
       {
         "item_name": "Musket Ball",
@@ -138,7 +138,7 @@
     "id": "37",
     "name_en": "Old Man",
     "name_es": "Anciano",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Old",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Old_Man.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Old_Man"
   },
@@ -192,7 +192,7 @@
     "id": "107",
     "name_en": "Goblin Tinkerer",
     "name_es": "Chapucero duende",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin_Tinkerer.png",
     "items_sold": [
       {
         "item_name": "Tinkerer's Workshop",
@@ -275,7 +275,7 @@
     "id": "142",
     "name_en": "Santa Claus",
     "name_es": "Papá Noel",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Santa",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Santa_Claus.png",
     "items_sold": [
       {
         "item_name": "Christmas Tree",
@@ -350,7 +350,7 @@
     "id": "207",
     "name_en": "Dye Trader",
     "name_es": "Comerciante de tintes",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Trader.png",
     "items_sold": [
       {
         "item_name": "Dye Vat",
@@ -371,7 +371,7 @@
     "id": "208",
     "name_en": "Party Girl",
     "name_es": "Chica fiestera",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Party",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Party_Girl.png",
     "items_sold": [
       {
         "item_name": "Confetti",
@@ -454,7 +454,7 @@
     "id": "228",
     "name_en": "Witch Doctor",
     "name_es": "Médico brujo",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Witch",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Witch_Doctor.png",
     "items_sold": [
       {
         "item_name": "Imbuing Station",
@@ -508,7 +508,7 @@
     "id": "368",
     "name_en": "Traveling Merchant",
     "name_es": "Traveling Merchant",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Traveling",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Traveling_Merchant.png",
     "items_sold": [
       {
         "item_name": "Celestial Magnet",
@@ -537,7 +537,7 @@
     "id": "441",
     "name_en": "Tax Collector",
     "name_es": "Recaudador de impuestos",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector"
   },
@@ -545,7 +545,7 @@
     "id": "453",
     "name_en": "Skeleton Merchant",
     "name_es": "Tabernero",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeleton",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Skeleton_Merchant.png",
     "items_sold": [
       {
         "item_name": "Defender's Forge",
@@ -643,7 +643,7 @@
     "id": "633",
     "name_en": "Zoologist",
     "name_es": "Zoóloga",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Normal",
+    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Zoologist.png",
     "items_sold": [
       {
         "item_name": "Leather Whip",
