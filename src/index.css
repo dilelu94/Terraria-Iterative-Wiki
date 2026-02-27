@@ -190,6 +190,53 @@ body {
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
+  overflow: hidden; /* Prevent overflow from large images */
+  min-height: 100px;
+  position: relative;
+}
+
+.item-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.item-preview {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex: 1;
+  min-width: 0;
+}
+
+.item-preview img {
+  max-width: 64px;
+  max-height: 64px;
+}
+
+.item-icon-small {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  flex-shrink: 0;
+  background: rgba(0,0,0,0.3);
+  padding: 4px;
+  border-radius: 8px;
+  display: block;
+}
+
+.item-info {
+  min-width: 0;
+  flex: 1;
+}
+
+.item-info h3 {
+  font-size: 1rem;
+  color: var(--t-gold);
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .item-icon-large {
