@@ -614,3 +614,15 @@ body {
   font-size: 0.9rem;
   word-break: break-word; /* Romper palabras largas si es necesario */
 }
+
+/* Ensure all detail boxes are rounded */
+.recipe-box, .raw-materials-box, .boss-loot-container, .item-hero, .search-box, .filter-controls {
+  border-radius: 16px !important;
+  overflow: hidden !important;
+}
+
+/* Ensure inner headers also respect the rounding if background matches */
+.recipe-box h3, .raw-materials-box h3, .boss-loot-container h3 {
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+}
