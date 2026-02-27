@@ -47,18 +47,20 @@ const NPCDetail: React.FC<NPCDetailProps> = ({ npc, lang, onBack, items, selectI
       
       <div className="item-hero">
         <div className="hero-content">
-          {npc.image ? (
-            <img src={npc.image} alt={npc.name_en} className="item-icon-large" />
-          ) : (
-            <div className="item-icon-placeholder large">👤</div>
-          )}
+          <div className="hero-image-container">
+            {npc.image ? (
+              <img src={npc.image} alt={npc.name_en} className="item-icon-large" />
+            ) : (
+              <div className="item-icon-placeholder large">👤</div>
+            )}
+          </div>
           <div className="hero-text">
             <div className="detail-header-row">
               <h2>{npc.display_name}</h2>
               <ShareButton lang={lang} />
             </div>
             <p className="hero-subtitle">{lang === 'es' ? npc.name_en : npc.name_es}</p>
-            <a href={npc.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip" style={{ marginTop: '1rem' }}>
+            <a href={npc.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
             </a>
           </div>

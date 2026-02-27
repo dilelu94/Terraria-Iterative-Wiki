@@ -186,10 +186,22 @@ body {
   cursor: pointer;
 }
 
+.accordion-content {
+  display: none;
+}
+
 .accordion-content.open {
-  max-height: 2000px;
+  display: block;
   padding: 1.5rem;
   border-top: 1px solid var(--t-border);
+}
+
+.accordion-icon {
+  transition: transform 0.3s ease;
+}
+
+.accordion-icon.open {
+  transform: rotate(180deg);
 }
 
 /* --- Cards --- */
@@ -299,8 +311,33 @@ body {
   margin-top: 4px;
 }
 
-.ing-info { display: flex; flex-direction: column; flex: 1; }
+.ing-info { display: flex; flex-direction: column; flex: 1; gap: 4px; }
+.ing-info .chance-pill { margin-left: 0; align-self: flex-start; }
 .back-btn { background: var(--t-wood); color: white; padding: 10px 20px; border-radius: 12px; border: none; font-weight: bold; cursor: pointer; margin-bottom: 1rem; }
+
+.crafting-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .crafting-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.boss-loot-container {
+  grid-column: 1 / -1; /* Boss loot always takes full width */
+  padding: 0 !important;
+}
+
+.loot-section-title {
+  margin: 0;
+  padding: 15px 25px;
+  border-bottom: 1px solid var(--t-border);
+  color: var(--t-gold);
+}
 
 .wiki-chip { 
   background: var(--t-wood); 

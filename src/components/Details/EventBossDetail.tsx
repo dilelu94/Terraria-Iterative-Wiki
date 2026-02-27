@@ -26,18 +26,20 @@ const EventBossDetail: React.FC<EventBossDetailProps> = ({ boss, lang, onBack, i
       
       <div className="item-hero">
         <div className="hero-content">
-          {boss.image ? (
-            <img src={boss.image} alt={boss.name_en} className="item-icon-large" />
-          ) : (
-            <div className="item-icon-placeholder large">👹</div>
-          )}
+          <div className="hero-image-container">
+            {boss.image ? (
+              <img src={boss.image} alt={boss.name_en} className="boss-icon-large" />
+            ) : (
+              <div className="item-icon-placeholder large">👹</div>
+            )}
+          </div>
           <div className="hero-text">
             <div className="detail-header-row">
               <h2>{boss.display_name}</h2>
               <ShareButton lang={lang} />
             </div>
             <p className="hero-subtitle">{lang === 'es' ? boss.name_en : boss.name_es}</p>
-            <div className="enemy-stats-row hero-stats">
+            <div className="enemy-stats-row hero-stats" style={{ marginTop: '1rem' }}>
               <div className="stat-pill">❤️ <StatWithIcons value={boss.health} /></div>
               <div className="stat-pill">⚔️ <StatWithIcons value={boss.damage} /></div>
               <div className="stat-pill">🛡️ {boss.defense}</div>

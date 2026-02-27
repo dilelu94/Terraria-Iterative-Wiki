@@ -41,25 +41,27 @@ const MimicDetail: React.FC<MimicDetailProps> = ({ mimic, lang, onBack, items, s
       
       <div className="item-hero">
         <div className="hero-content">
-          {mimic.image ? (
-            <img src={mimic.image} alt={mimic.name_en} className="item-icon-large" />
-          ) : (
-            <div className="item-icon-placeholder large">📦</div>
-          )}
+          <div className="hero-image-container">
+            {mimic.image ? (
+              <img src={mimic.image} alt={mimic.name_en} className="item-icon-large" />
+            ) : (
+              <div className="item-icon-placeholder large">📦</div>
+            )}
+          </div>
           <div className="hero-text">
             <div className="detail-header-row">
               <h2>{mimic.display_name}</h2>
               <ShareButton lang={lang} />
             </div>
             <p className="hero-subtitle">{lang === 'es' ? mimic.name_en : (mimic.name_es || "Terraria Mimic")}</p>
-            <a href={mimic.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
-              {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
-            </a>
-            <div className="enemy-stats-row hero-stats">
+            <div className="enemy-stats-row hero-stats" style={{ marginBottom: '1rem' }}>
               <div className="stat-pill">❤️ <StatWithIcons value={mimic.health} /></div>
               <div className="stat-pill">⚔️ <StatWithIcons value={mimic.damage} /></div>
               <div className="stat-pill">🛡️ {mimic.defense}</div>
             </div>
+            <a href={mimic.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
+              {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
+            </a>
           </div>
         </div>
       </div>
