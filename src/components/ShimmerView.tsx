@@ -24,7 +24,7 @@ const ShimmerView: React.FC<ShimmerViewProps> = ({ items, lang, onSelect, select
       const inputItem = items.find(i => i.name_en === inputName);
       
       // Clave única para evitar duplicados en la visualización
-      const pairKey = \`\${inputName}->\${item.name_en}\`;
+      const pairKey = `${inputName}->${item.name_en}`;
 
       if (!seenPairs.has(pairKey)) {
         const isUnique = item.station_ids?.length === 1 && item.station_ids.includes('shimmer') && !item.category.includes('Ore');
