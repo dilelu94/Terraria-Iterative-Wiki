@@ -39,9 +39,9 @@
     "name_es": "Ojo de Cthulhu",
     "biome": "Surface (Night)",
     "time": "Noche",
-    "health": "2,800 / 3,640 / 4,641",
-    "defense": "12 (Fase 1) / 0 (Fase 2)",
-    "damage": "15-23 (Normal) / 30-40 (Exp) / 45-60 (Mast)",
+    "health": "2800 / 3640 / 4641",
+    "defense": "12 / 0",
+    "damage": "15 / 30 / 45",
     "drops": [
       {
         "item_name": "Demonite Ore",
@@ -73,9 +73,9 @@
     "name_es": "Devoramundos",
     "biome": "The Corruption  Underground Corruption",
     "time": "Cualquiera",
-    "health": "10050 1512019296",
-    "defense": "N/A",
-    "damage": "N/A",
+    "health": "10050 / 15120 / 19296",
+    "defense": "Cab: 2, Cue: 4, Col: 8",
+    "damage": "Cab: 22 / 48 / 72, Cue: 13 / 28 / 42, Col: 11 / 24 / 36",
     "drops": [
       {
         "item_name": "Shadow Scale",

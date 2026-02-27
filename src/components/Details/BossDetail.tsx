@@ -12,6 +12,22 @@ interface BossDetailProps {
 
 
 const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
+  const parts = value.split(' / ');
+  if (parts.length >= 2) {
+    return (
+      <div className="stat-with-icons">
+        <span className="stat-part">{parts[0]}</span>
+        <span className="stat-part">/</span>
+        <span className="stat-part">{parts[1]}</span>
+        {parts[2] && (
+          <>
+            <span className="stat-part">/</span>
+            <span className="stat-part">{parts[2]}</span>
+          </>
+        )}
+      </div>
+    );
+  }
   return <span>{value}</span>;
 };
 
