@@ -3,78 +3,59 @@
     "id": "17",
     "name_en": "Merchant",
     "name_es": "Comerciante",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Merchant.png",
+    "image": "https://terraria.wiki.gg/images/Merchant.png",
     "items_sold": [
       {
         "item_name": "Iron Pickaxe",
-        "item_id": "1",
-        "is_hardmode": false
+        "item_id": "1"
       },
       {
         "item_name": "Iron Axe",
-        "item_id": "10",
-        "is_hardmode": false
+        "item_id": "10"
       },
       {
         "item_name": "Torch",
-        "item_id": "8",
-        "is_hardmode": false
+        "item_id": "8"
       },
       {
         "item_name": "Lesser Healing Potion",
-        "item_id": "188",
-        "is_hardmode": false
+        "item_id": "28"
       },
       {
         "item_name": "Lesser Mana Potion",
-        "item_id": "110",
-        "is_hardmode": false
+        "item_id": "110"
       },
       {
         "item_name": "Wooden Arrow",
-        "item_id": "40",
-        "is_hardmode": false
+        "item_id": "40"
       },
       {
         "item_name": "Shuriken",
-        "item_id": "42",
-        "is_hardmode": false
+        "item_id": "42"
       },
       {
-        "item_name": "Rope",
-        "item_id": "952",
-        "is_hardmode": false
+        "item_name": "Sickle",
+        "item_id": "1786"
       },
       {
         "item_name": "Bug Net",
-        "item_id": "1991",
-        "is_hardmode": false
+        "item_id": "1991"
       },
       {
         "item_name": "Mining Helmet",
-        "item_id": "221",
-        "is_hardmode": false
+        "item_id": "88"
       },
       {
         "item_name": "Piggy Bank",
-        "item_id": "87",
-        "is_hardmode": false
+        "item_id": "87"
       },
       {
-        "item_name": "Iron Anvil",
-        "item_id": "35",
-        "is_hardmode": false
+        "item_name": "Anvil",
+        "item_id": "35"
       },
       {
-        "item_name": "Furnace",
-        "item_id": "33",
-        "is_hardmode": false,
-        "condition": "In Jungle"
-      },
-      {
-        "item_name": "Gold Dust",
-        "item_id": "1352",
-        "is_hardmode": true
+        "item_name": "Copper Pickaxe",
+        "item_id": "3509"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Merchant"
@@ -83,7 +64,7 @@
     "id": "18",
     "name_en": "Nurse",
     "name_es": "Enfermera",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Nurse.png",
+    "image": "https://terraria.wiki.gg/images/Nurse.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Nurse"
   },
@@ -91,39 +72,27 @@
     "id": "19",
     "name_en": "Arms Dealer",
     "name_es": "Traficante de armas",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Arms_Dealer.png",
+    "image": "https://terraria.wiki.gg/images/Arms_Dealer.png",
     "items_sold": [
       {
         "item_name": "Musket Ball",
-        "item_id": "97",
-        "is_hardmode": false
+        "item_id": "97"
       },
       {
         "item_name": "Flintlock Pistol",
-        "item_id": "95",
-        "is_hardmode": false
+        "item_id": "95"
       },
       {
         "item_name": "Minishark",
-        "item_id": "197",
-        "is_hardmode": false
+        "item_id": "98"
       },
       {
         "item_name": "Illegal Gun Parts",
-        "item_id": "324",
-        "is_hardmode": false,
-        "condition": "At Night"
+        "item_id": "324"
       },
       {
-        "item_name": "Quad-Barrel Shotgun",
-        "item_id": "4703",
-        "is_hardmode": true,
-        "condition": "In Graveyard"
-      },
-      {
-        "item_name": "Empty Bullet Casing",
-        "item_id": "1341",
-        "is_hardmode": true
+        "item_name": "Shark Bait",
+        "item_id": "4425"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Arms_Dealer"
@@ -132,32 +101,27 @@
     "id": "20",
     "name_en": "Dryad",
     "name_es": "Dríada",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dryad.png",
+    "image": "https://terraria.wiki.gg/images/Dryad.png",
     "items_sold": [
       {
         "item_name": "Purification Powder",
-        "item_id": "66",
-        "is_hardmode": false
+        "item_id": "66"
       },
       {
         "item_name": "Dirt Rod",
-        "item_id": "114",
-        "is_hardmode": false
+        "item_id": "114"
       },
       {
         "item_name": "Planter Boxes",
-        "item_id": null,
-        "is_hardmode": false
+        "item_id": null
       },
       {
         "item_name": "Grass Seeds",
-        "item_id": "62",
-        "is_hardmode": false
+        "item_id": "62"
       },
       {
         "item_name": "Potted Trees",
-        "item_id": null,
-        "is_hardmode": false
+        "item_id": null
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Dryad"
@@ -166,7 +130,7 @@
     "id": "22",
     "name_en": "Guide",
     "name_es": "Guía",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Guide.png",
+    "image": "https://terraria.wiki.gg/images/Guide.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Guide"
   },
@@ -174,7 +138,7 @@
     "id": "37",
     "name_en": "Old Man",
     "name_es": "Anciano",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Old_Man.png",
+    "image": "https://terraria.wiki.gg/images/Old_Man.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Old_Man"
   },
@@ -182,27 +146,23 @@
     "id": "38",
     "name_en": "Demolitionist",
     "name_es": "Demolicionista",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Demolitionist.png",
+    "image": "https://terraria.wiki.gg/images/Demolitionist.png",
     "items_sold": [
       {
         "item_name": "Bomb",
-        "item_id": "166",
-        "is_hardmode": false
+        "item_id": "166"
       },
       {
         "item_name": "Grenade",
-        "item_id": "168",
-        "is_hardmode": false
+        "item_id": "168"
       },
       {
         "item_name": "Dynamite",
-        "item_id": "167",
-        "is_hardmode": false
+        "item_id": "167"
       },
       {
         "item_name": "Hellfire Arrow",
-        "item_id": "265",
-        "is_hardmode": false
+        "item_id": "265"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Demolitionist"
@@ -211,22 +171,19 @@
     "id": "54",
     "name_en": "Clothier",
     "name_es": "Buhonero",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Clothier.png",
+    "image": "https://terraria.wiki.gg/images/Clothier.png",
     "items_sold": [
       {
         "item_name": "Familiar Wig",
-        "item_id": "271",
-        "is_hardmode": false
+        "item_id": "271"
       },
       {
         "item_name": "Black Thread",
-        "item_id": "254",
-        "is_hardmode": false
+        "item_id": "254"
       },
       {
         "item_name": "Pink Thread",
-        "item_id": "981",
-        "is_hardmode": false
+        "item_id": "981"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Clothier"
@@ -235,32 +192,27 @@
     "id": "107",
     "name_en": "Goblin Tinkerer",
     "name_es": "Chapucero duende",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Goblin_Tinkerer.png",
+    "image": "https://terraria.wiki.gg/images/Goblin_Tinkerer.png",
     "items_sold": [
       {
         "item_name": "Tinkerer's Workshop",
-        "item_id": "398",
-        "is_hardmode": false
+        "item_id": "398"
       },
       {
         "item_name": "Rocket Boots",
-        "item_id": "128",
-        "is_hardmode": false
+        "item_id": "128"
       },
       {
         "item_name": "Ruler",
-        "item_id": "486",
-        "is_hardmode": false
+        "item_id": "486"
       },
       {
         "item_name": "Toolbelt",
-        "item_id": "407",
-        "is_hardmode": false
+        "item_id": "407"
       },
       {
         "item_name": "Grappling Hook",
-        "item_id": "84",
-        "is_hardmode": false
+        "item_id": "84"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Goblin_Tinkerer"
@@ -269,37 +221,27 @@
     "id": "108",
     "name_en": "Wizard",
     "name_es": "Mago",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Wizard.png",
+    "image": "https://terraria.wiki.gg/images/Wizard.png",
     "items_sold": [
       {
         "item_name": "Crystal Ball",
-        "item_id": "487",
-        "is_hardmode": true
+        "item_id": "487"
       },
       {
         "item_name": "Ice Rod",
-        "item_id": "510",
-        "is_hardmode": true
+        "item_id": "496"
+      },
+      {
+        "item_name": "Blank Scroll",
+        "item_id": null
       },
       {
         "item_name": "Greater Mana Potion",
-        "item_id": "500",
-        "is_hardmode": true
+        "item_id": "500"
       },
       {
         "item_name": "Bell",
-        "item_id": "507",
-        "is_hardmode": true
-      },
-      {
-        "item_name": "Harp",
-        "item_id": "508",
-        "is_hardmode": true
-      },
-      {
-        "item_name": "Spell Tome",
-        "item_id": "488",
-        "is_hardmode": true
+        "item_id": "507"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Wizard"
@@ -308,27 +250,23 @@
     "id": "124",
     "name_en": "Mechanic",
     "name_es": "Mecánica",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mechanic.png",
+    "image": "https://terraria.wiki.gg/images/Mechanic.png",
     "items_sold": [
       {
         "item_name": "Wrench",
-        "item_id": "509",
-        "is_hardmode": false
+        "item_id": "509"
       },
       {
         "item_name": "Wire",
-        "item_id": "530",
-        "is_hardmode": false
+        "item_id": "530"
       },
       {
         "item_name": "Wire Cutter",
-        "item_id": "510",
-        "is_hardmode": false
+        "item_id": "510"
       },
       {
         "item_name": "Actuator",
-        "item_id": "849",
-        "is_hardmode": false
+        "item_id": "849"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Mechanic"
@@ -337,22 +275,19 @@
     "id": "142",
     "name_en": "Santa Claus",
     "name_es": "Papá Noel",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Santa_Claus.png",
+    "image": "https://terraria.wiki.gg/images/Santa_Claus.png",
     "items_sold": [
       {
         "item_name": "Christmas Tree",
-        "item_id": "1873",
-        "is_hardmode": false
+        "item_id": "1873"
       },
       {
         "item_name": "Christmas Lights",
-        "item_id": null,
-        "is_hardmode": false
+        "item_id": null
       },
       {
         "item_name": "Snow Globe",
-        "item_id": "602",
-        "is_hardmode": false
+        "item_id": "602"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Santa_Claus"
@@ -361,27 +296,23 @@
     "id": "160",
     "name_en": "Truffle",
     "name_es": "Trufa",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Truffle.png",
+    "image": "https://terraria.wiki.gg/images/Truffle.png",
     "items_sold": [
       {
         "item_name": "Autohammer",
-        "item_id": "1551",
-        "is_hardmode": true
+        "item_id": "1551"
       },
       {
         "item_name": "Mushroom Spear",
-        "item_id": "756",
-        "is_hardmode": true
+        "item_id": "756"
       },
       {
         "item_name": "Hammush",
-        "item_id": "787",
-        "is_hardmode": true
+        "item_id": "787"
       },
       {
         "item_name": "Dark Blue Solution",
-        "item_id": "783",
-        "is_hardmode": true
+        "item_id": "783"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Truffle"
@@ -390,32 +321,27 @@
     "id": "178",
     "name_en": "Steampunker",
     "name_es": "Steampunker",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Steampunker.png",
+    "image": "https://terraria.wiki.gg/images/Steampunker.png",
     "items_sold": [
       {
         "item_name": "Clentaminator",
-        "item_id": "779",
-        "is_hardmode": true
+        "item_id": "779"
       },
       {
         "item_name": "Teleporter",
-        "item_id": "1263",
-        "is_hardmode": true
+        "item_id": "1263"
       },
       {
         "item_name": "Jetpack",
-        "item_id": "748",
-        "is_hardmode": true
+        "item_id": "748"
       },
       {
         "item_name": "Green Solution",
-        "item_id": "780",
-        "is_hardmode": true
+        "item_id": "780"
       },
       {
         "item_name": "Blend-O-Matic",
-        "item_id": "995",
-        "is_hardmode": true
+        "item_id": "995"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Steampunker"
@@ -424,22 +350,19 @@
     "id": "207",
     "name_en": "Dye Trader",
     "name_es": "Comerciante de tintes",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dye_Trader.png",
+    "image": "https://terraria.wiki.gg/images/Dye_Trader.png",
     "items_sold": [
       {
         "item_name": "Dye Vat",
-        "item_id": "1120",
-        "is_hardmode": false
+        "item_id": "1120"
       },
       {
         "item_name": "Silver Dye",
-        "item_id": "1037",
-        "is_hardmode": false
+        "item_id": "1037"
       },
       {
         "item_name": "Brown Dye",
-        "item_id": "2874",
-        "is_hardmode": false
+        "item_id": "2874"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Dye_Trader"
@@ -448,32 +371,27 @@
     "id": "208",
     "name_en": "Party Girl",
     "name_es": "Chica fiestera",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Party_Girl.png",
+    "image": "https://terraria.wiki.gg/images/Party_Girl.png",
     "items_sold": [
       {
         "item_name": "Confetti",
-        "item_id": "1345",
-        "is_hardmode": false
+        "item_id": "1345"
       },
       {
         "item_name": "Bubble Machine",
-        "item_id": "1449",
-        "is_hardmode": false
+        "item_id": "1449"
       },
       {
         "item_name": "Fireworks Box",
-        "item_id": "2700",
-        "is_hardmode": false
+        "item_id": "2700"
       },
       {
         "item_name": "Pigronata",
-        "item_id": "3746",
-        "is_hardmode": false
+        "item_id": "3746"
       },
       {
         "item_name": "Bubble",
-        "item_id": "3214",
-        "is_hardmode": false
+        "item_id": "3214"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Party_Girl"
@@ -482,41 +400,31 @@
     "id": "209",
     "name_en": "Cyborg",
     "name_es": "Ciborg",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Cyborg.png",
+    "image": "https://terraria.wiki.gg/images/Cyborg.png",
     "items_sold": [
       {
         "item_name": "Rocket I",
-        "item_id": "771",
-        "is_hardmode": true
+        "item_id": "771"
       },
       {
         "item_name": "Rocket II",
-        "item_id": "772",
-        "is_hardmode": true
+        "item_id": "772"
       },
       {
         "item_name": "Rocket III",
-        "item_id": "773",
-        "is_hardmode": true
+        "item_id": "773"
       },
       {
         "item_name": "Rocket IV",
-        "item_id": "774",
-        "is_hardmode": true
+        "item_id": "774"
       },
       {
         "item_name": "Proximity Mine Launcher",
-        "item_id": "760",
-        "is_hardmode": true
+        "item_id": "760"
       },
       {
         "item_name": "Nanites",
-        "item_id": "1346",
-        "is_hardmode": true
-      },
-      {
-        "item_id": "759",
-        "is_hardmode": true
+        "item_id": "1346"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Cyborg"
@@ -525,22 +433,19 @@
     "id": "227",
     "name_en": "Painter",
     "name_es": "Pintor",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Painter.png",
+    "image": "https://terraria.wiki.gg/images/Painter.png",
     "items_sold": [
       {
         "item_name": "Paintbrush",
-        "item_id": "1071",
-        "is_hardmode": false
+        "item_id": "1071"
       },
       {
         "item_name": "Paint Roller",
-        "item_id": "1072",
-        "is_hardmode": false
+        "item_id": "1072"
       },
       {
         "item_name": "Paint Scraper",
-        "item_id": "1100",
-        "is_hardmode": false
+        "item_id": "1100"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Painter"
@@ -549,32 +454,27 @@
     "id": "228",
     "name_en": "Witch Doctor",
     "name_es": "Médico brujo",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Witch_Doctor.png",
+    "image": "https://terraria.wiki.gg/images/Witch_Doctor.png",
     "items_sold": [
       {
         "item_name": "Imbuing Station",
-        "item_id": "1430",
-        "is_hardmode": false
+        "item_id": "1430"
       },
       {
         "item_name": "Blowgun",
-        "item_id": "986",
-        "is_hardmode": false
+        "item_id": "986"
       },
       {
         "item_name": "Leaf Wings",
-        "item_id": "1162",
-        "is_hardmode": true
+        "item_id": "1162"
       },
       {
         "item_name": "Pygmy Necklace",
-        "item_id": "1158",
-        "is_hardmode": true
+        "item_id": "1158"
       },
       {
         "item_name": "Tiki Armor",
-        "item_id": null,
-        "is_hardmode": true
+        "item_id": null
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Witch_Doctor"
@@ -583,7 +483,7 @@
     "id": "229",
     "name_en": "Pirate",
     "name_es": "Pirata",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Pirate.png",
+    "image": "https://terraria.wiki.gg/images/Pirate.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Pirate"
   },
@@ -591,17 +491,15 @@
     "id": "353",
     "name_en": "Stylist",
     "name_es": "Estilista",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Stylist.png",
+    "image": "https://terraria.wiki.gg/images/Stylist.png",
     "items_sold": [
       {
         "item_name": "Hair Dye",
-        "item_id": "1977",
-        "is_hardmode": false
+        "item_id": "1977"
       },
       {
         "item_name": "Hair Dye Remover",
-        "item_id": "1990",
-        "is_hardmode": false
+        "item_id": "1990"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Stylist"
@@ -610,32 +508,27 @@
     "id": "368",
     "name_en": "Traveling Merchant",
     "name_es": "Traveling Merchant",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Traveling_Merchant.png",
+    "image": "https://terraria.wiki.gg/images/Traveling_Merchant.png",
     "items_sold": [
       {
         "item_name": "Celestial Magnet",
-        "item_id": "2219",
-        "is_hardmode": false
+        "item_id": "2219"
       },
       {
         "item_name": "Ammo Box",
-        "item_id": "2177",
-        "is_hardmode": false
+        "item_id": "2177"
       },
       {
         "item_name": "DPS Meter",
-        "item_id": "3119",
-        "is_hardmode": false
+        "item_id": "3119"
       },
       {
         "item_name": "Extendo Grip",
-        "item_id": "2215",
-        "is_hardmode": false
+        "item_id": "2215"
       },
       {
         "item_name": "Sitting Duck's Fishing Pole",
-        "item_id": "2296",
-        "is_hardmode": false
+        "item_id": "2296"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Traveling_Merchant"
@@ -644,95 +537,79 @@
     "id": "441",
     "name_en": "Tax Collector",
     "name_es": "Recaudador de impuestos",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tax_Collector.png",
+    "image": "https://terraria.wiki.gg/images/Tax_Collector.png",
     "items_sold": [],
     "wiki_url": "https://terraria.wiki.gg/wiki/Tax_Collector"
   },
   {
-    "id": "550",
+    "id": "453",
     "name_en": "Tavernkeep",
     "name_es": "Tabernero",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Tavernkeep.png",
+    "image": "https://terraria.wiki.gg/images/Tavernkeep.png",
     "items_sold": [
       {
         "item_name": "Defender's Forge",
-        "item_id": "3813",
-        "is_hardmode": false
+        "item_id": "3813"
       },
       {
         "item_name": "Eternia Crystal",
-        "item_id": "3828",
-        "is_hardmode": false
+        "item_id": "3828"
       },
       {
         "item_name": "Eternia Crystal Stand",
-        "item_id": "3816",
-        "is_hardmode": false
+        "item_id": "3816"
       },
       {
         "item_name": "Ale",
-        "item_id": "353",
-        "is_hardmode": false
+        "item_id": "353"
       },
       {
         "item_name": "Squire's Great Helm",
-        "item_id": "3800",
-        "is_hardmode": false
+        "item_id": "3800"
       },
       {
         "item_name": "Squire's Plated Coat",
-        "item_id": "3801",
-        "is_hardmode": false
+        "item_id": "3801"
       },
       {
         "item_name": "Squire's Greaves",
-        "item_id": "3802",
-        "is_hardmode": false
+        "item_id": "3802"
       },
       {
         "item_name": "Apprentice's Hat",
-        "item_id": "3797",
-        "is_hardmode": false
+        "item_id": "3797"
       },
       {
         "item_name": "Apprentice's Robe",
-        "item_id": "3798",
-        "is_hardmode": false
+        "item_id": "3798"
       },
       {
         "item_name": "Apprentice's Trousers",
-        "item_id": "3799",
-        "is_hardmode": false
+        "item_id": "3799"
       },
       {
         "item_name": "Huntress's Wig",
-        "item_id": "3803",
-        "is_hardmode": false
+        "item_id": "3803"
       },
       {
         "item_name": "Huntress's Jerkin",
-        "item_id": "3804",
-        "is_hardmode": false
+        "item_id": "3804"
       },
       {
         "item_name": "Huntress's Pants",
-        "item_id": "3805",
-        "is_hardmode": false
+        "item_id": "3805"
       },
       {
         "item_name": "Monk's Bushy Brow Bald Cap",
-        "item_id": "3806",
-        "is_hardmode": false
+        "item_id": "3806"
       },
       {
         "item_name": "Monk's Shirt",
-        "item_id": "3807",
-        "is_hardmode": false
+        "item_id": "3807"
       },
       {
         "item_name": "Monk's Pants",
-        "item_id": "3808",
-        "is_hardmode": false
+        "item_id": "3808"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Tavernkeep"
@@ -741,27 +618,23 @@
     "id": "588",
     "name_en": "Golfer",
     "name_es": "Golfista",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Golfer.png",
+    "image": "https://terraria.wiki.gg/images/Golfer.png",
     "items_sold": [
       {
         "item_name": "Golf Clubs",
-        "item_id": null,
-        "is_hardmode": false
+        "item_id": null
       },
       {
         "item_name": "Golf Ball",
-        "item_id": "3989",
-        "is_hardmode": false
+        "item_id": "3989"
       },
       {
         "item_name": "Golf Tee",
-        "item_id": "4089",
-        "is_hardmode": false
+        "item_id": "4089"
       },
       {
         "item_name": "Lawn Mower",
-        "item_id": "4049",
-        "is_hardmode": false
+        "item_id": "4049"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Golfer"
@@ -770,32 +643,27 @@
     "id": "633",
     "name_en": "Zoologist",
     "name_es": "Zoóloga",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Zoologist.png",
+    "image": "https://terraria.wiki.gg/images/Zoologist.png",
     "items_sold": [
       {
         "item_name": "Leather Whip",
-        "item_id": "4672",
-        "is_hardmode": false
+        "item_id": "4672"
       },
       {
         "item_name": "Cat License",
-        "item_id": "4829",
-        "is_hardmode": false
+        "item_id": "4829"
       },
       {
         "item_name": "Critter Shampoo",
-        "item_id": "4762",
-        "is_hardmode": false
+        "item_id": "4762"
       },
       {
         "item_name": "Minecarp",
-        "item_id": "4067",
-        "is_hardmode": false
+        "item_id": "4067"
       },
       {
         "item_name": "Saddles",
-        "item_id": null,
-        "is_hardmode": false
+        "item_id": null
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Zoologist"
@@ -804,27 +672,23 @@
     "id": "663",
     "name_en": "Princess",
     "name_es": "Princesa",
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Princess.png",
+    "image": "https://terraria.wiki.gg/images/Princess.png",
     "items_sold": [
       {
         "item_name": "Slime Staff",
-        "item_id": "1309",
-        "is_hardmode": true
+        "item_id": "1309"
       },
       {
         "item_name": "Resonance Scepter",
-        "item_id": "5065",
-        "is_hardmode": true
+        "item_id": "5065"
       },
       {
         "item_name": "Princess Dress",
-        "item_id": "1773",
-        "is_hardmode": false
+        "item_id": "1773"
       },
       {
         "item_name": "Music Box",
-        "item_id": "576",
-        "is_hardmode": false
+        "item_id": "576"
       }
     ],
     "wiki_url": "https://terraria.wiki.gg/wiki/Princess"

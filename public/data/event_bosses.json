@@ -2,122 +2,60 @@
   {
     "id": "491",
     "name_en": "Flying Dutchman",
-    "name_es": "Holandés Volante",
+    "name_es": "Holandés Volador",
     "health": "8000 / 16000",
     "defense": "30",
     "damage": "60 / 120",
     "drops": [
-      {
-        "item_name": "The Black Spot",
-        "item_id": "4951",
-        "chance": "25% (Maestro)"
-      },
-      {
-        "item_name": "Lucky Coin",
-        "item_id": "903",
-        "chance": "0.05% (Clásico) / 0.1% (Experto)"
-      },
-      {
-        "item_name": "Coin Gun",
-        "item_id": "905",
-        "chance": "0.05% (Clásico) / 0.1% (Experto)"
-      },
-      {
-        "item_name": "Discount Card",
-        "item_id": "904",
-        "chance": "0.05% (Clásico) / 0.1% (Experto)"
-      },
-      {
-        "item_name": "Gold Ring",
-        "item_id": "2293",
-        "chance": "0.1% (Clásico) / 0.2% (Experto)"
-      }
+      "Cutlass",
+      "Coin Gun",
+      "Lucky Coin",
+      "Discount Card"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Flying_Dutchman.png",
+    "image": "https://terraria.wiki.gg/images/Flying_Dutchman.png",
     "biome_en": "Invasión Pirata",
     "biome_es": "Pirate Invasion",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "treasure_bag": null,
-    "expert_drops": [
-      {
-        "item_id": "4951",
-        "chance": "25% (Modo Maestro)"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
-    "id": "325",
+    "id": "297",
     "name_en": "Mourning Wood",
     "name_es": "Madera Lúgubre",
     "health": "12000 / 15000",
     "defense": "28",
     "damage": "120 / 240",
     "drops": [
-      {
-        "item_name": "Spooky Twig",
-        "item_id": "1729",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Cursed Sapling",
-        "item_id": "1831",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Stake Launcher",
-        "item_id": "1748",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Necromantic Scroll",
-        "item_id": "1156",
-        "chance": "5-20%"
-      }
+      "Spooky Twig",
+      "Stake Launcher",
+      "Necromantic Scroll"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mourning_Wood.png",
+    "image": "https://terraria.wiki.gg/images/Mourning_Wood.png",
     "biome_en": "Luna Calabaza",
     "biome_es": "Pumpkin Moon",
     "time_en": "Any",
     "time_es": "Cualquiera"
   },
   {
-    "id": "327",
+    "id": "299",
     "name_en": "Pumpking",
     "name_es": "Rey Calabaza",
     "health": "22000 / 26400",
     "defense": "36",
     "damage": "50 / 100",
     "drops": [
-      {
-        "item_name": "The Horseman's Blade",
-        "item_id": "1829",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Raven Staff",
-        "item_id": "1801",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Candy Corn Rifle",
-        "item_id": "1747",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Jack 'O Lantern Launcher",
-        "item_id": "1749",
-        "chance": "5-20%"
-      }
+      "The Horseman's Blade",
+      "Bat Scepter",
+      "Black Fairy Dust"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Pumpking.png",
+    "image": "https://terraria.wiki.gg/images/Pumpking.png",
     "biome_en": "Luna Calabaza",
     "biome_es": "Pumpkin Moon",
     "time_en": "Any",
     "time_es": "Cualquiera"
   },
   {
-    "id": "344",
+    "id": "325",
     "name_en": "Everscream",
     "name_es": "Gritoeterno",
     "health": "13000 / 18200",
@@ -128,37 +66,14 @@
       "Razorpine",
       "Festive Wings"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Everscream.png",
+    "image": "https://terraria.wiki.gg/images/Everscream.png",
     "biome_en": "Luna Gélida",
     "biome_es": "Frost Moon",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "treasure_bag": null,
-    "expert_drops": [
-      {
-        "item_id": "1920",
-        "item_name": "Gingerbread Cookie",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1921",
-        "item_name": "Hand Warmer",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1922",
-        "item_name": "Coal",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1923",
-        "item_name": "Toolbox",
-        "chance": "100%"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
-    "id": "346",
+    "id": "344",
     "name_en": "Santa-NK1",
     "name_es": "Papá Noel-NK1",
     "health": "18000 / 25200",
@@ -169,39 +84,11 @@
       "Chain Gun",
       "Elf Missile"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Santa-NK1.png",
+    "image": "https://terraria.wiki.gg/images/Santa-NK1.png",
     "biome_en": "Luna Gélida",
     "biome_es": "Frost Moon",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "treasure_bag": null,
-    "expert_drops": [
-      {
-        "item_id": "1924",
-        "item_name": "Pine Door",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1925",
-        "item_name": "Pine Chair",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1926",
-        "item_name": "Pine Table",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1927",
-        "item_name": "Dog Whistle",
-        "chance": "100%"
-      },
-      {
-        "item_id": "1928",
-        "item_name": "Christmas Tree Sword",
-        "chance": "100%"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
     "id": "345",
@@ -211,28 +98,11 @@
     "defense": "38",
     "damage": "120 / 240",
     "drops": [
-      {
-        "item_name": "Blizzard Staff",
-        "item_id": "1571",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "North Pole",
-        "item_id": "1902",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Snowman Cannon",
-        "item_id": "1910",
-        "chance": "5-20%"
-      },
-      {
-        "item_name": "Baby Grinch's Mischief Whistle",
-        "item_id": "1912",
-        "chance": "5-20%"
-      }
+      "Snowman Cannon",
+      "Blizzard Staff",
+      "Baby Grinch's Mischief Whistle"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Queen.png",
+    "image": "https://terraria.wiki.gg/images/Ice_Queen.png",
     "biome_en": "Luna Gélida",
     "biome_es": "Frost Moon",
     "time_en": "Any",
@@ -246,72 +116,19 @@
     "defense": "100",
     "damage": "100 / 200",
     "drops": [
-      {
-        "item_name": "Cosmic Car Key",
-        "item_id": "2798",
-        "chance": "11.11% (Clásico) / 16.67% (Experto)"
-      },
-      {
-        "item_name": "Xeno Staff",
-        "item_id": "2827",
-        "chance": "11.11% (Clásico) / 16.67% (Experto)"
-      },
-      {
-        "item_name": "Laser Drill",
-        "item_id": "2797",
-        "chance": "11.11% (Clásico) / 16.67% (Experto)"
-      },
-      {
-        "item_name": "Electrosphere Launcher",
-        "item_id": "2796",
-        "chance": "11.11% (Clásico) / 16.67% (Experto)"
-      },
-      {
-        "item_name": "Influx Waver",
-        "item_id": "2880",
-        "chance": "11.11% (Clásico) / 16.67% (Experto)"
-      }
+      "Influx Waver",
+      "Cosmic Car Key",
+      "Laser Machinegun",
+      "Xeno Staff"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Martian_Saucer.png",
+    "image": "https://terraria.wiki.gg/images/Martian_Saucer.png",
     "biome_en": "Locura Marciana",
     "biome_es": "Martian Madness",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "expert_drops": [
-      {
-        "item_id": "2795",
-        "item_name": "Laser Machinegun",
-        "chance": "12.5%"
-      },
-      {
-        "item_id": "2796",
-        "item_name": "Electrosphere Launcher",
-        "chance": "12.5%"
-      },
-      {
-        "item_id": "2797",
-        "item_name": "Xenopopper",
-        "chance": "12.5%"
-      },
-      {
-        "item_id": "2880",
-        "item_name": "Influx Waver",
-        "chance": "12.5%"
-      },
-      {
-        "item_id": "2882",
-        "item_name": "Charged Blaster Cannon",
-        "chance": "12.5%"
-      },
-      {
-        "item_id": "2771",
-        "item_name": "Brain Scrambler",
-        "chance": "1%"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
-    "id": "564",
+    "id": "551",
     "name_en": "Dark Mage",
     "name_es": "Mago Oscuro",
     "health": "3000 / 9000",
@@ -321,27 +138,11 @@
       "Dragon Egg",
       "Tome of Infinite Wisdom"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dark_Mage.png",
+    "image": "https://terraria.wiki.gg/images/Dark_Mage.png",
     "biome_en": "Ejército del Antiguo",
     "biome_es": "Old One's Army",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "treasure_bag": {
-      "item_id": "3860",
-      "item_name": "Treasure Bag (Betsy)"
-    },
-    "expert_drops": [
-      {
-        "item_id": "3855",
-        "item_name": "Gato Egg",
-        "chance": "16.67%"
-      },
-      {
-        "item_id": "3856",
-        "item_name": "Dragon Egg",
-        "chance": "16.67%"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
     "id": "576",
@@ -355,31 +156,14 @@
       "Sleepy Octopod",
       "Tome of Infinite Wisdom"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ogre.png",
+    "image": "https://terraria.wiki.gg/images/Ogre.png",
     "biome_en": "Ejército del Antiguo",
     "biome_es": "Old One's Army",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "expert_drops": [
-      {
-        "item_id": "3835",
-        "item_name": "Sleepy Octopod",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "3836",
-        "item_name": "Ghastly Glaive",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "3854",
-        "item_name": "Phantom Phoenix",
-        "chance": "14.29%"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
-    "id": "551",
+    "id": "563",
     "name_en": "Betsy",
     "name_es": "Betsy",
     "health": "50000 / 75000",
@@ -391,48 +175,11 @@
       "Aerial Bane",
       "Betsy's Wings (Experto)"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Betsy.png",
+    "image": "https://terraria.wiki.gg/images/Betsy.png",
     "biome_en": "Ejército del Antiguo",
     "biome_es": "Old One's Army",
     "time_en": "Any",
-    "time_es": "Cualquiera",
-    "expert_drops": [
-      {
-        "item_id": "3863",
-        "item_name": "Betsy Mask",
-        "chance": "14.29%"
-      },
-      {
-        "item_id": "3859",
-        "item_name": "Aerial Bane",
-        "chance": "25%"
-      },
-      {
-        "item_id": "3827",
-        "item_name": "Flying Dragon",
-        "chance": "25%"
-      },
-      {
-        "item_id": "3870",
-        "item_name": "Betsy s Wrath",
-        "chance": "25%"
-      },
-      {
-        "item_id": "3858",
-        "item_name": "Sky Dragon s Fury",
-        "chance": "25%"
-      },
-      {
-        "item_id": "3883",
-        "item_name": "Betsy s Wings",
-        "chance": "25%"
-      },
-      {
-        "item_id": "3817",
-        "item_name": "Defender Medal",
-        "chance": "100% (30-49)"
-      }
-    ]
+    "time_es": "Cualquiera"
   },
   {
     "id": "618",
@@ -445,37 +192,25 @@
       "Sanguine Staff",
       "Blood Moon Monolith"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Dreadnautilus.png",
+    "image": "https://terraria.wiki.gg/images/Dreadnautilus.png",
     "biome_en": "Luna de Sangre",
     "biome_es": "Blood Moon",
     "time_en": "Any",
     "time_es": "Cualquiera"
   },
   {
-    "id": "477",
+    "id": "471",
     "name_en": "Mothron",
-    "name_es": "Polillón",
+    "name_es": "Polillrón",
     "health": "5000 / 7500",
     "defense": "30",
     "damage": "80 / 160",
     "drops": [
-      {
-        "item_name": "Broken Hero Sword",
-        "item_id": "1570",
-        "chance": "25% (Post-Plantera: 100%)"
-      },
-      {
-        "item_name": "Mothron Wings",
-        "item_id": "2854",
-        "chance": "5%"
-      },
-      {
-        "item_name": "Eye of Cthulhu (Yoyo)",
-        "item_id": "1321",
-        "chance": "25% (Clásico) / 33% (Experto)"
-      }
+      "Broken Hero Sword",
+      "Mothron Wings",
+      "The Eye of Cthulhu (Yoyo)"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Mothron.png",
+    "image": "https://terraria.wiki.gg/images/Mothron.png",
     "biome_en": "Eclipse Solar",
     "biome_es": "Solar Eclipse",
     "time_en": "Any",
@@ -492,7 +227,7 @@
       "Paladin's Hammer",
       "Paladin's Shield"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Paladin.png",
+    "image": "https://terraria.wiki.gg/images/Paladin.png",
     "biome_en": "Dungeon",
     "biome_es": "Mazmorra",
     "time_en": "Any",
@@ -509,7 +244,7 @@
       "Frost Core",
       "Ice Feather"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Ice_Golem.png",
+    "image": "https://terraria.wiki.gg/images/Ice_Golem.png",
     "biome_en": "Snow",
     "biome_es": "Nieve",
     "time_en": "Any",
@@ -525,7 +260,7 @@
     "drops": [
       "Forbidden Fragment"
     ],
-    "image": "https://terraria.wiki.gg/wiki/Special:FilePath/Sand_Elemental.png",
+    "image": "https://terraria.wiki.gg/images/Sand_Elemental.png",
     "biome_en": "Desert",
     "biome_es": "Desierto",
     "time_en": "Any",
