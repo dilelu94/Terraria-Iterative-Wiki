@@ -3,9 +3,9 @@
     "id": "50",
     "name_en": "King Slime",
     "name_es": "Rey Slime",
-    "health": "2000/2800/3570",
+    "health": "2000 / 2800",
     "defense": "10",
-    "damage": "40/64/96",
+    "damage": "40 / 64",
     "drops": [
       {
         "item_id": "998",
@@ -105,9 +105,9 @@
     "id": "4",
     "name_en": "Eye of Cthulhu",
     "name_es": "Ojo de Cthulhu",
-    "health": "2,800 / 3,640 / 4,641",
+    "health": "2,800 / 3,640",
     "defense": "12 (Fase 1) / 0 (Fase 2)",
-    "damage": "15-23 (Normal) / 30-40 (Exp) / 45-60 (Mast)",
+    "damage": "15-23 / 30-40",
     "drops": [
       {
         "item_id": "56",
@@ -193,8 +193,8 @@
     "name_en": "Eater of Worlds (Head)",
     "name_es": "Devoramundos",
     "health": "10,050 (Clásico) / 15,120 (Experto)",
-    "defense": "2 (Cabeza) / 4 (Cuerpo) / 8 (Cola)",
-    "damage": "22 (Cabeza) / 13 (Cuerpo) / 11 (Cola)",
+    "defense": "2 (Cabeza) / 4 (Cuerpo)",
+    "damage": "22 (Cabeza) / 13 (Cuerpo)",
     "drops": [
       {
         "item_name": "Shadow Scale",
@@ -463,9 +463,9 @@
     "id": "35",
     "name_en": "Skeletron (Head)",
     "name_es": "Esqueletrón",
-    "health": "Cabeza: 4,400 / 8,800 / 11,220 | Manos: 600 / 1,560",
+    "health": "Cabeza: 4,400 / 8,800",
     "defense": "Cabeza: 10 (+25 por mano) / Manos: 14",
-    "damage": "Cabeza: 32-137 / Manos: 20-66 / Cráneos: 68-102",
+    "damage": "Cabeza: 32-137 / Manos: 20-66",
     "drops": [
       {
         "item_name": "Skeletron Hand",
@@ -637,9 +637,9 @@
     "id": "113",
     "name_en": "Wall of Flesh (Mouth)",
     "name_es": "Muro de carne",
-    "health": "8,000 / 11,200 / 14,280",
+    "health": "8,000 / 11,200",
     "defense": "12 (Boca) / 0-6 (Ojos)",
-    "damage": "50 (Melee) / 22-90 (Láser) / 30-180 (Hambriento)",
+    "damage": "50 (Melee) / 22-90 (Láser)",
     "drops": [
       {
         "item_id": "367",
@@ -923,8 +923,8 @@
     "id": "134",
     "name_en": "The Destroyer (Head)",
     "name_es": "El Destructor",
-    "health": "80,000 / 120,000 / 153,000",
-    "defense": "0 (Cabeza) / 30 (Cuerpo) / 35 (Cola)",
+    "health": "80,000 / 120,000",
+    "defense": "0 (Cabeza) / 30 (Cuerpo)",
     "damage": "70-420 (Cabeza) / 55-140 (Cuerpo)",
     "drops": [
       {
@@ -985,9 +985,9 @@
     "id": "127",
     "name_en": "Skeletron Prime",
     "name_es": "Esqueletrón Prime",
-    "health": "Cabeza: 28,000 / 42,000 / 53,550 | Extremidades: 6,000-9,000",
-    "defense": "Cabeza: 24 (48 girando) / Sierra: 38 / Vice: 34",
-    "damage": "Cabeza: 47-240 / Sierra: 56-143 / Láser: 50-150 / Bombas: 80-240",
+    "health": "Cabeza: 28,000 / 42,000",
+    "defense": "Cabeza: 24 (48 girando) / Sierra: 38",
+    "damage": "Cabeza: 47-240 / Sierra: 56-143",
     "drops": [
       {
         "item_name": "Soul of Fright",

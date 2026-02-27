@@ -10,23 +10,8 @@ interface BossDetailProps {
   selectItem: (item: Item | null) => void;
 }
 
-const DIFFICULTY_ICONS = {
-  classic: "https://terraria.wiki.gg/images/thumb/Classic_Mode.png/12px-Classic_Mode.png",
-  expert: "https://terraria.wiki.gg/images/thumb/Expert_Mode.png/12px-Expert_Mode.png",
-  master: "https://terraria.wiki.gg/images/thumb/Master_Mode.png/12px-Master_Mode.png"
-};
 
 const StatWithIcons: React.FC<{ value: string }> = ({ value }) => {
-  const parts = value.split(' / ');
-  if (parts.length >= 2) {
-    return (
-      <div className="stat-with-icons">
-        <span className="stat-part"><img src={DIFFICULTY_ICONS.classic} alt="Classic" /> {parts[0]}</span>
-        <span className="stat-part"><img src={DIFFICULTY_ICONS.expert} alt="Expert" /> {parts[1]}</span>
-        {parts[2] && <span className="stat-part"><img src={DIFFICULTY_ICONS.master} alt="Master" /> {parts[2]}</span>}
-      </div>
-    );
-  }
   return <span>{value}</span>;
 };
 
