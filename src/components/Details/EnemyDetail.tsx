@@ -24,18 +24,20 @@ const EnemyDetail: React.FC<EnemyDetailProps> = ({ enemy, lang, onBack, items, s
       
       <div className="item-hero">
         <div className="hero-content">
-          {enemy.image ? (
-            <img src={enemy.image} alt={enemy.display_name} className="boss-icon-large" />
-          ) : (
-            <div className="item-icon-placeholder large">💀</div>
-          )}
+          <div className="hero-image-container">
+            {enemy.image ? (
+              <img src={enemy.image} alt={enemy.display_name} className="boss-icon-large" />
+            ) : (
+              <div className="item-icon-placeholder large">💀</div>
+            )}
+          </div>
           <div className="hero-text">
             <div className="detail-header-row">
               <h2>{enemy.display_name}</h2>
               <ShareButton lang={lang} />
             </div>
             <p className="hero-subtitle">{lang === 'es' ? enemy.name_en : enemy.name_es}</p>
-            <div className="enemy-stats-row hero-stats">
+            <div className="enemy-stats-row hero-stats" style={{ marginTop: '1rem' }}>
               <div className="stat-pill" title="Health">
                 ❤️ <StatWithIcons value={enemy.health} />
               </div>

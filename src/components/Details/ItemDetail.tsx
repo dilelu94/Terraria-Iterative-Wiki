@@ -113,11 +113,13 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
       
       <div className="item-hero">
         <div className="hero-content">
-          {item.image_url ? (
-            <img src={item.image_url} alt={item.name_en} className="item-icon-large" />
-          ) : (
-            <div className="item-icon-placeholder large">📦</div>
-          )}
+          <div className="hero-image-container">
+            {item.image_url ? (
+              <img src={item.image_url} alt={item.name_en} className="item-icon-large" />
+            ) : (
+              <div className="item-icon-placeholder large">📦</div>
+            )}
+          </div>
           <div className="hero-text">
             <div className="detail-header-row">
               <h2>{item.display_name}</h2>
@@ -126,7 +128,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
             <p className="hero-subtitle">{lang === 'es' ? item.name_en : (item.name_es || "Terraria Material")}</p>
             
             {item.is_armor && (
-              <div className="enemy-stats-row hero-stats">
+              <div className="enemy-stats-row hero-stats" style={{ marginTop: '1rem' }}>
                 <div className="stat-pill" title={lang === 'es' ? 'Defensa de esta pieza' : 'Piece Defense'}>
                   🛡️ {item.piece_defense || (item as any).piece_armor || '?'}
                 </div>
@@ -143,7 +145,7 @@ const ItemDetail: React.FC<ItemDetailProps> = ({
               </div>
             )}
 
-            <a href={item.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip" style={{ marginTop: '1rem' }}>
+            <a href={item.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
             </a>
           </div>

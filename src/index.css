@@ -111,6 +111,24 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.item-hero {
+  padding: 2rem !important; /* General padding for the hero box */
+}
+
+.hero-content {
+  display: flex;
+  gap: 2.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.hero-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 150px;
+}
+
 .recipe-box h3, .boss-loot-container h3, .raw-materials-box h3 {
   background: transparent !important; /* Uniform dark color */
   padding: 15px 25px;
@@ -239,20 +257,22 @@ body {
 }
 
 .item-icon-large {
-  width: 100px;
-  height: 100px;
-  padding: 1rem;
+  width: 110px;
+  height: 110px;
+  padding: 0.75rem;
+  background: rgba(0,0,0,0.3);
   border: 2px solid var(--t-border);
   border-radius: 12px;
   object-fit: contain;
 }
 
 .boss-icon-large {
-  max-width: 250px;
-  max-height: 200px;
+  max-width: 280px;
+  max-height: 220px;
   width: auto;
   height: auto;
-  padding: 1rem;
+  padding: 0.5rem;
+  background: rgba(0,0,0,0.3);
   border: 2px solid var(--t-border);
   border-radius: 12px;
   object-fit: contain;
@@ -281,7 +301,26 @@ body {
 
 .ing-info { display: flex; flex-direction: column; flex: 1; }
 .back-btn { background: var(--t-wood); color: white; padding: 10px 20px; border-radius: 12px; border: none; font-weight: bold; cursor: pointer; margin-bottom: 1rem; }
-.wiki-chip { background: var(--t-wood); color: white; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: 700; margin-top: 1rem; display: inline-block; }
+
+.wiki-chip { 
+  background: var(--t-wood); 
+  color: white; 
+  padding: 10px 20px; 
+  border-radius: 10px; 
+  text-decoration: none; 
+  font-weight: 700; 
+  margin-top: 1.5rem; 
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 0 #5d4037;
+  transition: transform 0.1s;
+}
+
+.wiki-chip:active {
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 #5d4037;
+}
 
 /* Animations */
 .animate-fade { animation: fadeIn 0.3s ease-in; }

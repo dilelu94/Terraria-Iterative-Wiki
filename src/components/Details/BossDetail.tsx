@@ -44,23 +44,25 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
       
       <div className="item-hero">
         <div className="hero-content">
-          {boss.image ? (
-            <img src={boss.image} alt={boss.display_name} className="boss-icon-large" />
-          ) : (
-            <div className="item-icon-placeholder large">👑</div>
-          )}
+          <div className="hero-image-container">
+            {boss.image ? (
+              <img src={boss.image} alt={boss.display_name} className="boss-icon-large" />
+            ) : (
+              <div className="item-icon-placeholder large">👑</div>
+            )}
+          </div>
           <div className="hero-text">
             <div className="detail-header-row">
               <h2>{boss.display_name}</h2>
               <ShareButton lang={lang} />
             </div>
             <p className="hero-subtitle">{lang === 'es' ? boss.name_en : boss.name_es}</p>
-            <div className="enemy-stats-row hero-stats">
+            <div className="enemy-stats-row hero-stats" style={{ marginTop: '1rem' }}>
               <div className="stat-pill">❤️ <StatWithIcons value={boss.health} /></div>
               <div className="stat-pill">⚔️ <StatWithIcons value={boss.damage} /></div>
               <div className="stat-pill">🛡️ {boss.defense}</div>
             </div>
-            <a href={boss.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip" style={{ marginTop: '1rem' }}>
+            <a href={boss.wiki_url} target="_blank" rel="noreferrer" className="wiki-chip">
               {lang === 'es' ? 'Wiki Oficial ↗' : 'Official Wiki ↗'}
             </a>
           </div>
