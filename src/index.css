@@ -199,6 +199,19 @@ body {
   padding: 1rem;
   border: 2px solid var(--t-border);
   border-radius: 12px;
+  object-fit: contain;
+}
+
+.boss-icon-large {
+  max-width: 250px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  background: rgba(0,0,0,0.4);
+  padding: 1rem;
+  border: 2px solid var(--t-border);
+  border-radius: 12px;
+  object-fit: contain;
 }
 
 .stat-pill {

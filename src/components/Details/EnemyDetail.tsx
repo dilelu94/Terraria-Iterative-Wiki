@@ -25,7 +25,7 @@ const EnemyDetail: React.FC<EnemyDetailProps> = ({ enemy, lang, onBack, items, s
       <div className="item-hero">
         <div className="hero-content">
           {enemy.image ? (
-            <img src={enemy.image} alt={enemy.name_en} className="item-icon-large" />
+            <img src={enemy.image} alt={enemy.display_name} className="boss-icon-large" />
           ) : (
             <div className="item-icon-placeholder large">💀</div>
           )}

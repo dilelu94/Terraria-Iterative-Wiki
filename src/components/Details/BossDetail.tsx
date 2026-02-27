@@ -45,7 +45,7 @@ const BossDetail: React.FC<BossDetailProps> = ({ boss, lang, onBack, items, sele
       <div className="item-hero">
         <div className="hero-content">
           {boss.image ? (
-            <img src={boss.image} alt={boss.name_en} className="item-icon-large" />
+            <img src={boss.image} alt={boss.display_name} className="boss-icon-large" />
           ) : (
             <div className="item-icon-placeholder large">👑</div>
           )}
